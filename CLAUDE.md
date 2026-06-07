@@ -12,6 +12,12 @@ biblical metadata database. The script is the means; the data is the point. When
 optimize for the experience of someone who clones the repo and opens `vault/` in Obsidian —
 keep the published vault usable, honest about its data quality, and easy to contribute back to.
 
+## Repo rules
+
+- **Always merge to `master` via a pull request.** Direct pushes to `master` are blocked by
+  branch protection (admins included). Create a branch, open a PR, let the `validate` CI check
+  pass, then merge. This applies to humans and agents alike.
+
 ## Current state
 
 - **Vault is generated and committed** under `vault/` — 4,427 notes (3,085 people, 1,276 places,

@@ -1,17 +1,11 @@
 name: Validate vault
 
 on:
+  # Runs on every PR (no path filter) so the required "validate" check always
+  # reports — a path-filtered check that never runs would deadlock branch protection.
   pull_request:
-    paths:
-      - "vault/**"
-      - "scripts/**"
-      - ".github/workflows/validate.yml"
   push:
     branches: [master]
-    paths:
-      - "vault/**"
-      - "scripts/**"
-      - ".github/workflows/validate.yml"
   workflow_dispatch:
 
 jobs:
