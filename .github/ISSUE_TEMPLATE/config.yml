@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Contributing guide
+    url: https://github.com/crouffer/obsidian-bible-vault/blob/master/CONTRIBUTING.md
+    about: How to enrich and correct the vault, field conventions, and the pull-request workflow.
+  - name: Field schema (CLAUDE.md)
+    url: https://github.com/crouffer/obsidian-bible-vault/blob/master/CLAUDE.md#note-schemas
+    about: Authoritative field-by-field schema for person, place, and book notes.

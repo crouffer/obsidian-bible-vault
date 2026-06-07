@@ -1,0 +1,59 @@
+name: Enrichment contribution
+description: Propose values for empty enrichment fields — Strong's numbers, name meanings, place types, translation variants, original-language names.
+title: "[Enrichment] <note name>: <field>"
+labels: ["enrichment"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this to fill in placeholder fields. For a one-off value, this issue is fine; for a
+        batch (e.g. Strong's numbers across a whole book) consider opening a pull request instead.
+        See the [enrichment priorities](../blob/master/CONTRIBUTING.md#where-to-start-enrichment-priorities).
+  - type: input
+    id: note_name
+    attributes:
+      label: Note name(s)
+      description: The note(s) this applies to.
+      placeholder: Seth
+    validations:
+      required: true
+  - type: dropdown
+    id: field
+    attributes:
+      label: Field to enrich
+      options:
+        - "strongs.hebrew / strongs.greek"
+        - name_meaning
+        - place_type
+        - "translation_variants (esv/niv/nkjv)"
+        - "name_hebrew / name_greek_lxx / name_latin"
+        - role
+        - "region / country / *_associated cross-links"
+        - other
+    validations:
+      required: true
+  - type: textarea
+    id: value
+    attributes:
+      label: Proposed value(s)
+      description: The value(s) to fill in. For multiple notes, list them clearly.
+      placeholder: "strongs.hebrew: H8352"
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Source
+      description: Where the value comes from (lexicon, concordance, translation, etc.).
+      placeholder: "Strong's Concordance H8352 (openscriptures/strongs)"
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before submitting
+      options:
+        - label: I provided a source.
+          required: true
+        - label: The value follows the field conventions in CONTRIBUTING.md (format, allowed values).
+          required: false

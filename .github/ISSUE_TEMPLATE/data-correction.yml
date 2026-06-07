@@ -1,0 +1,84 @@
+name: Data correction
+description: Report incorrect data in a note — a wrong relationship, date, place, broken link, or misidentification.
+title: "[Correction] <note name>: <what's wrong>"
+labels: ["data-correction"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for improving the vault's accuracy. Please be specific and **cite a source** —
+        corrections without verifiable evidence are hard to accept.
+        See [CONTRIBUTING.md](../blob/master/CONTRIBUTING.md) for field conventions.
+  - type: dropdown
+    id: note_type
+    attributes:
+      label: Note type
+      options:
+        - person
+        - place
+        - book
+        - other / not sure
+    validations:
+      required: true
+  - type: input
+    id: note_name
+    attributes:
+      label: Note name / file
+      description: The note's name as it appears in the vault, e.g. `Seth` or `Zechariah (23)`.
+      placeholder: Seth
+    validations:
+      required: true
+  - type: input
+    id: metav_id
+    attributes:
+      label: metav_id (if known)
+      description: The `metav_id` / `book_id` from the note's frontmatter. Helps pinpoint the record.
+      placeholder: "2504"
+    validations:
+      required: false
+  - type: input
+    id: field
+    attributes:
+      label: Field affected
+      description: Which frontmatter field (or body content) is wrong?
+      placeholder: father
+    validations:
+      required: true
+  - type: input
+    id: current_value
+    attributes:
+      label: Current (incorrect) value
+      placeholder: "[[Adam]]"
+    validations:
+      required: true
+  - type: input
+    id: corrected_value
+    attributes:
+      label: Correct value
+      placeholder: "[[Enos]]"
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Source / evidence
+      description: Scripture references, a lexicon, a scholarly source — anything that verifies the correction.
+      placeholder: "e.g. Genesis 5:6 lists Enos as the son of Seth; cross-check Strong's H583."
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Anything else — related notes affected, ambiguity to note, broken links to fix.
+    validations:
+      required: false
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before submitting
+      options:
+        - label: I provided a source for the correction.
+          required: true
+        - label: I checked this isn't already reported in an open issue or `_validation-report.md`.
+          required: false
