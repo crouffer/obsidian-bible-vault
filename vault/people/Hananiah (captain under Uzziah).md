@@ -1,6 +1,6 @@
 ---
 type: person
-name: Hananiah (1397)
+name: Hananiah (captain under Uzziah)
 also_known_as: []
 
 name_hebrew: ""
@@ -20,8 +20,7 @@ strongs:
 father: null
 mother: null
 spouse: []
-children: 
-  - "[[Shelemiah (2601)]]"
+children: []
 siblings: []
 
 gender: male
@@ -34,17 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "Jeremiah 37:13"
+first_appearance: "2 Chronicles 26:11"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 1397
+metav_id: 1387
 ---
 
 ## Verse References
 
-### [[books/Jeremiah|Jeremiah]]
-- **37:13** — And when he was in the gate of Benjamin, a captain of the ward was there, whose name was Irijah, the son of Shelemiah, the son of Hananiah; and he took Jeremiah the prophet, saying, Thou fallest away to the Chaldeans.
+### [[books/2 Chronicles|2 Chronicles]]
+- **26:11** — Moreover Uzziah had an host of fighting men, that went out to war by bands, according to the number of their account by the hand of Jeiel the scribe and Maaseiah the ruler, under the hand of Hananiah, one of the king's captains.
 

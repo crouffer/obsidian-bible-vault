@@ -17,7 +17,7 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Hananiah (1384)]]"
+father: "[[Hananiah (son of Zerubbabel)]]"
 mother: null
 spouse: []
 children: []

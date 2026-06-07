@@ -1,6 +1,6 @@
 ---
 type: person
-name: Hananiah (1390)
+name: Hananiah (father of Zedekiah)
 also_known_as: []
 
 name_hebrew: ""
@@ -17,10 +17,11 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Shelemiah (2596)]]"
+father: null
 mother: null
 spouse: []
-children: []
+children: 
+  - "[[Zedekiah (3032)]]"
 siblings: []
 
 gender: male
@@ -33,17 +34,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "Nehemiah 3:30"
+first_appearance: "Jeremiah 36:12"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 1390
+metav_id: 1396
 ---
 
 ## Verse References
 
-### [[books/Nehemiah|Nehemiah]]
-- **3:30** — After him repaired Hananiah the son of Shelemiah, and Hanun the sixth son of Zalaph, another piece. After him repaired Meshullam the son of Berechiah over against his chamber.
+### [[books/Jeremiah|Jeremiah]]
+- **36:12** — Then he went down into the king's house, into the scribe's chamber: and, lo, all the princes sat there, even Elishama the scribe, and Delaiah the son of Shemaiah, and Elnathan the son of Achbor, and Gemariah the son of Shaphan, and Zedekiah the son of Hananiah, and all the princes.
 

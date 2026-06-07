@@ -1,6 +1,6 @@
 ---
 type: person
-name: Hananiah (1392)
+name: Hananiah (covenant signer)
 also_known_as: []
 
 name_hebrew: ""

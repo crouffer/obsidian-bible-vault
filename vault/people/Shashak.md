@@ -26,7 +26,7 @@ children:
   - "[[Elam (1050)]]"
   - "[[Eliel (1106)]]"
   - "[[Hanan (1370)]]"
-  - "[[Hananiah (1385)]]"
+  - "[[Hananiah (son of Shashak)]]"
   - "[[Heber (1474)]]"
   - "[[Iphedeiah]]"
   - "[[Ishpan]]"

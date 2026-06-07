@@ -21,7 +21,7 @@ father: null
 mother: null
 spouse: []
 children: 
-  - "[[Hananiah (1395)]]"
+  - "[[Hananiah (false prophet, son of Azur)]]"
 siblings: []
 
 gender: male

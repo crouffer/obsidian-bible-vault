@@ -1,6 +1,6 @@
 ---
 type: person
-name: Hananiah (1389)
+name: Hananiah (ruler of the palace)
 also_known_as: []
 
 name_hebrew: ""
@@ -33,17 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "Nehemiah 3:8"
+first_appearance: "Nehemiah 7:2"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 1389
+metav_id: 1391
 ---
 
 ## Verse References
 
 ### [[books/Nehemiah|Nehemiah]]
-- **3:8** — Next unto him repaired Uzziel the son of Harhaiah, of the goldsmiths. Next unto him also repaired Hananiah the son of one of the apothecaries, and they fortified Jerusalem unto the broad wall.
+- **7:2** — That I gave my brother Hanani, and Hananiah the ruler of the palace, charge over Jerusalem: for he was a faithful man, and feared God above many.
 

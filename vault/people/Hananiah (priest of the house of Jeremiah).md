@@ -1,6 +1,6 @@
 ---
 type: person
-name: Hananiah (1391)
+name: Hananiah (priest of the house of Jeremiah)
 also_known_as: []
 
 name_hebrew: ""
@@ -33,17 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "Nehemiah 7:2"
+first_appearance: "Nehemiah 12:12"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 1391
+metav_id: 1393
 ---
 
 ## Verse References
 
 ### [[books/Nehemiah|Nehemiah]]
-- **7:2** — That I gave my brother Hanani, and Hananiah the ruler of the palace, charge over Jerusalem: for he was a faithful man, and feared God above many.
+- **12:12** — And in the days of Joiakim were priests, the chief of the fathers: of Seraiah, Meraiah; of Jeremiah, Hananiah;
 

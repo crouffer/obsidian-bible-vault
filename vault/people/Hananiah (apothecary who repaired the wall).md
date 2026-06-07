@@ -1,6 +1,6 @@
 ---
 type: person
-name: Hananiah (1394)
+name: Hananiah (apothecary who repaired the wall)
 also_known_as: []
 
 name_hebrew: ""
@@ -33,17 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "Nehemiah 12:41"
+first_appearance: "Nehemiah 3:8"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 1394
+metav_id: 1389
 ---
 
 ## Verse References
 
 ### [[books/Nehemiah|Nehemiah]]
-- **12:41** — And the priests; Eliakim, Maaseiah, Miniamin, Michaiah, Elioenai, Zechariah, and Hananiah, with trumpets;
+- **3:8** — Next unto him repaired Uzziel the son of Harhaiah, of the goldsmiths. Next unto him also repaired Hananiah the son of one of the apothecaries, and they fortified Jerusalem unto the broad wall.
 

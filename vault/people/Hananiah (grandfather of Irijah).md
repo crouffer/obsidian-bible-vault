@@ -1,6 +1,6 @@
 ---
 type: person
-name: Hananiah (1388)
+name: Hananiah (grandfather of Irijah)
 also_known_as: []
 
 name_hebrew: ""
@@ -20,7 +20,8 @@ strongs:
 father: null
 mother: null
 spouse: []
-children: []
+children: 
+  - "[[Shelemiah (2601)]]"
 siblings: []
 
 gender: male
@@ -33,17 +34,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "Ezra 10:28"
+first_appearance: "Jeremiah 37:13"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 1388
+metav_id: 1397
 ---
 
 ## Verse References
 
-### [[books/Ezra|Ezra]]
-- **10:28** — Of the sons also of Bebai; Jehohanan, Hananiah, Zabbai, and Athlai.
+### [[books/Jeremiah|Jeremiah]]
+- **37:13** — And when he was in the gate of Benjamin, a captain of the ward was there, whose name was Irijah, the son of Shelemiah, the son of Hananiah; and he took Jeremiah the prophet, saying, Thou fallest away to the Chaldeans.
 
