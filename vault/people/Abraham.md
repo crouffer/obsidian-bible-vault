@@ -6,7 +6,7 @@ also_known_as: ["Abram"]
 name_hebrew: ""
 name_greek_lxx: ""
 name_latin: ""
-name_meaning: ""
+name_meaning: "Father of a multitude"
 translation_variants:
   kjv: Abraham
   esv: ""

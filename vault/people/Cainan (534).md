@@ -6,7 +6,7 @@ also_known_as: ["Kenan"]
 name_hebrew: ""
 name_greek_lxx: ""
 name_latin: ""
-name_meaning: ""
+name_meaning: "Fixed"
 translation_variants:
   kjv: Cainan
   esv: ""

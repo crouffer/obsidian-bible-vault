@@ -6,7 +6,7 @@ also_known_as: ["Saruch"]
 name_hebrew: ""
 name_greek_lxx: ""
 name_latin: ""
-name_meaning: ""
+name_meaning: "Tendril, branch"
 translation_variants:
   kjv: Serug
   esv: ""

@@ -6,7 +6,7 @@ also_known_as: []
 name_hebrew: ""
 name_greek_lxx: ""
 name_latin: ""
-name_meaning: ""
+name_meaning: "Laughter"
 translation_variants:
   kjv: Isaac
   esv: ""

@@ -6,7 +6,7 @@ also_known_as: ["Maleleel"]
 name_hebrew: ""
 name_greek_lxx: ""
 name_latin: ""
-name_meaning: ""
+name_meaning: "Praise of God"
 translation_variants:
   kjv: Mahalaleel
   esv: ""

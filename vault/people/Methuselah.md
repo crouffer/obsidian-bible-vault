@@ -6,7 +6,7 @@ also_known_as: ["Mathusala"]
 name_hebrew: ""
 name_greek_lxx: ""
 name_latin: ""
-name_meaning: ""
+name_meaning: "Man of a dart"
 translation_variants:
   kjv: Methuselah
   esv: ""

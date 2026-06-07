@@ -6,7 +6,7 @@ also_known_as: ["Nachor"]
 name_hebrew: ""
 name_greek_lxx: ""
 name_latin: ""
-name_meaning: ""
+name_meaning: "Snorer"
 translation_variants:
   kjv: Nahor
   esv: ""

@@ -6,7 +6,7 @@ also_known_as: ["Phalec"]
 name_hebrew: ""
 name_greek_lxx: ""
 name_latin: ""
-name_meaning: ""
+name_meaning: "Division"
 translation_variants:
   kjv: Peleg
   esv: ""

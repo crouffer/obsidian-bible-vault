@@ -6,7 +6,7 @@ also_known_as: ["Enosh"]
 name_hebrew: ""
 name_greek_lxx: ""
 name_latin: ""
-name_meaning: ""
+name_meaning: "Man, mortal"
 translation_variants:
   kjv: Enos
   esv: ""
