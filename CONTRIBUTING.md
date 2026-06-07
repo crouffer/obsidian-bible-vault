@@ -89,7 +89,15 @@ So:
 
 ## Validating your changes
 
-Before opening a PR:
+Before opening a PR, run the validator — it catches malformed YAML, invalid field values,
+filename/name mismatches, and broken `[[wikilinks]]`:
+
+```bash
+pip install pyyaml          # one-time; the validator's only dependency
+python3 scripts/validate.py # exit code 0 = clean, 1 = errors found
+```
+
+Then, for anything the script can't check:
 
 1. **Open the vault in Obsidian** and confirm your edited notes render with no YAML errors
    (a malformed header shows as raw text or breaks Dataview).
