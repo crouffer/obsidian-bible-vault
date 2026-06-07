@@ -21,7 +21,7 @@ father: null
 mother: null
 spouse: []
 children: 
-  - "[[Azariah (540)]]"
+  - "[[Azariah (son of Jehalelel)]]"
 siblings: []
 
 gender: male

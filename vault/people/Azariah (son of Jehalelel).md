@@ -1,6 +1,6 @@
 ---
 type: person
-name: Azariah (544)
+name: Azariah (son of Jehalelel)
 also_known_as: []
 
 name_hebrew: ""
@@ -17,7 +17,7 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: null
+father: "[[Jehalelel]]"
 mother: null
 spouse: []
 children: []
@@ -33,17 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "Nehemiah 8:7"
+first_appearance: "2 Chronicles 29:12"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 544
+metav_id: 540
 ---
 
 ## Verse References
 
-### [[books/Nehemiah|Nehemiah]]
-- **8:7** — Also Jeshua, and Bani, and Sherebiah, Jamin, Akkub, Shabbethai, Hodijah, Maaseiah, Kelita, Azariah, Jozabad, Hanan, Pelaiah, and the Levites, caused the people to understand the law: and the people stood in their place.
+### [[books/2 Chronicles|2 Chronicles]]
+- **29:12** — Then the Levites arose, Mahath the son of Amasai, and Joel the son of Azariah, of the sons of the Kohathites: and of the sons of Merari, Kish the son of Abdi, and Azariah the son of Jehalelel: and of the Gershonites; Joah the son of Zimmah, and Eden the son of Joah:
 

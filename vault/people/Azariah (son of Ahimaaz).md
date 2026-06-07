@@ -1,6 +1,6 @@
 ---
 type: person
-name: Azariah (377)
+name: Azariah (son of Ahimaaz)
 also_known_as: []
 
 name_hebrew: ""
@@ -17,11 +17,11 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Jehu (818)]]"
+father: "[[Ahimaaz (144)]]"
 mother: null
 spouse: []
 children: 
-  - "[[Helez (1483)]]"
+  - "[[Johanan (1669)]]"
 siblings: []
 
 gender: male
@@ -34,18 +34,20 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "1 Chronicles 2:38"
+first_appearance: "1 Kings 4:2"
 places_associated: []
-groups_associated: []
+groups_associated: ["Tribe of Levi"]
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 377
+metav_id: 373
 ---
 
 ## Verse References
 
+### [[books/1 Kings|1 Kings]]
+- **4:2** — And these were the princes which he had; Azariah the son of Zadok the priest,
+
 ### [[books/1 Chronicles|1 Chronicles]]
-- **2:38** — And Obed begat Jehu, and Jehu begat Azariah,
-- **2:39** — And Azariah begat Helez, and Helez begat Eleasah,
+- **6:9** — And Ahimaaz begat Azariah, and Azariah begat Johanan,
 

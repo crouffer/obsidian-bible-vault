@@ -21,7 +21,7 @@ father: null
 mother: null
 spouse: []
 children: 
-  - "[[Azariah (386)]]"
+  - "[[Azariah (chief of Ephraim)]]"
 siblings: []
 
 gender: male

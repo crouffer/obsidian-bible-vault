@@ -1,6 +1,6 @@
 ---
 type: person
-name: Azariah (374)
+name: Azariah (the prophet)
 also_known_as: []
 
 name_hebrew: ""
@@ -17,12 +17,11 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Nathan (2153)]]"
+father: "[[Oded (2236)]]"
 mother: null
 spouse: []
 children: []
-siblings: 
-  - "[[Zabud]]"
+siblings: []
 
 gender: male
 role: []
@@ -34,17 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "1 Kings 4:5"
+first_appearance: "2 Chronicles 15:1"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 374
+metav_id: 380
 ---
 
 ## Verse References
 
-### [[books/1 Kings|1 Kings]]
-- **4:5** — And Azariah the son of Nathan was over the officers: and Zabud the son of Nathan was principal officer, and the king's friend:
+### [[books/2 Chronicles|2 Chronicles]]
+- **15:1** — And the Spirit of God came upon Azariah the son of Oded:
 

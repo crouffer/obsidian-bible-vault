@@ -1,6 +1,6 @@
 ---
 type: person
-name: Azariah (384)
+name: Azariah (Levite who taught the law)
 also_known_as: []
 
 name_hebrew: ""
@@ -17,7 +17,7 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Obed (2232)]]"
+father: null
 mother: null
 spouse: []
 children: []
@@ -33,17 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "2 Chronicles 23:1"
+first_appearance: "Nehemiah 8:7"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 384
+metav_id: 544
 ---
 
 ## Verse References
 
-### [[books/2 Chronicles|2 Chronicles]]
-- **23:1** — And in the seventh year Jehoiada strengthened himself, and took the captains of hundreds, Azariah the son of Jeroham, and Ishmael the son of Jehohanan, and Azariah the son of Obed, and Maaseiah the son of Adaiah, and Elishaphat the son of Zichri, into covenant with him.
+### [[books/Nehemiah|Nehemiah]]
+- **8:7** — Also Jeshua, and Bani, and Sherebiah, Jamin, Akkub, Shabbethai, Hodijah, Maaseiah, Kelita, Azariah, Jozabad, Hanan, Pelaiah, and the Levites, caused the people to understand the law: and the people stood in their place.
 

@@ -1,6 +1,6 @@
 ---
 type: person
-name: Azariah (545)
+name: Azariah (Abednego)
 also_known_as: []
 
 name_hebrew: ""

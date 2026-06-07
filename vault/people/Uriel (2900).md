@@ -21,7 +21,7 @@ father: "[[Tahath (2814)]]"
 mother: null
 spouse: []
 children: 
-  - "[[Azariah (2925)]]"
+  - "[[Azariah (son of Uriel)]]"
 siblings: []
 
 gender: male

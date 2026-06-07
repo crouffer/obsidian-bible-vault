@@ -21,7 +21,7 @@ father: "[[Ananiah]]"
 mother: null
 spouse: []
 children: 
-  - "[[Azariah (542)]]"
+  - "[[Azariah (son of Maaseiah)]]"
 siblings: []
 
 gender: male

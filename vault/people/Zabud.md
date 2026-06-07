@@ -22,7 +22,7 @@ mother: null
 spouse: []
 children: []
 siblings: 
-  - "[[Azariah (374)]]"
+  - "[[Azariah (son of Nathan)]]"
 
 gender: male
 role: []

@@ -22,7 +22,7 @@ mother: null
 spouse: []
 children: []
 siblings: 
-  - "[[Azariah (379)]]"
+  - "[[Azariah (son of Hilkiah)]]"
 
 gender: male
 role: []

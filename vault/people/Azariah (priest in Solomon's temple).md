@@ -1,6 +1,6 @@
 ---
 type: person
-name: Azariah (378)
+name: Azariah (priest in Solomon's temple)
 also_known_as: []
 
 name_hebrew: ""

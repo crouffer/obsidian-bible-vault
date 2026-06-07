@@ -1,6 +1,6 @@
 ---
 type: person
-name: Azariah (379)
+name: Azariah (son of Hilkiah)
 also_known_as: []
 
 name_hebrew: ""

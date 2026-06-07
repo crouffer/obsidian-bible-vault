@@ -22,8 +22,8 @@ mother: null
 spouse: []
 children: []
 siblings: 
-  - "[[Azariah (381)]]"
-  - "[[Azariah (382)]]"
+  - "[[Azariah (first son of Jehoshaphat)]]"
+  - "[[Azariah (second son of Jehoshaphat)]]"
   - "[[Jehoram (803)]]"
   - "[[Michael (2066)]]"
   - "[[Shephatiah (2660)]]"

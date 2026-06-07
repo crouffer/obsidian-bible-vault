@@ -17,7 +17,7 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Azariah (378)]]"
+father: "[[Azariah (priest in Solomon's temple)]]"
 mother: null
 spouse: []
 children: 
