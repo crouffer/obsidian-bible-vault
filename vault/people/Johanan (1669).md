@@ -17,11 +17,11 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Azariah (373)]]"
+father: "[[Azariah (son of Ahimaaz)]]"
 mother: null
 spouse: []
 children: 
-  - "[[Azariah (378)]]"
+  - "[[Azariah (priest in Solomon's temple)]]"
 siblings: []
 
 gender: male

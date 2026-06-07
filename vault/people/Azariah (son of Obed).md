@@ -1,6 +1,6 @@
 ---
 type: person
-name: Azariah (383)
+name: Azariah (son of Obed)
 also_known_as: []
 
 name_hebrew: ""
@@ -17,7 +17,7 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Jeroham (880)]]"
+father: "[[Obed (2232)]]"
 mother: null
 spouse: []
 children: []
@@ -39,7 +39,7 @@ groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 383
+metav_id: 384
 ---
 
 ## Verse References

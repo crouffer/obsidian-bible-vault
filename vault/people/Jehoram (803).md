@@ -25,8 +25,8 @@ children:
   - "[[Ahaziah (121)]]"
   - "[[Jehoshabeath]]"
 siblings: 
-  - "[[Azariah (381)]]"
-  - "[[Azariah (382)]]"
+  - "[[Azariah (first son of Jehoshaphat)]]"
+  - "[[Azariah (second son of Jehoshaphat)]]"
   - "[[Jehiel (773)]]"
   - "[[Michael (2066)]]"
   - "[[Shephatiah (2660)]]"

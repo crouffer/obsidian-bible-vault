@@ -17,7 +17,7 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Azariah (2925)]]"
+father: "[[Azariah (son of Uriel)]]"
 mother: null
 spouse: []
 children: 

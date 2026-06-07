@@ -1,6 +1,6 @@
 ---
 type: person
-name: Azariah (382)
+name: Azariah (first son of Jehoshaphat)
 also_known_as: []
 
 name_hebrew: ""
@@ -22,7 +22,7 @@ mother: null
 spouse: []
 children: []
 siblings: 
-  - "[[Azariah (381)]]"
+  - "[[Azariah (second son of Jehoshaphat)]]"
   - "[[Jehiel (773)]]"
   - "[[Jehoram (803)]]"
   - "[[Michael (2066)]]"
@@ -35,9 +35,9 @@ testament: OT
 era: unknown
 
 birth_year: null
-death_year: null
-birth_place: null
-death_place: null
+death_year: 0846 BC
+birth_place: Jerusalem
+death_place: Jerusalem
 
 first_appearance: "2 Chronicles 21:2"
 places_associated: []
@@ -45,7 +45,7 @@ groups_associated: ["Tribe of Judah"]
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 382
+metav_id: 381
 ---
 
 ## Verse References

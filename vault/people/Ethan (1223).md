@@ -21,7 +21,7 @@ father: "[[Zerah (2984)]]"
 mother: null
 spouse: []
 children: 
-  - "[[Azariah (376)]]"
+  - "[[Azariah (son of Ethan)]]"
 siblings: 
   - "[[Calcol]]"
   - "[[Dara]]"

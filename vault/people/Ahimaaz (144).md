@@ -21,7 +21,7 @@ father: "[[Zadok (2973)]]"
 mother: null
 spouse: []
 children: 
-  - "[[Azariah (373)]]"
+  - "[[Azariah (son of Ahimaaz)]]"
 siblings: []
 
 gender: male

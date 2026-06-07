@@ -1,6 +1,6 @@
 ---
 type: person
-name: Azariah (540)
+name: Azariah (son of Maaseiah)
 also_known_as: []
 
 name_hebrew: ""
@@ -17,7 +17,7 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Jehalelel]]"
+father: "[[Maaseiah (son of Ananiah)]]"
 mother: null
 spouse: []
 children: []
@@ -33,17 +33,18 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "2 Chronicles 29:12"
+first_appearance: "Nehemiah 3:23"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 540
+metav_id: 542
 ---
 
 ## Verse References
 
-### [[books/2 Chronicles|2 Chronicles]]
-- **29:12** — Then the Levites arose, Mahath the son of Amasai, and Joel the son of Azariah, of the sons of the Kohathites: and of the sons of Merari, Kish the son of Abdi, and Azariah the son of Jehalelel: and of the Gershonites; Joah the son of Zimmah, and Eden the son of Joah:
+### [[books/Nehemiah|Nehemiah]]
+- **3:23** — After him repaired Benjamin and Hashub over against their house. After him repaired Azariah the son of Maaseiah the son of Ananiah by his house.
+- **3:24** — After him repaired Binnui the son of Henadad another piece, from the house of Azariah unto the turning of the wall, even unto the corner.
 

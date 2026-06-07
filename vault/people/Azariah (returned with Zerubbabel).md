@@ -1,6 +1,6 @@
 ---
 type: person
-name: Azariah (543)
+name: Azariah (returned with Zerubbabel)
 also_known_as: []
 
 name_hebrew: ""

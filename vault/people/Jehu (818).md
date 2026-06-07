@@ -21,7 +21,7 @@ father: "[[Obed (2229)]]"
 mother: null
 spouse: []
 children: 
-  - "[[Azariah (377)]]"
+  - "[[Azariah (son of Jehu)]]"
 siblings: []
 
 gender: male

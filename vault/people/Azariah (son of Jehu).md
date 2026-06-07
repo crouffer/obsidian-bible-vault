@@ -1,6 +1,6 @@
 ---
 type: person
-name: Azariah (380)
+name: Azariah (son of Jehu)
 also_known_as: []
 
 name_hebrew: ""
@@ -17,10 +17,11 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Oded (2236)]]"
+father: "[[Jehu (818)]]"
 mother: null
 spouse: []
-children: []
+children: 
+  - "[[Helez (1483)]]"
 siblings: []
 
 gender: male
@@ -33,17 +34,18 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "2 Chronicles 15:1"
+first_appearance: "1 Chronicles 2:38"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 380
+metav_id: 377
 ---
 
 ## Verse References
 
-### [[books/2 Chronicles|2 Chronicles]]
-- **15:1** — And the Spirit of God came upon Azariah the son of Oded:
+### [[books/1 Chronicles|1 Chronicles]]
+- **2:38** — And Obed begat Jehu, and Jehu begat Azariah,
+- **2:39** — And Azariah begat Helez, and Helez begat Eleasah,
 

@@ -1,6 +1,6 @@
 ---
 type: person
-name: Azariah (386)
+name: Azariah (chief priest under Uzziah)
 also_known_as: []
 
 name_hebrew: ""
@@ -17,7 +17,7 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Johanan (1672)]]"
+father: null
 mother: null
 spouse: []
 children: []
@@ -33,17 +33,18 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "2 Chronicles 28:12"
+first_appearance: "2 Chronicles 26:17"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 386
+metav_id: 385
 ---
 
 ## Verse References
 
 ### [[books/2 Chronicles|2 Chronicles]]
-- **28:12** — Then certain of the heads of the children of Ephraim, Azariah the son of Johanan, Berechiah the son of Meshillemoth, and Jehizkiah the son of Shallum, and Amasa the son of Hadlai, stood up against them that came from the war,
+- **26:17** — And Azariah the priest went in after him, and with him fourscore priests of the LORD, that were valiant men:
+- **26:20** — And Azariah the chief priest, and all the priests, looked upon him, and, behold, he was leprous in his forehead, and they thrust him out from thence; yea, himself hasted also to go out, because the LORD had smitten him.
 

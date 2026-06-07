@@ -1,6 +1,6 @@
 ---
 type: person
-name: Azariah (376)
+name: Azariah (son of Ethan)
 also_known_as: []
 
 name_hebrew: ""

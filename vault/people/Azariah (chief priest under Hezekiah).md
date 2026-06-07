@@ -1,6 +1,6 @@
 ---
 type: person
-name: Azariah (541)
+name: Azariah (chief priest under Hezekiah)
 also_known_as: []
 
 name_hebrew: ""

@@ -21,7 +21,7 @@ father: "[[Shallum (2519)]]"
 mother: null
 spouse: []
 children: 
-  - "[[Azariah (379)]]"
+  - "[[Azariah (son of Hilkiah)]]"
   - "[[Gemariah (1295)]]"
 siblings: []
 

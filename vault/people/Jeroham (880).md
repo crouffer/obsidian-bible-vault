@@ -21,7 +21,7 @@ father: null
 mother: null
 spouse: []
 children: 
-  - "[[Azariah (383)]]"
+  - "[[Azariah (son of Jeroham)]]"
 siblings: []
 
 gender: male

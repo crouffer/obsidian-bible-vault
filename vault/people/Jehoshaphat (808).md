@@ -21,8 +21,8 @@ father: "[[Asa (318)]]"
 mother: "[[Azubah (567)]]"
 spouse: []
 children: 
-  - "[[Azariah (381)]]"
-  - "[[Azariah (382)]]"
+  - "[[Azariah (first son of Jehoshaphat)]]"
+  - "[[Azariah (second son of Jehoshaphat)]]"
   - "[[Jehiel (773)]]"
   - "[[Jehoram (803)]]"
   - "[[Michael (2066)]]"

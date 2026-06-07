@@ -1,7 +1,7 @@
 ---
 type: person
-name: Azariah (2925)
-also_known_as: ["Uzziah"]
+name: Azariah (son of Nathan)
+also_known_as: []
 
 name_hebrew: ""
 name_greek_lxx: ""
@@ -17,12 +17,12 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Uriel (2900)]]"
+father: "[[Nathan (2153)]]"
 mother: null
 spouse: []
-children: 
-  - "[[Shaul (2563)]]"
-siblings: []
+children: []
+siblings: 
+  - "[[Zabud]]"
 
 gender: male
 role: []
@@ -34,18 +34,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "1 Chronicles 6:24"
+first_appearance: "1 Kings 4:5"
 places_associated: []
-groups_associated: ["Tribe of Levi"]
+groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 2925
+metav_id: 374
 ---
 
 ## Verse References
 
-### [[books/1 Chronicles|1 Chronicles]]
-- **6:24** — Tahath his son, Uriel his son, Uzziah his son, and Shaul his son.
-- **6:36** — The son of Elkanah, the son of Joel, the son of Azariah, the son of Zephaniah,
+### [[books/1 Kings|1 Kings]]
+- **4:5** — And Azariah the son of Nathan was over the officers: and Zabud the son of Nathan was principal officer, and the king's friend:
 

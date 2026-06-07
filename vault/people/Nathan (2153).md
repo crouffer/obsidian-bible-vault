@@ -21,7 +21,7 @@ father: null
 mother: null
 spouse: []
 children: 
-  - "[[Azariah (374)]]"
+  - "[[Azariah (son of Nathan)]]"
   - "[[Zabud]]"
 siblings: []
 

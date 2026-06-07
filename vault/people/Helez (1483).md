@@ -17,7 +17,7 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Azariah (377)]]"
+father: "[[Azariah (son of Jehu)]]"
 mother: null
 spouse: []
 children: 

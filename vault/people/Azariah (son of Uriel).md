@@ -1,7 +1,7 @@
 ---
 type: person
-name: Azariah (373)
-also_known_as: []
+name: Azariah (son of Uriel)
+also_known_as: ["Uzziah"]
 
 name_hebrew: ""
 name_greek_lxx: ""
@@ -17,11 +17,11 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Ahimaaz (144)]]"
+father: "[[Uriel (2900)]]"
 mother: null
 spouse: []
 children: 
-  - "[[Johanan (1669)]]"
+  - "[[Shaul (2563)]]"
 siblings: []
 
 gender: male
@@ -34,20 +34,18 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "1 Kings 4:2"
+first_appearance: "1 Chronicles 6:24"
 places_associated: []
 groups_associated: ["Tribe of Levi"]
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 373
+metav_id: 2925
 ---
 
 ## Verse References
 
-### [[books/1 Kings|1 Kings]]
-- **4:2** — And these were the princes which he had; Azariah the son of Zadok the priest,
-
 ### [[books/1 Chronicles|1 Chronicles]]
-- **6:9** — And Ahimaaz begat Azariah, and Azariah begat Johanan,
+- **6:24** — Tahath his son, Uriel his son, Uzziah his son, and Shaul his son.
+- **6:36** — The son of Elkanah, the son of Joel, the son of Azariah, the son of Zephaniah,
 

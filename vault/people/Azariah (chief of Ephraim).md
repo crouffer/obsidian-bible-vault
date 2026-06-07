@@ -1,6 +1,6 @@
 ---
 type: person
-name: Azariah (539)
+name: Azariah (chief of Ephraim)
 also_known_as: []
 
 name_hebrew: ""
@@ -17,11 +17,10 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: null
+father: "[[Johanan (1672)]]"
 mother: null
 spouse: []
-children: 
-  - "[[Joel (1657)]]"
+children: []
 siblings: []
 
 gender: male
@@ -34,17 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "2 Chronicles 29:12"
+first_appearance: "2 Chronicles 28:12"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 539
+metav_id: 386
 ---
 
 ## Verse References
 
 ### [[books/2 Chronicles|2 Chronicles]]
-- **29:12** — Then the Levites arose, Mahath the son of Amasai, and Joel the son of Azariah, of the sons of the Kohathites: and of the sons of Merari, Kish the son of Abdi, and Azariah the son of Jehalelel: and of the Gershonites; Joah the son of Zimmah, and Eden the son of Joah:
+- **28:12** — Then certain of the heads of the children of Ephraim, Azariah the son of Johanan, Berechiah the son of Meshillemoth, and Jehizkiah the son of Shallum, and Amasa the son of Hadlai, stood up against them that came from the war,
 

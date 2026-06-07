@@ -1,6 +1,6 @@
 ---
 type: person
-name: Azariah (385)
+name: Azariah (son of Jeroham)
 also_known_as: []
 
 name_hebrew: ""
@@ -17,7 +17,7 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: null
+father: "[[Jeroham (880)]]"
 mother: null
 spouse: []
 children: []
@@ -33,18 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "2 Chronicles 26:17"
+first_appearance: "2 Chronicles 23:1"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 385
+metav_id: 383
 ---
 
 ## Verse References
 
 ### [[books/2 Chronicles|2 Chronicles]]
-- **26:17** — And Azariah the priest went in after him, and with him fourscore priests of the LORD, that were valiant men:
-- **26:20** — And Azariah the chief priest, and all the priests, looked upon him, and, behold, he was leprous in his forehead, and they thrust him out from thence; yea, himself hasted also to go out, because the LORD had smitten him.
+- **23:1** — And in the seventh year Jehoiada strengthened himself, and took the captains of hundreds, Azariah the son of Jeroham, and Ishmael the son of Jehohanan, and Azariah the son of Obed, and Maaseiah the son of Adaiah, and Elishaphat the son of Zichri, into covenant with him.
 
