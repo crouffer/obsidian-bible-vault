@@ -26,11 +26,11 @@ metav_id: 703
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **15:15** — And he went up thence to the inhabitants of Debir: and the name of Debir before was Kirjathsepher.
 - **15:16** — And Caleb said, He that smiteth Kirjathsepher, and taketh it, to him will I give Achsah my daughter to wife.
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **1:11** — And from thence he went against the inhabitants of Debir: and the name of Debir before was Kirjathsepher:
 - **1:12** — And Caleb said, He that smiteth Kirjathsepher, and taketh it, to him will I give Achsah my daughter to wife.
 

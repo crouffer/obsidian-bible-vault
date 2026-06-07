@@ -45,6 +45,6 @@ metav_id: 1010
 
 ## Verse References
 
-### [[Leviticus]]
+### [[books/Leviticus|Leviticus]]
 - **24:11** — And the Israelitish woman's son blasphemed the name of the LORD, and cursed. And they brought him unto Moses: (and his mother's name was Shelomith, the daughter of Dibri, of the tribe of Dan:)
 

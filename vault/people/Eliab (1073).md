@@ -44,13 +44,13 @@ metav_id: 1073
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **1:9** — Of Zebulun; Eliab the son of Helon.
 - **2:7** — Then the tribe of Zebulun: and Eliab the son of Helon shall be captain of the children of Zebulun.
 - **7:24** — On the third day Eliab the son of Helon, prince of the children of Zebulun, did offer:
 - **7:29** — And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this was the offering of Eliab the son of Helon.
 - **10:16** — And over the host of the tribe of the children of Zebulun was Eliab the son of Helon.
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **17:28** — And Eliab his eldest brother heard when he spake unto the men; and Eliab's anger was kindled against David, and he said, Why camest thou down hither? and with whom hast thou left those few sheep in the wilderness? I know thy pride, and the naughtiness of thine heart; for thou art come down that thou mightest see the battle.
 

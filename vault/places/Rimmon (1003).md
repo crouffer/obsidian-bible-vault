@@ -26,7 +26,7 @@ metav_id: 1003
 
 ## Verse References
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **20:45** — And they turned and fled toward the wilderness unto the rock of Rimmon: and they gleaned of them in the highways five thousand men; and pursued hard after them unto Gidom, and slew two thousand men of them.
 - **20:47** — But six hundred men turned and fled to the wilderness unto the rock Rimmon, and abode in the rock Rimmon four months.
 - **21:13** — And the whole congregation sent some to speak to the children of Benjamin that were in the rock Rimmon, and to call peaceably unto them.

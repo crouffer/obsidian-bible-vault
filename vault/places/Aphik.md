@@ -26,6 +26,6 @@ metav_id: 75
 
 ## Verse References
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **1:31** — Neither did Asher drive out the inhabitants of Accho, nor the inhabitants of Zidon, nor of Ahlab, nor of Achzib, nor of Helbah, nor of Aphik, nor of Rehob:
 

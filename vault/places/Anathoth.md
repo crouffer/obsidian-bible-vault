@@ -26,27 +26,27 @@ metav_id: 63
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **21:18** — Anathoth with her suburbs, and Almon with her suburbs; four cities.
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **2:26** — And unto Abiathar the priest said the king, Get thee to Anathoth, unto thine own fields; for thou art worthy of death: but I will not at this time put thee to death, because thou barest the ark of the Lord GOD before David my father, and because thou hast been afflicted in all wherein my father was afflicted.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:60** — And out of the tribe of Benjamin; Geba with her suburbs, and Alemeth with her suburbs, and Anathoth with her suburbs. All their cities throughout their families were thirteen cities.
 - **27:12** — The ninth captain for the ninth month was Abiezer the Anetothite, of the Benjamites: and in his course were twenty and four thousand.
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **2:23** — The men of Anathoth, an hundred twenty and eight.
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **7:27** — The men of Anathoth, an hundred twenty and eight.
 - **11:32** — And at Anathoth, Nob, Ananiah,
 
-### [[Isaiah]]
+### [[books/Isaiah|Isaiah]]
 - **10:30** — Lift up thy voice, O daughter of Gallim: cause it to be heard unto Laish, O poor Anathoth.
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **1:1** — The words of Jeremiah the son of Hilkiah, of the priests that were in Anathoth in the land of Benjamin:
 - **11:21** — Therefore thus saith the LORD of the men of Anathoth, that seek thy life, saying, Prophesy not in the name of the LORD, that thou die not by our hand:
 - **11:23** — And there shall be no remnant of them: for I will bring evil upon the men of Anathoth, even the year of their visitation.

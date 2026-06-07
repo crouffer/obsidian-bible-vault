@@ -44,7 +44,7 @@ metav_id: 1817
 
 ## Verse References
 
-### [[Proverbs]]
+### [[books/Proverbs|Proverbs]]
 - **31:1** — The words of king Lemuel, the prophecy that his mother taught him.
 - **31:4** — It is not for kings, O Lemuel, it is not for kings to drink wine; nor for princes strong drink:
 

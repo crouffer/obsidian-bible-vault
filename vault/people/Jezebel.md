@@ -45,7 +45,7 @@ metav_id: 1605
 
 ## Verse References
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **16:31** — And it came to pass, as if it had been a light thing for him to walk in the sins of Jeroboam the son of Nebat, that he took to wife Jezebel the daughter of Ethbaal king of the Zidonians, and went and served Baal, and worshipped him.
 - **18:4** — For it was so, when Jezebel cut off the prophets of the LORD, that Obadiah took an hundred prophets, and hid them by fifty in a cave, and fed them with bread and water.)
 - **18:13** — Was it not told my lord what I did when Jezebel slew the prophets of the LORD, how I hid an hundred men of the LORD'S prophets by fifty in a cave, and fed them with bread and water?
@@ -60,7 +60,7 @@ metav_id: 1605
 - **21:23** — And of Jezebel also spake the LORD, saying, The dogs shall eat Jezebel by the wall of Jezreel.
 - **21:25** — But there was none like unto Ahab, which did sell himself to work wickedness in the sight of the LORD, whom Jezebel his wife stirred up.
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **9:7** — And thou shalt smite the house of Ahab thy master, that I may avenge the blood of my servants the prophets, and the blood of all the servants of the LORD, at the hand of Jezebel.
 - **9:10** — And the dogs shall eat Jezebel in the portion of Jezreel, and there shall be none to bury her. And he opened the door, and fled.
 - **9:22** — And it came to pass, when Joram saw Jehu, that he said, Is it peace, Jehu? And he answered, What peace, so long as the whoredoms of thy mother Jezebel and her witchcrafts are so many?
@@ -68,6 +68,6 @@ metav_id: 1605
 - **9:36** — Wherefore they came again, and told him. And he said, This is the word of the LORD, which he spake by his servant Elijah the Tishbite, saying, In the portion of Jezreel shall dogs eat the flesh of Jezebel:
 - **9:37** — And the carcase of Jezebel shall be as dung upon the face of the field in the portion of Jezreel; so that they shall not say, This is Jezebel.
 
-### [[Revelation]]
+### [[books/Revelation|Revelation]]
 - **2:20** — Notwithstanding I have a few things against thee, because thou sufferest that woman Jezebel, which calleth herself a prophetess, to teach and to seduce my servants to commit fornication, and to eat things sacrificed unto idols.
 

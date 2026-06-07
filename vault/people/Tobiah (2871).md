@@ -44,9 +44,9 @@ metav_id: 2871
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **2:60** — The children of Delaiah, the children of Tobiah, the children of Nekoda, six hundred fifty and two.
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **7:62** — The children of Delaiah, the children of Tobiah, the children of Nekoda, six hundred forty and two.
 

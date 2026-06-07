@@ -50,10 +50,10 @@ metav_id: 2838
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **36:11** — And the sons of Eliphaz were Teman, Omar, Zepho, and Gatam, and Kenaz.
 - **36:15** — These were dukes of the sons of Esau: the sons of Eliphaz the firstborn son of Esau; duke Teman, duke Omar, duke Zepho, duke Kenaz,
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:36** — The sons of Eliphaz; Teman, and Omar, Zephi, and Gatam, Kenaz, and Timna, and Amalek.
 

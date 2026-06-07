@@ -26,9 +26,9 @@ metav_id: 707
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **24:24** — And ships shall come from the coast of Chittim, and shall afflict Asshur, and shall afflict Eber, and he also shall perish for ever.
 
-### [[Daniel]]
+### [[books/Daniel|Daniel]]
 - **11:30** — For the ships of Chittim shall come against him: therefore he shall be grieved, and return, and have indignation against the holy covenant: so shall he do; he shall even return, and have intelligence with them that forsake the holy covenant.
 

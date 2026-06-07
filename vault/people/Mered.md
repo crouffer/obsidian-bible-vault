@@ -54,7 +54,7 @@ metav_id: 2005
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **4:17** — And the sons of Ezra were, Jether, and Mered, and Epher, and Jalon: and she bare Miriam, and Shammai, and Ishbah the father of Eshtemoa.
 - **4:18** — And his wife Jehudijah bare Jered the father of Gedor, and Heber the father of Socho, and Jekuthiel the father of Zanoah. And these are the sons of Bithiah the daughter of Pharaoh, which Mered took.
 

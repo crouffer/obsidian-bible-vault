@@ -45,7 +45,7 @@ metav_id: 1005
 
 ## Verse References
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **16:4** — And it came to pass afterward, that he loved a woman in the valley of Sorek, whose name was Delilah.
 - **16:6** — And Delilah said to Samson, Tell me, I pray thee, wherein thy great strength lieth, and wherewith thou mightest be bound to afflict thee.
 - **16:10** — And Delilah said unto Samson, Behold, thou hast mocked me, and told me lies: now tell me, I pray thee, wherewith thou mightest be bound.

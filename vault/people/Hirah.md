@@ -44,7 +44,7 @@ metav_id: 1531
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **38:1** — And it came to pass at that time, that Judah went down from his brethren, and turned in to a certain Adullamite, whose name was Hirah.
 - **38:12** — And in process of time the daughter of Shuah Judah's wife died; and Judah was comforted, and went up unto his sheepshearers to Timnath, he and his friend Hirah the Adullamite.
 

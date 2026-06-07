@@ -45,6 +45,6 @@ metav_id: 691
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:42** — The son of Ethan, the son of Zimmah, the son of Shimei,
 

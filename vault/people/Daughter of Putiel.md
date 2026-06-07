@@ -45,6 +45,6 @@ metav_id: 990
 
 ## Verse References
 
-### [[Exodus]]
+### [[books/Exodus|Exodus]]
 - **6:25** — And Eleazar Aaron's son took him one of the daughters of Putiel to wife; and she bare him Phinehas: these are the heads of the fathers of the Levites according to their families.
 

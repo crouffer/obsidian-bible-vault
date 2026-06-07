@@ -44,7 +44,7 @@ metav_id: 1343
 
 ## Verse References
 
-### [[Esther]]
+### [[books/Esther|Esther]]
 - **2:7** — And he brought up Hadassah, that is, Esther, his uncle's daughter: for she had neither father nor mother, and the maid was fair and beautiful; whom Mordecai, when her father and mother were dead, took for his own daughter.
 - **2:8** — So it came to pass, when the king's commandment and his decree was heard, and when many maidens were gathered together unto Shushan the palace, to the custody of Hegai, that Esther was brought also unto the king's house, to the custody of Hegai, keeper of the women.
 - **2:10** — Esther had not shewed her people nor her kindred: for Mordecai had charged her that she should not shew it.

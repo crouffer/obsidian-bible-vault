@@ -44,11 +44,11 @@ metav_id: 2477
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **36:37** — And Samlah died, and Saul of Rehoboth by the river reigned in his stead.
 - **36:38** — And Saul died, and Baalhanan the son of Achbor reigned in his stead.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:48** — And when Samlah was dead, Shaul of Rehoboth by the river reigned in his stead.
 - **1:49** — And when Shaul was dead, Baalhanan the son of Achbor reigned in his stead.
 

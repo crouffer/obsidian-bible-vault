@@ -26,7 +26,7 @@ metav_id: 659
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **15:55** — Maon, Carmel, and Ziph, and Juttah,
 - **21:16** — And Ain with her suburbs, and Juttah with her suburbs, and Bethshemesh with her suburbs; nine cities out of those two tribes.
 

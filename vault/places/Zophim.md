@@ -26,6 +26,6 @@ metav_id: 1274
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **23:14** — And he brought him into the field of Zophim, to the top of Pisgah, and built seven altars, and offered a bullock and a ram on every altar.
 

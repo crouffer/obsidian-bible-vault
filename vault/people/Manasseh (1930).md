@@ -17,8 +17,8 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Hezekiah (1512)]]"
-mother: "[[Hephzi-bah]]"
+father: "[[Hephzi-bah]]"
+mother: "[[Hezekiah (1512)]]"
 spouse: 
   - "[[Meshullemeth]]"
 children: 
@@ -46,7 +46,7 @@ metav_id: 1930
 
 ## Verse References
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **20:21** — And Hezekiah slept with his fathers: and Manasseh his son reigned in his stead.
 - **21:1** — Manasseh was twelve years old when he began to reign, and reigned fifty and five years in Jerusalem. And his mother's name was Hephzibah.
 - **21:9** — But they hearkened not: and Manasseh seduced them to do more evil than did the nations whom the LORD destroyed before the children of Israel.
@@ -59,10 +59,10 @@ metav_id: 1930
 - **23:26** — Notwithstanding the LORD turned not from the fierceness of his great wrath, wherewith his anger was kindled against Judah, because of all the provocations that Manasseh had provoked him withal.
 - **24:3** — Surely at the commandment of the LORD came this upon Judah, to remove them out of his sight, for the sins of Manasseh, according to all that he did;
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **3:13** — Ahaz his son, Hezekiah his son, Manasseh his son,
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **32:33** — And Hezekiah slept with his fathers, and they buried him in the chiefest of the sepulchres of the sons of David: and all Judah and the inhabitants of Jerusalem did him honour at his death. And Manasseh his son reigned in his stead.
 - **33:1** — Manasseh was twelve years old when he began to reign, and he reigned fifty and five years in Jerusalem:
 - **33:9** — So Manasseh made Judah and the inhabitants of Jerusalem to err, and to do worse than the heathen, whom the LORD had destroyed before the children of Israel.
@@ -74,9 +74,9 @@ metav_id: 1930
 - **33:22** — But he did that which was evil in the sight of the LORD, as did Manasseh his father: for Amon sacrificed unto all the carved images which Manasseh his father had made, and served them;
 - **33:23** — And humbled not himself before the LORD, as Manasseh his father had humbled himself; but Amon trespassed more and more.
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **15:4** — And I will cause them to be removed into all kingdoms of the earth, because of Manasseh the son of Hezekiah king of Judah, for that which he did in Jerusalem.
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **1:10** — And Ezekias begat Manasses; and Manasses begat Amon; and Amon begat Josias;
 

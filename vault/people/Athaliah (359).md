@@ -17,8 +17,8 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Ahab (113)]]"
-mother: "[[Jezebel]]"
+father: "[[Jezebel]]"
+mother: "[[Ahab (113)]]"
 spouse: 
   - "[[Jehoram (803)]]"
 children: []
@@ -48,7 +48,7 @@ metav_id: 359
 
 ## Verse References
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **8:26** — Two and twenty years old was Ahaziah when he began to reign; and he reigned one year in Jerusalem. And his mother's name was Athaliah, the daughter of Omri king of Israel.
 - **11:1** — And when Athaliah the mother of Ahaziah saw that her son was dead, she arose and destroyed all the seed royal.
 - **11:2** — But Jehosheba, the daughter of king Joram, sister of Ahaziah, took Joash the son of Ahaziah, and stole him from among the king's sons which were slain; and they hid him, even him and his nurse, in the bedchamber from Athaliah, so that he was not slain.
@@ -57,7 +57,7 @@ metav_id: 359
 - **11:14** — And when she looked, behold, the king stood by a pillar, as the manner was, and the princes and the trumpeters by the king, and all the people of the land rejoiced, and blew with trumpets: and Athaliah rent her clothes, and cried, Treason, Treason.
 - **11:20** — And all the people of the land rejoiced, and the city was in quiet: and they slew Athaliah with the sword beside the king's house.
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **22:2** — Forty and two years old was Ahaziah when he began to reign, and he reigned one year in Jerusalem. His mother's name also was Athaliah the daughter of Omri.
 - **22:10** — But when Athaliah the mother of Ahaziah saw that her son was dead, she arose and destroyed all the seed royal of the house of Judah.
 - **22:11** — But Jehoshabeath, the daughter of the king, took Joash the son of Ahaziah, and stole him from among the king's sons that were slain, and put him and his nurse in a bedchamber. So Jehoshabeath, the daughter of king Jehoram, the wife of Jehoiada the priest, (for she was the sister of Ahaziah,) hid him from Athaliah, so that she slew him not.

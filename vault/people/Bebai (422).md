@@ -44,6 +44,6 @@ metav_id: 422
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **10:15** — Bunni, Azgad, Bebai,
 

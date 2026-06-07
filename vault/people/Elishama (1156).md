@@ -64,9 +64,9 @@ metav_id: 1156
 
 ## Verse References
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **5:16** — And Elishama, and Eliada, and Eliphalet.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **14:7** — And Elishama, and Beeliada, and Eliphalet.
 

@@ -55,6 +55,6 @@ metav_id: 52
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **8:4** — And Abishua, and Naaman, and Ahoah,
 

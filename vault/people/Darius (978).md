@@ -44,7 +44,7 @@ metav_id: 978
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **4:5** — And hired counsellors against them, to frustrate their purpose, all the days of Cyrus king of Persia, even until the reign of Darius king of Persia.
 - **4:24** — Then ceased the work of the house of God which is at Jerusalem. So it ceased unto the second year of the reign of Darius king of Persia.
 - **5:5** — But the eye of their God was upon the elders of the Jews, that they could not cause them to cease, till the matter came to Darius: and then they returned answer by letter concerning this matter.
@@ -56,12 +56,12 @@ metav_id: 978
 - **6:14** — And the elders of the Jews builded, and they prospered through the prophesying of Haggai the prophet and Zechariah the son of Iddo. And they builded, and finished it, according to the commandment of the God of Israel, and according to the commandment of Cyrus, and Darius, and Artaxerxes king of Persia.
 - **6:15** — And this house was finished on the third day of the month Adar, which was in the sixth year of the reign of Darius the king.
 
-### [[Haggai]]
+### [[books/Haggai|Haggai]]
 - **1:1** — In the second year of Darius the king, in the sixth month, in the first day of the month, came the word of the LORD by Haggai the prophet unto Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high priest, saying,
 - **1:15** — In the four and twentieth day of the sixth month, in the second year of Darius the king.
 - **2:10** — In the four and twentieth day of the ninth month, in the second year of Darius, came the word of the LORD by Haggai the prophet, saying,
 
-### [[Zechariah]]
+### [[books/Zechariah|Zechariah]]
 - **1:1** — In the eighth month, in the second year of Darius, came the word of the LORD unto Zechariah, the son of Berechiah, the son of Iddo the prophet, saying,
 - **1:7** — Upon the four and twentieth day of the eleventh month, which is the month Sebat, in the second year of Darius, came the word of the LORD unto Zechariah, the son of Berechiah, the son of Iddo the prophet, saying,
 - **7:1** — And it came to pass in the fourth year of king Darius, that the word of the LORD came unto Zechariah in the fourth day of the ninth month, even in Chisleu;

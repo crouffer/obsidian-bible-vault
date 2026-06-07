@@ -44,6 +44,6 @@ metav_id: 2523
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **10:42** — Shallum, Amariah, and Joseph.
 

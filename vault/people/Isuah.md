@@ -48,9 +48,9 @@ metav_id: 640
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **46:17** — And the sons of Asher; Jimnah, and Ishuah, and Isui, and Beriah, and Serah their sister: and the sons of Beriah; Heber, and Malchiel.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **7:30** — The sons of Asher; Imnah, and Isuah, and Ishuai, and Beriah, and Serah their sister.
 

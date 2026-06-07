@@ -45,6 +45,6 @@ metav_id: 1918
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:44** — And their brethren the sons of Merari stood on the left hand: Ethan the son of Kishi, the son of Abdi, the son of Malluch,
 

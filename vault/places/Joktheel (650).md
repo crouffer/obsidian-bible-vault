@@ -26,6 +26,6 @@ metav_id: 650
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **15:38** — And Dilean, and Mizpeh, and Joktheel,
 

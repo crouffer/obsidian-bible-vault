@@ -26,14 +26,14 @@ metav_id: 1032
 
 ## Verse References
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **4:18** — And Jesus, walking by the sea of Galilee, saw two brethren, Simon called Peter, and Andrew his brother, casting a net into the sea: for they were fishers.
 - **15:29** — And Jesus departed from thence, and came nigh unto the sea of Galilee; and went up into a mountain, and sat down there.
 
-### [[Mark]]
+### [[books/Mark|Mark]]
 - **1:16** — Now as he walked by the sea of Galilee, he saw Simon and Andrew his brother casting a net into the sea: for they were fishers.
 - **7:31** — And again, departing from the coasts of Tyre and Sidon, he came unto the sea of Galilee, through the midst of the coasts of Decapolis.
 
-### [[John]]
+### [[books/John|John]]
 - **6:1** — After these things Jesus went over the sea of Galilee, which is the sea of Tiberias.
 

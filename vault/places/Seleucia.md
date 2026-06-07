@@ -26,6 +26,6 @@ metav_id: 1045
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **13:4** — So they, being sent forth by the Holy Ghost, departed unto Seleucia; and from thence they sailed to Cyprus.
 

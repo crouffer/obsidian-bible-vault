@@ -26,9 +26,9 @@ metav_id: 145
 
 ## Verse References
 
-### [[Deuteronomy]]
+### [[books/Deuteronomy|Deuteronomy]]
 - **4:3** — Your eyes have seen what the LORD did because of Baalpeor: for all the men that followed Baalpeor, the LORD thy God hath destroyed them from among you.
 
-### [[Hosea]]
+### [[books/Hosea|Hosea]]
 - **9:10** — I found Israel like grapes in the wilderness; I saw your fathers as the firstripe in the fig tree at her first time: but they went to Baalpeor, and separated themselves unto that shame; and their abominations were according as they loved.
 

@@ -44,10 +44,10 @@ metav_id: 341
 
 ## Verse References
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **11:5** — For Solomon went after Ashtoreth the goddess of the Zidonians, and after Milcom the abomination of the Ammonites.
 - **11:33** — Because that they have forsaken me, and have worshipped Ashtoreth the goddess of the Zidonians, Chemosh the god of the Moabites, and Milcom the god of the children of Ammon, and have not walked in my ways, to do that which is right in mine eyes, and to keep my statutes and my judgments, as did David his father.
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **23:13** — And the high places that were before Jerusalem, which were on the right hand of the mount of corruption, which Solomon the king of Israel had builded for Ashtoreth the abomination of the Zidonians, and for Chemosh the abomination of the Moabites, and for Milcom the abomination of the children of Ammon, did the king defile.
 

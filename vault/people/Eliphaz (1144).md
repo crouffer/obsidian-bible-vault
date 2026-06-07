@@ -52,7 +52,7 @@ metav_id: 1144
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **36:4** — And Adah bare to Esau Eliphaz; and Bashemath bare Reuel;
 - **36:10** — These are the names of Esau's sons; Eliphaz the son of Adah the wife of Esau, Reuel the son of Bashemath the wife of Esau.
 - **36:11** — And the sons of Eliphaz were Teman, Omar, Zepho, and Gatam, and Kenaz.
@@ -60,7 +60,7 @@ metav_id: 1144
 - **36:15** — These were dukes of the sons of Esau: the sons of Eliphaz the firstborn son of Esau; duke Teman, duke Omar, duke Zepho, duke Kenaz,
 - **36:16** — Duke Korah, duke Gatam, and duke Amalek: these are the dukes that came of Eliphaz in the land of Edom; these were the sons of Adah.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:35** — The sons of Esau; Eliphaz, Reuel, and Jeush, and Jaalam, and Korah.
 - **1:36** — The sons of Eliphaz; Teman, and Omar, Zephi, and Gatam, Kenaz, and Timna, and Amalek.
 

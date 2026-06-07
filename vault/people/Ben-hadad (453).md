@@ -44,7 +44,7 @@ metav_id: 453
 
 ## Verse References
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **6:24** — And it came to pass after this, that Benhadad king of Syria gathered all his host, and went up, and besieged Samaria.
 - **8:7** — And Elisha came to Damascus; and Benhadad the king of Syria was sick; and it was told him, saying, The man of God is come hither.
 - **8:9** — So Hazael went to meet him, and took a present with him, even of every good thing of Damascus, forty camels' burden, and came and stood before him, and said, Thy son Benhadad king of Syria hath sent me to thee, saying, Shall I recover of this disease?

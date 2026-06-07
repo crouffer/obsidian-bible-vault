@@ -45,6 +45,6 @@ metav_id: 1961
 
 ## Verse References
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **3:31** — Which was the son of Melea, which was the son of Menan, which was the son of Mattatha, which was the son of Nathan, which was the son of David,
 

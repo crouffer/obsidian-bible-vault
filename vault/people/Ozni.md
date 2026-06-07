@@ -50,9 +50,9 @@ metav_id: 1235
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **46:16** — And the sons of Gad; Ziphion, and Haggi, Shuni, and Ezbon, Eri, and Arodi, and Areli.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **26:16** — Of Ozni, the family of the Oznites: of Eri, the family of the Erites:
 

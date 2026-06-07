@@ -26,12 +26,12 @@ metav_id: 144
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **32:38** — And Nebo, and Baalmeon, (their names being changed,) and Shibmah: and gave other names unto the cities which they builded.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **5:8** — And Bela the son of Azaz, the son of Shema, the son of Joel, who dwelt in Aroer, even unto Nebo and Baalmeon:
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **25:9** — Therefore, behold, I will open the side of Moab from the cities, from his cities which are on his frontiers, the glory of the country, Bethjeshimoth, Baalmeon, and Kiriathaim,
 

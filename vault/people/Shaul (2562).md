@@ -17,8 +17,8 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Canaanitish woman]]"
-mother: "[[Simeon (2741)]]"
+father: "[[Simeon (2741)]]"
+mother: "[[Canaanitish woman]]"
 spouse: []
 children: 
   - "[[Shallum (2518)]]"
@@ -50,15 +50,15 @@ metav_id: 2562
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **46:10** — And the sons of Simeon; Jemuel, and Jamin, and Ohad, and Jachin, and Zohar, and Shaul the son of a Canaanitish woman.
 
-### [[Exodus]]
+### [[books/Exodus|Exodus]]
 - **6:15** — And the sons of Simeon; Jemuel, and Jamin, and Ohad, and Jachin, and Zohar, and Shaul the son of a Canaanitish woman: these are the families of Simeon.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **26:13** — Of Zerah, the family of the Zarhites: of Shaul, the family of the Shaulites.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **4:24** — The sons of Simeon were, Nemuel, and Jamin, Jarib, Zerah, and Shaul:
 

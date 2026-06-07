@@ -44,6 +44,6 @@ metav_id: 2557
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **10:40** — Machnadebai, Shashai, Sharai,
 

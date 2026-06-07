@@ -45,7 +45,7 @@ metav_id: 2814
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:24** — Tahath his son, Uriel his son, Uzziah his son, and Shaul his son.
 - **6:37** — The son of Tahath, the son of Assir, the son of Ebiasaph, the son of Korah,
 

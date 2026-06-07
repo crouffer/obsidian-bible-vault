@@ -26,7 +26,7 @@ metav_id: 1069
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **12:6** — And Abram passed through the land unto the place of Sichem, unto the plain of Moreh. And the Canaanite was then in the land.
 - **33:18** — And Jacob came to Shalem, a city of Shechem, which is in the land of Canaan, when he came from Padanaram; and pitched his tent before the city.
 - **34:2** — And when Shechem the son of Hamor the Hivite, prince of the country, saw her, he took her, and lay with her, and defiled her.
@@ -35,7 +35,7 @@ metav_id: 1069
 - **37:13** — And Israel said unto Joseph, Do not thy brethren feed the flock in Shechem? come, and I will send thee unto them. And he said to him, Here am I.
 - **37:14** — And he said to him, Go, I pray thee, see whether it be well with thy brethren, and well with the flocks; and bring me word again. So he sent him out of the vale of Hebron, and he came to Shechem.
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **17:7** — And the coast of Manasseh was from Asher to Michmethah, that lieth before Shechem; and the border went along on the right hand unto the inhabitants of Entappuah.
 - **20:7** — And they appointed Kedesh in Galilee in mount Naphtali, and Shechem in mount Ephraim, and Kirjatharba, which is Hebron, in the mountain of Judah.
 - **21:21** — For they gave them Shechem with her suburbs in mount Ephraim, to be a city of refuge for the slayer; and Gezer with her suburbs,
@@ -43,7 +43,7 @@ metav_id: 1069
 - **24:25** — So Joshua made a covenant with the people that day, and set them a statute and an ordinance in Shechem.
 - **24:32** — And the bones of Joseph, which the children of Israel brought up out of Egypt, buried they in Shechem, in a parcel of ground which Jacob bought of the sons of Hamor the father of Shechem for an hundred pieces of silver: and it became the inheritance of the children of Joseph.
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **8:31** — And his concubine that was in Shechem, she also bare him a son, whose name he called Abimelech.
 - **9:1** — And Abimelech the son of Jerubbaal went to Shechem unto his mother's brethren, and communed with them, and with all the family of the house of his mother's father, saying,
 - **9:2** — Speak, I pray you, in the ears of all the men of Shechem, Whether is better for you, either that all the sons of Jerubbaal, which are threescore and ten persons, reign over you, or that one reign over you? remember also that I am your bone and your flesh.
@@ -64,21 +64,21 @@ metav_id: 1069
 - **9:57** — And all the evil of the men of Shechem did God render upon their heads: and upon them came the curse of Jotham the son of Jerubbaal.
 - **21:19** — Then they said, Behold, there is a feast of the LORD in Shiloh yearly in a place which is on the north side of Bethel, on the east side of the highway that goeth up from Bethel to Shechem, and on the south of Lebonah.
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **12:1** — And Rehoboam went to Shechem: for all Israel were come to Shechem to make him king.
 - **12:25** — Then Jeroboam built Shechem in mount Ephraim, and dwelt therein; and went out from thence, and built Penuel.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:67** — And they gave unto them, of the cities of refuge, Shechem in mount Ephraim with her suburbs; they gave also Gezer with her suburbs,
 - **7:28** — And their possessions and habitations were, Bethel and the towns thereof, and eastward Naaran, and westward Gezer, with the towns thereof; Shechem also and the towns thereof, unto Gaza and the towns thereof:
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **10:1** — And Rehoboam went to Shechem: for to Shechem were all Israel come to make him king.
 
-### [[Psalms]]
+### [[books/Psalms|Psalms]]
 - **60:6** — God hath spoken in his holiness; I will rejoice, I will divide Shechem, and mete out the valley of Succoth.
 - **108:7** — God hath spoken in his holiness; I will rejoice, I will divide Shechem, and mete out the valley of Succoth.
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **41:5** — That there came certain from Shechem, from Shiloh, and from Samaria, even fourscore men, having their beards shaven, and their clothes rent, and having cut themselves, with offerings and incense in their hand, to bring them to the house of the LORD.
 

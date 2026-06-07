@@ -44,14 +44,14 @@ metav_id: 2103
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **19:37** — And the firstborn bare a son, and called his name Moab: the same is the father of the Moabites unto this day.
 - **36:35** — And Husham died, and Hadad the son of Bedad, who smote Midian in the field of Moab, reigned in his stead: and the name of his city was Avith.
 
-### [[Exodus]]
+### [[books/Exodus|Exodus]]
 - **15:15** — Then the dukes of Edom shall be amazed; the mighty men of Moab, trembling shall take hold upon them; all the inhabitants of Canaan shall melt away.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **21:11** — And they journeyed from Oboth, and pitched at Ijeabarim, in the wilderness which is before Moab, toward the sunrising.
 - **21:13** — From thence they removed, and pitched on the other side of Arnon, which is in the wilderness that cometh out of the coasts of the Amorites: for Arnon is the border of Moab, between Moab and the Amorites.
 - **21:15** — And at the stream of the brooks that goeth down to the dwelling of Ar, and lieth upon the border of Moab.
@@ -83,7 +83,7 @@ metav_id: 2103
 - **35:1** — And the LORD spake unto Moses in the plains of Moab by Jordan near Jericho, saying,
 - **36:13** — These are the commandments and the judgments, which the LORD commanded by the hand of Moses unto the children of Israel in the plains of Moab by Jordan near Jericho.
 
-### [[Deuteronomy]]
+### [[books/Deuteronomy|Deuteronomy]]
 - **1:5** — On this side Jordan, in the land of Moab, began Moses to declare this law, saying,
 - **2:8** — And when we passed by from our brethren the children of Esau, which dwelt in Seir, through the way of the plain from Elath, and from Eziongaber, we turned and passed by the way of the wilderness of Moab.
 - **2:18** — Thou art to pass over through Ar, the coast of Moab, this day:
@@ -94,11 +94,11 @@ metav_id: 2103
 - **34:6** — And he buried him in a valley in the land of Moab, over against Bethpeor: but no man knoweth of his sepulchre unto this day.
 - **34:8** — And the children of Israel wept for Moses in the plains of Moab thirty days: so the days of weeping and mourning for Moses were ended.
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **13:32** — These are the countries which Moses did distribute for inheritance in the plains of Moab, on the other side Jordan, by Jericho, eastward.
 - **24:9** — Then Balak the son of Zippor, king of Moab, arose and warred against Israel, and sent and called Balaam the son of Beor to curse you:
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **3:12** — And the children of Israel did evil again in the sight of the LORD: and the LORD strengthened Eglon the king of Moab against Israel, because they had done evil in the sight of the LORD.
 - **3:14** — So the children of Israel served Eglon the king of Moab eighteen years.
 - **3:15** — But when the children of Israel cried unto the LORD, the LORD raised them up a deliverer, Ehud the son of Gera, a Benjamite, a man lefthanded: and by him the children of Israel sent a present unto Eglon the king of Moab.
@@ -112,7 +112,7 @@ metav_id: 2103
 - **11:18** — Then they went along through the wilderness, and compassed the land of Edom, and the land of Moab, and came by the east side of the land of Moab, and pitched on the other side of Arnon, but came not within the border of Moab: for Arnon was the border of Moab.
 - **11:25** — And now art thou any thing better than Balak the son of Zippor, king of Moab? did he ever strive against Israel, or did he ever fight against them,
 
-### [[Ruth]]
+### [[books/Ruth|Ruth]]
 - **1:1** — Now it came to pass in the days when the judges ruled, that there was a famine in the land. And a certain man of Bethlehemjudah went to sojourn in the country of Moab, he, and his wife, and his two sons.
 - **1:2** — And the name of the man was Elimelech, and the name of his wife Naomi, and the name of his two sons Mahlon and Chilion, Ephrathites of Bethlehemjudah. And they came into the country of Moab, and continued there.
 - **1:4** — And they took them wives of the women of Moab; the name of the one was Orpah, and the name of the other Ruth: and they dwelled there about ten years.
@@ -121,21 +121,21 @@ metav_id: 2103
 - **2:6** — And the servant that was set over the reapers answered and said, It is the Moabitish damsel that came back with Naomi out of the country of Moab:
 - **4:3** — And he said unto the kinsman, Naomi, that is come again out of the country of Moab, selleth a parcel of land, which was our brother Elimelech's:
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **12:9** — And when they forgat the LORD their God, he sold them into the hand of Sisera, captain of the host of Hazor, and into the hand of the Philistines, and into the hand of the king of Moab, and they fought against them.
 - **14:47** — So Saul took the kingdom over Israel, and fought against all his enemies on every side, against Moab, and against the children of Ammon, and against Edom, and against the kings of Zobah, and against the Philistines: and whithersoever he turned himself, he vexed them.
 - **22:3** — And David went thence to Mizpeh of Moab: and he said unto the king of Moab, Let my father and my mother, I pray thee, come forth, and be with you, till I know what God will do for me.
 - **22:4** — And he brought them before the king of Moab: and they dwelt with him all the while that David was in the hold.
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **8:2** — And he smote Moab, and measured them with a line, casting them down to the ground; even with two lines measured he to put to death, and with one full line to keep alive. And so the Moabites became David's servants, and brought gifts.
 - **8:12** — Of Syria, and of Moab, and of the children of Ammon, and of the Philistines, and of Amalek, and of the spoil of Hadadezer, son of Rehob, king of Zobah.
 - **23:20** — And Benaiah the son of Jehoiada, the son of a valiant man, of Kabzeel, who had done many acts, he slew two lionlike men of Moab: he went down also and slew a lion in the midst of a pit in time of snow:
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **11:7** — Then did Solomon build an high place for Chemosh, the abomination of Moab, in the hill that is before Jerusalem, and for Molech, the abomination of the children of Ammon.
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **1:1** — Then Moab rebelled against Israel after the death of Ahab.
 - **3:4** — And Mesha king of Moab was a sheepmaster, and rendered unto the king of Israel an hundred thousand lambs, and an hundred thousand rams, with the wool.
 - **3:5** — But it came to pass, when Ahab was dead, that the king of Moab rebelled against the king of Israel.
@@ -145,7 +145,7 @@ metav_id: 2103
 - **3:23** — And they said, This is blood: the kings are surely slain, and they have smitten one another: now therefore, Moab, to the spoil.
 - **3:26** — And when the king of Moab saw that the battle was too sore for him, he took with him seven hundred men that drew swords, to break through even unto the king of Edom: but they could not.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:46** — And when Husham was dead, Hadad the son of Bedad, which smote Midian in the field of Moab, reigned in his stead: and the name of his city was Avith.
 - **4:22** — And Jokim, and the men of Chozeba, and Joash, and Saraph, who had the dominion in Moab, and Jashubilehem. And these are ancient things.
 - **8:8** — And Shaharaim begat children in the country of Moab, after he had sent them away; Hushim and Baara were his wives.
@@ -153,21 +153,21 @@ metav_id: 2103
 - **18:2** — And he smote Moab; and the Moabites became David's servants, and brought gifts.
 - **18:11** — Them also king David dedicated unto the LORD, with the silver and the gold that he brought from all these nations; from Edom, and from Moab, and from the children of Ammon, and from the Philistines, and from Amalek.
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **20:1** — It came to pass after this also, that the children of Moab, and the children of Ammon, and with them other beside the Ammonites, came against Jehoshaphat to battle.
 - **20:10** — And now, behold, the children of Ammon and Moab and mount Seir, whom thou wouldest not let Israel invade, when they came out of the land of Egypt, but they turned from them, and destroyed them not;
 - **20:22** — And when they began to sing and to praise, the LORD set ambushments against the children of Ammon, Moab, and mount Seir, which were come against Judah; and they were smitten.
 - **20:23** — For the children of Ammon and Moab stood up against the inhabitants of mount Seir, utterly to slay and destroy them: and when they had made an end of the inhabitants of Seir, every one helped to destroy another.
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **13:23** — In those days also saw I Jews that had married wives of Ashdod, of Ammon, and of Moab:
 
-### [[Psalms]]
+### [[books/Psalms|Psalms]]
 - **60:8** — Moab is my washpot; over Edom will I cast out my shoe: Philistia, triumph thou because of me.
 - **83:6** — The tabernacles of Edom, and the Ishmaelites; of Moab, and the Hagarenes;
 - **108:9** — Moab is my washpot; over Edom will I cast out my shoe; over Philistia will I triumph.
 
-### [[Isaiah]]
+### [[books/Isaiah|Isaiah]]
 - **11:14** — But they shall fly upon the shoulders of the Philistines toward the west; they shall spoil them of the east together: they shall lay their hand upon Edom and Moab; and the children of Ammon shall obey them.
 - **15:1** — The burden of Moab. Because in the night Ar of Moab is laid waste, and brought to silence; because in the night Kir of Moab is laid waste, and brought to silence;
 - **15:2** — He is gone up to Bajith, and to Dibon, the high places, to weep: Moab shall howl over Nebo, and over Medeba: on all their heads shall be baldness, and every beard cut off.
@@ -185,7 +185,7 @@ metav_id: 2103
 - **16:14** — But now the LORD hath spoken, saying, Within three years, as the years of an hireling, and the glory of Moab shall be contemned, with all that great multitude; and the remnant shall be very small and feeble.
 - **25:10** — For in this mountain shall the hand of the LORD rest, and Moab shall be trodden down under him, even as straw is trodden down for the dunghill.
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **9:26** — Egypt, and Judah, and Edom, and the children of Ammon, and Moab, and all that are in the utmost corners, that dwell in the wilderness: for all these nations are uncircumcised, and all the house of Israel are uncircumcised in the heart.
 - **25:21** — Edom, and Moab, and the children of Ammon,
 - **27:3** — And send them to the king of Edom, and to the king of Moab, and to the king of the Ammonites, and to the king of Tyrus, and to the king of Zidon, by the hand of the messengers which come to Jerusalem unto Zedekiah king of Judah;
@@ -220,22 +220,22 @@ metav_id: 2103
 - **48:46** — Woe be unto thee, O Moab! the people of Chemosh perisheth: for thy sons are taken captives, and thy daughters captives.
 - **48:47** — Yet will I bring again the captivity of Moab in the latter days, saith the LORD. Thus far is the judgment of Moab.
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **25:8** — Thus saith the Lord GOD; Because that Moab and Seir do say, Behold, the house of Judah is like unto all the heathen;
 - **25:9** — Therefore, behold, I will open the side of Moab from the cities, from his cities which are on his frontiers, the glory of the country, Bethjeshimoth, Baalmeon, and Kiriathaim,
 - **25:11** — And I will execute judgments upon Moab; and they shall know that I am the LORD.
 
-### [[Daniel]]
+### [[books/Daniel|Daniel]]
 - **11:41** — He shall enter also into the glorious land, and many countries shall be overthrown: but these shall escape out of his hand, even Edom, and Moab, and the chief of the children of Ammon.
 
-### [[Amos]]
+### [[books/Amos|Amos]]
 - **2:1** — Thus saith the LORD; For three transgressions of Moab, and for four, I will not turn away the punishment thereof; because he burned the bones of the king of Edom into lime:
 - **2:2** — But I will send a fire upon Moab, and it shall devour the palaces of Kerioth: and Moab shall die with tumult, with shouting, and with the sound of the trumpet:
 
-### [[Micah]]
+### [[books/Micah|Micah]]
 - **6:5** — O my people, remember now what Balak king of Moab consulted, and what Balaam the son of Beor answered him from Shittim unto Gilgal; that ye may know the righteousness of the LORD.
 
-### [[Zephaniah]]
+### [[books/Zephaniah|Zephaniah]]
 - **2:8** — I have heard the reproach of Moab, and the revilings of the children of Ammon, whereby they have reproached my people, and magnified themselves against their border.
 - **2:9** — Therefore as I live, saith the LORD of hosts, the God of Israel, Surely Moab shall be as Sodom, and the children of Ammon as Gomorrah, even the breeding of nettles, and saltpits, and a perpetual desolation: the residue of my people shall spoil them, and the remnant of my people shall possess them.
 

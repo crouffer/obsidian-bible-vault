@@ -26,6 +26,6 @@ metav_id: 85
 
 ## Verse References
 
-### [[Psalms]]
+### [[books/Psalms|Psalms]]
 - **60:1** — O God, thou hast cast us off, thou hast scattered us, thou hast been displeased; O turn thyself to us again.
 

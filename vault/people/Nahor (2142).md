@@ -45,18 +45,18 @@ metav_id: 2142
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **11:22** — And Serug lived thirty years, and begat Nahor:
 - **11:23** — And Serug lived after he begat Nahor two hundred years, and begat sons and daughters.
 - **11:24** — And Nahor lived nine and twenty years, and begat Terah:
 - **11:25** — And Nahor lived after he begat Terah an hundred and nineteen years, and begat sons and daughters.
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **24:2** — And Joshua said unto all the people, Thus saith the LORD God of Israel, Your fathers dwelt on the other side of the flood in old time, even Terah, the father of Abraham, and the father of Nachor: and they served other gods.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:26** — Serug, Nahor, Terah,
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **3:34** — Which was the son of Jacob, which was the son of Isaac, which was the son of Abraham, which was the son of Thara, which was the son of Nachor,
 

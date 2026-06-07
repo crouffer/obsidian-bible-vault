@@ -45,6 +45,6 @@ metav_id: 2622
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **5:4** — The sons of Joel; Shemaiah his son, Gog his son, Shimei his son,
 

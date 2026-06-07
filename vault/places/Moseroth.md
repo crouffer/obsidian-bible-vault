@@ -26,7 +26,7 @@ metav_id: 824
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **33:30** — And they departed from Hashmonah, and encamped at Moseroth.
 - **33:31** — And they departed from Moseroth, and pitched in Benejaakan.
 

@@ -44,9 +44,9 @@ metav_id: 961
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **18:8** — And Crispus, the chief ruler of the synagogue, believed on the Lord with all his house; and many of the Corinthians hearing believed, and were baptized.
 
-### [[1 Corinthians]]
+### [[books/1 Corinthians|1 Corinthians]]
 - **1:14** — I thank God that I baptized none of you, but Crispus and Gaius;
 

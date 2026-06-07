@@ -26,6 +26,6 @@ metav_id: 548
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **11:33** — Hazor, Ramah, Gittaim,
 

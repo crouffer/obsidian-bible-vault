@@ -17,8 +17,8 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Bathsheba]]"
-mother: "[[David]]"
+father: "[[David]]"
+mother: "[[Bathsheba]]"
 spouse: []
 children: []
 siblings: 
@@ -58,10 +58,10 @@ metav_id: 2547
 
 ## Verse References
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **5:14** — And these be the names of those that were born unto him in Jerusalem; Shammua, and Shobab, and Nathan, and Solomon,
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **3:5** — And these were born unto him in Jerusalem; Shimea, and Shobab, and Nathan, and Solomon, four, of Bathshua the daughter of Ammiel:
 - **14:4** — Now these are the names of his children which he had in Jerusalem; Shammua, and Shobab, Nathan, and Solomon,
 

@@ -45,7 +45,7 @@ metav_id: 32
 
 ## Verse References
 
-### [[Esther]]
+### [[books/Esther|Esther]]
 - **2:15** — Now when the turn of Esther, the daughter of Abihail the uncle of Mordecai, who had taken her for his daughter, was come to go in unto the king, she required nothing but what Hegai the king's chamberlain, the keeper of the women, appointed. And Esther obtained favour in the sight of all them that looked upon her.
 - **9:29** — Then Esther the queen, the daughter of Abihail, and Mordecai the Jew, wrote with all authority, to confirm this second letter of Purim.
 

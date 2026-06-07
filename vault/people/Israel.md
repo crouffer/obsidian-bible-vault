@@ -62,7 +62,7 @@ metav_id: 682
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **25:26** — And after that came his brother out, and his hand took hold on Esau's heel; and his name was called Jacob: and Isaac was threescore years old when she bare them.
 - **25:27** — And the boys grew: and Esau was a cunning hunter, a man of the field; and Jacob was a plain man, dwelling in tents.
 - **25:28** — And Isaac loved Esau, because he did eat of his venison: but Rebekah loved Jacob.
@@ -251,7 +251,7 @@ metav_id: 682
 - **50:24** — And Joseph said unto his brethren, I die: and God will surely visit you, and bring you out of this land unto the land which he sware to Abraham, to Isaac, and to Jacob.
 - **50:25** — And Joseph took an oath of the children of Israel, saying, God will surely visit you, and ye shall carry up my bones from hence.
 
-### [[Exodus]]
+### [[books/Exodus|Exodus]]
 - **1:1** — Now these are the names of the children of Israel, which came into Egypt; every man and his household came with Jacob.
 - **1:5** — And all the souls that came out of the loins of Jacob were seventy souls: for Joseph was in Egypt already.
 - **1:7** — And the children of Israel were fruitful, and increased abundantly, and multiplied, and waxed exceeding mighty; and the land was filled with them.
@@ -418,7 +418,7 @@ metav_id: 682
 - **40:36** — And when the cloud was taken up from over the tabernacle, the children of Israel went onward in all their journeys:
 - **40:38** — For the cloud of the LORD was upon the tabernacle by day, and fire was on it by night, in the sight of all the house of Israel, throughout all their journeys.
 
-### [[Leviticus]]
+### [[books/Leviticus|Leviticus]]
 - **1:2** — Speak unto the children of Israel, and say unto them, If any man of you bring an offering unto the LORD, ye shall bring your offering of the cattle, even of the herd, and of the flock.
 - **4:2** — Speak unto the children of Israel, saying, If a soul shall sin through ignorance against any of the commandments of the LORD concerning things which ought not to be done, and shall do against any of them:
 - **4:13** — And if the whole congregation of Israel sin through ignorance, and the thing be hid from the eyes of the assembly, and they have done somewhat against any of the commandments of the LORD concerning things which should not be done, and are guilty;
@@ -479,7 +479,7 @@ metav_id: 682
 - **27:2** — Speak unto the children of Israel, and say unto them, When a man shall make a singular vow, the persons shall be for the LORD by thy estimation.
 - **27:34** — These are the commandments, which the LORD commanded Moses for the children of Israel in mount Sinai.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **1:2** — Take ye the sum of all the congregation of the children of Israel, after their families, by the house of their fathers, with the number of their names, every male by their polls;
 - **1:45** — So were all those that were numbered of the children of Israel, by the house of their fathers, from twenty years old and upward, all that were able to go forth to war in Israel;
 - **1:52** — And the children of Israel shall pitch their tents, every man by his own camp, and every man by his own standard, throughout their hosts.
@@ -641,7 +641,7 @@ metav_id: 682
 - **36:9** — Neither shall the inheritance remove from one tribe to another tribe; but every one of the tribes of the children of Israel shall keep himself to his own inheritance.
 - **36:13** — These are the commandments and the judgments, which the LORD commanded by the hand of Moses unto the children of Israel in the plains of Moab by Jordan near Jericho.
 
-### [[Deuteronomy]]
+### [[books/Deuteronomy|Deuteronomy]]
 - **1:3** — And it came to pass in the fortieth year, in the eleventh month, on the first day of the month, that Moses spake unto the children of Israel, according unto all that the LORD had given him in commandment unto them;
 - **1:8** — Behold, I have set the land before you: go in and possess the land which the LORD sware unto your fathers, Abraham, Isaac, and Jacob, to give unto them and to their seed after them.
 - **3:18** — And I commanded you at that time, saying, The LORD your God hath given you this land to possess it: ye shall pass over armed before your brethren the children of Israel, all that are meet for the war.
@@ -672,7 +672,7 @@ metav_id: 682
 - **34:8** — And the children of Israel wept for Moses in the plains of Moab thirty days: so the days of weeping and mourning for Moses were ended.
 - **34:9** — And Joshua the son of Nun was full of the spirit of wisdom; for Moses had laid his hands upon him: and the children of Israel hearkened unto him, and did as the LORD commanded Moses.
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **1:2** — Moses my servant is dead; now therefore arise, go over this Jordan, thou, and all this people, unto the land which I do give to them, even to the children of Israel.
 - **2:2** — And it was told the king of Jericho, saying, Behold, there came men in hither to night of the children of Israel to search out the country.
 - **3:1** — And Joshua rose early in the morning; and they removed from Shittim, and came to Jordan, he and all the children of Israel, and lodged there before they passed over.
@@ -737,7 +737,7 @@ metav_id: 682
 - **24:4** — And I gave unto Isaac Jacob and Esau: and I gave unto Esau mount Seir, to possess it; but Jacob and his children went down into Egypt.
 - **24:32** — And the bones of Joseph, which the children of Israel brought up out of Egypt, buried they in Shechem, in a parcel of ground which Jacob bought of the sons of Hamor the father of Shechem for an hundred pieces of silver: and it became the inheritance of the children of Joseph.
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **1:1** — Now after the death of Joshua it came to pass, that the children of Israel asked the LORD, saying, Who shall go up for us against the Canaanites first, to fight against them?
 - **2:4** — And it came to pass, when the angel of the LORD spake these words unto all the children of Israel, that the people lifted up their voice, and wept.
 - **2:6** — And when Joshua had let the people go, the children of Israel went every man unto his inheritance to possess the land.
@@ -795,7 +795,7 @@ metav_id: 682
 - **21:18** — Howbeit we may not give them wives of our daughters: for the children of Israel have sworn, saying, Cursed be he that giveth a wife to Benjamin.
 - **21:24** — And the children of Israel departed thence at that time, every man to his tribe and to his family, and they went out from thence every man to his inheritance.
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **2:28** — And did I choose him out of all the tribes of Israel to be my priest, to offer upon mine altar, to burn incense, to wear an ephod before me? and did I give unto the house of thy father all the offerings made by fire of the children of Israel?
 - **7:4** — Then the children of Israel did put away Baalim and Ashtaroth, and served the LORD only.
 - **7:6** — And they gathered together to Mizpeh, and drew water, and poured it out before the LORD, and fasted on that day, and said there, We have sinned against the LORD. And Samuel judged the children of Israel in Mizpeh.
@@ -809,13 +809,13 @@ metav_id: 682
 - **15:6** — And Saul said unto the Kenites, Go, depart, get you down from among the Amalekites, lest I destroy you with them: for ye shewed kindness to all the children of Israel, when they came up out of Egypt. So the Kenites departed from among the Amalekites.
 - **17:53** — And the children of Israel returned from chasing after the Philistines, and they spoiled their tents.
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **7:6** — Whereas I have not dwelt in any house since the time that I brought up the children of Israel out of Egypt, even to this day, but have walked in a tent and in a tabernacle.
 - **7:7** — In all the places wherein I have walked with all the children of Israel spake I a word with any of the tribes of Israel, whom I commanded to feed my people Israel, saying, Why build ye not me an house of cedar?
 - **21:2** — And the king called the Gibeonites, and said unto them; (now the Gibeonites were not of the children of Israel, but of the remnant of the Amorites; and the children of Israel had sworn unto them: and Saul sought to slay them in his zeal to the children of Israel and Judah.)
 - **23:1** — Now these be the last words of David. David the son of Jesse said, and the man who was raised up on high, the anointed of the God of Jacob, and the sweet psalmist of Israel, said,
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **6:1** — And it came to pass in the four hundred and eightieth year after the children of Israel were come out of the land of Egypt, in the fourth year of Solomon's reign over Israel, in the month Zif, which is the second month, that he began to build the house of the LORD.
 - **6:13** — And I will dwell among the children of Israel, and will not forsake my people Israel.
 - **8:1** — Then Solomon assembled the elders of Israel, and all the heads of the tribes, the chief of the fathers of the children of Israel, unto king Solomon in Jerusalem, that they might bring up the ark of the covenant of the LORD out of the city of David, which is Zion.
@@ -838,7 +838,7 @@ metav_id: 682
 - **20:29** — And they pitched one over against the other seven days. And so it was, that in the seventh day the battle was joined: and the children of Israel slew of the Syrians an hundred thousand footmen in one day.
 - **21:26** — And he did very abominably in following idols, according to all things as did the Amorites, whom the LORD cast out before the children of Israel.
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **8:12** — And Hazael said, Why weepeth my lord? And he answered, Because I know the evil that thou wilt do unto the children of Israel: their strong holds wilt thou set on fire, and their young men wilt thou slay with the sword, and wilt dash their children, and rip up their women with child.
 - **13:5** — (And the LORD gave Israel a saviour, so that they went out from under the hand of the Syrians: and the children of Israel dwelt in their tents, as beforetime.
 - **13:23** — And the LORD was gracious unto them, and had compassion on them, and had respect unto them, because of his covenant with Abraham, Isaac, and Jacob, and would not destroy them, neither cast he them from his presence as yet.
@@ -853,14 +853,14 @@ metav_id: 682
 - **21:2** — And he did that which was evil in the sight of the LORD, after the abominations of the heathen, whom the LORD cast out before the children of Israel.
 - **21:9** — But they hearkened not: and Manasseh seduced them to do more evil than did the nations whom the LORD destroyed before the children of Israel.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:43** — Now these are the kings that reigned in the land of Edom before any king reigned over the children of Israel; Bela the son of Beor: and the name of his city was Dinhabah.
 - **6:64** — And the children of Israel gave to the Levites these cities with their suburbs.
 - **16:13** — O ye seed of Israel his servant, ye children of Jacob, his chosen ones.
 - **16:17** — And hath confirmed the same to Jacob for a law, and to Israel for an everlasting covenant,
 - **27:1** — Now the children of Israel after their number, to wit, the chief fathers and captains of thousands and hundreds, and their officers that served the king in any matter of the courses, which came in and went out month by month throughout all the months of the year, of every course were twenty and four thousand.
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **5:2** — Then Solomon assembled the elders of Israel, and all the heads of the tribes, the chief of the fathers of the children of Israel, unto Jerusalem, to bring up the ark of the covenant of the LORD out of the city of David, which is Zion.
 - **5:10** — There was nothing in the ark save the two tables which Moses put therein at Horeb, when the LORD made a covenant with the children of Israel, when they came out of Egypt.
 - **6:11** — And in it have I put the ark, wherein is the covenant of the LORD, that he made with the children of Israel.
@@ -885,13 +885,13 @@ metav_id: 682
 - **34:33** — And Josiah took away all the abominations out of all the countries that pertained to the children of Israel, and made all that were present in Israel to serve, even to serve the LORD their God. And all his days they departed not from following the LORD, the God of their fathers.
 - **35:17** — And the children of Israel that were present kept the passover at that time, and the feast of unleavened bread seven days.
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **3:1** — And when the seventh month was come, and the children of Israel were in the cities, the people gathered themselves together as one man to Jerusalem.
 - **6:16** — And the children of Israel, the priests, and the Levites, and the rest of the children of the captivity, kept the dedication of this house of God with joy,
 - **6:21** — And the children of Israel, which were come again out of captivity, and all such as had separated themselves unto them from the filthiness of the heathen of the land, to seek the LORD God of Israel, did eat,
 - **7:7** — And there went up some of the children of Israel, and of the priests, and the Levites, and the singers, and the porters, and the Nethinims, unto Jerusalem, in the seventh year of Artaxerxes the king.
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **1:6** — Let thine ear now be attentive, and thine eyes open, that thou mayest hear the prayer of thy servant, which I pray before thee now, day and night, for the children of Israel thy servants, and confess the sins of the children of Israel, which we have sinned against thee: both I and my father's house have sinned.
 - **2:10** — When Sanballat the Horonite, and Tobiah the servant, the Ammonite, heard of it, it grieved them exceedingly that there was come a man to seek the welfare of the children of Israel.
 - **7:73** — So the priests, and the Levites, and the porters, and the singers, and some of the people, and the Nethinims, and all Israel, dwelt in their cities; and when the seventh month came, the children of Israel were in their cities.
@@ -901,7 +901,7 @@ metav_id: 682
 - **10:39** — For the children of Israel and the children of Levi shall bring the offering of the corn, of the new wine, and the oil, unto the chambers, where are the vessels of the sanctuary, and the priests that minister, and the porters, and the singers: and we will not forsake the house of our God.
 - **13:2** — Because they met not the children of Israel with bread and with water, but hired Balaam against them, that he should curse them: howbeit our God turned the curse into a blessing.
 
-### [[Psalms]]
+### [[books/Psalms|Psalms]]
 - **14:7** — Oh that the salvation of Israel were come out of Zion! when the LORD bringeth back the captivity of his people, Jacob shall rejoice, and Israel shall be glad.
 - **20:1** — The LORD hear thee in the day of trouble; the name of the God of Jacob defend thee;
 - **22:23** — Ye that fear the LORD, praise him; all ye the seed of Jacob, glorify him; and fear him, all ye the seed of Israel.
@@ -939,7 +939,7 @@ metav_id: 682
 - **147:19** — He sheweth his word unto Jacob, his statutes and his judgments unto Israel.
 - **148:14** — He also exalteth the horn of his people, the praise of all his saints; even of the children of Israel, a people near unto him. Praise ye the LORD.
 
-### [[Isaiah]]
+### [[books/Isaiah|Isaiah]]
 - **2:3** — And many people shall go and say, Come ye, and let us go up to the mountain of the LORD, to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths: for out of Zion shall go forth the law, and the word of the LORD from Jerusalem.
 - **2:5** — O house of Jacob, come ye, and let us walk in the light of the LORD.
 - **2:6** — Therefore thou hast forsaken thy people the house of Jacob, because they be replenished from the east, and are soothsayers like the Philistines, and they please themselves in the children of strangers.
@@ -986,7 +986,7 @@ metav_id: 682
 - **65:9** — And I will bring forth a seed out of Jacob, and out of Judah an inheritor of my mountains: and mine elect shall inherit it, and my servants shall dwell there.
 - **66:20** — And they shall bring all your brethren for an offering unto the LORD out of all nations upon horses, and in chariots, and in litters, and upon mules, and upon swift beasts, to my holy mountain Jerusalem, saith the LORD, as the children of Israel bring an offering in a clean vessel into the house of the LORD.
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **2:4** — Hear ye the word of the LORD, O house of Jacob, and all the families of the house of Israel:
 - **3:21** — A voice was heard upon the high places, weeping and supplications of the children of Israel: for they have perverted their way, and they have forgotten the LORD their God.
 - **5:20** — Declare this in the house of Jacob, and publish it in Judah, saying,
@@ -1009,12 +1009,12 @@ metav_id: 682
 - **50:33** — Thus saith the LORD of hosts; The children of Israel and the children of Judah were oppressed together: and all that took them captives held them fast; they refused to let them go.
 - **51:19** — The portion of Jacob is not like them; for he is the former of all things: and Israel is the rod of his inheritance: the LORD of hosts is his name.
 
-### [[Lamentations]]
+### [[books/Lamentations|Lamentations]]
 - **1:17** — Zion spreadeth forth her hands, and there is none to comfort her: the LORD hath commanded concerning Jacob, that his adversaries should be round about him: Jerusalem is as a menstruous woman among them.
 - **2:2** — The Lord hath swallowed up all the habitations of Jacob, and hath not pitied: he hath thrown down in his wrath the strong holds of the daughter of Judah; he hath brought them down to the ground: he hath polluted the kingdom and the princes thereof.
 - **2:3** — He hath cut off in his fierce anger all the horn of Israel: he hath drawn back his right hand from before the enemy, and he burned against Jacob like a flaming fire, which devoureth round about.
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **2:3** — And he said unto me, Son of man, I send thee to the children of Israel, to a rebellious nation that hath rebelled against me: they and their fathers have transgressed against me, even unto this very day.
 - **4:13** — And the LORD said, Even thus shall the children of Israel eat their defiled bread among the Gentiles, whither I will drive them.
 - **6:5** — And I will lay the dead carcases of the children of Israel before their idols; and I will scatter your bones round about your altars.
@@ -1031,10 +1031,10 @@ metav_id: 682
 - **47:22** — And it shall come to pass, that ye shall divide it by lot for an inheritance unto you, and to the strangers that sojourn among you, which shall beget children among you: and they shall be unto you as born in the country among the children of Israel; they shall have inheritance with you among the tribes of Israel.
 - **48:11** — It shall be for the priests that are sanctified of the sons of Zadok; which have kept my charge, which went not astray when the children of Israel went astray, as the Levites went astray.
 
-### [[Daniel]]
+### [[books/Daniel|Daniel]]
 - **1:3** — And the king spake unto Ashpenaz the master of his eunuchs, that he should bring certain of the children of Israel, and of the king's seed, and of the princes;
 
-### [[Hosea]]
+### [[books/Hosea|Hosea]]
 - **1:10** — Yet the number of the children of Israel shall be as the sand of the sea, which cannot be measured nor numbered; and it shall come to pass, that in the place where it was said unto them, Ye are not my people, there it shall be said unto them, Ye are the sons of the living God.
 - **1:11** — Then shall the children of Judah and the children of Israel be gathered together, and appoint themselves one head, and they shall come up out of the land: for great shall be the day of Jezreel.
 - **3:1** — Then said the LORD unto me, Go yet, love a woman beloved of her friend, yet an adulteress, according to the love of the LORD toward the children of Israel, who look to other gods, and love flagons of wine.
@@ -1045,10 +1045,10 @@ metav_id: 682
 - **12:2** — The LORD hath also a controversy with Judah, and will punish Jacob according to his ways; according to his doings will he recompense him.
 - **12:12** — And Jacob fled into the country of Syria, and Israel served for a wife, and for a wife he kept sheep.
 
-### [[Joel]]
+### [[books/Joel|Joel]]
 - **3:16** — The LORD also shall roar out of Zion, and utter his voice from Jerusalem; and the heavens and the earth shall shake: but the LORD will be the hope of his people, and the strength of the children of Israel.
 
-### [[Amos]]
+### [[books/Amos|Amos]]
 - **2:11** — And I raised up of your sons for prophets, and of your young men for Nazarites. Is it not even thus, O ye children of Israel? saith the LORD.
 - **3:1** — Hear this word that the LORD hath spoken against you, O children of Israel, against the whole family which I brought up from the land of Egypt, saying,
 - **3:12** — Thus saith the LORD; As the shepherd taketh out of the mouth of the lion two legs, or a piece of an ear; so shall the children of Israel be taken out that dwell in Samaria in the corner of a bed, and in Damascus in a couch.
@@ -1061,13 +1061,13 @@ metav_id: 682
 - **9:7** — Are ye not as children of the Ethiopians unto me, O children of Israel? saith the LORD. Have not I brought up Israel out of the land of Egypt? and the Philistines from Caphtor, and the Syrians from Kir?
 - **9:8** — Behold, the eyes of the Lord GOD are upon the sinful kingdom, and I will destroy it from off the face of the earth; saving that I will not utterly destroy the house of Jacob, saith the LORD.
 
-### [[Obadiah]]
+### [[books/Obadiah|Obadiah]]
 - **1:10** — For thy violence against thy brother Jacob shame shall cover thee, and thou shalt be cut off for ever.
 - **1:17** — But upon mount Zion shall be deliverance, and there shall be holiness; and the house of Jacob shall possess their possessions.
 - **1:18** — And the house of Jacob shall be a fire, and the house of Joseph a flame, and the house of Esau for stubble, and they shall kindle in them, and devour them; and there shall not be any remaining of the house of Esau; for the LORD hath spoken it.
 - **1:20** — And the captivity of this host of the children of Israel shall possess that of the Canaanites, even unto Zarephath; and the captivity of Jerusalem, which is in Sepharad, shall possess the cities of the south.
 
-### [[Micah]]
+### [[books/Micah|Micah]]
 - **1:5** — For the transgression of Jacob is all this, and for the sins of the house of Israel. What is the transgression of Jacob? is it not Samaria? and what are the high places of Judah? are they not Jerusalem?
 - **2:7** — O thou that art named the house of Jacob, is the spirit of the LORD straitened? are these his doings? do not my words do good to him that walketh uprightly?
 - **2:12** — I will surely assemble, O Jacob, all of thee; I will surely gather the remnant of Israel; I will put them together as the sheep of Bozrah, as the flock in the midst of their fold: they shall make great noise by reason of the multitude of men.
@@ -1080,36 +1080,36 @@ metav_id: 682
 - **5:8** — And the remnant of Jacob shall be among the Gentiles in the midst of many people as a lion among the beasts of the forest, as a young lion among the flocks of sheep: who, if he go through, both treadeth down, and teareth in pieces, and none can deliver.
 - **7:20** — Thou wilt perform the truth to Jacob, and the mercy to Abraham, which thou hast sworn unto our fathers from the days of old.
 
-### [[Nahum]]
+### [[books/Nahum|Nahum]]
 - **2:2** — For the LORD hath turned away the excellency of Jacob, as the excellency of Israel: for the emptiers have emptied them out, and marred their vine branches.
 
-### [[Malachi]]
+### [[books/Malachi|Malachi]]
 - **1:2** — I have loved you, saith the LORD. Yet ye say, Wherein hast thou loved us? Was not Esau Jacob's brother? saith the LORD: yet I loved Jacob,
 - **2:12** — The LORD will cut off the man that doeth this, the master and the scholar, out of the tabernacles of Jacob, and him that offereth an offering unto the LORD of hosts.
 - **3:6** — For I am the LORD, I change not; therefore ye sons of Jacob are not consumed.
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **1:2** — Abraham begat Isaac; and Isaac begat Jacob; and Jacob begat Judas and his brethren;
 - **8:11** — And I say unto you, That many shall come from the east and west, and shall sit down with Abraham, and Isaac, and Jacob, in the kingdom of heaven.
 - **22:32** — I am the God of Abraham, and the God of Isaac, and the God of Jacob? God is not the God of the dead, but of the living.
 - **27:9** — Then was fulfilled that which was spoken by Jeremy the prophet, saying, And they took the thirty pieces of silver, the price of him that was valued, whom they of the children of Israel did value;
 
-### [[Mark]]
+### [[books/Mark|Mark]]
 - **12:26** — And as touching the dead, that they rise: have ye not read in the book of Moses, how in the bush God spake unto him, saying, I am the God of Abraham, and the God of Isaac, and the God of Jacob?
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **1:16** — And many of the children of Israel shall he turn to the Lord their God.
 - **1:33** — And he shall reign over the house of Jacob for ever; and of his kingdom there shall be no end.
 - **3:34** — Which was the son of Jacob, which was the son of Isaac, which was the son of Abraham, which was the son of Thara, which was the son of Nachor,
 - **13:28** — There shall be weeping and gnashing of teeth, when ye shall see Abraham, and Isaac, and Jacob, and all the prophets, in the kingdom of God, and you yourselves thrust out.
 - **20:37** — Now that the dead are raised, even Moses shewed at the bush, when he calleth the Lord the God of Abraham, and the God of Isaac, and the God of Jacob.
 
-### [[John]]
+### [[books/John|John]]
 - **4:5** — Then cometh he to a city of Samaria, which is called Sychar, near to the parcel of ground that Jacob gave to his son Joseph.
 - **4:6** — Now Jacob's well was there. Jesus therefore, being wearied with his journey, sat thus on the well: and it was about the sixth hour.
 - **4:12** — Art thou greater than our father Jacob, which gave us the well, and drank thereof himself, and his children, and his cattle?
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **3:13** — The God of Abraham, and of Isaac, and of Jacob, the God of our fathers, hath glorified his Son Jesus; whom ye delivered up, and denied him in the presence of Pilate, when he was determined to let him go.
 - **5:21** — And when they heard that, they entered into the temple early in the morning, and taught. But the high priest came, and they that were with him, and called the council together, and all the senate of the children of Israel, and sent to the prison to have them brought.
 - **7:8** — And he gave him the covenant of circumcision: and so Abraham begat Isaac, and circumcised him the eighth day; and Isaac begat Jacob; and Jacob begat the twelve patriarchs.
@@ -1123,22 +1123,22 @@ metav_id: 682
 - **9:15** — But the Lord said unto him, Go thy way: for he is a chosen vessel unto me, to bear my name before the Gentiles, and kings, and the children of Israel:
 - **10:36** — The word which God sent unto the children of Israel, preaching peace by Jesus Christ: (he is Lord of all:)
 
-### [[Romans]]
+### [[books/Romans|Romans]]
 - **9:13** — As it is written, Jacob have I loved, but Esau have I hated.
 - **9:27** — Esaias also crieth concerning Israel, Though the number of the children of Israel be as the sand of the sea, a remnant shall be saved:
 - **11:26** — And so all Israel shall be saved: as it is written, There shall come out of Sion the Deliverer, and shall turn away ungodliness from Jacob:
 
-### [[2 Corinthians]]
+### [[books/2 Corinthians|2 Corinthians]]
 - **3:7** — But if the ministration of death, written and engraven in stones, was glorious, so that the children of Israel could not stedfastly behold the face of Moses for the glory of his countenance; which glory was to be done away:
 - **3:13** — And not as Moses, which put a vail over his face, that the children of Israel could not stedfastly look to the end of that which is abolished:
 
-### [[Hebrews]]
+### [[books/Hebrews|Hebrews]]
 - **11:9** — By faith he sojourned in the land of promise, as in a strange country, dwelling in tabernacles with Isaac and Jacob, the heirs with him of the same promise:
 - **11:20** — By faith Isaac blessed Jacob and Esau concerning things to come.
 - **11:21** — By faith Jacob, when he was a dying, blessed both the sons of Joseph; and worshipped, leaning upon the top of his staff.
 - **11:22** — By faith Joseph, when he died, made mention of the departing of the children of Israel; and gave commandment concerning his bones.
 
-### [[Revelation]]
+### [[books/Revelation|Revelation]]
 - **2:14** — But I have a few things against thee, because thou hast there them that hold the doctrine of Balaam, who taught Balac to cast a stumblingblock before the children of Israel, to eat things sacrificed unto idols, and to commit fornication.
 - **7:4** — And I heard the number of them which were sealed: and there were sealed an hundred and forty and four thousand of all the tribes of the children of Israel.
 - **21:12** — And had a wall great and high, and had twelve gates, and at the gates twelve angels, and names written thereon, which are the names of the twelve tribes of the children of Israel:

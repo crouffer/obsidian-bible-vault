@@ -26,6 +26,6 @@ metav_id: 755
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **19:29** — And then the coast turneth to Ramah, and to the strong city Tyre; and the coast turneth to Hosah; and the outgoings thereof are at the sea from the coast to Achzib:
 

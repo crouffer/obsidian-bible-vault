@@ -44,13 +44,13 @@ metav_id: 899
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **24:11** — The ninth to Jeshua, the tenth to Shecaniah,
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **2:36** — The priests: the children of Jedaiah, of the house of Jeshua, nine hundred seventy and three.
 - **10:18** — And among the sons of the priests there were found that had taken strange wives: namely, of the sons of Jeshua the son of Jozadak, and his brethren; Maaseiah, and Eliezer, and Jarib, and Gedaliah.
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **7:39** — The priests: the children of Jedaiah, of the house of Jeshua, nine hundred seventy and three.
 

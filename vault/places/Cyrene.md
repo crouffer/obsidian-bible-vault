@@ -26,16 +26,16 @@ metav_id: 317
 
 ## Verse References
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **27:32** — And as they came out, they found a man of Cyrene, Simon by name: him they compelled to bear his cross.
 
-### [[Mark]]
+### [[books/Mark|Mark]]
 - **15:21** — And they compel one Simon a Cyrenian, who passed by, coming out of the country, the father of Alexander and Rufus, to bear his cross.
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **23:26** — And as they led him away, they laid hold upon one Simon, a Cyrenian, coming out of the country, and on him they laid the cross, that he might bear it after Jesus.
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **2:10** — Phrygia, and Pamphylia, in Egypt, and in the parts of Libya about Cyrene, and strangers of Rome, Jews and proselytes,
 - **11:20** — And some of them were men of Cyprus and Cyrene, which, when they were come to Antioch, spake unto the Grecians, preaching the Lord Jesus.
 - **13:1** — Now there were in the church that was at Antioch certain prophets and teachers; as Barnabas, and Simeon that was called Niger, and Lucius of Cyrene, and Manaen, which had been brought up with Herod the tetrarch, and Saul.

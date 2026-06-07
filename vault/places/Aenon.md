@@ -26,6 +26,6 @@ metav_id: 33
 
 ## Verse References
 
-### [[John]]
+### [[books/John|John]]
 - **3:23** — And John also was baptizing in Aenon near to Salim, because there was much water there: and they came, and were baptized.
 

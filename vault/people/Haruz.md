@@ -45,6 +45,6 @@ metav_id: 1425
 
 ## Verse References
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **21:19** — Amon was twenty and two years old when he began to reign, and he reigned two years in Jerusalem. And his mother's name was Meshullemeth, the daughter of Haruz of Jotbah.
 

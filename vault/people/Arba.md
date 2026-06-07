@@ -45,7 +45,7 @@ metav_id: 290
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **14:15** — And the name of Hebron before was Kirjatharba; which Arba was a great man among the Anakims. And the land had rest from war.
 - **15:13** — And unto Caleb the son of Jephunneh he gave a part among the children of Judah, according to the commandment of the LORD to Joshua, even the city of Arba the father of Anak, which city is Hebron.
 - **21:11** — And they gave them the city of Arba the father of Anak, which city is Hebron, in the hill country of Judah, with the suburbs thereof round about it.

@@ -26,7 +26,7 @@ metav_id: 271
 
 ## Verse References
 
-### [[John]]
+### [[books/John|John]]
 - **2:1** — And the third day there was a marriage in Cana of Galilee; and the mother of Jesus was there:
 - **2:11** — This beginning of miracles did Jesus in Cana of Galilee, and manifested forth his glory; and his disciples believed on him.
 - **4:46** — So Jesus came again into Cana of Galilee, where he made the water wine. And there was a certain nobleman, whose son was sick at Capernaum.

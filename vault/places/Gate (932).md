@@ -26,6 +26,6 @@ metav_id: 932
 
 ## Verse References
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **17:19** — Thus said the LORD unto me; Go and stand in the gate of the children of the people, whereby the kings of Judah come in, and by the which they go out, and in all the gates of Jerusalem;
 

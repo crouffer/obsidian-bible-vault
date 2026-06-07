@@ -26,7 +26,7 @@ metav_id: 574
 
 ## Verse References
 
-### [[Exodus]]
+### [[books/Exodus|Exodus]]
 - **26:33** — And thou shalt hang up the vail under the taches, that thou mayest bring in thither within the vail the ark of the testimony: and the vail shall divide unto you between the holy place and the most holy.
 - **28:29** — And Aaron shall bear the names of the children of Israel in the breastplate of judgment upon his heart, when he goeth in unto the holy place, for a memorial before the LORD continually.
 - **28:35** — And it shall be upon Aaron to minister: and his sound shall be heard when he goeth in unto the holy place before the LORD, and when he cometh out, that he die not.
@@ -37,7 +37,7 @@ metav_id: 574
 - **39:1** — And of the blue, and purple, and scarlet, they made cloths of service, to do service in the holy place, and made the holy garments for Aaron; as the LORD commanded Moses.
 - **39:41** — The cloths of service to do service in the holy place, and the holy garments for Aaron the priest, and his sons' garments, to minister in the priest's office.
 
-### [[Leviticus]]
+### [[books/Leviticus|Leviticus]]
 - **6:30** — And no sin offering, whereof any of the blood is brought into the tabernacle of the congregation to reconcile withal in the holy place, shall be eaten: it shall be burnt in the fire.
 - **16:2** — And the LORD said unto Moses, Speak unto Aaron thy brother, that he come not at all times into the holy place within the vail before the mercy seat, which is upon the ark; that he die not: for I will appear in the cloud upon the mercy seat.
 - **16:3** — Thus shall Aaron come into the holy place: with a young bullock for a sin offering, and a ram for a burnt offering.
@@ -48,6 +48,6 @@ metav_id: 574
 - **16:24** — And he shall wash his flesh with water in the holy place, and put on his garments, and come forth, and offer his burnt offering, and the burnt offering of the people, and make an atonement for himself, and for the people.
 - **16:27** — And the bullock for the sin offering, and the goat for the sin offering, whose blood was brought in to make atonement in the holy place, shall one carry forth without the camp; and they shall burn in the fire their skins, and their flesh, and their dung.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **28:7** — And the drink offering thereof shall be the fourth part of an hin for the one lamb: in the holy place shalt thou cause the strong wine to be poured unto the LORD for a drink offering.
 

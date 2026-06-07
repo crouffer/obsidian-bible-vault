@@ -50,16 +50,16 @@ metav_id: 2012
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **10:2** — The sons of Japheth; Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:5** — The sons of Japheth; Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras.
 
-### [[Psalms]]
+### [[books/Psalms|Psalms]]
 - **120:5** — Woe is me, that I sojourn in Mesech, that I dwell in the tents of Kedar!
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **27:13** — Javan, Tubal, and Meshech, they were thy merchants: they traded the persons of men and vessels of brass in thy market.
 - **32:26** — There is Meshech, Tubal, and all her multitude: her graves are round about him: all of them uncircumcised, slain by the sword, though they caused their terror in the land of the living.
 - **38:2** — Son of man, set thy face against Gog, the land of Magog, the chief prince of Meshech and Tubal, and prophesy against him,

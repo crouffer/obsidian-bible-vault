@@ -44,7 +44,7 @@ metav_id: 964
 
 ## Verse References
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **18:21** — Then said Joab to Cushi, Go tell the king what thou hast seen. And Cushi bowed himself unto Joab, and ran.
 - **18:22** — Then said Ahimaaz the son of Zadok yet again to Joab, But howsoever, let me, I pray thee, also run after Cushi. And Joab said, Wherefore wilt thou run, my son, seeing that thou hast no tidings ready?
 - **18:23** — But howsoever, said he, let me run. And he said unto him, Run. Then Ahimaaz ran by the way of the plain, and overran Cushi.

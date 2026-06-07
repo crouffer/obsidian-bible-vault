@@ -44,9 +44,9 @@ metav_id: 1347
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **2:45** — The children of Lebanah, the children of Hagabah, the children of Akkub,
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **7:48** — The children of Lebana, the children of Hagaba, the children of Shalmai,
 

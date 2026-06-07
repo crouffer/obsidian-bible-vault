@@ -44,16 +44,16 @@ metav_id: 853
 
 ## Verse References
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **35:25** — And Jeremiah lamented for Josiah: and all the singing men and the singing women spake of Josiah in their lamentations to this day, and made them an ordinance in Israel: and, behold, they are written in the lamentations.
 - **36:12** — And he did that which was evil in the sight of the LORD his God, and humbled not himself before Jeremiah the prophet speaking from the mouth of the LORD.
 - **36:21** — To fulfil the word of the LORD by the mouth of Jeremiah, until the land had enjoyed her sabbaths: for as long as she lay desolate she kept sabbath, to fulfil threescore and ten years.
 - **36:22** — Now in the first year of Cyrus king of Persia, that the word of the LORD spoken by the mouth of Jeremiah might be accomplished, the LORD stirred up the spirit of Cyrus king of Persia, that he made a proclamation throughout all his kingdom, and put it also in writing, saying,
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **1:1** — Now in the first year of Cyrus king of Persia, that the word of the LORD by the mouth of Jeremiah might be fulfilled, the LORD stirred up the spirit of Cyrus king of Persia, that he made a proclamation throughout all his kingdom, and put it also in writing, saying,
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **1:1** — The words of Jeremiah the son of Hilkiah, of the priests that were in Anathoth in the land of Benjamin:
 - **1:11** — Moreover the word of the LORD came unto me, saying, Jeremiah, what seest thou? And I said, I see a rod of an almond tree.
 - **7:1** — The word that came to Jeremiah from the LORD, saying,
@@ -170,10 +170,10 @@ metav_id: 853
 - **51:61** — And Jeremiah said to Seraiah, When thou comest to Babylon, and shalt see, and shalt read all these words;
 - **51:64** — And thou shalt say, Thus shall Babylon sink, and shall not rise from the evil that I will bring upon her: and they shall be weary. Thus far are the words of Jeremiah.
 
-### [[Daniel]]
+### [[books/Daniel|Daniel]]
 - **9:2** — In the first year of his reign I Daniel understood by books the number of the years, whereof the word of the LORD came to Jeremiah the prophet, that he would accomplish seventy years in the desolations of Jerusalem.
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **2:17** — Then was fulfilled that which was spoken by Jeremy the prophet, saying,
 - **16:14** — And they said, Some say that thou art John the Baptist: some, Elias; and others, Jeremias, or one of the prophets.
 - **27:9** — Then was fulfilled that which was spoken by Jeremy the prophet, saying, And they took the thirty pieces of silver, the price of him that was valued, whom they of the children of Israel did value;

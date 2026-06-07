@@ -26,7 +26,7 @@ metav_id: 432
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **31:47** — And Laban called it Jegarsahadutha: but Jacob called it Galeed.
 - **31:48** — And Laban said, This heap is a witness between me and thee this day. Therefore was the name of it called Galeed;
 

@@ -44,7 +44,7 @@ metav_id: 401
 
 ## Verse References
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **4:6** — And she sent and called Barak the son of Abinoam out of Kedeshnaphtali, and said unto him, Hath not the LORD God of Israel commanded, saying, Go and draw toward mount Tabor, and take with thee ten thousand men of the children of Naphtali and of the children of Zebulun?
 - **4:8** — And Barak said unto her, If thou wilt go with me, then I will go: but if thou wilt not go with me, then I will not go.
 - **4:9** — And she said, I will surely go with thee: notwithstanding the journey that thou takest shall not be for thine honour; for the LORD shall sell Sisera into the hand of a woman. And Deborah arose, and went with Barak to Kedesh.
@@ -58,6 +58,6 @@ metav_id: 401
 - **5:12** — Awake, awake, Deborah: awake, awake, utter a song: arise, Barak, and lead thy captivity captive, thou son of Abinoam.
 - **5:15** — And the princes of Issachar were with Deborah; even Issachar, and also Barak: he was sent on foot into the valley. For the divisions of Reuben there were great thoughts of heart.
 
-### [[Hebrews]]
+### [[books/Hebrews|Hebrews]]
 - **11:32** — And what shall I more say? for the time would fail me to tell of Gedeon, and of Barak, and of Samson, and of Jephthae; of David also, and Samuel, and of the prophets:
 

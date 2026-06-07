@@ -47,14 +47,14 @@ metav_id: 1778
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **15:17** — And Othniel the son of Kenaz, the brother of Caleb, took it: and he gave him Achsah his daughter to wife.
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **1:13** — And Othniel the son of Kenaz, Caleb's younger brother, took it: and he gave him Achsah his daughter to wife.
 - **3:9** — And when the children of Israel cried unto the LORD, the LORD raised up a deliverer to the children of Israel, who delivered them, even Othniel the son of Kenaz, Caleb's younger brother.
 - **3:11** — And the land had rest forty years. And Othniel the son of Kenaz died.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **4:13** — And the sons of Kenaz; Othniel, and Seraiah: and the sons of Othniel; Hathath.
 

@@ -26,9 +26,9 @@ metav_id: 1246
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **34:8** — From mount Hor ye shall point out your border unto the entrance of Hamath; and the goings forth of the border shall be to Zedad:
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **47:15** — And this shall be the border of the land toward the north side, from the great sea, the way of Hethlon, as men go to Zedad;
 

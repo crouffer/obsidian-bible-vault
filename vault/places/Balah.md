@@ -26,6 +26,6 @@ metav_id: 155
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **19:3** — And Hazarshual, and Balah, and Azem,
 

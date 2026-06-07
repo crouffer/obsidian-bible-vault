@@ -26,9 +26,9 @@ metav_id: 18
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **15:44** — And Keilah, and Achzib, and Mareshah; nine cities with their villages:
 
-### [[Micah]]
+### [[books/Micah|Micah]]
 - **1:14** — Therefore shalt thou give presents to Moreshethgath: the houses of Achzib shall be a lie to the kings of Israel.
 

@@ -50,11 +50,11 @@ metav_id: 1795
 
 ## Verse References
 
-### [[Exodus]]
+### [[books/Exodus|Exodus]]
 - **6:21** — And the sons of Izhar; Korah, and Nepheg, and Zichri.
 - **6:24** — And the sons of Korah; Assir, and Elkanah, and Abiasaph: these are the families of the Korhites.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **16:1** — Now Korah, the son of Izhar, the son of Kohath, the son of Levi, and Dathan and Abiram, the sons of Eliab, and On, the son of Peleth, sons of Reuben, took men:
 - **16:5** — And he spake unto Korah and unto all his company, saying, Even to morrow the LORD will shew who are his, and who is holy; and will cause him to come near unto him: even him whom he hath chosen will he cause to come near unto him.
 - **16:6** — This do; Take you censers, Korah, and all his company;
@@ -71,12 +71,12 @@ metav_id: 1795
 - **26:11** — Notwithstanding the children of Korah died not.
 - **27:3** — Our father died in the wilderness, and he was not in the company of them that gathered themselves together against the LORD in the company of Korah; but died in his own sin, and had no sons.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:22** — The sons of Kohath; Amminadab his son, Korah his son, Assir his son,
 - **6:37** — The son of Tahath, the son of Assir, the son of Ebiasaph, the son of Korah,
 - **9:19** — And Shallum the son of Kore, the son of Ebiasaph, the son of Korah, and his brethren, of the house of his father, the Korahites, were over the work of the service, keepers of the gates of the tabernacle: and their fathers, being over the host of the LORD, were keepers of the entry.
 
-### [[Psalms]]
+### [[books/Psalms|Psalms]]
 - **42:1** — As the hart panteth after the water brooks, so panteth my soul after thee, O God.
 - **44:1** — We have heard with our ears, O God, our fathers have told us, what work thou didst in their days, in the times of old.
 - **45:1** — My heart is inditing a good matter: I speak of the things which I have made touching the king: my tongue is the pen of a ready writer.
@@ -89,6 +89,6 @@ metav_id: 1795
 - **87:1** — His foundation is in the holy mountains.
 - **88:1** — O LORD God of my salvation, I have cried day and night before thee:
 
-### [[Jude]]
+### [[books/Jude|Jude]]
 - **1:11** — Woe unto them! for they have gone in the way of Cain, and ran greedily after the error of Balaam for reward, and perished in the gainsaying of Core.
 

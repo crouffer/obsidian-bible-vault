@@ -26,10 +26,10 @@ metav_id: 452
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **15:36** — And Sharaim, and Adithaim, and Gederah, and Gederothaim; fourteen cities with their villages:
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **4:23** — These were the potters, and those that dwelt among plants and hedges: there they dwelt with the king for his work.
 - **12:4** — And Ismaiah the Gibeonite, a mighty man among the thirty, and over the thirty; and Jeremiah, and Jahaziel, and Johanan, and Josabad the Gederathite,
 

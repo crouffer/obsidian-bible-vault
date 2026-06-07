@@ -26,6 +26,6 @@ metav_id: 1065
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **19:6** — And Bethlebaoth, and Sharuhen; thirteen cities and their villages:
 

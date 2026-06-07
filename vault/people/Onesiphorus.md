@@ -44,7 +44,7 @@ metav_id: 2252
 
 ## Verse References
 
-### [[2 Timothy]]
+### [[books/2 Timothy|2 Timothy]]
 - **1:16** — The Lord give mercy unto the house of Onesiphorus; for he oft refreshed me, and was not ashamed of my chain:
 - **4:19** — Salute Prisca and Aquila, and the household of Onesiphorus.
 

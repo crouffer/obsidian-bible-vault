@@ -44,7 +44,7 @@ metav_id: 2383
 
 ## Verse References
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **39:3** — And all the princes of the king of Babylon came in, and sat in the middle gate, even Nergalsharezer, Samgarnebo, Sarsechim, Rabsaris, Nergalsharezer, Rabmag, with all the residue of the princes of the king of Babylon.
 - **39:13** — So Nebuzaradan the captain of the guard sent, and Nebushasban, Rabsaris, and Nergalsharezer, Rabmag, and all the king of Babylon's princes;
 

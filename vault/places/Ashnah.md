@@ -26,7 +26,7 @@ metav_id: 105
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **15:33** — And in the valley, Eshtaol, and Zoreah, and Ashnah,
 - **15:43** — And Jiphtah, and Ashnah, and Nezib,
 

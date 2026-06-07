@@ -202,8 +202,10 @@ def validate(vault_dir: Path) -> Report:
         targets = set(extract_links(data))
         targets.update(WIKILINK_RE.findall(note["body"]))
         for t in sorted(targets):
-            if t.strip() and t.strip() not in valid_targets:
-                rep.error(rel, "wikilink", f"broken link [[{t.strip()}]] — no matching note")
+            t = t.strip()
+            basename = t.split("/")[-1]   # allow path-qualified links like books/Matthew
+            if basename and basename not in valid_targets:
+                rep.error(rel, "wikilink", f"broken link [[{t}]] — no matching note")
 
         # enrichment coverage (informational, not an issue)
         if expected_type == "person":

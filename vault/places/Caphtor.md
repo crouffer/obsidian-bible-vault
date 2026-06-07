@@ -26,12 +26,12 @@ metav_id: 275
 
 ## Verse References
 
-### [[Deuteronomy]]
+### [[books/Deuteronomy|Deuteronomy]]
 - **2:23** — And the Avims which dwelt in Hazerim, even unto Azzah, the Caphtorims, which came forth out of Caphtor, destroyed them, and dwelt in their stead.)
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **47:4** — Because of the day that cometh to spoil all the Philistines, and to cut off from Tyrus and Zidon every helper that remaineth: for the LORD will spoil the Philistines, the remnant of the country of Caphtor.
 
-### [[Amos]]
+### [[books/Amos|Amos]]
 - **9:7** — Are ye not as children of the Ethiopians unto me, O children of Israel? saith the LORD. Have not I brought up Israel out of the land of Egypt? and the Philistines from Caphtor, and the Syrians from Kir?
 

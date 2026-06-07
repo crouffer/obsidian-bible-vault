@@ -44,7 +44,7 @@ metav_id: 2365
 
 ## Verse References
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **27:2** — And when they had bound him, they led him away, and delivered him to Pontius Pilate the governor.
 - **27:13** — Then said Pilate unto him, Hearest thou not how many things they witness against thee?
 - **27:17** — Therefore when they were gathered together, Pilate said unto them, Whom will ye that I release unto you? Barabbas, or Jesus which is called Christ?
@@ -54,7 +54,7 @@ metav_id: 2365
 - **27:62** — Now the next day, that followed the day of the preparation, the chief priests and Pharisees came together unto Pilate,
 - **27:65** — Pilate said unto them, Ye have a watch: go your way, make it as sure as ye can.
 
-### [[Mark]]
+### [[books/Mark|Mark]]
 - **15:1** — And straightway in the morning the chief priests held a consultation with the elders and scribes and the whole council, and bound Jesus, and carried him away, and delivered him to Pilate.
 - **15:2** — And Pilate asked him, Art thou the King of the Jews? And he answering said unto him, Thou sayest it.
 - **15:4** — And Pilate asked him again, saying, Answerest thou nothing? behold how many things they witness against thee.
@@ -66,7 +66,7 @@ metav_id: 2365
 - **15:43** — Joseph of Arimathaea, an honourable counsellor, which also waited for the kingdom of God, came, and went in boldly unto Pilate, and craved the body of Jesus.
 - **15:44** — And Pilate marvelled if he were already dead: and calling unto him the centurion, he asked him whether he had been any while dead.
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **3:1** — Now in the fifteenth year of the reign of Tiberius Caesar, Pontius Pilate being governor of Judaea, and Herod being tetrarch of Galilee, and his brother Philip tetrarch of Ituraea and of the region of Trachonitis, and Lysanias the tetrarch of Abilene,
 - **13:1** — There were present at that season some that told him of the Galilaeans, whose blood Pilate had mingled with their sacrifices.
 - **23:1** — And the whole multitude of them arose, and led him unto Pilate.
@@ -80,7 +80,7 @@ metav_id: 2365
 - **23:24** — And Pilate gave sentence that it should be as they required.
 - **23:52** — This man went unto Pilate, and begged the body of Jesus.
 
-### [[John]]
+### [[books/John|John]]
 - **18:29** — Pilate then went out unto them, and said, What accusation bring ye against this man?
 - **18:31** — Then said Pilate unto them, Take ye him, and judge him according to your law. The Jews therefore said unto him, It is not lawful for us to put any man to death:
 - **18:33** — Then Pilate entered into the judgment hall again, and called Jesus, and said unto him, Art thou the King of the Jews?
@@ -102,11 +102,11 @@ metav_id: 2365
 - **19:31** — The Jews therefore, because it was the preparation, that the bodies should not remain upon the cross on the sabbath day, (for that sabbath day was an high day,) besought Pilate that their legs might be broken, and that they might be taken away.
 - **19:38** — And after this Joseph of Arimathaea, being a disciple of Jesus, but secretly for fear of the Jews, besought Pilate that he might take away the body of Jesus: and Pilate gave him leave. He came therefore, and took the body of Jesus.
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **3:13** — The God of Abraham, and of Isaac, and of Jacob, the God of our fathers, hath glorified his Son Jesus; whom ye delivered up, and denied him in the presence of Pilate, when he was determined to let him go.
 - **4:27** — For of a truth against thy holy child Jesus, whom thou hast anointed, both Herod, and Pontius Pilate, with the Gentiles, and the people of Israel, were gathered together,
 - **13:28** — And though they found no cause of death in him, yet desired they Pilate that he should be slain.
 
-### [[1 Timothy]]
+### [[books/1 Timothy|1 Timothy]]
 - **6:13** — I give thee charge in the sight of God, who quickeneth all things, and before Christ Jesus, who before Pontius Pilate witnessed a good confession;
 

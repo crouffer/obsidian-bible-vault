@@ -44,7 +44,7 @@ metav_id: 1181
 
 ## Verse References
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **26:22** — And Jehoiakim the king sent men into Egypt, namely, Elnathan the son of Achbor, and certain men with him into Egypt.
 - **36:12** — Then he went down into the king's house, into the scribe's chamber: and, lo, all the princes sat there, even Elishama the scribe, and Delaiah the son of Shemaiah, and Elnathan the son of Achbor, and Gemariah the son of Shaphan, and Zedekiah the son of Hananiah, and all the princes.
 - **36:25** — Nevertheless Elnathan and Delaiah and Gemariah had made intercession to the king that he would not burn the roll: but he would not hear them.

@@ -45,14 +45,14 @@ metav_id: 1207
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **2:19** — And when Azubah was dead, Caleb took unto him Ephrath, which bare him Hur.
 - **2:50** — These were the sons of Caleb the son of Hur, the firstborn of Ephratah; Shobal the father of Kirjathjearim,
 - **4:4** — And Penuel the father of Gedor, and Ezer the father of Hushah. These are the sons of Hur, the firstborn of Ephratah, the father of Bethlehem.
 
-### [[Psalms]]
+### [[books/Psalms|Psalms]]
 - **132:6** — Lo, we heard of it at Ephratah: we found it in the fields of the wood.
 
-### [[Micah]]
+### [[books/Micah|Micah]]
 - **5:2** — But thou, Bethlehem Ephratah, though thou be little among the thousands of Judah, yet out of thee shall he come forth unto me that is to be ruler in Israel; whose goings forth have been from of old, from everlasting.
 

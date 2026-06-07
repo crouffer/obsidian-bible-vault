@@ -26,6 +26,6 @@ metav_id: 1138
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **18:27** — And Rekem, and Irpeel, and Taralah,
 

@@ -17,8 +17,8 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Nebat]]"
-mother: "[[Zeruah]]"
+father: "[[Zeruah]]"
+mother: "[[Nebat]]"
 spouse: []
 children: 
   - "[[Abijah (35)]]"
@@ -46,7 +46,7 @@ metav_id: 872
 
 ## Verse References
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **11:26** — And Jeroboam the son of Nebat, an Ephrathite of Zereda, Solomon's servant, whose mother's name was Zeruah, a widow woman, even he lifted up his hand against the king.
 - **11:28** — And the man Jeroboam was a mighty man of valour: and Solomon seeing the young man that he was industrious, he made him ruler over all the charge of the house of Joseph.
 - **11:29** — And it came to pass at that time when Jeroboam went out of Jerusalem, that the prophet Ahijah the Shilonite found him in the way; and he had clad himself with a new garment; and they two were alone in the field:
@@ -96,7 +96,7 @@ metav_id: 872
 - **21:22** — And will make thine house like the house of Jeroboam the son of Nebat, and like the house of Baasha the son of Ahijah, for the provocation wherewith thou hast provoked me to anger, and made Israel to sin.
 - **22:52** — And he did evil in the sight of the LORD, and walked in the way of his father, and in the way of his mother, and in the way of Jeroboam the son of Nebat, who made Israel to sin:
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **3:3** — Nevertheless he cleaved unto the sins of Jeroboam the son of Nebat, which made Israel to sin; he departed not therefrom.
 - **9:9** — And I will make the house of Ahab like the house of Jeroboam the son of Nebat, and like the house of Baasha the son of Ahijah:
 - **10:29** — Howbeit from the sins of Jeroboam the son of Nebat, who made Israel to sin, Jehu departed not from after them, to wit, the golden calves that were in Bethel, and that were in Dan.
@@ -113,7 +113,7 @@ metav_id: 872
 - **17:22** — For the children of Israel walked in all the sins of Jeroboam which he did; they departed not from them;
 - **23:15** — Moreover the altar that was at Bethel, and the high place which Jeroboam the son of Nebat, who made Israel to sin, had made, both that altar and the high place he brake down, and burned the high place, and stamped it small to powder, and burned the grove.
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **9:29** — Now the rest of the acts of Solomon, first and last, are they not written in the book of Nathan the prophet, and in the prophecy of Ahijah the Shilonite, and in the visions of Iddo the seer against Jeroboam the son of Nebat?
 - **10:2** — And it came to pass, when Jeroboam the son of Nebat, who was in Egypt, whither he had fled from the presence of Solomon the king, heard it, that Jeroboam returned out of Egypt.
 - **10:3** — And they sent and called him. So Jeroboam and all Israel came and spake to Rehoboam, saying,

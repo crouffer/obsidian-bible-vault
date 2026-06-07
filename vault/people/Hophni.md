@@ -45,7 +45,7 @@ metav_id: 1550
 
 ## Verse References
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **1:3** — And this man went up out of his city yearly to worship and to sacrifice unto the LORD of hosts in Shiloh. And the two sons of Eli, Hophni and Phinehas, the priests of the LORD, were there.
 - **2:34** — And this shall be a sign unto thee, that shall come upon thy two sons, on Hophni and Phinehas; in one day they shall die both of them.
 - **4:4** — So the people sent to Shiloh, that they might bring from thence the ark of the covenant of the LORD of hosts, which dwelleth between the cherubims: and the two sons of Eli, Hophni and Phinehas, were there with the ark of the covenant of God.

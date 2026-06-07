@@ -44,7 +44,7 @@ metav_id: 1452
 
 ## Verse References
 
-### [[Esther]]
+### [[books/Esther|Esther]]
 - **4:5** — Then called Esther for Hatach, one of the king's chamberlains, whom he had appointed to attend upon her, and gave him a commandment to Mordecai, to know what it was, and why it was.
 - **4:6** — So Hatach went forth to Mordecai unto the street of the city, which was before the king's gate.
 - **4:9** — And Hatach came and told Esther the words of Mordecai.

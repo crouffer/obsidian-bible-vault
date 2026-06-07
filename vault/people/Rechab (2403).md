@@ -45,11 +45,11 @@ metav_id: 2403
 
 ## Verse References
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **10:15** — And when he was departed thence, he lighted on Jehonadab the son of Rechab coming to meet him: and he saluted him, and said to him, Is thine heart right, as my heart is with thy heart? And Jehonadab answered, It is. If it be, give me thine hand. And he gave him his hand; and he took him up to him into the chariot.
 - **10:23** — And Jehu went, and Jehonadab the son of Rechab, into the house of Baal, and said unto the worshippers of Baal, Search, and look that there be here with you none of the servants of the LORD, but the worshippers of Baal only.
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **35:6** — But they said, We will drink no wine: for Jonadab the son of Rechab our father commanded us, saying, Ye shall drink no wine, neither ye, nor your sons for ever:
 - **35:8** — Thus have we obeyed the voice of Jonadab the son of Rechab our father in all that he hath charged us, to drink no wine all our days, we, our wives, our sons, nor our daughters;
 - **35:14** — The words of Jonadab the son of Rechab, that he commanded his sons not to drink wine, are performed; for unto this day they drink none, but obey their father's commandment: notwithstanding I have spoken unto you, rising early and speaking; but ye hearkened not unto me.

@@ -26,10 +26,10 @@ metav_id: 422
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **15:29** — Baalah, and Iim, and Azem,
 - **19:3** — And Hazarshual, and Balah, and Azem,
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **4:29** — And at Bilhah, and at Ezem, and at Tolad,
 

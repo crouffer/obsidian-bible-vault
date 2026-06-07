@@ -26,7 +26,7 @@ metav_id: 150
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **10:10** — And the beginning of his kingdom was Babel, and Erech, and Accad, and Calneh, in the land of Shinar.
 - **11:9** — Therefore is the name of it called Babel; because the LORD did there confound the language of all the earth: and from thence did the LORD scatter them abroad upon the face of all the earth.
 

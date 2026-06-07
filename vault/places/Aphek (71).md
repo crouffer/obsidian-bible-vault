@@ -26,7 +26,7 @@ metav_id: 71
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **13:4** — From the south, all the land of the Canaanites, and Mearah that is beside the Sidonians, unto Aphek, to the borders of the Amorites:
 - **19:30** — Ummah also, and Aphek, and Rehob: twenty and two cities with their villages.
 

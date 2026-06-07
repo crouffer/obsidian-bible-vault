@@ -44,6 +44,6 @@ metav_id: 2850
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **5:36** — For before these days rose up Theudas, boasting himself to be somebody; to whom a number of men, about four hundred, joined themselves: who was slain; and all, as many as obeyed him, were scattered, and brought to nought.
 

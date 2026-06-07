@@ -45,6 +45,6 @@ metav_id: 433
 
 ## Verse References
 
-### [[Hosea]]
+### [[books/Hosea|Hosea]]
 - **1:1** — The word of the LORD that came unto Hosea, the son of Beeri, in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel.
 

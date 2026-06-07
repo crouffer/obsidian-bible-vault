@@ -46,7 +46,7 @@ metav_id: 2759
 
 ## Verse References
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **11:19** — And Hadad found great favour in the sight of Pharaoh, so that he gave him to wife the sister of his own wife, the sister of Tahpenes the queen.
 - **11:20** — And the sister of Tahpenes bare him Genubath his son, whom Tahpenes weaned in Pharaoh's house: and Genubath was in Pharaoh's household among the sons of Pharaoh.
 

@@ -26,7 +26,7 @@ metav_id: 46
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **18:24** — And a certain Jew named Apollos, born at Alexandria, an eloquent man, and mighty in the scriptures, came to Ephesus.
 - **27:6** — And there the centurion found a ship of Alexandria sailing into Italy; and he put us therein.
 - **28:11** — And after three months we departed in a ship of Alexandria, which had wintered in the isle, whose sign was Castor and Pollux.

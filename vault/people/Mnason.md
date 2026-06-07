@@ -44,6 +44,6 @@ metav_id: 2102
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **21:16** — There went with us also certain of the disciples of Caesarea, and brought with them one Mnason of Cyprus, an old disciple, with whom we should lodge.
 

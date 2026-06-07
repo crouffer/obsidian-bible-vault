@@ -26,6 +26,6 @@ metav_id: 935
 
 ## Verse References
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **6:8** — And David was displeased, because the LORD had made a breach upon Uzzah: and he called the name of the place Perezuzzah to this day.
 

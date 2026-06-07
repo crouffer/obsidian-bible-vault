@@ -26,7 +26,7 @@ metav_id: 491
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **10:41** — And Joshua smote them from Kadeshbarnea even unto Gaza, and all the country of Goshen, even unto Gibeon.
 - **11:16** — So Joshua took all that land, the hills, and all the south country, and all the land of Goshen, and the valley, and the plain, and the mountain of Israel, and the valley of the same;
 - **15:51** — And Goshen, and Holon, and Giloh; eleven cities with their villages:

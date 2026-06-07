@@ -50,9 +50,9 @@ metav_id: 296
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **46:16** — And the sons of Gad; Ziphion, and Haggi, Shuni, and Ezbon, Eri, and Arodi, and Areli.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **26:17** — Of Arod, the family of the Arodites: of Areli, the family of the Arelites.
 

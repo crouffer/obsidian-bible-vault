@@ -51,7 +51,7 @@ metav_id: 2073
 
 ## Verse References
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **14:49** — Now the sons of Saul were Jonathan, and Ishui, and Melchishua: and the names of his two daughters were these; the name of the firstborn Merab, and the name of the younger Michal:
 - **18:20** — And Michal Saul's daughter loved David: and they told Saul, and the thing pleased him.
 - **18:27** — Wherefore David arose and went, he and his men, and slew of the Philistines two hundred men; and David brought their foreskins, and they gave them in full tale to the king, that he might be the king's son in law. And Saul gave him Michal his daughter to wife.
@@ -62,7 +62,7 @@ metav_id: 2073
 - **19:17** — And Saul said unto Michal, Why hast thou deceived me so, and sent away mine enemy, that he is escaped? And Michal answered Saul, He said unto me, Let me go; why should I kill thee?
 - **25:44** — But Saul had given Michal his daughter, David's wife, to Phalti the son of Laish, which was of Gallim.
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **3:13** — And he said, Well; I will make a league with thee: but one thing I require of thee, that is, Thou shalt not see my face, except thou first bring Michal Saul's daughter, when thou comest to see my face.
 - **3:14** — And David sent messengers to Ishbosheth Saul's son, saying, Deliver me my wife Michal, which I espoused to me for an hundred foreskins of the Philistines.
 - **6:16** — And as the ark of the LORD came into the city of David, Michal Saul's daughter looked through a window, and saw king David leaping and dancing before the LORD; and she despised him in her heart.
@@ -70,6 +70,6 @@ metav_id: 2073
 - **6:21** — And David said unto Michal, It was before the LORD, which chose me before thy father, and before all his house, to appoint me ruler over the people of the LORD, over Israel: therefore will I play before the LORD.
 - **6:23** — Therefore Michal the daughter of Saul had no child unto the day of her death.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **15:29** — And it came to pass, as the ark of the covenant of the LORD came to the city of David, that Michal the daughter of Saul looking out at a window saw king David dancing and playing: and she despised him in her heart.
 

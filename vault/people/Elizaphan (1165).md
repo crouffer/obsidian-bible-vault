@@ -44,6 +44,6 @@ metav_id: 1165
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **34:25** — And the prince of the tribe of the children of Zebulun, Elizaphan the son of Parnach.
 

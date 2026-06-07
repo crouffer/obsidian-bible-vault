@@ -17,8 +17,8 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Shaharaim]]"
-mother: "[[Hushim (1581)]]"
+father: "[[Hushim (1581)]]"
+mother: "[[Shaharaim]]"
 spouse: []
 children: 
   - "[[Beriah (480)]]"
@@ -57,7 +57,7 @@ metav_id: 1185
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **8:11** — And of Hushim he begat Abitub, and Elpaal.
 - **8:12** — The sons of Elpaal; Eber, and Misham, and Shamed, who built Ono, and Lod, with the towns thereof:
 - **8:18** — Ishmerai also, and Jezliah, and Jobab, the sons of Elpaal;

@@ -44,9 +44,9 @@ metav_id: 1083
 
 ## Verse References
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **23:32** — Eliahba the Shaalbonite, of the sons of Jashen, Jonathan,
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **11:33** — Azmaveth the Baharumite, Eliahba the Shaalbonite,
 

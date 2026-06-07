@@ -26,13 +26,13 @@ metav_id: 675
 
 ## Verse References
 
-### [[Deuteronomy]]
+### [[books/Deuteronomy|Deuteronomy]]
 - **2:26** — And I sent messengers out of the wilderness of Kedemoth unto Sihon king of Heshbon with words of peace, saying,
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **13:18** — And Jahazah, and Kedemoth, and Mephaath,
 - **21:37** — Kedemoth with her suburbs, and Mephaath with her suburbs; four cities.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:79** — Kedemoth also with her suburbs, and Mephaath with her suburbs:
 

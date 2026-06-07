@@ -26,6 +26,6 @@ metav_id: 241
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **19:4** — And Eltolad, and Bethul, and Hormah,
 

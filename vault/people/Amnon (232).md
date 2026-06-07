@@ -55,7 +55,7 @@ metav_id: 232
 
 ## Verse References
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **3:2** — And unto David were sons born in Hebron: and his firstborn was Amnon, of Ahinoam the Jezreelitess;
 - **13:1** — And it came to pass after this, that Absalom the son of David had a fair sister, whose name was Tamar; and Amnon the son of David loved her.
 - **13:2** — And Amnon was so vexed, that he fell sick for his sister Tamar; for she was a virgin; and Amnon thought it hard for him to do any thing to her.
@@ -77,6 +77,6 @@ metav_id: 232
 - **13:33** — Now therefore let not my lord the king take the thing to his heart, to think that all the king's sons are dead: for Amnon only is dead.
 - **13:39** — And the soul of king David longed to go forth unto Absalom: for he was comforted concerning Amnon, seeing he was dead.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **3:1** — Now these were the sons of David, which were born unto him in Hebron; the firstborn Amnon, of Ahinoam the Jezreelitess; the second Daniel, of Abigail the Carmelitess:
 

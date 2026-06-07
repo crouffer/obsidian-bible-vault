@@ -17,8 +17,8 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Joash (1632)]]"
-mother: "[[Jehoaddan]]"
+father: "[[Jehoaddan]]"
+mother: "[[Joash (1632)]]"
 spouse: 
   - "[[Jecoliah]]"
 children: 
@@ -46,7 +46,7 @@ metav_id: 214
 
 ## Verse References
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **12:21** — For Jozachar the son of Shimeath, and Jehozabad the son of Shomer, his servants, smote him, and he died; and they buried him with his fathers in the city of David: and Amaziah his son reigned in his stead.
 - **13:12** — And the rest of the acts of Joash, and all that he did, and his might wherewith he fought against Amaziah king of Judah, are they not written in the book of the chronicles of the kings of Israel?
 - **14:1** — In the second year of Joash son of Jehoahaz king of Israel reigned Amaziah the son of Joash king of Judah.
@@ -62,10 +62,10 @@ metav_id: 214
 - **15:1** — In the twenty and seventh year of Jeroboam king of Israel began Azariah son of Amaziah king of Judah to reign.
 - **15:3** — And he did that which was right in the sight of the LORD, according to all that his father Amaziah had done;
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **3:12** — Amaziah his son, Azariah his son, Jotham his son,
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **24:27** — Now concerning his sons, and the greatness of the burdens laid upon him, and the repairing of the house of God, behold, they are written in the story of the book of the kings. And Amaziah his son reigned in his stead.
 - **25:1** — Amaziah was twenty and five years old when he began to reign, and he reigned twenty and nine years in Jerusalem. And his mother's name was Jehoaddan of Jerusalem.
 - **25:5** — Moreover Amaziah gathered Judah together, and made them captains over thousands, and captains over hundreds, according to the houses of their fathers, throughout all Judah and Benjamin: and he numbered them from twenty years old and above, and found them three hundred thousand choice men, able to go forth to war, that could handle spear and shield.

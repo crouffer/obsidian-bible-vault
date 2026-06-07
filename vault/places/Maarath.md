@@ -26,6 +26,6 @@ metav_id: 745
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **15:59** — And Maarath, and Bethanoth, and Eltekon; six cities with their villages:
 

@@ -26,9 +26,9 @@ metav_id: 269
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **10:10** — And the beginning of his kingdom was Babel, and Erech, and Accad, and Calneh, in the land of Shinar.
 
-### [[Amos]]
+### [[books/Amos|Amos]]
 - **6:2** — Pass ye unto Calneh, and see; and from thence go ye to Hamath the great: then go down to Gath of the Philistines: be they better than these kingdoms? or their border greater than your border?
 

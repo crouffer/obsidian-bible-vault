@@ -44,6 +44,6 @@ metav_id: 1228
 
 ## Verse References
 
-### [[2 Timothy]]
+### [[books/2 Timothy|2 Timothy]]
 - **1:5** — When I call to remembrance the unfeigned faith that is in thee, which dwelt first in thy grandmother Lois, and thy mother Eunice; and I am persuaded that in thee also.
 

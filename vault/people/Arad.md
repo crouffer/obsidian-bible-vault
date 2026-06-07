@@ -52,10 +52,10 @@ metav_id: 281
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **21:1** — And when king Arad the Canaanite, which dwelt in the south, heard tell that Israel came by the way of the spies; then he fought against Israel, and took some of them prisoners.
 - **33:40** — And king Arad the Canaanite, which dwelt in the south in the land of Canaan, heard of the coming of the children of Israel.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **8:15** — And Zebadiah, and Arad, and Ader,
 

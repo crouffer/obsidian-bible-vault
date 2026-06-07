@@ -26,6 +26,6 @@ metav_id: 187
 
 ## Verse References
 
-### [[John]]
+### [[books/John|John]]
 - **1:28** — These things were done in Bethabara beyond Jordan, where John was baptizing.
 

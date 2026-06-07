@@ -44,6 +44,6 @@ metav_id: 2575
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **10:12** — Zaccur, Sherebiah, Shebaniah,
 

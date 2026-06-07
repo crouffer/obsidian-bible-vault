@@ -44,7 +44,7 @@ metav_id: 935
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **15:22** — And Chenaniah, chief of the Levites, was for song: he instructed about the song, because he was skilful.
 - **15:27** — And David was clothed with a robe of fine linen, and all the Levites that bare the ark, and the singers, and Chenaniah the master of the song with the singers: David also had upon him an ephod of linen.
 

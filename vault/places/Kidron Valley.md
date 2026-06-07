@@ -26,9 +26,9 @@ metav_id: 688
 
 ## Verse References
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **30:14** — And they arose and took away the altars that were in Jerusalem, and all the altars for incense took they away, and cast them into the brook Kidron.
 
-### [[John]]
+### [[books/John|John]]
 - **18:1** — When Jesus had spoken these words, he went forth with his disciples over the brook Cedron, where was a garden, into the which he entered, and his disciples.
 

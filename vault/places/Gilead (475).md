@@ -26,20 +26,20 @@ metav_id: 475
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **31:21** — So he fled with all that he had; and he rose up, and passed over the river, and set his face toward the mount Gilead.
 - **31:23** — And he took his brethren with him, and pursued after him seven days' journey; and they overtook him in the mount Gilead.
 - **31:25** — Then Laban overtook Jacob. Now Jacob had pitched his tent in the mount: and Laban with his brethren pitched in the mount of Gilead.
 - **37:25** — And they sat down to eat bread: and they lifted up their eyes and looked, and, behold, a company of Ishmeelites came from Gilead with their camels bearing spicery and balm and myrrh, going to carry it down to Egypt.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **32:1** — Now the children of Reuben and the children of Gad had a very great multitude of cattle: and when they saw the land of Jazer, and the land of Gilead, that, behold, the place was a place for cattle;
 - **32:26** — Our little ones, our wives, our flocks, and all our cattle, shall be there in the cities of Gilead:
 - **32:29** — And Moses said unto them, If the children of Gad and the children of Reuben will pass with you over Jordan, every man armed to battle, before the LORD, and the land shall be subdued before you; then ye shall give them the land of Gilead for a possession:
 - **32:39** — And the children of Machir the son of Manasseh went to Gilead, and took it, and dispossessed the Amorite which was in it.
 - **32:40** — And Moses gave Gilead unto Machir the son of Manasseh; and he dwelt therein.
 
-### [[Deuteronomy]]
+### [[books/Deuteronomy|Deuteronomy]]
 - **2:36** — From Aroer, which is by the brink of the river of Arnon, and from the city that is by the river, even unto Gilead, there was not one city too strong for us: the LORD our God delivered all unto us:
 - **3:10** — All the cities of the plain, and all Gilead, and all Bashan, unto Salchah and Edrei, cities of the kingdom of Og in Bashan.
 - **3:12** — And this land, which we possessed at that time, from Aroer, which is by the river Arnon, and half mount Gilead, and the cities thereof, gave I unto the Reubenites and to the Gadites.
@@ -49,7 +49,7 @@ metav_id: 475
 - **4:43** — Namely, Bezer in the wilderness, in the plain country, of the Reubenites; and Ramoth in Gilead, of the Gadites; and Golan in Bashan, of the Manassites.
 - **34:1** — And Moses went up from the plains of Moab unto the mountain of Nebo, to the top of Pisgah, that is over against Jericho. And the LORD shewed him all the land of Gilead, unto Dan,
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **12:2** — Sihon king of the Amorites, who dwelt in Heshbon, and ruled from Aroer, which is upon the bank of the river Arnon, and from the middle of the river, and from half Gilead, even unto the river Jabbok, which is the border of the children of Ammon;
 - **12:5** — And reigned in mount Hermon, and in Salcah, and in all Bashan, unto the border of the Geshurites and the Maachathites, and half Gilead, the border of Sihon king of Heshbon.
 - **13:11** — And Gilead, and the border of the Geshurites and Maachathites, and all mount Hermon, and all Bashan unto Salcah;
@@ -65,7 +65,7 @@ metav_id: 475
 - **22:15** — And they came unto the children of Reuben, and to the children of Gad, and to the half tribe of Manasseh, unto the land of Gilead, and they spake with them, saying,
 - **22:32** — And Phinehas the son of Eleazar the priest, and the princes, returned from the children of Reuben, and from the children of Gad, out of the land of Gilead, unto the land of Canaan, to the children of Israel, and brought them word again.
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **5:17** — Gilead abode beyond Jordan: and why did Dan remain in ships? Asher continued on the sea shore, and abode in his breaches.
 - **10:4** — And he had thirty sons that rode on thirty ass colts, and they had thirty cities, which are called Havothjair unto this day, which are in the land of Gilead.
 - **10:8** — And that year they vexed and oppressed the children of Israel: eighteen years, all the children of Israel that were on the other side Jordan in the land of the Amorites, which is in Gilead.
@@ -83,25 +83,25 @@ metav_id: 475
 - **12:7** — And Jephthah judged Israel six years. Then died Jephthah the Gileadite, and was buried in one of the cities of Gilead.
 - **20:1** — Then all the children of Israel went out, and the congregation was gathered together as one man, from Dan even to Beersheba, with the land of Gilead, unto the LORD in Mizpeh.
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **13:7** — And some of the Hebrews went over Jordan to the land of Gad and Gilead. As for Saul, he was yet in Gilgal, and all the people followed him trembling.
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **2:9** — And made him king over Gilead, and over the Ashurites, and over Jezreel, and over Ephraim, and over Benjamin, and over all Israel.
 - **17:26** — So Israel and Absalom pitched in the land of Gilead.
 - **24:6** — Then they came to Gilead, and to the land of Tahtimhodshi; and they came to Danjaan, and about to Zidon,
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **4:13** — The son of Geber, in Ramothgilead; to him pertained the towns of Jair the son of Manasseh, which are in Gilead; to him also pertained the region of Argob, which is in Bashan, threescore great cities with walls and brasen bars:
 - **4:19** — Geber the son of Uri was in the country of Gilead, in the country of Sihon king of the Amorites, and of Og king of Bashan; and he was the only officer which was in the land.
 - **17:1** — And Elijah the Tishbite, who was of the inhabitants of Gilead, said unto Ahab, As the LORD God of Israel liveth, before whom I stand, there shall not be dew nor rain these years, but according to my word.
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **10:33** — From Jordan eastward, all the land of Gilead, the Gadites, and the Reubenites, and the Manassites, from Aroer, which is by the river Arnon, even Gilead and Bashan.
 - **15:25** — But Pekah the son of Remaliah, a captain of his, conspired against him, and smote him in Samaria, in the palace of the king's house, with Argob and Arieh, and with him fifty men of the Gileadites: and he killed him, and reigned in his room.
 - **15:29** — In the days of Pekah king of Israel came Tiglathpileser king of Assyria, and took Ijon, and Abelbethmaachah, and Janoah, and Kedesh, and Hazor, and Gilead, and Galilee, all the land of Naphtali, and carried them captive to Assyria.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **2:22** — And Segub begat Jair, who had three and twenty cities in the land of Gilead.
 - **5:9** — And eastward he inhabited unto the entering in of the wilderness from the river Euphrates: because their cattle were multiplied in the land of Gilead.
 - **5:10** — And in the days of Saul they made war with the Hagarites, who fell by their hand: and they dwelt in their tents throughout all the east land of Gilead.
@@ -110,37 +110,37 @@ metav_id: 475
 - **26:31** — Among the Hebronites was Jerijah the chief, even among the Hebronites, according to the generations of his fathers. In the fortieth year of the reign of David they were sought for, and there were found among them mighty men of valour at Jazer of Gilead.
 - **27:21** — Of the half tribe of Manasseh in Gilead, Iddo the son of Zechariah: of Benjamin, Jaasiel the son of Abner:
 
-### [[Psalms]]
+### [[books/Psalms|Psalms]]
 - **60:7** — Gilead is mine, and Manasseh is mine; Ephraim also is the strength of mine head; Judah is my lawgiver;
 - **108:8** — Gilead is mine; Manasseh is mine; Ephraim also is the strength of mine head; Judah is my lawgiver;
 
-### [[Song of Solomon]]
+### [[books/Song of Solomon|Song of Solomon]]
 - **4:1** — Behold, thou art fair, my love; behold, thou art fair; thou hast doves' eyes within thy locks: thy hair is as a flock of goats, that appear from mount Gilead.
 - **6:5** — Turn away thine eyes from me, for they have overcome me: thy hair is as a flock of goats that appear from Gilead.
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **8:22** — Is there no balm in Gilead; is there no physician there? why then is not the health of the daughter of my people recovered?
 - **22:6** — For thus saith the LORD unto the king's house of Judah; Thou art Gilead unto me, and the head of Lebanon: yet surely I will make thee a wilderness, and cities which are not inhabited.
 - **46:11** — Go up into Gilead, and take balm, O virgin, the daughter of Egypt: in vain shalt thou use many medicines; for thou shalt not be cured.
 - **50:19** — And I will bring Israel again to his habitation, and he shall feed on Carmel and Bashan, and his soul shall be satisfied upon mount Ephraim and Gilead.
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **47:18** — And the east side ye shall measure from Hauran, and from Damascus, and from Gilead, and from the land of Israel by Jordan, from the border unto the east sea. And this is the east side.
 
-### [[Hosea]]
+### [[books/Hosea|Hosea]]
 - **6:8** — Gilead is a city of them that work iniquity, and is polluted with blood.
 - **12:11** — Is there iniquity in Gilead? surely they are vanity: they sacrifice bullocks in Gilgal; yea, their altars are as heaps in the furrows of the fields.
 
-### [[Amos]]
+### [[books/Amos|Amos]]
 - **1:3** — Thus saith the LORD; For three transgressions of Damascus, and for four, I will not turn away the punishment thereof; because they have threshed Gilead with threshing instruments of iron:
 - **1:13** — Thus saith the LORD; For three transgressions of the children of Ammon, and for four, I will not turn away the punishment thereof; because they have ripped up the women with child of Gilead, that they might enlarge their border:
 
-### [[Obadiah]]
+### [[books/Obadiah|Obadiah]]
 - **1:19** — And they of the south shall possess the mount of Esau; and they of the plain the Philistines: and they shall possess the fields of Ephraim, and the fields of Samaria: and Benjamin shall possess Gilead.
 
-### [[Micah]]
+### [[books/Micah|Micah]]
 - **7:14** — Feed thy people with thy rod, the flock of thine heritage, which dwell solitarily in the wood, in the midst of Carmel: let them feed in Bashan and Gilead, as in the days of old.
 
-### [[Zechariah]]
+### [[books/Zechariah|Zechariah]]
 - **10:10** — I will bring them again also out of the land of Egypt, and gather them out of Assyria; and I will bring them into the land of Gilead and Lebanon; and place shall not be found for them.
 

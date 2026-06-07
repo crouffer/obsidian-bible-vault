@@ -44,9 +44,9 @@ metav_id: 1583
 
 ## Verse References
 
-### [[1 Timothy]]
+### [[books/1 Timothy|1 Timothy]]
 - **1:20** — Of whom is Hymenaeus and Alexander; whom I have delivered unto Satan, that they may learn not to blaspheme.
 
-### [[2 Timothy]]
+### [[books/2 Timothy|2 Timothy]]
 - **2:17** — And their word will eat as doth a canker: of whom is Hymenaeus and Philetus;
 

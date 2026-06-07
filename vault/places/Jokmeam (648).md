@@ -26,6 +26,6 @@ metav_id: 648
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:68** — And Jokmeam with her suburbs, and Bethhoron with her suburbs,
 

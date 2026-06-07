@@ -26,7 +26,7 @@ metav_id: 532
 
 ## Verse References
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **47:16** — Hamath, Berothah, Sibraim, which is between the border of Damascus and the border of Hamath; Hazarhatticon, which is by the coast of Hauran.
 - **47:18** — And the east side ye shall measure from Hauran, and from Damascus, and from Gilead, and from the land of Israel by Jordan, from the border unto the east sea. And this is the east side.
 

@@ -45,10 +45,10 @@ metav_id: 165
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:11** — And Azariah begat Amariah, and Amariah begat Ahitub,
 - **6:12** — And Ahitub begat Zadok, and Zadok begat Shallum,
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **7:2** — The son of Shallum, the son of Zadok, the son of Ahitub,
 

@@ -54,9 +54,9 @@ metav_id: 308
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **10:17** — And the Hivite, and the Arkite, and the Sinite,
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:15** — And the Hivite, and the Arkite, and the Sinite,
 

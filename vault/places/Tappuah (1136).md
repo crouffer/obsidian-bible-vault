@@ -26,7 +26,7 @@ metav_id: 1136
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **12:17** — The king of Tappuah, one; the king of Hepher, one;
 - **16:8** — The border went out from Tappuah westward unto the river Kanah; and the goings out thereof were at the sea. This is the inheritance of the tribe of the children of Ephraim by their families.
 - **17:8** — Now Manasseh had the land of Tappuah: but Tappuah on the border of Manasseh belonged to the children of Ephraim;

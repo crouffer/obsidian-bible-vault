@@ -57,7 +57,7 @@ metav_id: 1887
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **28:9** — Then went Esau unto Ishmael, and took unto the wives which he had Mahalath the daughter of Ishmael Abraham's son, the sister of Nebajoth, to be his wife.
 - **36:3** — And Bashemath Ishmael's daughter, sister of Nebajoth.
 - **36:4** — And Adah bare to Esau Eliphaz; and Bashemath bare Reuel;

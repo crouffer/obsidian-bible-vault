@@ -45,7 +45,7 @@ metav_id: 1577
 
 ## Verse References
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **15:32** — And it came to pass, that when David was come to the top of the mount, where he worshipped God, behold, Hushai the Archite came to meet him with his coat rent, and earth upon his head:
 - **15:37** — So Hushai David's friend came into the city, and Absalom came into Jerusalem.
 - **16:16** — And it came to pass, when Hushai the Archite, David's friend, was come unto Absalom, that Hushai said unto Absalom, God save the king, God save the king.
@@ -58,9 +58,9 @@ metav_id: 1577
 - **17:14** — And Absalom and all the men of Israel said, The counsel of Hushai the Archite is better than the counsel of Ahithophel. For the LORD had appointed to defeat the good counsel of Ahithophel, to the intent that the LORD might bring evil upon Absalom.
 - **17:15** — Then said Hushai unto Zadok and to Abiathar the priests, Thus and thus did Ahithophel counsel Absalom and the elders of Israel; and thus and thus have I counselled.
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **4:16** — Baanah the son of Hushai was in Asher and in Aloth:
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **27:33** — And Ahithophel was the king's counsellor: and Hushai the Archite was the king's companion:
 

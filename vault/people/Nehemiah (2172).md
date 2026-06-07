@@ -45,7 +45,7 @@ metav_id: 2172
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **1:1** — The words of Nehemiah the son of Hachaliah. And it came to pass in the month Chisleu, in the twentieth year, as I was in Shushan the palace,
 - **8:9** — And Nehemiah, which is the Tirshatha, and Ezra the priest the scribe, and the Levites that taught the people, said unto all the people, This day is holy unto the LORD your God; mourn not, nor weep. For all the people wept, when they heard the words of the law.
 - **10:1** — Now those that sealed were, Nehemiah, the Tirshatha, the son of Hachaliah, and Zidkijah,

@@ -54,7 +54,7 @@ metav_id: 1510
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **10:15** — And Canaan begat Sidon his firstborn, and Heth,
 - **23:3** — And Abraham stood up from before his dead, and spake unto the sons of Heth, saying,
 - **23:5** — And the children of Heth answered Abraham, saying unto him,
@@ -67,6 +67,6 @@ metav_id: 1510
 - **27:46** — And Rebekah said to Isaac, I am weary of my life because of the daughters of Heth: if Jacob take a wife of the daughters of Heth, such as these which are of the daughters of the land, what good shall my life do me?
 - **49:32** — The purchase of the field and of the cave that is therein was from the children of Heth.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:13** — And Canaan begat Zidon his firstborn, and Heth,
 

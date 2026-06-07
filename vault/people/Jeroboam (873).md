@@ -45,7 +45,7 @@ metav_id: 873
 
 ## Verse References
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **13:13** — And Joash slept with his fathers; and Jeroboam sat upon his throne: and Joash was buried in Samaria with the kings of Israel.
 - **14:16** — And Jehoash slept with his fathers, and was buried in Samaria with the kings of Israel; and Jeroboam his son reigned in his stead.
 - **14:23** — In the fifteenth year of Amaziah the son of Joash king of Judah Jeroboam the son of Joash king of Israel began to reign in Samaria, and reigned forty and one years.
@@ -55,13 +55,13 @@ metav_id: 873
 - **15:1** — In the twenty and seventh year of Jeroboam king of Israel began Azariah son of Amaziah king of Judah to reign.
 - **15:8** — In the thirty and eighth year of Azariah king of Judah did Zachariah the son of Jeroboam reign over Israel in Samaria six months.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **5:17** — All these were reckoned by genealogies in the days of Jotham king of Judah, and in the days of Jeroboam king of Israel.
 
-### [[Hosea]]
+### [[books/Hosea|Hosea]]
 - **1:1** — The word of the LORD that came unto Hosea, the son of Beeri, in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel.
 
-### [[Amos]]
+### [[books/Amos|Amos]]
 - **1:1** — The words of Amos, who was among the herdmen of Tekoa, which he saw concerning Israel in the days of Uzziah king of Judah, and in the days of Jeroboam the son of Joash king of Israel, two years before the earthquake.
 - **7:9** — And the high places of Isaac shall be desolate, and the sanctuaries of Israel shall be laid waste; and I will rise against the house of Jeroboam with the sword.
 - **7:10** — Then Amaziah the priest of Bethel sent to Jeroboam king of Israel, saying, Amos hath conspired against thee in the midst of the house of Israel: the land is not able to bear all his words.

@@ -57,7 +57,7 @@ metav_id: 2730
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **7:36** — The sons of Zophah; Suah, and Harnepher, and Shual, and Beri, and Imrah,
 - **7:39** — And the sons of Ulla; Arah, and Haniel, and Rezia.
 

@@ -44,15 +44,15 @@ metav_id: 708
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **32:41** — And Jair the son of Manasseh went and took the small towns thereof, and called them Havothjair.
 
-### [[Deuteronomy]]
+### [[books/Deuteronomy|Deuteronomy]]
 - **3:14** — Jair the son of Manasseh took all the country of Argob unto the coasts of Geshuri and Maachathi; and called them after his own name, Bashanhavothjair, unto this day.
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **4:13** — The son of Geber, in Ramothgilead; to him pertained the towns of Jair the son of Manasseh, which are in Gilead; to him also pertained the region of Argob, which is in Bashan, threescore great cities with walls and brasen bars:
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **2:22** — And Segub begat Jair, who had three and twenty cities in the land of Gilead.
 

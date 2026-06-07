@@ -45,7 +45,7 @@ metav_id: 261
 
 ## Verse References
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **3:31** — And after him was Shamgar the son of Anath, which slew of the Philistines six hundred men with an ox goad: and he also delivered Israel.
 - **5:6** — In the days of Shamgar the son of Anath, in the days of Jael, the highways were unoccupied, and the travellers walked through byways.
 

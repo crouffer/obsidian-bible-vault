@@ -44,14 +44,14 @@ metav_id: 3029
 
 ## Verse References
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **22:11** — And Zedekiah the son of Chenaanah made him horns of iron: and he said, Thus saith the LORD, With these shalt thou push the Syrians, until thou have consumed them.
 - **22:24** — But Zedekiah the son of Chenaanah went near, and smote Micaiah on the cheek, and said, Which way went the Spirit of the LORD from me to speak unto thee?
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **18:10** — And Zedekiah the son of Chenaanah had made him horns of iron, and said, Thus saith the LORD, With these thou shalt push Syria until they be consumed.
 - **18:23** — Then Zedekiah the son of Chenaanah came near, and smote Micaiah upon the cheek, and said, Which way went the Spirit of the LORD from me to speak unto thee?
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **39:7** — Moreover he put out Zedekiah's eyes, and bound him with chains, to carry him to Babylon.
 

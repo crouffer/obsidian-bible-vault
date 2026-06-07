@@ -53,6 +53,6 @@ metav_id: 2366
 
 ## Verse References
 
-### [[Esther]]
+### [[books/Esther|Esther]]
 - **9:8** — And Poratha, and Adalia, and Aridatha,
 

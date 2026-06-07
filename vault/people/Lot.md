@@ -50,7 +50,7 @@ metav_id: 1830
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **11:27** — Now these are the generations of Terah: Terah begat Abram, Nahor, and Haran; and Haran begat Lot.
 - **11:31** — And Terah took Abram his son, and Lot the son of Haran his son's son, and Sarai his daughter in law, his son Abram's wife; and they went forth with them from Ur of the Chaldees, to go into the land of Canaan; and they came unto Haran, and dwelt there.
 - **12:4** — So Abram departed, as the LORD had spoken unto him; and Lot went with him: and Abram was seventy and five years old when he departed out of Haran.
@@ -79,18 +79,18 @@ metav_id: 1830
 - **19:30** — And Lot went up out of Zoar, and dwelt in the mountain, and his two daughters with him; for he feared to dwell in Zoar: and he dwelt in a cave, he and his two daughters.
 - **19:36** — Thus were both the daughters of Lot with child by their father.
 
-### [[Deuteronomy]]
+### [[books/Deuteronomy|Deuteronomy]]
 - **2:9** — And the LORD said unto me, Distress not the Moabites, neither contend with them in battle: for I will not give thee of their land for a possession; because I have given Ar unto the children of Lot for a possession.
 - **2:19** — And when thou comest nigh over against the children of Ammon, distress them not, nor meddle with them: for I will not give thee of the land of the children of Ammon any possession; because I have given it unto the children of Lot for a possession.
 
-### [[Psalms]]
+### [[books/Psalms|Psalms]]
 - **83:8** — Assur also is joined with them: they have holpen the children of Lot. Selah.
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **17:28** — Likewise also as it was in the days of Lot; they did eat, they drank, they bought, they sold, they planted, they builded;
 - **17:29** — But the same day that Lot went out of Sodom it rained fire and brimstone from heaven, and destroyed them all.
 - **17:32** — Remember Lot's wife.
 
-### [[2 Peter]]
+### [[books/2 Peter|2 Peter]]
 - **2:7** — And delivered just Lot, vexed with the filthy conversation of the wicked:
 

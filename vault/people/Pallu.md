@@ -48,16 +48,16 @@ metav_id: 2325
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **46:9** — And the sons of Reuben; Hanoch, and Phallu, and Hezron, and Carmi.
 
-### [[Exodus]]
+### [[books/Exodus|Exodus]]
 - **6:14** — These be the heads of their fathers' houses: The sons of Reuben the firstborn of Israel; Hanoch, and Pallu, Hezron, and Carmi: these be the families of Reuben.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **26:5** — Reuben, the eldest son of Israel: the children of Reuben; Hanoch, of whom cometh the family of the Hanochites: of Pallu, the family of the Palluites:
 - **26:8** — And the sons of Pallu; Eliab.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **5:3** — The sons, I say, of Reuben the firstborn of Israel were, Hanoch, and Pallu, Hezron, and Carmi.
 

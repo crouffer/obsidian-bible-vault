@@ -45,6 +45,6 @@ metav_id: 2266
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **3:11** — Malchijah the son of Harim, and Hashub the son of Pahathmoab, repaired the other piece, and the tower of the furnaces.
 

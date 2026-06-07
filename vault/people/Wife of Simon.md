@@ -45,12 +45,12 @@ metav_id: 2943
 
 ## Verse References
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **8:14** — And when Jesus was come into Peter's house, he saw his wife's mother laid, and sick of a fever.
 
-### [[Mark]]
+### [[books/Mark|Mark]]
 - **1:30** — But Simon's wife's mother lay sick of a fever, and anon they tell him of her.
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **4:38** — And he arose out of the synagogue, and entered into Simon's house. And Simon's wife's mother was taken with a great fever; and they besought him for her.
 

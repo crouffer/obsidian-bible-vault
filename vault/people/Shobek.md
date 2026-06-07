@@ -44,6 +44,6 @@ metav_id: 2721
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **10:24** — Hallohesh, Pileha, Shobek,
 

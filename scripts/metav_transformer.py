@@ -196,13 +196,27 @@ def build_name_maps(conn):
 def safe_filename(name: str) -> str:
     return re.sub(r'[<>:"/\\|?*\x00-\x1f]', "", name).strip()
 
+# YAML 1.1 plain scalars that silently coerce to non-strings unless quoted.
+# e.g. a person/place literally named "On" parses as the boolean True.
+_YAML_BOOL = {"y", "yes", "n", "no", "true", "false", "on", "off"}
+_YAML_NULL = {"null", "none", "~"}
+_YAML_NUM_RE = re.compile(r"^[-+]?(\d+\.?\d*|\.\d+)([eE][-+]?\d+)?$")
+
 def yaml_str(val):
     if not val:
         return "null"
-    # Quote strings that need it
-    if any(c in str(val) for c in ':#{}&*!|>\'"'):
-        return json.dumps(str(val))
-    return str(val)
+    s = str(val)
+    low = s.strip().lower()
+    needs_quote = (
+        any(c in s for c in ':#{}&*!|>\'"[]') or   # YAML indicator characters
+        s != s.strip() or                          # leading/trailing whitespace
+        low in _YAML_BOOL or                       # on/off/yes/no/true/false
+        low in _YAML_NULL or                       # null/none/~
+        bool(_YAML_NUM_RE.match(s))                # bare numbers
+    )
+    if needs_quote:
+        return json.dumps(s)
+    return s
 
 def yaml_link(display_name):
     if not display_name:
@@ -370,7 +384,9 @@ metav_id: {pid}
         body = "## Verse References\n\n"
         if by_book:
             for book_name, verses in by_book.items():
-                body += f"### [[{book_name}]]\n"
+                # Path-qualify so the link always points to the book note, not a
+                # person/place that happens to share the name (Matthew, Luke, Ruth…).
+                body += f"### [[books/{book_name}|{book_name}]]\n"
                 for ch, vn, text in verses:
                     body += f"- **{ch}:{vn}** — {text.strip()}\n"
                 body += "\n"
@@ -446,7 +462,9 @@ metav_id: {plid}
         body = "## Verse References\n\n"
         if by_book:
             for book_name, verses in by_book.items():
-                body += f"### [[{book_name}]]\n"
+                # Path-qualify so the link always points to the book note, not a
+                # person/place that happens to share the name (Matthew, Luke, Ruth…).
+                body += f"### [[books/{book_name}|{book_name}]]\n"
                 for ch, vn, text in verses:
                     body += f"- **{ch}:{vn}** — {text.strip()}\n"
                 body += "\n"

@@ -52,6 +52,6 @@ metav_id: 856
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **8:14** — And Ahio, Shashak, and Jeremoth,
 

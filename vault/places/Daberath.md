@@ -26,10 +26,10 @@ metav_id: 319
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **19:12** — And turned from Sarid eastward toward the sunrising unto the border of Chislothtabor, and then goeth out to Daberath, and goeth up to Japhia,
 - **21:28** — And out of the tribe of Issachar, Kishon with her suburbs, Dabareh with her suburbs,
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:72** — And out of the tribe of Issachar; Kedesh with her suburbs, Daberath with her suburbs,
 

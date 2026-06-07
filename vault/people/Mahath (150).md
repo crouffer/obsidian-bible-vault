@@ -45,7 +45,7 @@ metav_id: 150
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:25** — And the sons of Elkanah; Amasai, and Ahimoth.
 - **6:35** — The son of Zuph, the son of Elkanah, the son of Mahath, the son of Amasai,
 

@@ -54,9 +54,9 @@ metav_id: 2738
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **10:15** — And Canaan begat Sidon his firstborn, and Heth,
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:13** — And Canaan begat Zidon his firstborn, and Heth,
 

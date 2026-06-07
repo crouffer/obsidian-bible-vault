@@ -26,9 +26,9 @@ metav_id: 998
 
 ## Verse References
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **19:12** — Have the gods of the nations delivered them which my fathers have destroyed; as Gozan, and Haran, and Rezeph, and the children of Eden which were in Thelasar?
 
-### [[Isaiah]]
+### [[books/Isaiah|Isaiah]]
 - **37:12** — Have the gods of the nations delivered them which my fathers have destroyed, as Gozan, and Haran, and Rezeph, and the children of Eden which were in Telassar?
 

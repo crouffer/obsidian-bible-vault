@@ -44,6 +44,6 @@ metav_id: 2647
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **10:41** — Azareel, and Shelemiah, Shemariah,
 

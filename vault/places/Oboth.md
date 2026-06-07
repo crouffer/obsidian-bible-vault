@@ -26,7 +26,7 @@ metav_id: 906
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **21:10** — And the children of Israel set forward, and pitched in Oboth.
 - **21:11** — And they journeyed from Oboth, and pitched at Ijeabarim, in the wilderness which is before Moab, toward the sunrising.
 - **33:43** — And they departed from Punon, and pitched in Oboth.

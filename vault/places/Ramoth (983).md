@@ -26,10 +26,10 @@ metav_id: 983
 
 ## Verse References
 
-### [[Deuteronomy]]
+### [[books/Deuteronomy|Deuteronomy]]
 - **4:43** — Namely, Bezer in the wilderness, in the plain country, of the Reubenites; and Ramoth in Gilead, of the Gadites; and Golan in Bashan, of the Manassites.
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **20:8** — And on the other side Jordan by Jericho eastward, they assigned Bezer in the wilderness upon the plain out of the tribe of Reuben, and Ramoth in Gilead out of the tribe of Gad, and Golan in Bashan out of the tribe of Manasseh.
 - **21:38** — And out of the tribe of Gad, Ramoth in Gilead with her suburbs, to be a city of refuge for the slayer; and Mahanaim with her suburbs,
 

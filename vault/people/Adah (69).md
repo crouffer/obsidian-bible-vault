@@ -45,7 +45,7 @@ metav_id: 69
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **4:19** — And Lamech took unto him two wives: the name of the one was Adah, and the name of the other Zillah.
 - **4:20** — And Adah bare Jabal: he was the father of such as dwell in tents, and of such as have cattle.
 - **4:23** — And Lamech said unto his wives, Adah and Zillah, Hear my voice; ye wives of Lamech, hearken unto my speech: for I have slain a man to my wounding, and a young man to my hurt.

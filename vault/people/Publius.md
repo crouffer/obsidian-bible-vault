@@ -44,7 +44,7 @@ metav_id: 2374
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **28:7** — In the same quarters were possessions of the chief man of the island, whose name was Publius; who received us, and lodged us three days courteously.
 - **28:8** — And it came to pass, that the father of Publius lay sick of a fever and of a bloody flux: to whom Paul entered in, and prayed, and laid his hands on him, and healed him.
 

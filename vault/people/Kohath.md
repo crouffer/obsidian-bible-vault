@@ -51,14 +51,14 @@ metav_id: 1790
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **46:11** — And the sons of Levi; Gershon, Kohath, and Merari.
 
-### [[Exodus]]
+### [[books/Exodus|Exodus]]
 - **6:16** — And these are the names of the sons of Levi according to their generations; Gershon, and Kohath, and Merari: and the years of the life of Levi were an hundred thirty and seven years.
 - **6:18** — And the sons of Kohath; Amram, and Izhar, and Hebron, and Uzziel: and the years of the life of Kohath were an hundred thirty and three years.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **3:17** — And these were the sons of Levi by their names; Gershon, and Kohath, and Merari.
 - **3:19** — And the sons of Kohath by their families; Amram, and Izehar, Hebron, and Uzziel.
 - **3:27** — And of Kohath was the family of the Amramites, and the family of the Izeharites, and the family of the Hebronites, and the family of the Uzzielites: these are the families of the Kohathites.
@@ -71,12 +71,12 @@ metav_id: 1790
 - **26:57** — And these are they that were numbered of the Levites after their families: of Gershon, the family of the Gershonites: of Kohath, the family of the Kohathites: of Merari, the family of the Merarites.
 - **26:58** — These are the families of the Levites: the family of the Libnites, the family of the Hebronites, the family of the Mahlites, the family of the Mushites, the family of the Korathites. And Kohath begat Amram.
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **21:5** — And the rest of the children of Kohath had by lot out of the families of the tribe of Ephraim, and out of the tribe of Dan, and out of the half tribe of Manasseh, ten cities.
 - **21:20** — And the families of the children of Kohath, the Levites which remained of the children of Kohath, even they had the cities of their lot out of the tribe of Ephraim.
 - **21:26** — All the cities were ten with their suburbs for the families of the children of Kohath that remained.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:1** — The sons of Levi; Gershon, Kohath, and Merari.
 - **6:2** — And the sons of Kohath; Amram, Izhar, and Hebron, and Uzziel.
 - **6:16** — The sons of Levi; Gershom, Kohath, and Merari.

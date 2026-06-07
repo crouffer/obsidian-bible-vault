@@ -26,7 +26,7 @@ metav_id: 855
 
 ## Verse References
 
-### [[Exodus]]
+### [[books/Exodus|Exodus]]
 - **19:11** — And be ready against the third day: for the third day the LORD will come down in the sight of all the people upon mount Sinai.
 - **19:18** — And mount Sinai was altogether on a smoke, because the LORD descended upon it in fire: and the smoke thereof ascended as the smoke of a furnace, and the whole mount quaked greatly.
 - **19:20** — And the LORD came down upon mount Sinai, on the top of the mount: and the LORD called Moses up to the top of the mount; and Moses went up.
@@ -38,23 +38,23 @@ metav_id: 855
 - **34:29** — And it came to pass, when Moses came down from mount Sinai with the two tables of testimony in Moses' hand, when he came down from the mount, that Moses wist not that the skin of his face shone while he talked with him.
 - **34:32** — And afterward all the children of Israel came nigh: and he gave them in commandment all that the LORD had spoken with him in mount Sinai.
 
-### [[Leviticus]]
+### [[books/Leviticus|Leviticus]]
 - **25:1** — And the LORD spake unto Moses in mount Sinai, saying,
 - **26:46** — These are the statutes and judgments and laws, which the LORD made between him and the children of Israel in mount Sinai by the hand of Moses.
 - **27:34** — These are the commandments, which the LORD commanded Moses for the children of Israel in mount Sinai.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **3:1** — These also are the generations of Aaron and Moses in the day that the LORD spake with Moses in mount Sinai.
 - **28:6** — It is a continual burnt offering, which was ordained in mount Sinai for a sweet savour, a sacrifice made by fire unto the LORD.
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **9:13** — Thou camest down also upon mount Sinai, and spakest with them from heaven, and gavest them right judgments, and true laws, good statutes and commandments:
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **7:30** — And when forty years were expired, there appeared to him in the wilderness of mount Sina an angel of the Lord in a flame of fire in a bush.
 - **7:38** — This is he, that was in the church in the wilderness with the angel which spake to him in the mount Sina, and with our fathers: who received the lively oracles to give unto us:
 
-### [[Galatians]]
+### [[books/Galatians|Galatians]]
 - **4:24** — Which things are an allegory: for these are the two covenants; the one from the mount Sinai, which gendereth to bondage, which is Agar.
 - **4:25** — For this Agar is mount Sinai in Arabia, and answereth to Jerusalem which now is, and is in bondage with her children.
 

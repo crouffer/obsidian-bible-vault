@@ -46,12 +46,12 @@ metav_id: 2818
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **13:22** — And they ascended by the south, and came unto Hebron; where Ahiman, Sheshai, and Talmai, the children of Anak, were. (Now Hebron was built seven years before Zoan in Egypt.)
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **15:14** — And Caleb drove thence the three sons of Anak, Sheshai, and Ahiman, and Talmai, the children of Anak.
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **1:10** — And Judah went against the Canaanites that dwelt in Hebron: (now the name of Hebron before was Kirjatharba:) and they slew Sheshai, and Ahiman, and Talmai.
 

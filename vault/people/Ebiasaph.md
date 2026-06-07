@@ -48,10 +48,10 @@ metav_id: 19
 
 ## Verse References
 
-### [[Exodus]]
+### [[books/Exodus|Exodus]]
 - **6:24** — And the sons of Korah; Assir, and Elkanah, and Abiasaph: these are the families of the Korhites.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:23** — Elkanah his son, and Ebiasaph his son, and Assir his son,
 - **6:37** — The son of Tahath, the son of Assir, the son of Ebiasaph, the son of Korah,
 - **9:19** — And Shallum the son of Kore, the son of Ebiasaph, the son of Korah, and his brethren, of the house of his father, the Korahites, were over the work of the service, keepers of the gates of the tabernacle: and their fathers, being over the host of the LORD, were keepers of the entry.

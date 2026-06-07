@@ -26,21 +26,21 @@ metav_id: 1084
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **10:10** — And the beginning of his kingdom was Babel, and Erech, and Accad, and Calneh, in the land of Shinar.
 - **11:2** — And it came to pass, as they journeyed from the east, that they found a plain in the land of Shinar; and they dwelt there.
 - **14:1** — And it came to pass in the days of Amraphel king of Shinar, Arioch king of Ellasar, Chedorlaomer king of Elam, and Tidal king of nations;
 - **14:9** — With Chedorlaomer the king of Elam, and with Tidal king of nations, and Amraphel king of Shinar, and Arioch king of Ellasar; four kings with five.
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **7:21** — When I saw among the spoils a goodly Babylonish garment, and two hundred shekels of silver, and a wedge of gold of fifty shekels weight, then I coveted them, and took them; and, behold, they are hid in the earth in the midst of my tent, and the silver under it.
 
-### [[Isaiah]]
+### [[books/Isaiah|Isaiah]]
 - **11:11** — And it shall come to pass in that day, that the Lord shall set his hand again the second time to recover the remnant of his people, which shall be left, from Assyria, and from Egypt, and from Pathros, and from Cush, and from Elam, and from Shinar, and from Hamath, and from the islands of the sea.
 
-### [[Daniel]]
+### [[books/Daniel|Daniel]]
 - **1:2** — And the Lord gave Jehoiakim king of Judah into his hand, with part of the vessels of the house of God: which he carried into the land of Shinar to the house of his god; and he brought the vessels into the treasure house of his god.
 
-### [[Zechariah]]
+### [[books/Zechariah|Zechariah]]
 - **5:11** — And he said unto me, To build it an house in the land of Shinar: and it shall be established, and set there upon her own base.
 

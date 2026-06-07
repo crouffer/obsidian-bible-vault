@@ -44,7 +44,7 @@ metav_id: 980
 
 ## Verse References
 
-### [[Daniel]]
+### [[books/Daniel|Daniel]]
 - **5:31** — And Darius the Median took the kingdom, being about threescore and two years old.
 - **6:1** — It pleased Darius to set over the kingdom an hundred and twenty princes, which should be over the whole kingdom;
 - **6:6** — Then these presidents and princes assembled together to the king, and said thus unto him, King Darius, live for ever.

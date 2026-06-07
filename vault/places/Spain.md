@@ -26,7 +26,7 @@ metav_id: 1111
 
 ## Verse References
 
-### [[Romans]]
+### [[books/Romans|Romans]]
 - **15:24** — Whensoever I take my journey into Spain, I will come to you: for I trust to see you in my journey, and to be brought on my way thitherward by you, if first I be somewhat filled with your company.
 - **15:28** — When therefore I have performed this, and have sealed to them this fruit, I will come by you into Spain.
 

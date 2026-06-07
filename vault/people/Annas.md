@@ -45,13 +45,13 @@ metav_id: 269
 
 ## Verse References
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **3:2** — Annas and Caiaphas being the high priests, the word of God came unto John the son of Zacharias in the wilderness.
 
-### [[John]]
+### [[books/John|John]]
 - **18:13** — And led him away to Annas first; for he was father in law to Caiaphas, which was the high priest that same year.
 - **18:24** — Now Annas had sent him bound unto Caiaphas the high priest.
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **4:6** — And Annas the high priest, and Caiaphas, and John, and Alexander, and as many as were of the kindred of the high priest, were gathered together at Jerusalem.
 

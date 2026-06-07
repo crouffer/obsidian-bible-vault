@@ -44,6 +44,6 @@ metav_id: 963
 
 ## Verse References
 
-### [[Psalms]]
+### [[books/Psalms|Psalms]]
 - **7:1** — O LORD my God, in thee do I put my trust: save me from all them that persecute me, and deliver me:
 

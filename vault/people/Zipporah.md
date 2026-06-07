@@ -47,7 +47,7 @@ metav_id: 3095
 
 ## Verse References
 
-### [[Exodus]]
+### [[books/Exodus|Exodus]]
 - **2:21** — And Moses was content to dwell with the man: and he gave Moses Zipporah his daughter.
 - **4:25** — Then Zipporah took a sharp stone, and cut off the foreskin of her son, and cast it at his feet, and said, Surely a bloody husband art thou to me.
 - **18:2** — Then Jethro, Moses' father in law, took Zipporah, Moses' wife, after he had sent her back,

@@ -44,6 +44,6 @@ metav_id: 297
 
 ## Verse References
 
-### [[2 Corinthians]]
+### [[books/2 Corinthians|2 Corinthians]]
 - **11:32** — In Damascus the governor under Aretas the king kept the city of the Damascenes with a garrison, desirous to apprehend me:
 

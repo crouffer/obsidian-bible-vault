@@ -44,7 +44,7 @@ metav_id: 2684
 
 ## Verse References
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **16:5** — And when king David came to Bahurim, behold, thence came out a man of the family of the house of Saul, whose name was Shimei, the son of Gera: he came forth, and cursed still as he came.
 - **16:7** — And thus said Shimei when he cursed, Come out, come out, thou bloody man, and thou man of Belial:
 - **16:13** — And as David and his men went by the way, Shimei went along on the hill's side over against him, and cursed as he went, and threw stones at him, and cast dust.
@@ -53,7 +53,7 @@ metav_id: 2684
 - **19:21** — But Abishai the son of Zeruiah answered and said, Shall not Shimei be put to death for this, because he cursed the LORD'S anointed?
 - **19:23** — Therefore the king said unto Shimei, Thou shalt not die. And the king sware unto him.
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **2:8** — And, behold, thou hast with thee Shimei the son of Gera, a Benjamite of Bahurim, which cursed me with a grievous curse in the day when I went to Mahanaim: but he came down to meet me at Jordan, and I sware to him by the LORD, saying, I will not put thee to death with the sword.
 - **2:36** — And the king sent and called for Shimei, and said unto him, Build thee an house in Jerusalem, and dwell there, and go not forth thence any whither.
 - **2:38** — And Shimei said unto the king, The saying is good: as my lord the king hath said, so will thy servant do. And Shimei dwelt in Jerusalem many days.

@@ -44,6 +44,6 @@ metav_id: 1323
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **11:21** — But the Nethinims dwelt in Ophel: and Ziha and Gispa were over the Nethinims.
 

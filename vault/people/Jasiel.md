@@ -44,6 +44,6 @@ metav_id: 741
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **11:47** — Eliel, and Obed, and Jasiel the Mesobaite.
 

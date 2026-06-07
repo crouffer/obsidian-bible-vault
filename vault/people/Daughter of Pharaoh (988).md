@@ -44,16 +44,16 @@ metav_id: 988
 
 ## Verse References
 
-### [[Exodus]]
+### [[books/Exodus|Exodus]]
 - **2:5** — And the daughter of Pharaoh came down to wash herself at the river; and her maidens walked along by the river's side; and when she saw the ark among the flags, she sent her maid to fetch it.
 - **2:7** — Then said his sister to Pharaoh's daughter, Shall I go and call to thee a nurse of the Hebrew women, that she may nurse the child for thee?
 - **2:8** — And Pharaoh's daughter said to her, Go. And the maid went and called the child's mother.
 - **2:9** — And Pharaoh's daughter said unto her, Take this child away, and nurse it for me, and I will give thee thy wages. And the woman took the child, and nursed it.
 - **2:10** — And the child grew, and she brought him unto Pharaoh's daughter, and he became her son. And she called his name Moses: and she said, Because I drew him out of the water.
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **7:21** — And when he was cast out, Pharaoh's daughter took him up, and nourished him for her own son.
 
-### [[Hebrews]]
+### [[books/Hebrews|Hebrews]]
 - **11:24** — By faith Moses, when he was come to years, refused to be called the son of Pharaoh's daughter;
 

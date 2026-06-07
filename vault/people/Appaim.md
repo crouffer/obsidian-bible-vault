@@ -46,7 +46,7 @@ metav_id: 277
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **2:30** — And the sons of Nadab; Seled, and Appaim: but Seled died without children.
 - **2:31** — And the sons of Appaim; Ishi. And the sons of Ishi; Sheshan. And the children of Sheshan; Ahlai.
 

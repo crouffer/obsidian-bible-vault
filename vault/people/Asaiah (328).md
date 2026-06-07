@@ -44,7 +44,7 @@ metav_id: 328
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **15:6** — Of the sons of Merari; Asaiah the chief, and his brethren two hundred and twenty:
 - **15:11** — And David called for Zadok and Abiathar the priests, and for the Levites, for Uriel, Asaiah, and Joel, Shemaiah, and Eliel, and Amminadab,
 

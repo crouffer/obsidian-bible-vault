@@ -56,9 +56,9 @@ metav_id: 842
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **10:26** — And Joktan begat Almodad, and Sheleph, and Hazarmaveth, and Jerah,
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:20** — And Joktan begat Almodad, and Sheleph, and Hazarmaveth, and Jerah,
 

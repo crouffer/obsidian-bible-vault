@@ -26,6 +26,6 @@ metav_id: 826
 
 ## Verse References
 
-### [[Exodus]]
+### [[books/Exodus|Exodus]]
 - **26:34** — And thou shalt put the mercy seat upon the ark of the testimony in the most holy place.
 

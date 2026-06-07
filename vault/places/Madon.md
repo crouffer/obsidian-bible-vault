@@ -26,7 +26,7 @@ metav_id: 752
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **11:1** — And it came to pass, when Jabin king of Hazor had heard those things, that he sent to Jobab king of Madon, and to the king of Shimron, and to the king of Achshaph,
 - **12:19** — The king of Madon, one; the king of Hazor, one;
 

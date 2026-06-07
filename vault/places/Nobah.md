@@ -26,9 +26,9 @@ metav_id: 901
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **32:42** — And Nobah went and took Kenath, and the villages thereof, and called it Nobah, after his own name.
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **8:11** — And Gideon went up by the way of them that dwelt in tents on the east of Nobah and Jogbehah, and smote the host: for the host was secure.
 

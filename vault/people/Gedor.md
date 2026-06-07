@@ -17,8 +17,8 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Maachah (1844)]]"
-mother: "[[Abiel (23)]]"
+father: "[[Abiel (23)]]"
+mother: "[[Maachah (1844)]]"
 spouse: []
 children: []
 siblings: 
@@ -53,7 +53,7 @@ metav_id: 1292
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **8:31** — And Gedor, and Ahio, and Zacher.
 - **9:37** — And Gedor, and Ahio, and Zechariah, and Mikloth.
 - **12:7** — And Joelah, and Zebadiah, the sons of Jeroham of Gedor.

@@ -26,6 +26,6 @@ metav_id: 450
 
 ## Verse References
 
-### [[Isaiah]]
+### [[books/Isaiah|Isaiah]]
 - **10:31** — Madmenah is removed; the inhabitants of Gebim gather themselves to flee.
 

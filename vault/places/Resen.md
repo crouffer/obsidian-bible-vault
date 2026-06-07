@@ -26,6 +26,6 @@ metav_id: 997
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **10:12** — And Resen between Nineveh and Calah: the same is a great city.
 

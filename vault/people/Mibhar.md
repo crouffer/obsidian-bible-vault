@@ -44,6 +44,6 @@ metav_id: 2045
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **11:38** — Joel the brother of Nathan, Mibhar the son of Haggeri,
 

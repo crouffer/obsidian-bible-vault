@@ -26,12 +26,12 @@ metav_id: 831
 
 ## Verse References
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **18:19** — Now therefore send, and gather to me all Israel unto mount Carmel, and the prophets of Baal four hundred and fifty, and the prophets of the groves four hundred, which eat at Jezebel's table.
 - **18:20** — So Ahab sent unto all the children of Israel, and gathered the prophets together unto mount Carmel.
 - **18:42** — So Ahab went up to eat and to drink. And Elijah went up to the top of Carmel; and he cast himself down upon the earth, and put his face between his knees,
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **2:25** — And he went from thence to mount Carmel, and from thence he returned to Samaria.
 - **4:25** — So she went and came unto the man of God to mount Carmel. And it came to pass, when the man of God saw her afar off, that he said to Gehazi his servant, Behold, yonder is that Shunammite:
 

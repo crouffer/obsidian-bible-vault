@@ -26,15 +26,15 @@ metav_id: 1047
 
 ## Verse References
 
-### [[Deuteronomy]]
+### [[books/Deuteronomy|Deuteronomy]]
 - **3:9** — (Which Hermon the Sidonians call Sirion; and the Amorites call it Shenir;)
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **5:23** — And the children of the half tribe of Manasseh dwelt in the land: they increased from Bashan unto Baalhermon and Senir, and unto mount Hermon.
 
-### [[Song of Solomon]]
+### [[books/Song of Solomon|Song of Solomon]]
 - **4:8** — Come with me from Lebanon, my spouse, with me from Lebanon: look from the top of Amana, from the top of Shenir and Hermon, from the lions' dens, from the mountains of the leopards.
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **27:5** — They have made all thy ship boards of fir trees of Senir: they have taken cedars from Lebanon to make masts for thee.
 

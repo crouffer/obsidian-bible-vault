@@ -44,6 +44,6 @@ metav_id: 2037
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **12:13** — Of Ezra, Meshullam; of Amariah, Jehohanan;
 

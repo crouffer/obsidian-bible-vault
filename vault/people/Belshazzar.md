@@ -44,7 +44,7 @@ metav_id: 437
 
 ## Verse References
 
-### [[Daniel]]
+### [[books/Daniel|Daniel]]
 - **5:1** — Belshazzar the king made a great feast to a thousand of his lords, and drank wine before the thousand.
 - **5:2** — Belshazzar, whiles he tasted the wine, commanded to bring the golden and silver vessels which his father Nebuchadnezzar had taken out of the temple which was in Jerusalem; that the king, and his princes, his wives, and his concubines, might drink therein.
 - **5:9** — Then was king Belshazzar greatly troubled, and his countenance was changed in him, and his lords were astonied.

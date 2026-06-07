@@ -44,7 +44,7 @@ metav_id: 2802
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **6:5** — And the saying pleased the whole multitude: and they chose Stephen, a man full of faith and of the Holy Ghost, and Philip, and Prochorus, and Nicanor, and Timon, and Parmenas, and Nicolas a proselyte of Antioch:
 - **6:8** — And Stephen, full of faith and power, did great wonders and miracles among the people.
 - **6:9** — Then there arose certain of the synagogue, which is called the synagogue of the Libertines, and Cyrenians, and Alexandrians, and of them of Cilicia and of Asia, disputing with Stephen.

@@ -26,9 +26,9 @@ metav_id: 481
 
 ## Verse References
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **4:3** — And the Beerothites fled to Gittaim, and were sojourners there until this day.)
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **11:33** — Hazor, Ramah, Gittaim,
 

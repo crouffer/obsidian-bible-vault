@@ -44,7 +44,7 @@ metav_id: 1131
 
 ## Verse References
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **17:1** — And Elijah the Tishbite, who was of the inhabitants of Gilead, said unto Ahab, As the LORD God of Israel liveth, before whom I stand, there shall not be dew nor rain these years, but according to my word.
 - **17:13** — And Elijah said unto her, Fear not; go and do as thou hast said: but make me thereof a little cake first, and bring it unto me, and after make for thee and for thy son.
 - **17:15** — And she went and did according to the saying of Elijah: and she, and he, and her house, did eat many days.
@@ -84,7 +84,7 @@ metav_id: 1131
 - **21:20** — And Ahab said to Elijah, Hast thou found me, O mine enemy? And he answered, I have found thee: because thou hast sold thyself to work evil in the sight of the LORD.
 - **21:28** — And the word of the LORD came to Elijah the Tishbite, saying,
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **1:3** — But the angel of the LORD said to Elijah the Tishbite, Arise, go up to meet the messengers of the king of Samaria, and say unto them, Is it not because there is not a God in Israel, that ye go to enquire of Baalzebub the god of Ekron?
 - **1:4** — Now therefore thus saith the LORD, Thou shalt not come down from that bed on which thou art gone up, but shalt surely die. And Elijah departed.
 - **1:8** — And they answered him, He was an hairy man, and girt with a girdle of leather about his loins. And he said, It is Elijah the Tishbite.
@@ -108,13 +108,13 @@ metav_id: 1131
 - **10:10** — Know now that there shall fall unto the earth nothing of the word of the LORD, which the LORD spake concerning the house of Ahab: for the LORD hath done that which he spake by his servant Elijah.
 - **10:17** — And when he came to Samaria, he slew all that remained unto Ahab in Samaria, till he had destroyed him, according to the saying of the LORD, which he spake to Elijah.
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **21:12** — And there came a writing to him from Elijah the prophet, saying, Thus saith the LORD God of David thy father, Because thou hast not walked in the ways of Jehoshaphat thy father, nor in the ways of Asa king of Judah,
 
-### [[Malachi]]
+### [[books/Malachi|Malachi]]
 - **4:5** — Behold, I will send you Elijah the prophet before the coming of the great and dreadful day of the LORD:
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **11:14** — And if ye will receive it, this is Elias, which was for to come.
 - **16:14** — And they said, Some say that thou art John the Baptist: some, Elias; and others, Jeremias, or one of the prophets.
 - **17:3** — And, behold, there appeared unto them Moses and Elias talking with him.
@@ -125,7 +125,7 @@ metav_id: 1131
 - **27:47** — Some of them that stood there, when they heard that, said, This man calleth for Elias.
 - **27:49** — The rest said, Let be, let us see whether Elias will come to save him.
 
-### [[Mark]]
+### [[books/Mark|Mark]]
 - **6:15** — Others said, That it is Elias. And others said, That it is a prophet, or as one of the prophets.
 - **8:28** — And they answered, John the Baptist: but some say, Elias; and others, One of the prophets.
 - **9:4** — And there appeared unto them Elias with Moses: and they were talking with Jesus.
@@ -136,7 +136,7 @@ metav_id: 1131
 - **15:35** — And some of them that stood by, when they heard it, said, Behold, he calleth Elias.
 - **15:36** — And one ran and filled a spunge full of vinegar, and put it on a reed, and gave him to drink, saying, Let alone; let us see whether Elias will come to take him down.
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **1:17** — And he shall go before him in the spirit and power of Elias, to turn the hearts of the fathers to the children, and the disobedient to the wisdom of the just; to make ready a people prepared for the Lord.
 - **4:25** — But I tell you of a truth, many widows were in Israel in the days of Elias, when the heaven was shut up three years and six months, when great famine was throughout all the land;
 - **4:26** — But unto none of them was Elias sent, save unto Sarepta, a city of Sidon, unto a woman that was a widow.
@@ -146,13 +146,13 @@ metav_id: 1131
 - **9:33** — And it came to pass, as they departed from him, Peter said unto Jesus, Master, it is good for us to be here: and let us make three tabernacles; one for thee, and one for Moses, and one for Elias: not knowing what he said.
 - **9:54** — And when his disciples James and John saw this, they said, Lord, wilt thou that we command fire to come down from heaven, and consume them, even as Elias did?
 
-### [[John]]
+### [[books/John|John]]
 - **1:21** — And they asked him, What then? Art thou Elias? And he saith, I am not. Art thou that prophet? And he answered, No.
 - **1:25** — And they asked him, and said unto him, Why baptizest thou then, if thou be not that Christ, nor Elias, neither that prophet?
 
-### [[Romans]]
+### [[books/Romans|Romans]]
 - **11:2** — God hath not cast away his people which he foreknew. Wot ye not what the scripture saith of Elias? how he maketh intercession to God against Israel, saying,
 
-### [[James]]
+### [[books/James|James]]
 - **5:17** — Elias was a man subject to like passions as we are, and he prayed earnestly that it might not rain: and it rained not on the earth by the space of three years and six months.
 

@@ -64,7 +64,7 @@ metav_id: 480
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **8:13** — Beriah also, and Shema, who were heads of the fathers of the inhabitants of Aijalon, who drove away the inhabitants of Gath:
 - **8:16** — And Michael, and Ispah, and Joha, the sons of Beriah;
 

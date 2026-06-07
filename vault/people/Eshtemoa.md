@@ -17,8 +17,8 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Hodiah]]"
-mother: "[[Mered]]"
+father: "[[Mered]]"
+mother: "[[Hodiah]]"
 spouse: []
 children: []
 siblings: 
@@ -45,6 +45,6 @@ metav_id: 1219
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **4:19** — And the sons of his wife Hodiah the sister of Naham, the father of Keilah the Garmite, and Eshtemoa the Maachathite.
 

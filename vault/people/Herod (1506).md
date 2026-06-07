@@ -44,7 +44,7 @@ metav_id: 1506
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **12:1** — Now about that time Herod the king stretched forth his hands to vex certain of the church.
 - **12:6** — And when Herod would have brought him forth, the same night Peter was sleeping between two soldiers, bound with two chains: and the keepers before the door kept the prison.
 - **12:11** — And when Peter was come to himself, he said, Now I know of a surety, that the Lord hath sent his angel, and hath delivered me out of the hand of Herod, and from all the expectation of the people of the Jews.

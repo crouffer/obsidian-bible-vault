@@ -26,16 +26,16 @@ metav_id: 695
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **32:37** — And the children of Reuben built Heshbon, and Elealeh, and Kirjathaim,
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **13:19** — And Kirjathaim, and Sibmah, and Zarethshahar in the mount of the valley,
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **48:1** — Against Moab thus saith the LORD of hosts, the God of Israel; Woe unto Nebo! for it is spoiled: Kiriathaim is confounded and taken: Misgab is confounded and dismayed.
 - **48:23** — And upon Kiriathaim, and upon Bethgamul, and upon Bethmeon,
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **25:9** — Therefore, behold, I will open the side of Moab from the cities, from his cities which are on his frontiers, the glory of the country, Bethjeshimoth, Baalmeon, and Kiriathaim,
 

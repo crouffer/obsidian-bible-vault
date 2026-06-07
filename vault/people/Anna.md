@@ -44,6 +44,6 @@ metav_id: 268
 
 ## Verse References
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **2:36** — And there was one Anna, a prophetess, the daughter of Phanuel, of the tribe of Aser: she was of a great age, and had lived with an husband seven years from her virginity;
 

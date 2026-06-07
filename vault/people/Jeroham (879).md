@@ -45,6 +45,6 @@ metav_id: 879
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **27:22** — Of Dan, Azareel the son of Jeroham. These were the princes of the tribes of Israel.
 

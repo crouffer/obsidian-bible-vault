@@ -44,6 +44,6 @@ metav_id: 2284
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **10:3** — Pashur, Amariah, Malchijah,
 

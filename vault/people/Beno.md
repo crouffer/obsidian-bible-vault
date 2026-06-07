@@ -47,7 +47,7 @@ metav_id: 462
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **24:26** — The sons of Merari were Mahli and Mushi: the sons of Jaaziah; Beno.
 - **24:27** — The sons of Merari by Jaaziah; Beno, and Shoham, and Zaccur, and Ibri.
 

@@ -26,6 +26,6 @@ metav_id: 994
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **19:21** — And Remeth, and Engannim, and Enhaddah, and Bethpazzez;
 

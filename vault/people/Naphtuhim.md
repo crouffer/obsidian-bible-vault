@@ -50,9 +50,9 @@ metav_id: 2150
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **10:13** — And Mizraim begat Ludim, and Anamim, and Lehabim, and Naphtuhim,
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:11** — And Mizraim begat Ludim, and Anamim, and Lehabim, and Naphtuhim,
 

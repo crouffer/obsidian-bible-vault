@@ -45,6 +45,6 @@ metav_id: 531
 
 ## Verse References
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **1:3** — The word of the LORD came expressly unto Ezekiel the priest, the son of Buzi, in the land of the Chaldeans by the river Chebar; and the hand of the LORD was there upon him.
 

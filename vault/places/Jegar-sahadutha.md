@@ -26,6 +26,6 @@ metav_id: 631
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **31:47** — And Laban called it Jegarsahadutha: but Jacob called it Galeed.
 

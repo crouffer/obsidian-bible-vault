@@ -46,12 +46,12 @@ metav_id: 338
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **10:3** — And the sons of Gomer; Ashkenaz, and Riphath, and Togarmah.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:6** — And the sons of Gomer; Ashchenaz, and Riphath, and Togarmah.
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **51:27** — Set ye up a standard in the land, blow the trumpet among the nations, prepare the nations against her, call together against her the kingdoms of Ararat, Minni, and Ashchenaz; appoint a captain against her; cause the horses to come up as the rough caterpillers.
 

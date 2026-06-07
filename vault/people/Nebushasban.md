@@ -44,6 +44,6 @@ metav_id: 2168
 
 ## Verse References
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **39:13** — So Nebuzaradan the captain of the guard sent, and Nebushasban, Rabsaris, and Nergalsharezer, Rabmag, and all the king of Babylon's princes;
 

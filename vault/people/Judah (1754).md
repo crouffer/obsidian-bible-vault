@@ -44,7 +44,7 @@ metav_id: 1754
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **12:8** — Moreover the Levites: Jeshua, Binnui, Kadmiel, Sherebiah, Judah, and Mattaniah, which was over the thanksgiving, he and his brethren.
 - **12:34** — Judah, and Benjamin, and Shemaiah, and Jeremiah,
 

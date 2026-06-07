@@ -26,11 +26,11 @@ metav_id: 100
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **15:42** — Libnah, and Ether, and Ashan,
 - **19:7** — Ain, Remmon, and Ether, and Ashan; four cities and their villages:
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **4:32** — And their villages were, Etam, and Ain, Rimmon, and Tochen, and Ashan, five cities:
 - **6:59** — And Ashan with her suburbs, and Bethshemesh with her suburbs:
 

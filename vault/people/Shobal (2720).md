@@ -54,7 +54,7 @@ metav_id: 2720
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **2:50** — These were the sons of Caleb the son of Hur, the firstborn of Ephratah; Shobal the father of Kirjathjearim,
 - **2:52** — And Shobal the father of Kirjathjearim had sons; Haroeh, and half of the Manahethites.
 - **4:1** — The sons of Judah; Pharez, Hezron, and Carmi, and Hur, and Shobal.

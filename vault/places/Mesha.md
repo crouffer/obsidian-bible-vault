@@ -26,6 +26,6 @@ metav_id: 787
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **10:30** — And their dwelling was from Mesha, as thou goest unto Sephar a mount of the east.
 

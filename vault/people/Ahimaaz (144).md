@@ -45,7 +45,7 @@ metav_id: 144
 
 ## Verse References
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **15:27** — The king said also unto Zadok the priest, Art not thou a seer? return into the city in peace, and your two sons with you, Ahimaaz thy son, and Jonathan the son of Abiathar.
 - **15:36** — Behold, they have there with them their two sons, Ahimaaz Zadok's son, and Jonathan Abiathar's son; and by them ye shall send unto me every thing that ye can hear.
 - **17:17** — Now Jonathan and Ahimaaz stayed by Enrogel; for they might not be seen to come into the city: and a wench went and told them; and they went and told king David.
@@ -57,7 +57,7 @@ metav_id: 144
 - **18:28** — And Ahimaaz called, and said unto the king, All is well. And he fell down to the earth upon his face before the king, and said, Blessed be the LORD thy God, which hath delivered up the men that lifted up their hand against my lord the king.
 - **18:29** — And the king said, Is the young man Absalom safe? And Ahimaaz answered, When Joab sent the king's servant, and me thy servant, I saw a great tumult, but I knew not what it was.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:8** — And Ahitub begat Zadok, and Zadok begat Ahimaaz,
 - **6:9** — And Ahimaaz begat Azariah, and Azariah begat Johanan,
 - **6:53** — Zadok his son, Ahimaaz his son.

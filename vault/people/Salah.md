@@ -45,17 +45,17 @@ metav_id: 2455
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **10:24** — And Arphaxad begat Salah; and Salah begat Eber.
 - **11:12** — And Arphaxad lived five and thirty years, and begat Salah:
 - **11:13** — And Arphaxad lived after he begat Salah four hundred and three years, and begat sons and daughters.
 - **11:14** — And Salah lived thirty years, and begat Eber:
 - **11:15** — And Salah lived after he begat Eber four hundred and three years, and begat sons and daughters.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:18** — And Arphaxad begat Shelah, and Shelah begat Eber.
 - **1:24** — Shem, Arphaxad, Shelah,
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **3:35** — Which was the son of Saruch, which was the son of Ragau, which was the son of Phalec, which was the son of Heber, which was the son of Sala,
 

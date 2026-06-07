@@ -48,14 +48,14 @@ metav_id: 349
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **10:11** — Out of that land went forth Asshur, and builded Nineveh, and the city Rehoboth, and Calah,
 - **10:22** — The children of Shem; Elam, and Asshur, and Arphaxad, and Lud, and Aram.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **24:22** — Nevertheless the Kenite shall be wasted, until Asshur shall carry thee away captive.
 - **24:24** — And ships shall come from the coast of Chittim, and shall afflict Asshur, and shall afflict Eber, and he also shall perish for ever.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:17** — The sons of Shem; Elam, and Asshur, and Arphaxad, and Lud, and Aram, and Uz, and Hul, and Gether, and Meshech.
 

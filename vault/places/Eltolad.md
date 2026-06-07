@@ -26,7 +26,7 @@ metav_id: 380
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **15:30** — And Eltolad, and Chesil, and Hormah,
 - **19:4** — And Eltolad, and Bethul, and Hormah,
 

@@ -44,6 +44,6 @@ metav_id: 427
 
 ## Verse References
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **12:11** — And the LORD sent Jerubbaal, and Bedan, and Jephthah, and Samuel, and delivered you out of the hand of your enemies on every side, and ye dwelled safe.
 

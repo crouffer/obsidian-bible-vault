@@ -45,6 +45,6 @@ metav_id: 35
 
 ## Verse References
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **14:1** — At that time Abijah the son of Jeroboam fell sick.
 

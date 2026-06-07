@@ -44,6 +44,6 @@ metav_id: 1392
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **10:23** — Hoshea, Hananiah, Hashub,
 

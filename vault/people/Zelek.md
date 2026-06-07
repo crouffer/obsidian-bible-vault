@@ -44,9 +44,9 @@ metav_id: 3034
 
 ## Verse References
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **23:37** — Zelek the Ammonite, Naharai the Beerothite, armourbearer to Joab the son of Zeruiah,
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **11:39** — Zelek the Ammonite, Naharai the Berothite, the armourbearer of Joab the son of Zeruiah,
 

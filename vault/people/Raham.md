@@ -44,6 +44,6 @@ metav_id: 2389
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **2:44** — And Shema begat Raham, the father of Jorkoam: and Rekem begat Shammai.
 

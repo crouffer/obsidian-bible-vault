@@ -47,7 +47,7 @@ metav_id: 1639
 
 ## Verse References
 
-### [[Job]]
+### [[books/Job|Job]]
 - **1:1** — There was a man in the land of Uz, whose name was Job; and that man was perfect and upright, and one that feared God, and eschewed evil.
 - **1:5** — And it was so, when the days of their feasting were gone about, that Job sent and sanctified them, and rose up early in the morning, and offered burnt offerings according to the number of them all: for Job said, It may be that my sons have sinned, and cursed God in their hearts. Thus did Job continually.
 - **1:8** — And the LORD said unto Satan, Hast thou considered my servant Job, that there is none like him in the earth, a perfect and an upright man, one that feareth God, and escheweth evil?
@@ -99,10 +99,10 @@ metav_id: 1639
 - **42:16** — After this lived Job an hundred and forty years, and saw his sons, and his sons' sons, even four generations.
 - **42:17** — So Job died, being old and full of days.
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **14:14** — Though these three men, Noah, Daniel, and Job, were in it, they should deliver but their own souls by their righteousness, saith the Lord GOD.
 - **14:20** — Though Noah, Daniel, and Job, were in it, as I live, saith the Lord GOD, they shall deliver neither son nor daughter; they shall but deliver their own souls by their righteousness.
 
-### [[James]]
+### [[books/James|James]]
 - **5:11** — Behold, we count them happy which endure. Ye have heard of the patience of Job, and have seen the end of the Lord; that the Lord is very pitiful, and of tender mercy.
 

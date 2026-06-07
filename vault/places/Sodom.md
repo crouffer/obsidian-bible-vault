@@ -26,7 +26,7 @@ metav_id: 1107
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **10:19** — And the border of the Canaanites was from Sidon, as thou comest to Gerar, unto Gaza; as thou goest, unto Sodom, and Gomorrah, and Admah, and Zeboim, even unto Lasha.
 - **13:10** — And Lot lifted up his eyes, and beheld all the plain of Jordan, that it was well watered every where, before the LORD destroyed Sodom and Gomorrah, even as the garden of the LORD, like the land of Egypt, as thou comest unto Zoar.
 - **13:12** — Abram dwelled in the land of Canaan, and Lot dwelled in the cities of the plain, and pitched his tent toward Sodom.
@@ -48,25 +48,25 @@ metav_id: 1107
 - **19:24** — Then the LORD rained upon Sodom and upon Gomorrah brimstone and fire from the LORD out of heaven;
 - **19:28** — And he looked toward Sodom and Gomorrah, and toward all the land of the plain, and beheld, and, lo, the smoke of the country went up as the smoke of a furnace.
 
-### [[Deuteronomy]]
+### [[books/Deuteronomy|Deuteronomy]]
 - **29:23** — And that the whole land thereof is brimstone, and salt, and burning, that it is not sown, nor beareth, nor any grass groweth therein, like the overthrow of Sodom, and Gomorrah, Admah, and Zeboim, which the LORD overthrew in his anger, and in his wrath:
 - **32:32** — For their vine is of the vine of Sodom, and of the fields of Gomorrah: their grapes are grapes of gall, their clusters are bitter:
 
-### [[Isaiah]]
+### [[books/Isaiah|Isaiah]]
 - **1:9** — Except the LORD of hosts had left unto us a very small remnant, we should have been as Sodom, and we should have been like unto Gomorrah.
 - **1:10** — Hear the word of the LORD, ye rulers of Sodom; give ear unto the law of our God, ye people of Gomorrah.
 - **3:9** — The shew of their countenance doth witness against them; and they declare their sin as Sodom, they hide it not. Woe unto their soul! for they have rewarded evil unto themselves.
 - **13:19** — And Babylon, the glory of kingdoms, the beauty of the Chaldees' excellency, shall be as when God overthrew Sodom and Gomorrah.
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **23:14** — I have seen also in the prophets of Jerusalem an horrible thing: they commit adultery, and walk in lies: they strengthen also the hands of evildoers, that none doth return from his wickedness: they are all of them unto me as Sodom, and the inhabitants thereof as Gomorrah.
 - **49:18** — As in the overthrow of Sodom and Gomorrah and the neighbour cities thereof, saith the LORD, no man shall abide there, neither shall a son of man dwell in it.
 - **50:40** — As God overthrew Sodom and Gomorrah and the neighbour cities thereof, saith the LORD; so shall no man abide there, neither shall any son of man dwell therein.
 
-### [[Lamentations]]
+### [[books/Lamentations|Lamentations]]
 - **4:6** — For the punishment of the iniquity of the daughter of my people is greater than the punishment of the sin of Sodom, that was overthrown as in a moment, and no hands stayed on her.
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **16:46** — And thine elder sister is Samaria, she and her daughters that dwell at thy left hand: and thy younger sister, that dwelleth at thy right hand, is Sodom and her daughters.
 - **16:48** — As I live, saith the Lord GOD, Sodom thy sister hath not done, she nor her daughters, as thou hast done, thou and thy daughters.
 - **16:49** — Behold, this was the iniquity of thy sister Sodom, pride, fulness of bread, and abundance of idleness was in her and in her daughters, neither did she strengthen the hand of the poor and needy.
@@ -74,30 +74,30 @@ metav_id: 1107
 - **16:55** — When thy sisters, Sodom and her daughters, shall return to their former estate, and Samaria and her daughters shall return to their former estate, then thou and thy daughters shall return to your former estate.
 - **16:56** — For thy sister Sodom was not mentioned by thy mouth in the day of thy pride,
 
-### [[Amos]]
+### [[books/Amos|Amos]]
 - **4:11** — I have overthrown some of you, as God overthrew Sodom and Gomorrah, and ye were as a firebrand plucked out of the burning: yet have ye not returned unto me, saith the LORD.
 
-### [[Zephaniah]]
+### [[books/Zephaniah|Zephaniah]]
 - **2:9** — Therefore as I live, saith the LORD of hosts, the God of Israel, Surely Moab shall be as Sodom, and the children of Ammon as Gomorrah, even the breeding of nettles, and saltpits, and a perpetual desolation: the residue of my people shall spoil them, and the remnant of my people shall possess them.
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **10:15** — Verily I say unto you, It shall be more tolerable for the land of Sodom and Gomorrha in the day of judgment, than for that city.
 - **11:23** — And thou, Capernaum, which art exalted unto heaven, shalt be brought down to hell: for if the mighty works, which have been done in thee, had been done in Sodom, it would have remained until this day.
 - **11:24** — But I say unto you, That it shall be more tolerable for the land of Sodom in the day of judgment, than for thee.
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **10:12** — But I say unto you, that it shall be more tolerable in that day for Sodom, than for that city.
 - **17:29** — But the same day that Lot went out of Sodom it rained fire and brimstone from heaven, and destroyed them all.
 
-### [[Romans]]
+### [[books/Romans|Romans]]
 - **9:29** — And as Esaias said before, Except the Lord of Sabaoth had left us a seed, we had been as Sodoma, and been made like unto Gomorrha.
 
-### [[2 Peter]]
+### [[books/2 Peter|2 Peter]]
 - **2:6** — And turning the cities of Sodom and Gomorrha into ashes condemned them with an overthrow, making them an ensample unto those that after should live ungodly;
 
-### [[Jude]]
+### [[books/Jude|Jude]]
 - **1:7** — Even as Sodom and Gomorrha, and the cities about them in like manner, giving themselves over to fornication, and going after strange flesh, are set forth for an example, suffering the vengeance of eternal fire.
 
-### [[Revelation]]
+### [[books/Revelation|Revelation]]
 - **11:8** — And their dead bodies shall lie in the street of the great city, which spiritually is called Sodom and Egypt, where also our Lord was crucified.
 

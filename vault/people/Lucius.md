@@ -44,9 +44,9 @@ metav_id: 1833
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **13:1** — Now there were in the church that was at Antioch certain prophets and teachers; as Barnabas, and Simeon that was called Niger, and Lucius of Cyrene, and Manaen, which had been brought up with Herod the tetrarch, and Saul.
 
-### [[Romans]]
+### [[books/Romans|Romans]]
 - **16:21** — Timotheus my workfellow, and Lucius, and Jason, and Sosipater, my kinsmen, salute you.
 

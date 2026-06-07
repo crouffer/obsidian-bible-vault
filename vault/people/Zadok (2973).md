@@ -45,7 +45,7 @@ metav_id: 2973
 
 ## Verse References
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **8:17** — And Zadok the son of Ahitub, and Ahimelech the son of Abiathar, were the priests; and Seraiah was the scribe;
 - **15:24** — And lo Zadok also, and all the Levites were with him, bearing the ark of the covenant of God: and they set down the ark of God; and Abiathar went up, until all the people had done passing out of the city.
 - **15:25** — And the king said unto Zadok, Carry back the ark of God into the city: if I shall find favour in the eyes of the LORD, he will bring me again, and shew me both it, and his habitation:
@@ -60,7 +60,7 @@ metav_id: 2973
 - **19:11** — And king David sent to Zadok and to Abiathar the priests, saying, Speak unto the elders of Judah, saying, Why are ye the last to bring the king back to his house? seeing the speech of all Israel is come to the king, even to his house.
 - **20:25** — And Sheva was scribe: and Zadok and Abiathar were the priests:
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **1:8** — But Zadok the priest, and Benaiah the son of Jehoiada, and Nathan the prophet, and Shimei, and Rei, and the mighty men which belonged to David, were not with Adonijah.
 - **1:26** — But me, even me thy servant, and Zadok the priest, and Benaiah the son of Jehoiada, and thy servant Solomon, hath he not called.
 - **1:32** — And king David said, Call me Zadok the priest, and Nathan the prophet, and Benaiah the son of Jehoiada. And they came before the king.
@@ -73,7 +73,7 @@ metav_id: 2973
 - **4:2** — And these were the princes which he had; Azariah the son of Zadok the priest,
 - **4:4** — And Benaiah the son of Jehoiada was over the host: and Zadok and Abiathar were the priests:
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:8** — And Ahitub begat Zadok, and Zadok begat Ahimaaz,
 - **6:53** — Zadok his son, Ahimaaz his son.
 - **12:28** — And Zadok, a young man mighty of valour, and of his father's house twenty and two captains.
@@ -86,10 +86,10 @@ metav_id: 2973
 - **27:17** — Of the Levites, Hashabiah the son of Kemuel: of the Aaronites, Zadok:
 - **29:22** — And did eat and drink before the LORD on that day with great gladness. And they made Solomon the son of David king the second time, and anointed him unto the LORD to be the chief governor, and Zadok to be priest.
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **31:10** — And Azariah the chief priest of the house of Zadok answered him, and said, Since the people began to bring the offerings into the house of the LORD, we have had enough to eat, and have left plenty: for the LORD hath blessed his people; and that which is left is this great store.
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **40:46** — And the chamber whose prospect is toward the north is for the priests, the keepers of the charge of the altar: these are the sons of Zadok among the sons of Levi, which come near to the LORD to minister unto him.
 - **43:19** — And thou shalt give to the priests the Levites that be of the seed of Zadok, which approach unto me, to minister unto me, saith the Lord GOD, a young bullock for a sin offering.
 - **44:15** — But the priests the Levites, the sons of Zadok, that kept the charge of my sanctuary when the children of Israel went astray from me, they shall come near to me to minister unto me, and they shall stand before me to offer unto me the fat and the blood, saith the Lord GOD:

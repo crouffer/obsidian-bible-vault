@@ -26,7 +26,7 @@ metav_id: 918
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **2:10** — Phrygia, and Pamphylia, in Egypt, and in the parts of Libya about Cyrene, and strangers of Rome, Jews and proselytes,
 - **13:13** — Now when Paul and his company loosed from Paphos, they came to Perga in Pamphylia: and John departing from them returned to Jerusalem.
 - **14:24** — And after they had passed throughout Pisidia, they came to Pamphylia.

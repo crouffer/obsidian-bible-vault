@@ -45,6 +45,6 @@ metav_id: 2729
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **4:11** — And Chelub the brother of Shuah begat Mehir, which was the father of Eshton.
 

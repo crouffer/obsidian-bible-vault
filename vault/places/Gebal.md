@@ -26,12 +26,12 @@ metav_id: 449
 
 ## Verse References
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **5:18** — And Solomon's builders and Hiram's builders did hew them, and the stonesquarers: so they prepared timber and stones to build the house.
 
-### [[Psalms]]
+### [[books/Psalms|Psalms]]
 - **83:7** — Gebal, and Ammon, and Amalek; the Philistines with the inhabitants of Tyre;
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **27:9** — The ancients of Gebal and the wise men thereof were in thee thy calkers: all the ships of the sea with their mariners were in thee to occupy thy merchandise.
 

@@ -44,7 +44,7 @@ metav_id: 2049
 
 ## Verse References
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **17:1** — And there was a man of mount Ephraim, whose name was Micah.
 - **17:4** — Yet he restored the money unto his mother; and his mother took two hundred shekels of silver, and gave them to the founder, who made thereof a graven image and a molten image: and they were in the house of Micah.
 - **17:5** — And the man Micah had an house of gods, and made an ephod, and teraphim, and consecrated one of his sons, who became his priest.

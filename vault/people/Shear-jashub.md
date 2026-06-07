@@ -45,6 +45,6 @@ metav_id: 2566
 
 ## Verse References
 
-### [[Isaiah]]
+### [[books/Isaiah|Isaiah]]
 - **7:3** — Then said the LORD unto Isaiah, Go forth now to meet Ahaz, thou, and Shearjashub thy son, at the end of the conduit of the upper pool in the highway of the fuller's field;
 

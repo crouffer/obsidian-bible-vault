@@ -44,7 +44,7 @@ metav_id: 1277
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **5:34** — Then stood there up one in the council, a Pharisee, named Gamaliel, a doctor of the law, had in reputation among all the people, and commanded to put the apostles forth a little space;
 - **22:3** — I am verily a man which am a Jew, born in Tarsus, a city in Cilicia, yet brought up in this city at the feet of Gamaliel, and taught according to the perfect manner of the law of the fathers, and was zealous toward God, as ye all are this day.
 

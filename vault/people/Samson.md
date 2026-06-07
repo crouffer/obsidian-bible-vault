@@ -45,7 +45,7 @@ metav_id: 2468
 
 ## Verse References
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **13:24** — And the woman bare a son, and called his name Samson: and the child grew, and the LORD blessed him.
 - **14:1** — And Samson went down to Timnath, and saw a woman in Timnath of the daughters of the Philistines.
 - **14:3** — Then his father and his mother said unto him, Is there never a woman among the daughters of thy brethren, or among all my people, that thou goest to take a wife of the uncircumcised Philistines? And Samson said unto his father, Get her for me; for she pleaseth me well.
@@ -84,6 +84,6 @@ metav_id: 2468
 - **16:29** — And Samson took hold of the two middle pillars upon which the house stood, and on which it was borne up, of the one with his right hand, and of the other with his left.
 - **16:30** — And Samson said, Let me die with the Philistines. And he bowed himself with all his might; and the house fell upon the lords, and upon all the people that were therein. So the dead which he slew at his death were more than they which he slew in his life.
 
-### [[Hebrews]]
+### [[books/Hebrews|Hebrews]]
 - **11:32** — And what shall I more say? for the time would fail me to tell of Gedeon, and of Barak, and of Samson, and of Jephthae; of David also, and Samuel, and of the prophets:
 

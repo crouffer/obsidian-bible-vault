@@ -17,8 +17,8 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Hamutal]]"
-mother: "[[Josiah (1730)]]"
+father: "[[Josiah (1730)]]"
+mother: "[[Hamutal]]"
 spouse: []
 children: []
 siblings: 
@@ -45,21 +45,21 @@ metav_id: 1950
 
 ## Verse References
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **24:17** — And the king of Babylon made Mattaniah his father's brother king in his stead, and changed his name to Zedekiah.
 - **24:18** — Zedekiah was twenty and one years old when he began to reign, and he reigned eleven years in Jerusalem. And his mother's name was Hamutal, the daughter of Jeremiah of Libnah.
 - **24:20** — For through the anger of the LORD it came to pass in Jerusalem and Judah, until he had cast them out from his presence, that Zedekiah rebelled against the king of Babylon.
 - **25:2** — And the city was besieged unto the eleventh year of king Zedekiah.
 - **25:7** — And they slew the sons of Zedekiah before his eyes, and put out the eyes of Zedekiah, and bound him with fetters of brass, and carried him to Babylon.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **3:15** — And the sons of Josiah were, the firstborn Johanan, the second Jehoiakim, the third Zedekiah, the fourth Shallum.
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **36:10** — And when the year was expired, king Nebuchadnezzar sent, and brought him to Babylon, with the goodly vessels of the house of the LORD, and made Zedekiah his brother king over Judah and Jerusalem.
 - **36:11** — Zedekiah was one and twenty years old when he began to reign, and reigned eleven years in Jerusalem.
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **1:3** — It came also in the days of Jehoiakim the son of Josiah king of Judah, unto the end of the eleventh year of Zedekiah the son of Josiah king of Judah, unto the carrying away of Jerusalem captive in the fifth month.
 - **21:1** — The word which came unto Jeremiah from the LORD, when king Zedekiah sent unto him Pashur the son of Melchiah, and Zephaniah the son of Maaseiah the priest, saying,
 - **21:3** — Then said Jeremiah unto them, Thus shall ye say to Zedekiah:

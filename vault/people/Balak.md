@@ -44,7 +44,7 @@ metav_id: 387
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **22:2** — And Balak the son of Zippor saw all that Israel had done to the Amorites.
 - **22:4** — And Moab said unto the elders of Midian, Now shall this company lick up all that are round about us, as the ox licketh up the grass of the field. And Balak the son of Zippor was king of the Moabites at that time.
 - **22:7** — And the elders of Moab and the elders of Midian departed with the rewards of divination in their hand; and they came unto Balaam, and spake unto him the words of Balak.
@@ -83,15 +83,15 @@ metav_id: 387
 - **24:13** — If Balak would give me his house full of silver and gold, I cannot go beyond the commandment of the LORD, to do either good or bad of mine own mind; but what the LORD saith, that will I speak?
 - **24:25** — And Balaam rose up, and went and returned to his place: and Balak also went his way.
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **24:9** — Then Balak the son of Zippor, king of Moab, arose and warred against Israel, and sent and called Balaam the son of Beor to curse you:
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **11:25** — And now art thou any thing better than Balak the son of Zippor, king of Moab? did he ever strive against Israel, or did he ever fight against them,
 
-### [[Micah]]
+### [[books/Micah|Micah]]
 - **6:5** — O my people, remember now what Balak king of Moab consulted, and what Balaam the son of Beor answered him from Shittim unto Gilgal; that ye may know the righteousness of the LORD.
 
-### [[Revelation]]
+### [[books/Revelation|Revelation]]
 - **2:14** — But I have a few things against thee, because thou hast there them that hold the doctrine of Balaam, who taught Balac to cast a stumblingblock before the children of Israel, to eat things sacrificed unto idols, and to commit fornication.
 

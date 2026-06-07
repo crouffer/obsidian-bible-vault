@@ -26,9 +26,9 @@ metav_id: 203
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **12:16** — The king of Makkedah, one; the king of Bethel, one;
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **30:27** — To them which were in Bethel, and to them which were in south Ramoth, and to them which were in Jattir,
 

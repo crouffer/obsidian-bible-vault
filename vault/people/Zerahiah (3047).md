@@ -45,14 +45,14 @@ metav_id: 3047
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:6** — And Uzzi begat Zerahiah, and Zerahiah begat Meraioth,
 - **6:51** — Bukki his son, Uzzi his son, Zerahiah his son,
 - **9:11** — And Azariah the son of Hilkiah, the son of Meshullam, the son of Zadok, the son of Meraioth, the son of Ahitub, the ruler of the house of God;
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **7:4** — The son of Zerahiah, the son of Uzzi, the son of Bukki,
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **11:11** — Seraiah the son of Hilkiah, the son of Meshullam, the son of Zadok, the son of Meraioth, the son of Ahitub, was the ruler of the house of God.
 

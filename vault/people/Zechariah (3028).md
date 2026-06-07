@@ -44,6 +44,6 @@ metav_id: 3028
 
 ## Verse References
 
-### [[Isaiah]]
+### [[books/Isaiah|Isaiah]]
 - **8:2** — And I took unto me faithful witnesses to record, Uriah the priest, and Zechariah the son of Jeberechiah.
 

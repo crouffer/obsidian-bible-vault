@@ -45,6 +45,6 @@ metav_id: 1929
 
 ## Verse References
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **18:30** — And the children of Dan set up the graven image: and Jonathan, the son of Gershom, the son of Manasseh, he and his sons were priests to the tribe of Dan until the day of the captivity of the land.
 

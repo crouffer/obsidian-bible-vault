@@ -44,10 +44,10 @@ metav_id: 2336
 
 ## Verse References
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **44:30** — Thus saith the LORD; Behold, I will give Pharaohhophra king of Egypt into the hand of his enemies, and into the hand of them that seek his life; as I gave Zedekiah king of Judah into the hand of Nebuchadrezzar king of Babylon, his enemy, and that sought his life.
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **17:17** — Neither shall Pharaoh with his mighty army and great company make for him in the war, by casting up mounts, and building forts, to cut off many persons:
 - **29:2** — Son of man, set thy face against Pharaoh king of Egypt, and prophesy against him, and against all Egypt:
 - **29:3** — Speak, and say, Thus saith the Lord GOD; Behold, I am against thee, Pharaoh king of Egypt, the great dragon that lieth in the midst of his rivers, which hath said, My river is mine own, and I have made it for myself.

@@ -44,11 +44,11 @@ metav_id: 276
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **18:24** — And a certain Jew named Apollos, born at Alexandria, an eloquent man, and mighty in the scriptures, came to Ephesus.
 - **19:1** — And it came to pass, that, while Apollos was at Corinth, Paul having passed through the upper coasts came to Ephesus: and finding certain disciples,
 
-### [[1 Corinthians]]
+### [[books/1 Corinthians|1 Corinthians]]
 - **1:12** — Now this I say, that every one of you saith, I am of Paul; and I of Apollos; and I of Cephas; and I of Christ.
 - **3:4** — For while one saith, I am of Paul; and another, I am of Apollos; are ye not carnal?
 - **3:5** — Who then is Paul, and who is Apollos, but ministers by whom ye believed, even as the Lord gave to every man?
@@ -57,6 +57,6 @@ metav_id: 276
 - **4:6** — And these things, brethren, I have in a figure transferred to myself and to Apollos for your sakes; that ye might learn in us not to think of men above that which is written, that no one of you be puffed up for one against another.
 - **16:12** — As touching our brother Apollos, I greatly desired him to come unto you with the brethren: but his will was not at all to come at this time; but he will come when he shall have convenient time.
 
-### [[Titus]]
+### [[books/Titus|Titus]]
 - **3:13** — Bring Zenas the lawyer and Apollos on their journey diligently, that nothing be wanting unto them.
 

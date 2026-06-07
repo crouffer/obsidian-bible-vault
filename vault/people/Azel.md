@@ -52,7 +52,7 @@ metav_id: 551
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **8:37** — And Moza begat Binea: Rapha was his son, Eleasah his son, Azel his son:
 - **8:38** — And Azel had six sons, whose names are these, Azrikam, Bocheru, and Ishmael, and Sheariah, and Obadiah, and Hanan. All these were the sons of Azel.
 - **9:43** — And Moza begat Binea; and Rephaiah his son, Eleasah his son, Azel his son.

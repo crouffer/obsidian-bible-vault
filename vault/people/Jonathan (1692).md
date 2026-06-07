@@ -50,7 +50,7 @@ metav_id: 1692
 
 ## Verse References
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **13:2** — Saul chose him three thousand men of Israel; whereof two thousand were with Saul in Michmash and in mount Bethel, and a thousand were with Jonathan in Gibeah of Benjamin: and the rest of the people he sent every man to his tent.
 - **13:3** — And Jonathan smote the garrison of the Philistines that was in Geba, and the Philistines heard of it. And Saul blew the trumpet throughout all the land, saying, Let the Hebrews hear.
 - **13:16** — And Saul, and Jonathan his son, and the people that were present with them, abode in Gibeah of Benjamin: but the Philistines encamped in Michmash.
@@ -112,7 +112,7 @@ metav_id: 1692
 - **23:18** — And they two made a covenant before the LORD: and David abode in the wood, and Jonathan went to his house.
 - **31:2** — And the Philistines followed hard upon Saul and upon his sons; and the Philistines slew Jonathan, and Abinadab, and Malchishua, Saul's sons.
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **1:4** — And David said unto him, How went the matter? I pray thee, tell me. And he answered, That the people are fled from the battle, and many of the people also are fallen and dead; and Saul and Jonathan his son are dead also.
 - **1:5** — And David said unto the young man that told him, How knowest thou that Saul and Jonathan his son be dead?
 - **1:12** — And they mourned, and wept, and fasted until even, for Saul, and for Jonathan his son, and for the people of the LORD, and for the house of Israel; because they were fallen by the sword.
@@ -131,13 +131,13 @@ metav_id: 1692
 - **21:13** — And he brought up from thence the bones of Saul and the bones of Jonathan his son; and they gathered the bones of them that were hanged.
 - **21:14** — And the bones of Saul and Jonathan his son buried they in the country of Benjamin in Zelah, in the sepulchre of Kish his father: and they performed all that the king commanded. And after that God was intreated for the land.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **8:33** — And Ner begat Kish, and Kish begat Saul, and Saul begat Jonathan, and Malchishua, and Abinadab, and Eshbaal.
 - **8:34** — And the son of Jonathan was Meribbaal; and Meribbaal begat Micah.
 - **9:39** — And Ner begat Kish; and Kish begat Saul; and Saul begat Jonathan, and Malchishua, and Abinadab, and Eshbaal.
 - **9:40** — And the son of Jonathan was Meribbaal: and Meribbaal begat Micah.
 - **10:2** — And the Philistines followed hard after Saul, and after his sons; and the Philistines slew Jonathan, and Abinadab, and Malchishua, the sons of Saul.
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **38:26** — Then thou shalt say unto them, I presented my supplication before the king, that he would not cause me to return to Jonathan's house, to die there.
 

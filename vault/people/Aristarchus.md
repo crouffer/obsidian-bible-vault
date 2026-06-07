@@ -44,14 +44,14 @@ metav_id: 306
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **19:29** — And the whole city was filled with confusion: and having caught Gaius and Aristarchus, men of Macedonia, Paul's companions in travel, they rushed with one accord into the theatre.
 - **20:4** — And there accompanied him into Asia Sopater of Berea; and of the Thessalonians, Aristarchus and Secundus; and Gaius of Derbe, and Timotheus; and of Asia, Tychicus and Trophimus.
 - **27:2** — And entering into a ship of Adramyttium, we launched, meaning to sail by the coasts of Asia; one Aristarchus, a Macedonian of Thessalonica, being with us.
 
-### [[Colossians]]
+### [[books/Colossians|Colossians]]
 - **4:10** — Aristarchus my fellowprisoner saluteth you, and Marcus, sister's son to Barnabas, (touching whom ye received commandments: if he come unto you, receive him;)
 
-### [[Philemon]]
+### [[books/Philemon|Philemon]]
 - **1:24** — Marcus, Aristarchus, Demas, Lucas, my fellowlabourers.
 

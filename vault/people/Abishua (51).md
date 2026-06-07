@@ -45,11 +45,11 @@ metav_id: 51
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:4** — Eleazar begat Phinehas, Phinehas begat Abishua,
 - **6:5** — And Abishua begat Bukki, and Bukki begat Uzzi,
 - **6:50** — And these are the sons of Aaron; Eleazar his son, Phinehas his son, Abishua his son,
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **7:5** — The son of Abishua, the son of Phinehas, the son of Eleazar, the son of Aaron the chief priest:
 

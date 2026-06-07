@@ -44,10 +44,10 @@ metav_id: 497
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **2:14** — The children of Bigvai, two thousand fifty and six.
 - **8:14** — Of the sons also of Bigvai; Uthai, and Zabbud, and with them seventy males.
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **7:19** — The children of Bigvai, two thousand threescore and seven.
 

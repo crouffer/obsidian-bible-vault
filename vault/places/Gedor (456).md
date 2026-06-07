@@ -26,6 +26,6 @@ metav_id: 456
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **4:39** — And they went to the entrance of Gedor, even unto the east side of the valley, to seek pasture for their flocks.
 

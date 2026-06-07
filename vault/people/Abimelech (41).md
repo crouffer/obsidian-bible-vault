@@ -46,7 +46,7 @@ metav_id: 41
 
 ## Verse References
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **8:31** — And his concubine that was in Shechem, she also bare him a son, whose name he called Abimelech.
 - **9:1** — And Abimelech the son of Jerubbaal went to Shechem unto his mother's brethren, and communed with them, and with all the family of the house of his mother's father, saying,
 - **9:3** — And his mother's brethren spake of him in the ears of all the men of Shechem all these words: and their hearts inclined to follow Abimelech; for they said, He is our brother.

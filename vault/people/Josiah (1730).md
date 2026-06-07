@@ -17,8 +17,8 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Jedidah]]"
-mother: "[[Amon (236)]]"
+father: "[[Amon (236)]]"
+mother: "[[Jedidah]]"
 spouse: 
   - "[[Hamutal]]"
   - "[[Zebudah]]"
@@ -50,10 +50,10 @@ metav_id: 1730
 
 ## Verse References
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **13:2** — And he cried against the altar in the word of the LORD, and said, O altar, altar, thus saith the LORD; Behold, a child shall be born unto the house of David, Josiah by name; and upon thee shall he offer the priests of the high places that burn incense upon thee, and men's bones shall be burnt upon thee.
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **21:24** — And the people of the land slew all them that had conspired against king Amon; and the people of the land made Josiah his son king in his stead.
 - **21:26** — And he was buried in his sepulchre in the garden of Uzza: and Josiah his son reigned in his stead.
 - **22:1** — Josiah was eight years old when he began to reign, and he reigned thirty and one years in Jerusalem. And his mother's name was Jedidah, the daughter of Adaiah of Boscath.
@@ -67,11 +67,11 @@ metav_id: 1730
 - **23:30** — And his servants carried him in a chariot dead from Megiddo, and brought him to Jerusalem, and buried him in his own sepulchre. And the people of the land took Jehoahaz the son of Josiah, and anointed him, and made him king in his father's stead.
 - **23:34** — And Pharaohnechoh made Eliakim the son of Josiah king in the room of Josiah his father, and turned his name to Jehoiakim, and took Jehoahaz away: and he came to Egypt, and died there.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **3:14** — Amon his son, Josiah his son.
 - **3:15** — And the sons of Josiah were, the firstborn Johanan, the second Jehoiakim, the third Zedekiah, the fourth Shallum.
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **33:25** — But the people of the land slew all them that had conspired against king Amon; and the people of the land made Josiah his son king in his stead.
 - **34:1** — Josiah was eight years old when he began to reign, and he reigned in Jerusalem one and thirty years.
 - **34:33** — And Josiah took away all the abominations out of all the countries that pertained to the children of Israel, and made all that were present in Israel to serve, even to serve the LORD their God. And all his days they departed not from following the LORD, the God of their fathers.
@@ -88,7 +88,7 @@ metav_id: 1730
 - **35:26** — Now the rest of the acts of Josiah, and his goodness, according to that which was written in the law of the LORD,
 - **36:1** — Then the people of the land took Jehoahaz the son of Josiah, and made him king in his father's stead in Jerusalem.
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **1:2** — To whom the word of the LORD came in the days of Josiah the son of Amon king of Judah, in the thirteenth year of his reign.
 - **1:3** — It came also in the days of Jehoiakim the son of Josiah king of Judah, unto the end of the eleventh year of Zedekiah the son of Josiah king of Judah, unto the carrying away of Jerusalem captive in the fifth month.
 - **3:6** — The LORD said also unto me in the days of Josiah the king, Hast thou seen that which backsliding Israel hath done? she is gone up upon every high mountain and under every green tree, and there hath played the harlot.
@@ -106,10 +106,10 @@ metav_id: 1730
 - **45:1** — The word that Jeremiah the prophet spake unto Baruch the son of Neriah, when he had written these words in a book at the mouth of Jeremiah, in the fourth year of Jehoiakim the son of Josiah king of Judah, saying,
 - **46:2** — Against Egypt, against the army of Pharaohnecho king of Egypt, which was by the river Euphrates in Carchemish, which Nebuchadrezzar king of Babylon smote in the fourth year of Jehoiakim the son of Josiah king of Judah.
 
-### [[Zephaniah]]
+### [[books/Zephaniah|Zephaniah]]
 - **1:1** — The word of the LORD which came unto Zephaniah the son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hizkiah, in the days of Josiah the son of Amon, king of Judah.
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **1:10** — And Ezekias begat Manasses; and Manasses begat Amon; and Amon begat Josias;
 - **1:11** — And Josias begat Jechonias and his brethren, about the time they were carried away to Babylon:
 

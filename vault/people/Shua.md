@@ -47,6 +47,6 @@ metav_id: 2726
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **7:32** — And Heber begat Japhlet, and Shomer, and Hotham, and Shua their sister.
 

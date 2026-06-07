@@ -26,6 +26,6 @@ metav_id: 1269
 
 ## Verse References
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **20:16** — To morrow go ye down against them: behold, they come up by the cliff of Ziz; and ye shall find them at the end of the brook, before the wilderness of Jeruel.
 

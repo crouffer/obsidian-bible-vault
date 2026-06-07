@@ -26,7 +26,7 @@ metav_id: 891
 
 ## Verse References
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **26:10** — When the princes of Judah heard these things, then they came up from the king's house unto the house of the LORD, and sat down in the entry of the new gate of the LORD'S house.
 - **36:10** — Then read Baruch in the book the words of Jeremiah in the house of the LORD, in the chamber of Gemariah the son of Shaphan the scribe, in the higher court, at the entry of the new gate of the LORD'S house, in the ears of all the people.
 

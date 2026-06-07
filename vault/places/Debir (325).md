@@ -26,7 +26,7 @@ metav_id: 325
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **10:38** — And Joshua returned, and all Israel with him, to Debir; and fought against it:
 - **10:39** — And he took it, and the king thereof, and all the cities thereof; and they smote them with the edge of the sword, and utterly destroyed all the souls that were therein; he left none remaining: as he had done to Hebron, so he did to Debir, and to the king thereof; as he had done also to Libnah, and to her king.
 - **11:21** — And at that time came Joshua, and cut off the Anakims from the mountains, from Hebron, from Debir, from Anab, and from all the mountains of Judah, and from all the mountains of Israel: Joshua destroyed them utterly with their cities.
@@ -35,9 +35,9 @@ metav_id: 325
 - **15:49** — And Dannah, and Kirjathsannah, which is Debir,
 - **21:15** — And Holon with her suburbs, and Debir with her suburbs,
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **1:11** — And from thence he went against the inhabitants of Debir: and the name of Debir before was Kirjathsepher:
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:58** — And Hilen with her suburbs, Debir with her suburbs,
 

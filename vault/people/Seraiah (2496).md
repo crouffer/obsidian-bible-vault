@@ -46,7 +46,7 @@ metav_id: 2496
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **4:13** — And the sons of Kenaz; Othniel, and Seraiah: and the sons of Othniel; Hathath.
 - **4:14** — And Meonothai begat Ophrah: and Seraiah begat Joab, the father of the valley of Charashim; for they were craftsmen.
 

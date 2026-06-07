@@ -17,8 +17,8 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Israel]]"
-mother: "[[Rachel]]"
+father: "[[Rachel]]"
+mother: "[[Israel]]"
 spouse: 
   - "[[Asenath]]"
 children: 
@@ -48,7 +48,7 @@ metav_id: 1710
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **30:24** — And she called his name Joseph; and said, The LORD shall add to me another son.
 - **30:25** — And it came to pass, when Rachel had born Joseph, that Jacob said unto Laban, Send me away, that I may go unto mine own place, and to my country.
 - **33:2** — And he put the handmaids and their children foremost, and Leah and her children after, and Rachel and Joseph hindermost.
@@ -188,13 +188,13 @@ metav_id: 1710
 - **50:25** — And Joseph took an oath of the children of Israel, saying, God will surely visit you, and ye shall carry up my bones from hence.
 - **50:26** — So Joseph died, being an hundred and ten years old: and they embalmed him, and he was put in a coffin in Egypt.
 
-### [[Exodus]]
+### [[books/Exodus|Exodus]]
 - **1:5** — And all the souls that came out of the loins of Jacob were seventy souls: for Joseph was in Egypt already.
 - **1:6** — And Joseph died, and all his brethren, and all that generation.
 - **1:8** — Now there arose up a new king over Egypt, which knew not Joseph.
 - **13:19** — And Moses took the bones of Joseph with him: for he had straitly sworn the children of Israel, saying, God will surely visit you; and ye shall carry up my bones away hence with you.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **1:10** — Of the children of Joseph: of Ephraim; Elishama the son of Ammihud: of Manasseh; Gamaliel the son of Pedahzur.
 - **1:32** — Of the children of Joseph, namely, of the children of Ephraim, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;
 - **13:11** — Of the tribe of Joseph, namely, of the tribe of Manasseh, Gaddi the son of Susi.
@@ -207,12 +207,12 @@ metav_id: 1710
 - **36:5** — And Moses commanded the children of Israel according to the word of the LORD, saying, The tribe of the sons of Joseph hath said well.
 - **36:12** — And they were married into the families of the sons of Manasseh the son of Joseph, and their inheritance remained in the tribe of the family of their father.
 
-### [[Deuteronomy]]
+### [[books/Deuteronomy|Deuteronomy]]
 - **27:12** — These shall stand upon mount Gerizim to bless the people, when ye are come over Jordan; Simeon, and Levi, and Judah, and Issachar, and Joseph, and Benjamin:
 - **33:13** — And of Joseph he said, Blessed of the LORD be his land, for the precious things of heaven, for the dew, and for the deep that coucheth beneath,
 - **33:16** — And for the precious things of the earth and fulness thereof, and for the good will of him that dwelt in the bush: let the blessing come upon the head of Joseph, and upon the top of the head of him that was separated from his brethren.
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **14:4** — For the children of Joseph were two tribes, Manasseh and Ephraim: therefore they gave no part unto the Levites in the land, save cities to dwell in, with their suburbs for their cattle and for their substance.
 - **16:1** — And the lot of the children of Joseph fell from Jordan by Jericho, unto the water of Jericho on the east, to the wilderness that goeth up from Jericho throughout mount Bethel,
 - **16:4** — So the children of Joseph, Manasseh and Ephraim, took their inheritance.
@@ -225,63 +225,63 @@ metav_id: 1710
 - **18:11** — And the lot of the tribe of the children of Benjamin came up according to their families: and the coast of their lot came forth between the children of Judah and the children of Joseph.
 - **24:32** — And the bones of Joseph, which the children of Israel brought up out of Egypt, buried they in Shechem, in a parcel of ground which Jacob bought of the sons of Hamor the father of Shechem for an hundred pieces of silver: and it became the inheritance of the children of Joseph.
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **1:22** — And the house of Joseph, they also went up against Bethel: and the LORD was with them.
 - **1:23** — And the house of Joseph sent to descry Bethel. (Now the name of the city before was Luz.)
 - **1:35** — But the Amorites would dwell in mount Heres in Aijalon, and in Shaalbim: yet the hand of the house of Joseph prevailed, so that they became tributaries.
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **19:20** — For thy servant doth know that I have sinned: therefore, behold, I am come the first this day of all the house of Joseph to go down to meet my lord the king.
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **11:28** — And the man Jeroboam was a mighty man of valour: and Solomon seeing the young man that he was industrious, he made him ruler over all the charge of the house of Joseph.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **2:2** — Dan, Joseph, and Benjamin, Naphtali, Gad, and Asher.
 - **5:1** — Now the sons of Reuben the firstborn of Israel, (for he was the firstborn; but, forasmuch as he defiled his father's bed, his birthright was given unto the sons of Joseph the son of Israel: and the genealogy is not to be reckoned after the birthright.
 - **5:2** — For Judah prevailed above his brethren, and of him came the chief ruler; but the birthright was Joseph's:)
 - **7:29** — And by the borders of the children of Manasseh, Bethshean and her towns, Taanach and her towns, Megiddo and her towns, Dor and her towns. In these dwelt the children of Joseph the son of Israel.
 
-### [[Psalms]]
+### [[books/Psalms|Psalms]]
 - **77:15** — Thou hast with thine arm redeemed thy people, the sons of Jacob and Joseph. Selah.
 - **78:67** — Moreover he refused the tabernacle of Joseph, and chose not the tribe of Ephraim:
 - **80:1** — Give ear, O Shepherd of Israel, thou that leadest Joseph like a flock; thou that dwellest between the cherubims, shine forth.
 - **81:5** — This he ordained in Joseph for a testimony, when he went out through the land of Egypt: where I heard a language that I understood not.
 - **105:17** — He sent a man before them, even Joseph, who was sold for a servant:
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **37:16** — Moreover, thou son of man, take thee one stick, and write upon it, For Judah, and for the children of Israel his companions: then take another stick, and write upon it, For Joseph, the stick of Ephraim, and for all the house of Israel his companions:
 - **37:19** — Say unto them, Thus saith the Lord GOD; Behold, I will take the stick of Joseph, which is in the hand of Ephraim, and the tribes of Israel his fellows, and will put them with him, even with the stick of Judah, and make them one stick, and they shall be one in mine hand.
 - **47:13** — Thus saith the Lord GOD; This shall be the border, whereby ye shall inherit the land according to the twelve tribes of Israel: Joseph shall have two portions.
 - **48:32** — And at the east side four thousand and five hundred: and three gates; and one gate of Joseph, one gate of Benjamin, one gate of Dan.
 
-### [[Amos]]
+### [[books/Amos|Amos]]
 - **5:6** — Seek the LORD, and ye shall live; lest he break out like fire in the house of Joseph, and devour it, and there be none to quench it in Bethel.
 - **5:15** — Hate the evil, and love the good, and establish judgment in the gate: it may be that the LORD God of hosts will be gracious unto the remnant of Joseph.
 - **6:6** — That drink wine in bowls, and anoint themselves with the chief ointments: but they are not grieved for the affliction of Joseph.
 
-### [[Obadiah]]
+### [[books/Obadiah|Obadiah]]
 - **1:18** — And the house of Jacob shall be a fire, and the house of Joseph a flame, and the house of Esau for stubble, and they shall kindle in them, and devour them; and there shall not be any remaining of the house of Esau; for the LORD hath spoken it.
 
-### [[Zechariah]]
+### [[books/Zechariah|Zechariah]]
 - **10:6** — And I will strengthen the house of Judah, and I will save the house of Joseph, and I will bring them again to place them; for I have mercy upon them: and they shall be as though I had not cast them off: for I am the LORD their God, and will hear them.
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **4:22** — And all bare him witness, and wondered at the gracious words which proceeded out of his mouth. And they said, Is not this Joseph's son?
 
-### [[John]]
+### [[books/John|John]]
 - **4:5** — Then cometh he to a city of Samaria, which is called Sychar, near to the parcel of ground that Jacob gave to his son Joseph.
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **7:9** — And the patriarchs, moved with envy, sold Joseph into Egypt: but God was with him,
 - **7:13** — And at the second time Joseph was made known to his brethren; and Joseph's kindred was made known unto Pharaoh.
 - **7:14** — Then sent Joseph, and called his father Jacob to him, and all his kindred, threescore and fifteen souls.
 - **7:18** — Till another king arose, which knew not Joseph.
 
-### [[Hebrews]]
+### [[books/Hebrews|Hebrews]]
 - **11:21** — By faith Jacob, when he was a dying, blessed both the sons of Joseph; and worshipped, leaning upon the top of his staff.
 - **11:22** — By faith Joseph, when he died, made mention of the departing of the children of Israel; and gave commandment concerning his bones.
 
-### [[Revelation]]
+### [[books/Revelation|Revelation]]
 - **7:8** — Of the tribe of Zabulon were sealed twelve thousand. Of the tribe of Joseph were sealed twelve thousand. Of the tribe of Benjamin were sealed twelve thousand.
 

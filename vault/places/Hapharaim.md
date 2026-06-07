@@ -26,6 +26,6 @@ metav_id: 524
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **19:19** — And Hapharaim, and Shion, and Anaharath,
 

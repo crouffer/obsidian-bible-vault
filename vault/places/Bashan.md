@@ -26,11 +26,11 @@ metav_id: 159
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **21:33** — And they turned and went up by the way of Bashan: and Og the king of Bashan went out against them, he, and all his people, to the battle at Edrei.
 - **32:33** — And Moses gave unto them, even to the children of Gad, and to the children of Reuben, and unto half the tribe of Manasseh the son of Joseph, the kingdom of Sihon king of the Amorites, and the kingdom of Og king of Bashan, the land, with the cities thereof in the coasts, even the cities of the country round about.
 
-### [[Deuteronomy]]
+### [[books/Deuteronomy|Deuteronomy]]
 - **1:4** — After he had slain Sihon the king of the Amorites, which dwelt in Heshbon, and Og the king of Bashan, which dwelt at Astaroth in Edrei:
 - **3:1** — Then we turned, and went up the way to Bashan: and Og the king of Bashan came out against us, he and all his people, to battle at Edrei.
 - **3:3** — So the LORD our God delivered into our hands Og also, the king of Bashan, and all his people: and we smote him until none was left to him remaining.
@@ -44,7 +44,7 @@ metav_id: 159
 - **32:14** — Butter of kine, and milk of sheep, with fat of lambs, and rams of the breed of Bashan, and goats, with the fat of kidneys of wheat; and thou didst drink the pure blood of the grape.
 - **33:22** — And of Dan he said, Dan is a lion's whelp: he shall leap from Bashan.
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **9:10** — And all that he did to the two kings of the Amorites, that were beyond Jordan, to Sihon king of Heshbon, and to Og king of Bashan, which was at Ashtaroth.
 - **12:4** — And the coast of Og king of Bashan, which was of the remnant of the giants, that dwelt at Ashtaroth and at Edrei,
 - **12:5** — And reigned in mount Hermon, and in Salcah, and in all Bashan, unto the border of the Geshurites and the Maachathites, and half Gilead, the border of Sihon king of Heshbon.
@@ -59,14 +59,14 @@ metav_id: 159
 - **21:27** — And unto the children of Gershon, of the families of the Levites, out of the other half tribe of Manasseh they gave Golan in Bashan with her suburbs, to be a city of refuge for the slayer; and Beeshterah with her suburbs; two cities.
 - **22:7** — Now to the one half of the tribe of Manasseh Moses had given possession in Bashan: but unto the other half thereof gave Joshua among their brethren on this side Jordan westward. And when Joshua sent them away also unto their tents, then he blessed them,
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **4:13** — The son of Geber, in Ramothgilead; to him pertained the towns of Jair the son of Manasseh, which are in Gilead; to him also pertained the region of Argob, which is in Bashan, threescore great cities with walls and brasen bars:
 - **4:19** — Geber the son of Uri was in the country of Gilead, in the country of Sihon king of the Amorites, and of Og king of Bashan; and he was the only officer which was in the land.
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **10:33** — From Jordan eastward, all the land of Gilead, the Gadites, and the Reubenites, and the Manassites, from Aroer, which is by the river Arnon, even Gilead and Bashan.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **5:11** — And the children of Gad dwelt over against them, in the land of Bashan unto Salchah:
 - **5:12** — Joel the chief, and Shapham the next, and Jaanai, and Shaphat in Bashan.
 - **5:16** — And they dwelt in Gilead in Bashan, and in her towns, and in all the suburbs of Sharon, upon their borders.
@@ -74,37 +74,37 @@ metav_id: 159
 - **6:62** — And to the sons of Gershom throughout their families out of the tribe of Issachar, and out of the tribe of Asher, and out of the tribe of Naphtali, and out of the tribe of Manasseh in Bashan, thirteen cities.
 - **6:71** — Unto the sons of Gershom were given out of the family of the half tribe of Manasseh, Golan in Bashan with her suburbs, and Ashtaroth with her suburbs:
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **9:22** — Moreover thou gavest them kingdoms and nations, and didst divide them into corners: so they possessed the land of Sihon, and the land of the king of Heshbon, and the land of Og king of Bashan.
 
-### [[Psalms]]
+### [[books/Psalms|Psalms]]
 - **22:12** — Many bulls have compassed me: strong bulls of Bashan have beset me round.
 - **68:15** — The hill of God is as the hill of Bashan; an high hill as the hill of Bashan.
 - **68:22** — The Lord said, I will bring again from Bashan, I will bring my people again from the depths of the sea:
 - **135:11** — Sihon king of the Amorites, and Og king of Bashan, and all the kingdoms of Canaan:
 - **136:20** — And Og the king of Bashan: for his mercy endureth for ever:
 
-### [[Isaiah]]
+### [[books/Isaiah|Isaiah]]
 - **2:13** — And upon all the cedars of Lebanon, that are high and lifted up, and upon all the oaks of Bashan,
 - **33:9** — The earth mourneth and languisheth: Lebanon is ashamed and hewn down: Sharon is like a wilderness; and Bashan and Carmel shake off their fruits.
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **22:20** — Go up to Lebanon, and cry; and lift up thy voice in Bashan, and cry from the passages: for all thy lovers are destroyed.
 - **50:19** — And I will bring Israel again to his habitation, and he shall feed on Carmel and Bashan, and his soul shall be satisfied upon mount Ephraim and Gilead.
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **27:6** — Of the oaks of Bashan have they made thine oars; the company of the Ashurites have made thy benches of ivory, brought out of the isles of Chittim.
 - **39:18** — Ye shall eat the flesh of the mighty, and drink the blood of the princes of the earth, of rams, of lambs, and of goats, of bullocks, all of them fatlings of Bashan.
 
-### [[Amos]]
+### [[books/Amos|Amos]]
 - **4:1** — Hear this word, ye kine of Bashan, that are in the mountain of Samaria, which oppress the poor, which crush the needy, which say to their masters, Bring, and let us drink.
 
-### [[Micah]]
+### [[books/Micah|Micah]]
 - **7:14** — Feed thy people with thy rod, the flock of thine heritage, which dwell solitarily in the wood, in the midst of Carmel: let them feed in Bashan and Gilead, as in the days of old.
 
-### [[Nahum]]
+### [[books/Nahum|Nahum]]
 - **1:4** — He rebuketh the sea, and maketh it dry, and drieth up all the rivers: Bashan languisheth, and Carmel, and the flower of Lebanon languisheth.
 
-### [[Zechariah]]
+### [[books/Zechariah|Zechariah]]
 - **11:2** — Howl, fir tree; for the cedar is fallen; because the mighty are spoiled: howl, O ye oaks of Bashan; for the forest of the vintage is come down.
 

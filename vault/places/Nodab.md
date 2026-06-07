@@ -26,6 +26,6 @@ metav_id: 903
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **5:19** — And they made war with the Hagarites, with Jetur, and Nephish, and Nodab.
 

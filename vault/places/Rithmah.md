@@ -26,7 +26,7 @@ metav_id: 1009
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **33:18** — And they departed from Hazeroth, and pitched in Rithmah.
 - **33:19** — And they departed from Rithmah, and pitched at Rimmonparez.
 

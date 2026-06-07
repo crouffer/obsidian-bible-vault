@@ -45,6 +45,6 @@ metav_id: 1291
 
 ## Verse References
 
-### [[Zephaniah]]
+### [[books/Zephaniah|Zephaniah]]
 - **1:1** — The word of the LORD which came unto Zephaniah the son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hizkiah, in the days of Josiah the son of Amon, king of Judah.
 

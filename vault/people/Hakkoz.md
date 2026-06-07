@@ -44,6 +44,6 @@ metav_id: 1355
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **24:10** — The seventh to Hakkoz, the eighth to Abijah,
 

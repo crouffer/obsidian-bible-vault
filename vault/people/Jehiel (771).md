@@ -46,7 +46,7 @@ metav_id: 771
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **23:8** — The sons of Laadan; the chief was Jehiel, and Zetham, and Joel, three.
 - **26:21** — As concerning the sons of Laadan; the sons of the Gershonite Laadan, chief fathers, even of Laadan the Gershonite, were Jehieli.
 - **26:22** — The sons of Jehieli; Zetham, and Joel his brother, which were over the treasures of the house of the LORD.

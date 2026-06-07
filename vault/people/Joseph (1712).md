@@ -47,7 +47,7 @@ metav_id: 1712
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **25:2** — Of the sons of Asaph; Zaccur, and Joseph, and Nethaniah, and Asarelah, the sons of Asaph under the hands of Asaph, which prophesied according to the order of the king.
 - **25:9** — Now the first lot came forth for Asaph to Joseph: the second to Gedaliah, who with his brethren and sons were twelve:
 

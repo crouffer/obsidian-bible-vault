@@ -26,6 +26,6 @@ metav_id: 587
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:75** — And Hukok with her suburbs, and Rehob with her suburbs:
 

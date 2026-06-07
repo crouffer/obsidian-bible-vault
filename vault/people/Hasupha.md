@@ -44,9 +44,9 @@ metav_id: 1451
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **2:43** — The Nethinims: the children of Ziha, the children of Hasupha, the children of Tabbaoth,
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **7:46** — The Nethinims: the children of Ziha, the children of Hashupha, the children of Tabbaoth,
 

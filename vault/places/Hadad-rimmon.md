@@ -26,6 +26,6 @@ metav_id: 501
 
 ## Verse References
 
-### [[Zechariah]]
+### [[books/Zechariah|Zechariah]]
 - **12:11** — In that day shall there be a great mourning in Jerusalem, as the mourning of Hadadrimmon in the valley of Megiddon.
 

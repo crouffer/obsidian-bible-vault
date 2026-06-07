@@ -26,15 +26,15 @@ metav_id: 429
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **24:30** — And they buried him in the border of his inheritance in Timnathserah, which is in mount Ephraim, on the north side of the hill of Gaash.
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **2:9** — And they buried him in the border of his inheritance in Timnathheres, in the mount of Ephraim, on the north side of the hill Gaash.
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **23:30** — Benaiah the Pirathonite, Hiddai of the brooks of Gaash,
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **11:32** — Hurai of the brooks of Gaash, Abiel the Arbathite,
 

@@ -44,6 +44,6 @@ metav_id: 2378
 
 ## Verse References
 
-### [[Romans]]
+### [[books/Romans|Romans]]
 - **16:23** — Gaius mine host, and of the whole church, saluteth you. Erastus the chamberlain of the city saluteth you, and Quartus a brother.
 

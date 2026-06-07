@@ -44,9 +44,9 @@ metav_id: 2528
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **2:46** — The children of Hagab, the children of Shalmai, the children of Hanan,
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **7:48** — The children of Lebana, the children of Hagaba, the children of Shalmai,
 

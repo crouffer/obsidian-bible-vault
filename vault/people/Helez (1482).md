@@ -44,10 +44,10 @@ metav_id: 1482
 
 ## Verse References
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **23:26** — Helez the Paltite, Ira the son of Ikkesh the Tekoite,
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **11:27** — Shammoth the Harorite, Helez the Pelonite,
 - **27:10** — The seventh captain for the seventh month was Helez the Pelonite, of the children of Ephraim: and in his course were twenty and four thousand.
 

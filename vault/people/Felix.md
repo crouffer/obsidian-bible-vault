@@ -45,7 +45,7 @@ metav_id: 1257
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **23:24** — And provide them beasts, that they may set Paul on, and bring him safe unto Felix the governor.
 - **23:26** — Claudius Lysias unto the most excellent governor Felix sendeth greeting.
 - **24:3** — We accept it always, and in all places, most noble Felix, with all thankfulness.

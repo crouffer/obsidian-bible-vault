@@ -44,7 +44,7 @@ metav_id: 2901
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **15:5** — Of the sons of Kohath; Uriel the chief, and his brethren an hundred and twenty:
 - **15:11** — And David called for Zadok and Abiathar the priests, and for the Levites, for Uriel, Asaiah, and Joel, Shemaiah, and Eliel, and Amminadab,
 

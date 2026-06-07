@@ -46,7 +46,7 @@ metav_id: 1570
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **7:12** — Shuppim also, and Huppim, the children of Ir, and Hushim, the sons of Aher.
 - **7:15** — And Machir took to wife the sister of Huppim and Shuppim, whose sister's name was Maachah;) and the name of the second was Zelophehad: and Zelophehad had daughters.
 

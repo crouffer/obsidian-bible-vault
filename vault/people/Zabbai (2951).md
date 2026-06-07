@@ -44,6 +44,6 @@ metav_id: 2951
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **10:28** — Of the sons also of Bebai; Jehohanan, Hananiah, Zabbai, and Athlai.
 

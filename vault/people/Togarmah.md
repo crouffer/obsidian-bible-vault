@@ -46,13 +46,13 @@ metav_id: 2875
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **10:3** — And the sons of Gomer; Ashkenaz, and Riphath, and Togarmah.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:6** — And the sons of Gomer; Ashchenaz, and Riphath, and Togarmah.
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **27:14** — They of the house of Togarmah traded in thy fairs with horses and horsemen and mules.
 - **38:6** — Gomer, and all his bands; the house of Togarmah of the north quarters, and all his bands: and many people with thee.
 

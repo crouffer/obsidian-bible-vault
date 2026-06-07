@@ -48,12 +48,12 @@ metav_id: 1756
 
 ## Verse References
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **13:55** — Is not this the carpenter's son? is not his mother called Mary? and his brethren, James, and Joses, and Simon, and Judas?
 
-### [[Mark]]
+### [[books/Mark|Mark]]
 - **6:3** — Is not this the carpenter, the son of Mary, the brother of James, and Joses, and of Juda, and Simon? and are not his sisters here with us? And they were offended at him.
 
-### [[Jude]]
+### [[books/Jude|Jude]]
 - **1:1** — Jude, the servant of Jesus Christ, and brother of James, to them that are sanctified by God the Father, and preserved in Jesus Christ, and called:
 

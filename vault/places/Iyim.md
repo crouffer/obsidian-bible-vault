@@ -26,6 +26,6 @@ metav_id: 607
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **33:45** — And they departed from Iim, and pitched in Dibongad.
 

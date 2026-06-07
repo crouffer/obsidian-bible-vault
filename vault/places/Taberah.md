@@ -26,9 +26,9 @@ metav_id: 1127
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **11:3** — And he called the name of the place Taberah: because the fire of the LORD burnt among them.
 
-### [[Deuteronomy]]
+### [[books/Deuteronomy|Deuteronomy]]
 - **9:22** — And at Taberah, and at Massah, and at Kibrothhattaavah, ye provoked the LORD to wrath.
 

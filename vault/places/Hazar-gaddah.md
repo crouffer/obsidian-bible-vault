@@ -26,6 +26,6 @@ metav_id: 538
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **15:27** — And Hazargaddah, and Heshmon, and Bethpalet,
 

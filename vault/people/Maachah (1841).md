@@ -17,8 +17,8 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Uriel (2902)]]"
-mother: "[[Tamar (2823)]]"
+father: "[[Tamar (2823)]]"
+mother: "[[Uriel (2902)]]"
 spouse: 
   - "[[Rehoboam]]"
 children: []
@@ -45,12 +45,12 @@ metav_id: 1841
 
 ## Verse References
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **15:2** — Three years reigned he in Jerusalem. And his mother's name was Maachah, the daughter of Abishalom.
 - **15:10** — And forty and one years reigned he in Jerusalem. And his mother's name was Maachah, the daughter of Abishalom.
 - **15:13** — And also Maachah his mother, even her he removed from being queen, because she had made an idol in a grove; and Asa destroyed her idol, and burnt it by the brook Kidron.
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **11:20** — And after her he took Maachah the daughter of Absalom; which bare him Abijah, and Attai, and Ziza, and Shelomith.
 - **11:21** — And Rehoboam loved Maachah the daughter of Absalom above all his wives and his concubines: (for he took eighteen wives, and threescore concubines; and begat twenty and eight sons, and threescore daughters.)
 - **11:22** — And Rehoboam made Abijah the son of Maachah the chief, to be ruler among his brethren: for he thought to make him king.

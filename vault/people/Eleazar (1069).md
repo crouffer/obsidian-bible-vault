@@ -45,6 +45,6 @@ metav_id: 1069
 
 ## Verse References
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **1:15** — And Eliud begat Eleazar; and Eleazar begat Matthan; and Matthan begat Jacob;
 

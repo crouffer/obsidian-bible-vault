@@ -26,7 +26,7 @@ metav_id: 470
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **9:3** — And when the inhabitants of Gibeon heard what Joshua had done unto Jericho and to Ai,
 - **9:17** — And the children of Israel journeyed, and came unto their cities on the third day. Now their cities were Gibeon, and Chephirah, and Beeroth, and Kirjathjearim.
 - **10:1** — Now it came to pass, when Adonizedek king of Jerusalem had heard how Joshua had taken Ai, and had utterly destroyed it; as he had done to Jericho and her king, so he had done to Ai and her king; and how the inhabitants of Gibeon had made peace with Israel, and were among them;
@@ -41,7 +41,7 @@ metav_id: 470
 - **18:25** — Gibeon, and Ramah, and Beeroth,
 - **21:17** — And out of the tribe of Benjamin, Gibeon with her suburbs, Geba with her suburbs,
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **2:12** — And Abner the son of Ner, and the servants of Ishbosheth the son of Saul, went out from Mahanaim to Gibeon.
 - **2:13** — And Joab the son of Zeruiah, and the servants of David, went out, and met together by the pool of Gibeon: and they sat down, the one on the one side of the pool, and the other on the other side of the pool.
 - **2:16** — And they caught every one his fellow by the head, and thrust his sword in his fellow's side; so they fell down together: wherefore that place was called Helkathhazzurim, which is in Gibeon.
@@ -49,12 +49,12 @@ metav_id: 470
 - **3:30** — So Joab and Abishai his brother slew Abner, because he had slain their brother Asahel at Gibeon in the battle.
 - **20:8** — When they were at the great stone which is in Gibeon, Amasa went before them. And Joab's garment that he had put on was girded unto him, and upon it a girdle with a sword fastened upon his loins in the sheath thereof; and as he went forth it fell out.
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **3:4** — And the king went to Gibeon to sacrifice there; for that was the great high place: a thousand burnt offerings did Solomon offer upon that altar.
 - **3:5** — In Gibeon the LORD appeared to Solomon in a dream by night: and God said, Ask what I shall give thee.
 - **9:2** — That the LORD appeared to Solomon the second time, as he had appeared unto him at Gibeon.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **8:29** — And at Gibeon dwelt the father of Gibeon; whose wife's name was Maachah:
 - **9:35** — And in Gibeon dwelt the father of Gibeon, Jehiel, whose wife's name was Maachah:
 - **12:4** — And Ismaiah the Gibeonite, a mighty man among the thirty, and over the thirty; and Jeremiah, and Jahaziel, and Johanan, and Josabad the Gederathite,
@@ -62,15 +62,15 @@ metav_id: 470
 - **16:39** — And Zadok the priest, and his brethren the priests, before the tabernacle of the LORD in the high place that was at Gibeon,
 - **21:29** — For the tabernacle of the LORD, which Moses made in the wilderness, and the altar of the burnt offering, were at that season in the high place at Gibeon.
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **1:3** — So Solomon, and all the congregation with him, went to the high place that was at Gibeon; for there was the tabernacle of the congregation of God, which Moses the servant of the LORD had made in the wilderness.
 - **1:13** — Then Solomon came from his journey to the high place that was at Gibeon to Jerusalem, from before the tabernacle of the congregation, and reigned over Israel.
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **3:7** — And next unto them repaired Melatiah the Gibeonite, and Jadon the Meronothite, the men of Gibeon, and of Mizpah, unto the throne of the governor on this side the river.
 - **7:25** — The children of Gibeon, ninety and five.
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **28:1** — And it came to pass the same year, in the beginning of the reign of Zedekiah king of Judah, in the fourth year, and in the fifth month, that Hananiah the son of Azur the prophet, which was of Gibeon, spake unto me in the house of the LORD, in the presence of the priests and of all the people, saying,
 - **41:12** — Then they took all the men, and went to fight with Ishmael the son of Nethaniah, and found him by the great waters that are in Gibeon.
 - **41:16** — Then took Johanan the son of Kareah, and all the captains of the forces that were with him, all the remnant of the people whom he had recovered from Ishmael the son of Nethaniah, from Mizpah, after that he had slain Gedaliah the son of Ahikam, even mighty men of war, and the women, and the children, and the eunuchs, whom he had brought again from Gibeon:

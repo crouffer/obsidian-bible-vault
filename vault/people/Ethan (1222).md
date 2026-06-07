@@ -47,9 +47,9 @@ metav_id: 1222
 
 ## Verse References
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **4:31** — For he was wiser than all men; than Ethan the Ezrahite, and Heman, and Chalcol, and Darda, the sons of Mahol: and his fame was in all nations round about.
 
-### [[Psalms]]
+### [[books/Psalms|Psalms]]
 - **89:1** — I will sing of the mercies of the LORD for ever: with my mouth will I make known thy faithfulness to all generations.
 

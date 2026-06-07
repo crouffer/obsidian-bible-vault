@@ -45,6 +45,6 @@ metav_id: 4
 
 ## Verse References
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **4:6** — And Ahishar was over the household: and Adoniram the son of Abda was over the tribute.
 

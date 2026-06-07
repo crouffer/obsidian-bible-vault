@@ -46,6 +46,6 @@ metav_id: 2525
 
 ## Verse References
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **32:7** — Behold, Hanameel the son of Shallum thine uncle shall come unto thee, saying, Buy thee my field that is in Anathoth: for the right of redemption is thine to buy it.
 

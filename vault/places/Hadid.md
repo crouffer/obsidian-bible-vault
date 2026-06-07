@@ -26,10 +26,10 @@ metav_id: 503
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **2:33** — The children of Lod, Hadid, and Ono, seven hundred twenty and five.
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **7:37** — The children of Lod, Hadid, and Ono, seven hundred twenty and one.
 - **11:34** — Hadid, Zeboim, Neballat,
 

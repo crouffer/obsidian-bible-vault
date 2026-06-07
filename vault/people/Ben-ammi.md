@@ -44,6 +44,6 @@ metav_id: 451
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **19:38** — And the younger, she also bare a son, and called his name Benammi: the same is the father of the children of Ammon unto this day.
 

@@ -51,9 +51,9 @@ metav_id: 2860
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **36:22** — And the children of Lotan were Hori and Hemam; and Lotan's sister was Timna.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:39** — And the sons of Lotan; Hori, and Homam: and Timna was Lotan's sister.
 

@@ -54,6 +54,6 @@ metav_id: 11
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **8:23** — And Abdon, and Zichri, and Hanan,
 

@@ -26,6 +26,6 @@ metav_id: 570
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:58** — And Hilen with her suburbs, Debir with her suburbs,
 

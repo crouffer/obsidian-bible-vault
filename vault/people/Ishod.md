@@ -46,6 +46,6 @@ metav_id: 638
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **7:18** — And his sister Hammoleketh bare Ishod, and Abiezer, and Mahalah.
 

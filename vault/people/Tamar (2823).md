@@ -45,6 +45,6 @@ metav_id: 2823
 
 ## Verse References
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **14:27** — And unto Absalom there were born three sons, and one daughter, whose name was Tamar: she was a woman of a fair countenance.
 

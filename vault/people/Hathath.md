@@ -45,6 +45,6 @@ metav_id: 1453
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **4:13** — And the sons of Kenaz; Othniel, and Seraiah: and the sons of Othniel; Hathath.
 

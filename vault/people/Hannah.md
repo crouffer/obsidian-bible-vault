@@ -45,7 +45,7 @@ metav_id: 1400
 
 ## Verse References
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **1:2** — And he had two wives; the name of the one was Hannah, and the name of the other Peninnah: and Peninnah had children, but Hannah had no children.
 - **1:5** — But unto Hannah he gave a worthy portion; for he loved Hannah: but the LORD had shut up her womb.
 - **1:8** — Then said Elkanah her husband to her, Hannah, why weepest thou? and why eatest thou not? and why is thy heart grieved? am not I better to thee than ten sons?

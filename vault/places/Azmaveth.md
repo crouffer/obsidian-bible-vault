@@ -26,9 +26,9 @@ metav_id: 129
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **2:24** — The children of Azmaveth, forty and two.
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **12:29** — Also from the house of Gilgal, and out of the fields of Geba and Azmaveth: for the singers had builded them villages round about Jerusalem.
 

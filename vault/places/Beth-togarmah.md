@@ -26,7 +26,7 @@ metav_id: 239
 
 ## Verse References
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **27:14** — They of the house of Togarmah traded in thy fairs with horses and horsemen and mules.
 - **38:6** — Gomer, and all his bands; the house of Togarmah of the north quarters, and all his bands: and many people with thee.
 

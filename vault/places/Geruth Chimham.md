@@ -26,6 +26,6 @@ metav_id: 460
 
 ## Verse References
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **41:17** — And they departed, and dwelt in the habitation of Chimham, which is by Bethlehem, to go to enter into Egypt,
 

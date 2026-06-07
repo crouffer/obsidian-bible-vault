@@ -51,6 +51,6 @@ metav_id: 3030
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **3:16** — And the sons of Jehoiakim: Jeconiah his son, Zedekiah his son.
 

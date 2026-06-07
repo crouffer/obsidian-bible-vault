@@ -47,7 +47,7 @@ metav_id: 320
 
 ## Verse References
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **2:18** — And there were three sons of Zeruiah there, Joab, and Abishai, and Asahel: and Asahel was as light of foot as a wild roe.
 - **2:19** — And Asahel pursued after Abner; and in going he turned not to the right hand nor to the left from following Abner.
 - **2:20** — Then Abner looked behind him, and said, Art thou Asahel? And he answered, I am.
@@ -60,7 +60,7 @@ metav_id: 320
 - **3:30** — So Joab and Abishai his brother slew Abner, because he had slain their brother Asahel at Gibeon in the battle.
 - **23:24** — Asahel the brother of Joab was one of the thirty; Elhanan the son of Dodo of Bethlehem,
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **2:16** — Whose sisters were Zeruiah, and Abigail. And the sons of Zeruiah; Abishai, and Joab, and Asahel, three.
 - **11:26** — Also the valiant men of the armies were, Asahel the brother of Joab, Elhanan the son of Dodo of Bethlehem,
 - **27:7** — The fourth captain for the fourth month was Asahel the brother of Joab, and Zebadiah his son after him: and in his course were twenty and four thousand.

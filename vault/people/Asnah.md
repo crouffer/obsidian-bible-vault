@@ -44,6 +44,6 @@ metav_id: 345
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **2:50** — The children of Asnah, the children of Mehunim, the children of Nephusim,
 

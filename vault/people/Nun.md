@@ -45,10 +45,10 @@ metav_id: 2214
 
 ## Verse References
 
-### [[Exodus]]
+### [[books/Exodus|Exodus]]
 - **33:11** — And the LORD spake unto Moses face to face, as a man speaketh unto his friend. And he turned again into the camp: but his servant Joshua, the son of Nun, a young man, departed not out of the tabernacle.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **11:28** — And Joshua the son of Nun, the servant of Moses, one of his young men, answered and said, My lord Moses, forbid them.
 - **13:8** — Of the tribe of Ephraim, Oshea the son of Nun.
 - **13:16** — These are the names of the men which Moses sent to spy out the land. And Moses called Oshea the son of Nun Jehoshua.
@@ -61,13 +61,13 @@ metav_id: 2214
 - **32:28** — So concerning them Moses commanded Eleazar the priest, and Joshua the son of Nun, and the chief fathers of the tribes of the children of Israel:
 - **34:17** — These are the names of the men which shall divide the land unto you: Eleazar the priest, and Joshua the son of Nun.
 
-### [[Deuteronomy]]
+### [[books/Deuteronomy|Deuteronomy]]
 - **1:38** — But Joshua the son of Nun, which standeth before thee, he shall go in thither: encourage him: for he shall cause Israel to inherit it.
 - **31:23** — And he gave Joshua the son of Nun a charge, and said, Be strong and of a good courage: for thou shalt bring the children of Israel into the land which I sware unto them: and I will be with thee.
 - **32:44** — And Moses came and spake all the words of this song in the ears of the people, he, and Hoshea the son of Nun.
 - **34:9** — And Joshua the son of Nun was full of the spirit of wisdom; for Moses had laid his hands upon him: and the children of Israel hearkened unto him, and did as the LORD commanded Moses.
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **1:1** — Now after the death of Moses the servant of the LORD it came to pass, that the LORD spake unto Joshua the son of Nun, Moses' minister, saying,
 - **2:1** — And Joshua the son of Nun sent out of Shittim two men to spy secretly, saying, Go view the land, even Jericho. And they went, and came into an harlot's house, named Rahab, and lodged there.
 - **2:23** — So the two men returned, and descended from the mountain, and passed over, and came to Joshua the son of Nun, and told him all things that befell them:
@@ -79,15 +79,15 @@ metav_id: 2214
 - **21:1** — Then came near the heads of the fathers of the Levites unto Eleazar the priest, and unto Joshua the son of Nun, and unto the heads of the fathers of the tribes of the children of Israel;
 - **24:29** — And it came to pass after these things, that Joshua the son of Nun, the servant of the LORD, died, being an hundred and ten years old.
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **2:8** — And Joshua the son of Nun, the servant of the LORD, died, being an hundred and ten years old.
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **16:34** — In his days did Hiel the Bethelite build Jericho: he laid the foundation thereof in Abiram his firstborn, and set up the gates thereof in his youngest son Segub, according to the word of the LORD, which he spake by Joshua the son of Nun.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **7:27** — Non his son, Jehoshua his son.
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **8:17** — And all the congregation of them that were come again out of the captivity made booths, and sat under the booths: for since the days of Jeshua the son of Nun unto that day had not the children of Israel done so. And there was very great gladness.
 

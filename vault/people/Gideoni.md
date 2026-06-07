@@ -45,7 +45,7 @@ metav_id: 1315
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **1:11** — Of Benjamin; Abidan the son of Gideoni.
 - **2:22** — Then the tribe of Benjamin: and the captain of the sons of Benjamin shall be Abidan the son of Gideoni.
 - **7:60** — On the ninth day Abidan the son of Gideoni, prince of the children of Benjamin, offered:

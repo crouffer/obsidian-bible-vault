@@ -44,10 +44,10 @@ metav_id: 552
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **2:12** — The children of Azgad, a thousand two hundred twenty and two.
 - **8:12** — And of the sons of Azgad; Johanan the son of Hakkatan, and with him an hundred and ten males.
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **7:17** — The children of Azgad, two thousand three hundred twenty and two.
 

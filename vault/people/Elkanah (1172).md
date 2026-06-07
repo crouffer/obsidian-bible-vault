@@ -44,6 +44,6 @@ metav_id: 1172
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **12:6** — Elkanah, and Jesiah, and Azareel, and Joezer, and Jashobeam, the Korhites,
 

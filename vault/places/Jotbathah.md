@@ -26,10 +26,10 @@ metav_id: 656
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **33:33** — And they went from Horhagidgad, and pitched in Jotbathah.
 - **33:34** — And they removed from Jotbathah, and encamped at Ebronah.
 
-### [[Deuteronomy]]
+### [[books/Deuteronomy|Deuteronomy]]
 - **10:7** — From thence they journeyed unto Gudgodah; and from Gudgodah to Jotbath, a land of rivers of waters.
 

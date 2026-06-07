@@ -26,17 +26,17 @@ metav_id: 1021
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **14:3** — All these were joined together in the vale of Siddim, which is the salt sea.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **34:3** — Then your south quarter shall be from the wilderness of Zin along by the coast of Edom, and your south border shall be the outmost coast of the salt sea eastward:
 - **34:12** — And the border shall go down to Jordan, and the goings out of it shall be at the salt sea: this shall be your land with the coasts thereof round about.
 
-### [[Deuteronomy]]
+### [[books/Deuteronomy|Deuteronomy]]
 - **3:17** — The plain also, and Jordan, and the coast thereof, from Chinnereth even unto the sea of the plain, even the salt sea, under Ashdothpisgah eastward.
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **3:16** — That the waters which came down from above stood and rose up upon an heap very far from the city Adam, that is beside Zaretan: and those that came down toward the sea of the plain, even the salt sea, failed, and were cut off: and the people passed over right against Jericho.
 - **12:3** — And from the plain to the sea of Chinneroth on the east, and unto the sea of the plain, even the salt sea on the east, the way to Bethjeshimoth; and from the south, under Ashdothpisgah:
 - **15:2** — And their south border was from the shore of the salt sea, from the bay that looketh southward:

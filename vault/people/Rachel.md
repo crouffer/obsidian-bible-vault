@@ -46,7 +46,7 @@ metav_id: 2386
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **29:6** — And he said unto them, Is he well? And they said, He is well: and, behold, Rachel his daughter cometh with the sheep.
 - **29:9** — And while he yet spake with them, Rachel came with her father's sheep: for she kept them.
 - **29:10** — And it came to pass, when Jacob saw Rachel the daughter of Laban his mother's brother, and the sheep of Laban his mother's brother, that Jacob went near, and rolled the stone from the well's mouth, and watered the flock of Laban his mother's brother.
@@ -89,15 +89,15 @@ metav_id: 2386
 - **46:25** — These are the sons of Bilhah, which Laban gave unto Rachel his daughter, and she bare these unto Jacob: all the souls were seven.
 - **48:7** — And as for me, when I came from Padan, Rachel died by me in the land of Canaan in the way, when yet there was but a little way to come unto Ephrath: and I buried her there in the way of Ephrath; the same is Bethlehem.
 
-### [[Ruth]]
+### [[books/Ruth|Ruth]]
 - **4:11** — And all the people that were in the gate, and the elders, said, We are witnesses. The LORD make the woman that is come into thine house like Rachel and like Leah, which two did build the house of Israel: and do thou worthily in Ephratah, and be famous in Bethlehem:
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **10:2** — When thou art departed from me to day, then thou shalt find two men by Rachel's sepulchre in the border of Benjamin at Zelzah; and they will say unto thee, The asses which thou wentest to seek are found: and, lo, thy father hath left the care of the asses, and sorroweth for you, saying, What shall I do for my son?
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **31:15** — Thus saith the LORD; A voice was heard in Ramah, lamentation, and bitter weeping; Rahel weeping for her children refused to be comforted for her children, because they were not.
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **2:18** — In Rama was there a voice heard, lamentation, and weeping, and great mourning, Rachel weeping for her children, and would not be comforted, because they are not.
 

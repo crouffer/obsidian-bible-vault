@@ -44,7 +44,7 @@ metav_id: 2638
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **10:8** — Maaziah, Bilgai, Shemaiah: these were the priests.
 - **12:6** — Shemaiah, and Joiarib, Jedaiah,
 - **12:18** — Of Bilgah, Shammua; of Shemaiah, Jehonathan;

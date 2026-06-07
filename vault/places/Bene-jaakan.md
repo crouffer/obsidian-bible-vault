@@ -26,7 +26,7 @@ metav_id: 174
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **33:31** — And they departed from Moseroth, and pitched in Benejaakan.
 - **33:32** — And they removed from Benejaakan, and encamped at Horhagidgad.
 

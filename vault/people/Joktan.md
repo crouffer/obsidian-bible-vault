@@ -58,12 +58,12 @@ metav_id: 1686
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **10:25** — And unto Eber were born two sons: the name of one was Peleg; for in his days was the earth divided; and his brother's name was Joktan.
 - **10:26** — And Joktan begat Almodad, and Sheleph, and Hazarmaveth, and Jerah,
 - **10:29** — And Ophir, and Havilah, and Jobab: all these were the sons of Joktan.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:19** — And unto Eber were born two sons: the name of the one was Peleg; because in his days the earth was divided: and his brother's name was Joktan.
 - **1:20** — And Joktan begat Almodad, and Sheleph, and Hazarmaveth, and Jerah,
 - **1:23** — And Ophir, and Havilah, and Jobab. All these were the sons of Joktan.

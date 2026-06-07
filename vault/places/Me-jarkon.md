@@ -26,6 +26,6 @@ metav_id: 778
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **19:46** — And Mejarkon, and Rakkon, with the border before Japho.
 

@@ -26,6 +26,6 @@ metav_id: 1220
 
 ## Verse References
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **16:4** — And it came to pass afterward, that he loved a woman in the valley of Sorek, whose name was Delilah.
 

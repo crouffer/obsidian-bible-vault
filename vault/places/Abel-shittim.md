@@ -26,6 +26,6 @@ metav_id: 10
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **33:49** — And they pitched by Jordan, from Bethjesimoth even unto Abelshittim in the plains of Moab.
 

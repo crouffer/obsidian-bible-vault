@@ -45,6 +45,6 @@ metav_id: 1024
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **24:24** — And after certain days, when Felix came with his wife Drusilla, which was a Jewess, he sent for Paul, and heard him concerning the faith in Christ.
 

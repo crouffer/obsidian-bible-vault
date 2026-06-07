@@ -46,6 +46,6 @@ metav_id: 1149
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **8:39** — And the sons of Eshek his brother were, Ulam his firstborn, Jehush the second, and Eliphelet the third.
 

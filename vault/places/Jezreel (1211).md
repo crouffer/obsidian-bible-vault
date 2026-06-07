@@ -26,12 +26,12 @@ metav_id: 1211
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **17:16** — And the children of Joseph said, The hill is not enough for us: and all the Canaanites that dwell in the land of the valley have chariots of iron, both they who are of Bethshean and her towns, and they who are of the valley of Jezreel.
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **6:33** — Then all the Midianites and the Amalekites and the children of the east were gathered together, and went over, and pitched in the valley of Jezreel.
 
-### [[Hosea]]
+### [[books/Hosea|Hosea]]
 - **1:5** — And it shall come to pass at that day, that I will break the bow of Israel in the valley of Jezreel.
 

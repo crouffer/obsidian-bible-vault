@@ -26,6 +26,6 @@ metav_id: 1025
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **16:11** — Therefore loosing from Troas, we came with a straight course to Samothracia, and the next day to Neapolis;
 

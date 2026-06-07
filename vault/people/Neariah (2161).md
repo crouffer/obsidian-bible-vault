@@ -51,7 +51,7 @@ metav_id: 2161
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **3:22** — And the sons of Shechaniah; Shemaiah: and the sons of Shemaiah; Hattush, and Igeal, and Bariah, and Neariah, and Shaphat, six.
 - **3:23** — And the sons of Neariah; Elioenai, and Hezekiah, and Azrikam, three.
 

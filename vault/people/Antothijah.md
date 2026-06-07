@@ -54,6 +54,6 @@ metav_id: 271
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **8:24** — And Hananiah, and Elam, and Antothijah,
 

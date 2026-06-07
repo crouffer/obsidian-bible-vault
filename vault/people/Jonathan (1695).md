@@ -47,7 +47,7 @@ metav_id: 1695
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **2:32** — And the sons of Jada the brother of Shammai; Jether, and Jonathan: and Jether died without children.
 - **2:33** — And the sons of Jonathan; Peleth, and Zaza. These were the sons of Jerahmeel.
 

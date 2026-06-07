@@ -44,16 +44,16 @@ metav_id: 599
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **24:14** — The fifteenth to Bilgah, the sixteenth to Immer,
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **2:37** — The children of Immer, a thousand fifty and two.
 - **10:20** — And of the sons of Immer; Hanani, and Zebadiah.
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **7:40** — The children of Immer, a thousand fifty and two.
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **20:1** — Now Pashur the son of Immer the priest, who was also chief governor in the house of the LORD, heard that Jeremiah prophesied these things.
 

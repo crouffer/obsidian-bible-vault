@@ -26,7 +26,7 @@ metav_id: 680
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **33:22** — And they journeyed from Rissah, and pitched in Kehelathah.
 - **33:23** — And they went from Kehelathah, and pitched in mount Shapher.
 

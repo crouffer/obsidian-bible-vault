@@ -26,10 +26,10 @@ metav_id: 8
 
 ## Verse References
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **7:22** — And the three hundred blew the trumpets, and the LORD set every man's sword against his fellow, even throughout all the host: and the host fled to Bethshittah in Zererath, and to the border of Abelmeholah, unto Tabbath.
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **4:12** — Baana the son of Ahilud; to him pertained Taanach and Megiddo, and all Bethshean, which is by Zartanah beneath Jezreel, from Bethshean to Abelmeholah, even unto the place that is beyond Jokneam:
 - **19:16** — And Jehu the son of Nimshi shalt thou anoint to be king over Israel: and Elisha the son of Shaphat of Abelmeholah shalt thou anoint to be prophet in thy room.
 

@@ -63,7 +63,7 @@ metav_id: 2561
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **8:14** — And Ahio, Shashak, and Jeremoth,
 - **8:25** — And Iphedeiah, and Penuel, the sons of Shashak;
 

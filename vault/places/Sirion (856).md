@@ -26,6 +26,6 @@ metav_id: 856
 
 ## Verse References
 
-### [[Deuteronomy]]
+### [[books/Deuteronomy|Deuteronomy]]
 - **4:48** — From Aroer, which is by the bank of the river Arnon, even unto mount Sion, which is Hermon,
 

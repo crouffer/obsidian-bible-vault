@@ -45,7 +45,7 @@ metav_id: 3045
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:21** — Joah his son, Iddo his son, Zerah his son, Jeaterai his son.
 - **6:41** — The son of Ethni, the son of Zerah, the son of Adaiah,
 

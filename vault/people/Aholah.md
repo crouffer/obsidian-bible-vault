@@ -45,7 +45,7 @@ metav_id: 169
 
 ## Verse References
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **23:4** — And the names of them were Aholah the elder, and Aholibah her sister: and they were mine, and they bare sons and daughters. Thus were their names; Samaria is Aholah, and Jerusalem Aholibah.
 - **23:5** — And Aholah played the harlot when she was mine; and she doted on her lovers, on the Assyrians her neighbours,
 - **23:36** — The LORD said moreover unto me; Son of man, wilt thou judge Aholah and Aholibah? yea, declare unto them their abominations;

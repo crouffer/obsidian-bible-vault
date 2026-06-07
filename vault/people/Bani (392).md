@@ -44,6 +44,6 @@ metav_id: 392
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **10:34** — Of the sons of Bani; Maadai, Amram, and Uel,
 

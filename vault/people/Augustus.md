@@ -44,10 +44,10 @@ metav_id: 366
 
 ## Verse References
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **2:1** — And it came to pass in those days, that there went out a decree from Caesar Augustus, that all the world should be taxed.
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **25:21** — But when Paul had appealed to be reserved unto the hearing of Augustus, I commanded him to be kept till I might send him to Caesar.
 - **25:25** — But when I found that he had committed nothing worthy of death, and that he himself hath appealed to Augustus, I have determined to send him.
 

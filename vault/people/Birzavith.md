@@ -44,6 +44,6 @@ metav_id: 514
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **7:31** — And the sons of Beriah; Heber, and Malchiel, who is the father of Birzavith.
 

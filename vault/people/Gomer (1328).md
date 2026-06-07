@@ -53,14 +53,14 @@ metav_id: 1328
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **10:2** — The sons of Japheth; Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras.
 - **10:3** — And the sons of Gomer; Ashkenaz, and Riphath, and Togarmah.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:5** — The sons of Japheth; Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras.
 - **1:6** — And the sons of Gomer; Ashchenaz, and Riphath, and Togarmah.
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **38:6** — Gomer, and all his bands; the house of Togarmah of the north quarters, and all his bands: and many people with thee.
 

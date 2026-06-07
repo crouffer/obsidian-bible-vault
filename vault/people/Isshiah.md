@@ -49,7 +49,7 @@ metav_id: 901
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **23:20** — Of the sons of Uzziel; Michah the first, and Jesiah the second.
 - **24:25** — The brother of Michah was Isshiah: of the sons of Isshiah; Zechariah.
 

@@ -44,6 +44,6 @@ metav_id: 2449
 
 ## Verse References
 
-### [[Romans]]
+### [[books/Romans|Romans]]
 - **16:13** — Salute Rufus chosen in the Lord, and his mother and mine.
 

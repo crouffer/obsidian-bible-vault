@@ -55,12 +55,12 @@ metav_id: 1569
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **46:21** — And the sons of Benjamin were Belah, and Becher, and Ashbel, Gera, and Naaman, Ehi, and Rosh, Muppim, and Huppim, and Ard.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **26:39** — Of Shupham, the family of the Shuphamites: of Hupham, the family of the Huphamites.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **8:5** — And Gera, and Shephuphan, and Huram.
 

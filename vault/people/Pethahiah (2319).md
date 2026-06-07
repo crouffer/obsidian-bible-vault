@@ -44,6 +44,6 @@ metav_id: 2319
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **24:16** — The nineteenth to Pethahiah, the twentieth to Jehezekel,
 

@@ -56,9 +56,9 @@ metav_id: 1640
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **10:29** — And Ophir, and Havilah, and Jobab: all these were the sons of Joktan.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:23** — And Ophir, and Havilah, and Jobab. All these were the sons of Joktan.
 

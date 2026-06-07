@@ -47,7 +47,7 @@ metav_id: 1220
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **4:11** — And Chelub the brother of Shuah begat Mehir, which was the father of Eshton.
 - **4:12** — And Eshton begat Bethrapha, and Paseah, and Tehinnah the father of Irnahash. These are the men of Rechah.
 

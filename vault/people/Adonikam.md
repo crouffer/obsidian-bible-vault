@@ -44,10 +44,10 @@ metav_id: 100
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **2:13** — The children of Adonikam, six hundred sixty and six.
 - **8:13** — And of the last sons of Adonikam, whose names are these, Eliphelet, Jeiel, and Shemaiah, and with them threescore males.
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **7:18** — The children of Adonikam, six hundred threescore and seven.
 

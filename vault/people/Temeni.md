@@ -17,8 +17,8 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Naarah]]"
-mother: "[[Ashur]]"
+father: "[[Ashur]]"
+mother: "[[Naarah]]"
 spouse: []
 children: []
 siblings: 
@@ -47,6 +47,6 @@ metav_id: 2840
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **4:6** — And Naarah bare him Ahuzam, and Hepher, and Temeni, and Haahashtari. These were the sons of Naarah.
 

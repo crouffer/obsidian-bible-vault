@@ -44,7 +44,7 @@ metav_id: 2742
 
 ## Verse References
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **2:25** — And, behold, there was a man in Jerusalem, whose name was Simeon; and the same man was just and devout, waiting for the consolation of Israel: and the Holy Ghost was upon him.
 - **2:34** — And Simeon blessed them, and said unto Mary his mother, Behold, this child is set for the fall and rising again of many in Israel; and for a sign which shall be spoken against;
 

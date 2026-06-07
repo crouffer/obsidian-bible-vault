@@ -48,10 +48,10 @@ metav_id: 1555
 
 ## Verse References
 
-### [[Hosea]]
+### [[books/Hosea|Hosea]]
 - **1:1** — The word of the LORD that came unto Hosea, the son of Beeri, in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel.
 - **1:2** — The beginning of the word of the LORD by Hosea. And the LORD said to Hosea, Go, take unto thee a wife of whoredoms and children of whoredoms: for the land hath committed great whoredom, departing from the LORD.
 
-### [[Romans]]
+### [[books/Romans|Romans]]
 - **9:25** — As he saith also in Osee, I will call them my people, which were not my people; and her beloved, which was not beloved.
 

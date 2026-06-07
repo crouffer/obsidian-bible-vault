@@ -44,9 +44,9 @@ metav_id: 2982
 
 ## Verse References
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **23:28** — Zalmon the Ahohite, Maharai the Netophathite,
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **11:29** — Sibbecai the Hushathite, Ilai the Ahohite,
 

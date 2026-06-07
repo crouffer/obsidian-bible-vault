@@ -50,6 +50,6 @@ metav_id: 875
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **8:27** — And Jaresiah, and Eliah, and Zichri, the sons of Jeroham.
 

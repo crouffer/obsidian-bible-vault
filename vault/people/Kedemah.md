@@ -56,9 +56,9 @@ metav_id: 1770
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **25:15** — Hadar, and Tema, Jetur, Naphish, and Kedemah:
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:31** — Jetur, Naphish, and Kedemah. These are the sons of Ishmael.
 

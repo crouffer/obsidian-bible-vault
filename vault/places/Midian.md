@@ -26,17 +26,17 @@ metav_id: 796
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **36:35** — And Husham died, and Hadad the son of Bedad, who smote Midian in the field of Moab, reigned in his stead: and the name of his city was Avith.
 
-### [[Exodus]]
+### [[books/Exodus|Exodus]]
 - **2:15** — Now when Pharaoh heard this thing, he sought to slay Moses. But Moses fled from the face of Pharaoh, and dwelt in the land of Midian: and he sat down by a well.
 - **2:16** — Now the priest of Midian had seven daughters: and they came and drew water, and filled the troughs to water their father's flock.
 - **3:1** — Now Moses kept the flock of Jethro his father in law, the priest of Midian: and he led the flock to the backside of the desert, and came to the mountain of God, even to Horeb.
 - **4:19** — And the LORD said unto Moses in Midian, Go, return into Egypt: for all the men are dead which sought thy life.
 - **18:1** — When Jethro, the priest of Midian, Moses' father in law, heard of all that God had done for Moses, and for Israel his people, and that the LORD had brought Israel out of Egypt;
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **22:4** — And Moab said unto the elders of Midian, Now shall this company lick up all that are round about us, as the ox licketh up the grass of the field. And Balak the son of Zippor was king of the Moabites at that time.
 - **22:7** — And the elders of Moab and the elders of Midian departed with the rewards of divination in their hand; and they came unto Balaam, and spake unto him the words of Balak.
 - **25:15** — And the name of the Midianitish woman that was slain was Cozbi, the daughter of Zur; he was head over a people, and of a chief house in Midian.
@@ -46,10 +46,10 @@ metav_id: 796
 - **31:8** — And they slew the kings of Midian, beside the rest of them that were slain; namely, Evi, and Rekem, and Zur, and Hur, and Reba, five kings of Midian: Balaam also the son of Beor they slew with the sword.
 - **31:9** — And the children of Israel took all the women of Midian captives, and their little ones, and took the spoil of all their cattle, and all their flocks, and all their goods.
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **13:21** — And all the cities of the plain, and all the kingdom of Sihon king of the Amorites, which reigned in Heshbon, whom Moses smote with the princes of Midian, Evi, and Rekem, and Zur, and Hur, and Reba, which were dukes of Sihon, dwelling in the country.
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **6:1** — And the children of Israel did evil in the sight of the LORD: and the LORD delivered them into the hand of Midian seven years.
 - **6:2** — And the hand of Midian prevailed against Israel: and because of the Midianites the children of Israel made them the dens which are in the mountains, and caves, and strong holds.
 - **6:6** — And Israel was greatly impoverished because of the Midianites; and the children of Israel cried unto the LORD.
@@ -73,20 +73,20 @@ metav_id: 796
 - **8:28** — Thus was Midian subdued before the children of Israel, so that they lifted up their heads no more. And the country was in quietness forty years in the days of Gideon.
 - **9:17** — (For my father fought for you, and adventured his life far, and delivered you out of the hand of Midian:
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **11:18** — And they arose out of Midian, and came to Paran: and they took men with them out of Paran, and they came to Egypt, unto Pharaoh king of Egypt; which gave him an house, and appointed him victuals, and gave him land.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:46** — And when Husham was dead, Hadad the son of Bedad, which smote Midian in the field of Moab, reigned in his stead: and the name of his city was Avith.
 
-### [[Psalms]]
+### [[books/Psalms|Psalms]]
 - **83:9** — Do unto them as unto the Midianites; as to Sisera, as to Jabin, at the brook of Kison:
 
-### [[Isaiah]]
+### [[books/Isaiah|Isaiah]]
 - **9:4** — For thou hast broken the yoke of his burden, and the staff of his shoulder, the rod of his oppressor, as in the day of Midian.
 - **10:26** — And the LORD of hosts shall stir up a scourge for him according to the slaughter of Midian at the rock of Oreb: and as his rod was upon the sea, so shall he lift it up after the manner of Egypt.
 - **60:6** — The multitude of camels shall cover thee, the dromedaries of Midian and Ephah; all they from Sheba shall come: they shall bring gold and incense; and they shall shew forth the praises of the LORD.
 
-### [[Habakkuk]]
+### [[books/Habakkuk|Habakkuk]]
 - **3:7** — I saw the tents of Cushan in affliction: and the curtains of the land of Midian did tremble.
 

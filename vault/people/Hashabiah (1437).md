@@ -44,6 +44,6 @@ metav_id: 1437
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **12:21** — Of Hilkiah, Hashabiah; of Jedaiah, Nethaneel.
 

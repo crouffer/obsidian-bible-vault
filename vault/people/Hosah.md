@@ -48,7 +48,7 @@ metav_id: 1554
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **16:38** — And Obededom with their brethren, threescore and eight; Obededom also the son of Jeduthun and Hosah to be porters:
 - **26:10** — Also Hosah, of the children of Merari, had sons; Simri the chief, (for though he was not the firstborn, yet his father made him the chief;)
 - **26:11** — Hilkiah the second, Tebaliah the third, Zechariah the fourth: all the sons and brethren of Hosah were thirteen.

@@ -26,6 +26,6 @@ metav_id: 216
 
 ## Verse References
 
-### [[Micah]]
+### [[books/Micah|Micah]]
 - **1:10** — Declare ye it not at Gath, weep ye not at all: in the house of Aphrah roll thyself in the dust.
 

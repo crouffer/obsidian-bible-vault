@@ -26,9 +26,9 @@ metav_id: 736
 
 ## Verse References
 
-### [[Isaiah]]
+### [[books/Isaiah|Isaiah]]
 - **15:5** — My heart shall cry out for Moab; his fugitives shall flee unto Zoar, an heifer of three years old: for by the mounting up of Luhith with weeping shall they go it up; for in the way of Horonaim they shall raise up a cry of destruction.
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **48:5** — For in the going up of Luhith continual weeping shall go up; for in the going down of Horonaim the enemies have heard a cry of destruction.
 

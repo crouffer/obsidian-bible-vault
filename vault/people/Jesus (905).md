@@ -48,35 +48,35 @@ metav_id: 905
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **3:15** — And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel.
 - **22:17** — That in blessing I will bless thee, and in multiplying I will multiply thy seed as the stars of the heaven, and as the sand which is upon the sea shore; and thy seed shall possess the gate of his enemies;
 - **22:18** — And in thy seed shall all the nations of the earth be blessed; because thou hast obeyed my voice.
 - **26:4** — And I will make thy seed to multiply as the stars of heaven, and will give unto thy seed all these countries; and in thy seed shall all the nations of the earth be blessed;
 - **49:10** — The sceptre shall not depart from Judah, nor a lawgiver from between his feet, until Shiloh come; and unto him shall the gathering of the people be.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **24:17** — I shall see him, but not now: I shall behold him, but not nigh: there shall come a Star out of Jacob, and a Sceptre shall rise out of Israel, and shall smite the corners of Moab, and destroy all the children of Sheth.
 
-### [[Deuteronomy]]
+### [[books/Deuteronomy|Deuteronomy]]
 - **18:15** — The LORD thy God will raise up unto thee a Prophet from the midst of thee, of thy brethren, like unto me; unto him ye shall hearken;
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **7:12** — And when thy days be fulfilled, and thou shalt sleep with thy fathers, I will set up thy seed after thee, which shall proceed out of thy bowels, and I will establish his kingdom.
 - **7:13** — He shall build an house for my name, and I will stablish the throne of his kingdom for ever.
 - **7:14** — I will be his father, and he shall be my son. If he commit iniquity, I will chasten him with the rod of men, and with the stripes of the children of men:
 - **7:15** — But my mercy shall not depart away from him, as I took it from Saul, whom I put away before thee.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **17:11** — And it shall come to pass, when thy days be expired that thou must go to be with thy fathers, that I will raise up thy seed after thee, which shall be of thy sons; and I will establish his kingdom.
 - **17:12** — He shall build me an house, and I will stablish his throne for ever.
 - **17:13** — I will be his father, and he shall be my son: and I will not take my mercy away from him, as I took it from him that was before thee:
 - **17:14** — But I will settle him in mine house and in my kingdom for ever: and his throne shall be established for evermore.
 
-### [[Job]]
+### [[books/Job|Job]]
 - **19:25** — For I know that my redeemer liveth, and that he shall stand at the latter day upon the earth:
 
-### [[Psalms]]
+### [[books/Psalms|Psalms]]
 - **2:7** — I will declare the decree: the LORD hath said unto me, Thou art my Son; this day have I begotten thee.
 - **2:12** — Kiss the Son, lest he be angry, and ye perish from the way, when his wrath is kindled but a little. Blessed are all they that put their trust in him.
 - **16:10** — For thou wilt not leave my soul in hell; neither wilt thou suffer thine Holy One to see corruption.
@@ -111,10 +111,10 @@ metav_id: 905
 - **110:7** — He shall drink of the brook in the way: therefore shall he lift up the head.
 - **132:11** — The LORD hath sworn in truth unto David; he will not turn from it; Of the fruit of thy body will I set upon thy throne.
 
-### [[Proverbs]]
+### [[books/Proverbs|Proverbs]]
 - **30:4** — Who hath ascended up into heaven, or descended? who hath gathered the wind in his fists? who hath bound the waters in a garment? who hath established all the ends of the earth? what is his name, and what is his son's name, if thou canst tell?
 
-### [[Isaiah]]
+### [[books/Isaiah|Isaiah]]
 - **7:14** — Therefore the Lord himself shall give you a sign; Behold, a virgin shall conceive, and bear a son, and shall call his name Immanuel.
 - **8:8** — And he shall pass through Judah; he shall overflow and go over, he shall reach even to the neck; and the stretching out of his wings shall fill the breadth of thy land, O Immanuel.
 - **9:6** — For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace.
@@ -146,37 +146,37 @@ metav_id: 905
 - **63:5** — And I looked, and there was none to help; and I wondered that there was none to uphold: therefore mine own arm brought salvation unto me; and my fury, it upheld me.
 - **63:6** — And I will tread down the people in mine anger, and make them drunk in my fury, and I will bring down their strength to the earth.
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **33:15** — In those days, and at that time, will I cause the Branch of righteousness to grow up unto David; and he shall execute judgment and righteousness in the land.
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **34:23** — And I will set up one shepherd over them, and he shall feed them, even my servant David; he shall feed them, and he shall be their shepherd.
 - **37:25** — And they shall dwell in the land that I have given unto Jacob my servant, wherein your fathers have dwelt; and they shall dwell therein, even they, and their children, and their children's children for ever: and my servant David shall be their prince for ever.
 
-### [[Daniel]]
+### [[books/Daniel|Daniel]]
 - **7:13** — I saw in the night visions, and, behold, one like the Son of man came with the clouds of heaven, and came to the Ancient of days, and they brought him near before him.
 - **7:14** — And there was given him dominion, and glory, and a kingdom, that all people, nations, and languages, should serve him: his dominion is an everlasting dominion, which shall not pass away, and his kingdom that which shall not be destroyed.
 - **9:25** — Know therefore and understand, that from the going forth of the commandment to restore and to build Jerusalem unto the Messiah the Prince shall be seven weeks, and threescore and two weeks: the street shall be built again, and the wall, even in troublous times.
 
-### [[Micah]]
+### [[books/Micah|Micah]]
 - **5:2** — But thou, Bethlehem Ephratah, though thou be little among the thousands of Judah, yet out of thee shall he come forth unto me that is to be ruler in Israel; whose goings forth have been from of old, from everlasting.
 - **7:7** — Therefore I will look unto the LORD; I will wait for the God of my salvation: my God will hear me.
 - **7:8** — Rejoice not against me, O mine enemy: when I fall, I shall arise; when I sit in darkness, the LORD shall be a light unto me.
 
-### [[Zechariah]]
+### [[books/Zechariah|Zechariah]]
 - **6:12** — And speak unto him, saying, Thus speaketh the LORD of hosts, saying, Behold the man whose name is The BRANCH; and he shall grow up out of his place, and he shall build the temple of the LORD:
 - **9:9** — Rejoice greatly, O daughter of Zion; shout, O daughter of Jerusalem: behold, thy King cometh unto thee: he is just, and having salvation; lowly, and riding upon an ass, and upon a colt the foal of an ass.
 - **11:12** — And I said unto them, If ye think good, give me my price; and if not, forbear. So they weighed for my price thirty pieces of silver.
 - **12:10** — And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and of supplications: and they shall look upon me whom they have pierced, and they shall mourn for him, as one mourneth for his only son, and shall be in bitterness for him, as one that is in bitterness for his firstborn.
 - **13:7** — Awake, O sword, against my shepherd, and against the man that is my fellow, saith the LORD of hosts: smite the shepherd, and the sheep shall be scattered: and I will turn mine hand upon the little ones.
 
-### [[Malachi]]
+### [[books/Malachi|Malachi]]
 - **3:1** — Behold, I will send my messenger, and he shall prepare the way before me: and the Lord, whom ye seek, shall suddenly come to his temple, even the messenger of the covenant, whom ye delight in: behold, he shall come, saith the LORD of hosts.
 - **3:2** — But who may abide the day of his coming? and who shall stand when he appeareth? for he is like a refiner's fire, and like fullers' soap:
 - **3:3** — And he shall sit as a refiner and purifier of silver: and he shall purify the sons of Levi, and purge them as gold and silver, that they may offer unto the LORD an offering in righteousness.
 - **4:2** — But unto you that fear my name shall the Sun of righteousness arise with healing in his wings; and ye shall go forth, and grow up as calves of the stall.
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **1:1** — The book of the generation of Jesus Christ, the son of David, the son of Abraham.
 - **1:16** — And Jacob begat Joseph the husband of Mary, of whom was born Jesus, who is called Christ.
 - **1:17** — So all the generations from Abraham to David are fourteen generations; and from David until the carrying away into Babylon are fourteen generations; and from the carrying away into Babylon unto Christ are fourteen generations.
@@ -773,7 +773,7 @@ metav_id: 905
 - **28:19** — Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost:
 - **28:20** — Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen.
 
-### [[Mark]]
+### [[books/Mark|Mark]]
 - **1:1** — The beginning of the gospel of Jesus Christ, the Son of God;
 - **1:2** — As it is written in the prophets, Behold, I send my messenger before thy face, which shall prepare thy way before thee.
 - **1:3** — The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight.
@@ -1228,7 +1228,7 @@ metav_id: 905
 - **16:19** — So then after the Lord had spoken unto them, he was received up into heaven, and sat on the right hand of God.
 - **16:20** — And they went forth, and preached every where, the Lord working with them, and confirming the word with signs following. Amen.
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **1:9** — According to the custom of the priest's office, his lot was to burn incense when he went into the temple of the Lord.
 - **1:17** — And he shall go before him in the spirit and power of Elias, to turn the hearts of the fathers to the children, and the disobedient to the wisdom of the just; to make ready a people prepared for the Lord.
 - **1:28** — And the angel came in unto her, and said, Hail, thou that art highly favoured, the Lord is with thee: blessed art thou among women.
@@ -1862,7 +1862,7 @@ metav_id: 905
 - **24:51** — And it came to pass, while he blessed them, he was parted from them, and carried up into heaven.
 - **24:52** — And they worshipped him, and returned to Jerusalem with great joy:
 
-### [[John]]
+### [[books/John|John]]
 - **1:1** — In the beginning was the Word, and the Word was with God, and the Word was God.
 - **1:2** — The same was in the beginning with God.
 - **1:3** — All things were made by him; and without him was not any thing made that was made.
@@ -2601,7 +2601,7 @@ metav_id: 905
 - **21:23** — Then went this saying abroad among the brethren, that that disciple should not die: yet Jesus said not unto him, He shall not die; but, If I will that he tarry till I come, what is that to thee?
 - **21:25** — And there are also many other things which Jesus did, the which, if they should be written every one, I suppose that even the world itself could not contain the books that should be written. Amen.
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **1:1** — The former treatise have I made, O Theophilus, of all that Jesus began both to do and teach,
 - **1:2** — Until the day in which he was taken up, after that he through the Holy Ghost had given commandments unto the apostles whom he had chosen:
 - **1:3** — To whom also he shewed himself alive after his passion by many infallible proofs, being seen of them forty days, and speaking of the things pertaining to the kingdom of God:
@@ -2827,7 +2827,7 @@ metav_id: 905
 - **28:23** — And when they had appointed him a day, there came many to him into his lodging; to whom he expounded and testified the kingdom of God, persuading them concerning Jesus, both out of the law of Moses, and out of the prophets, from morning till evening.
 - **28:31** — Preaching the kingdom of God, and teaching those things which concern the Lord Jesus Christ, with all confidence, no man forbidding him.
 
-### [[Romans]]
+### [[books/Romans|Romans]]
 - **1:1** — Paul, a servant of Jesus Christ, called to be an apostle, separated unto the gospel of God,
 - **1:3** — Concerning his Son Jesus Christ our Lord, which was made of the seed of David according to the flesh;
 - **1:4** — And declared to be the Son of God with power, according to the spirit of holiness, by the resurrection from the dead:
@@ -2968,7 +2968,7 @@ metav_id: 905
 - **16:25** — Now to him that is of power to stablish you according to my gospel, and the preaching of Jesus Christ, according to the revelation of the mystery, which was kept secret since the world began,
 - **16:27** — To God only wise, be glory through Jesus Christ for ever. Amen.
 
-### [[1 Corinthians]]
+### [[books/1 Corinthians|1 Corinthians]]
 - **1:1** — Paul, called to be an apostle of Jesus Christ through the will of God, and Sosthenes our brother,
 - **1:2** — Unto the church of God which is at Corinth, to them that are sanctified in Christ Jesus, called to be saints, with all that in every place call upon the name of Jesus Christ our Lord, both theirs and ours:
 - **1:3** — Grace be unto you, and peace, from God our Father, and from the Lord Jesus Christ.
@@ -3085,7 +3085,7 @@ metav_id: 905
 - **16:23** — The grace of our Lord Jesus Christ be with you.
 - **16:24** — My love be with you all in Christ Jesus. Amen.
 
-### [[2 Corinthians]]
+### [[books/2 Corinthians|2 Corinthians]]
 - **1:1** — Paul, an apostle of Jesus Christ by the will of God, and Timothy our brother, unto the church of God which is at Corinth, with all the saints which are in all Achaia:
 - **1:2** — Grace be to you and peace from God our Father, and from the Lord Jesus Christ.
 - **1:3** — Blessed be God, even the Father of our Lord Jesus Christ, the Father of mercies, and the God of all comfort;
@@ -3165,7 +3165,7 @@ metav_id: 905
 - **13:10** — Therefore I write these things being absent, lest being present I should use sharpness, according to the power which the Lord hath given me to edification, and not to destruction.
 - **13:14** — The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Ghost, be with you all. Amen.
 
-### [[Galatians]]
+### [[books/Galatians|Galatians]]
 - **1:1** — Paul, an apostle, (not of men, neither by man, but by Jesus Christ, and God the Father, who raised him from the dead;)
 - **1:3** — Grace be to you and peace from God the Father, and from our Lord Jesus Christ,
 - **1:4** — Who gave himself for our sins, that he might deliver us from this present evil world, according to the will of God and our Father:
@@ -3209,7 +3209,7 @@ metav_id: 905
 - **6:17** — From henceforth let no man trouble me: for I bear in my body the marks of the Lord Jesus.
 - **6:18** — Brethren, the grace of our Lord Jesus Christ be with your spirit. Amen.
 
-### [[Ephesians]]
+### [[books/Ephesians|Ephesians]]
 - **1:1** — Paul, an apostle of Jesus Christ by the will of God, to the saints which are at Ephesus, and to the faithful in Christ Jesus:
 - **1:2** — Grace be to you, and peace, from God our Father, and from the Lord Jesus Christ.
 - **1:3** — Blessed be the God and Father of our Lord Jesus Christ, who hath blessed us with all spiritual blessings in heavenly places in Christ:
@@ -3302,7 +3302,7 @@ metav_id: 905
 - **6:23** — Peace be to the brethren, and love with faith, from God the Father and the Lord Jesus Christ.
 - **6:24** — Grace be with all them that love our Lord Jesus Christ in sincerity. Amen.
 
-### [[Philippians]]
+### [[books/Philippians|Philippians]]
 - **1:1** — Paul and Timotheus, the servants of Jesus Christ, to all the saints in Christ Jesus which are at Philippi, with the bishops and deacons:
 - **1:2** — Grace be unto you, and peace, from God our Father, and from the Lord Jesus Christ.
 - **1:6** — Being confident of this very thing, that he which hath begun a good work in you will perform it until the day of Jesus Christ:
@@ -3357,7 +3357,7 @@ metav_id: 905
 - **4:21** — Salute every saint in Christ Jesus. The brethren which are with me greet you.
 - **4:23** — The grace of our Lord Jesus Christ be with you all. Amen.
 
-### [[Colossians]]
+### [[books/Colossians|Colossians]]
 - **1:1** — Paul, an apostle of Jesus Christ by the will of God, and Timotheus our brother,
 - **1:2** — To the saints and faithful brethren in Christ which are at Colosse: Grace be unto you, and peace, from God our Father and the Lord Jesus Christ.
 - **1:3** — We give thanks to God and the Father of our Lord Jesus Christ, praying always for you,
@@ -3411,7 +3411,7 @@ metav_id: 905
 - **4:12** — Epaphras, who is one of you, a servant of Christ, saluteth you, always labouring fervently for you in prayers, that ye may stand perfect and complete in all the will of God.
 - **4:17** — And say to Archippus, Take heed to the ministry which thou hast received in the Lord, that thou fulfil it.
 
-### [[1 Thessalonians]]
+### [[books/1 Thessalonians|1 Thessalonians]]
 - **1:1** — Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians which is in God the Father and in the Lord Jesus Christ: Grace be unto you, and peace, from God our Father, and the Lord Jesus Christ.
 - **1:3** — Remembering without ceasing your work of faith, and labour of love, and patience of hope in our Lord Jesus Christ, in the sight of God and our Father;
 - **1:6** — And ye became followers of us, and of the Lord, having received the word in much affliction, with joy of the Holy Ghost:
@@ -3443,7 +3443,7 @@ metav_id: 905
 - **5:27** — I charge you by the Lord that this epistle be read unto all the holy brethren.
 - **5:28** — The grace of our Lord Jesus Christ be with you. Amen.
 
-### [[2 Thessalonians]]
+### [[books/2 Thessalonians|2 Thessalonians]]
 - **1:1** — Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians in God our Father and the Lord Jesus Christ:
 - **1:2** — Grace unto you, and peace, from God our Father and the Lord Jesus Christ.
 - **1:7** — And to you who are troubled rest with us, when the Lord Jesus shall be revealed from heaven with his mighty angels,
@@ -3467,7 +3467,7 @@ metav_id: 905
 - **3:16** — Now the Lord of peace himself give you peace always by all means. The Lord be with you all.
 - **3:18** — The grace of our Lord Jesus Christ be with you all. Amen.
 
-### [[1 Timothy]]
+### [[books/1 Timothy|1 Timothy]]
 - **1:1** — Paul, an apostle of Jesus Christ by the commandment of God our Saviour, and Lord Jesus Christ, which is our hope;
 - **1:2** — Unto Timothy, my own son in the faith: Grace, mercy, and peace, from God our Father and Jesus Christ our Lord.
 - **1:12** — And I thank Christ Jesus our Lord, who hath enabled me, for that he counted me faithful, putting me into the ministry;
@@ -3489,7 +3489,7 @@ metav_id: 905
 - **6:14** — That thou keep this commandment without spot, unrebukeable, until the appearing of our Lord Jesus Christ:
 - **6:15** — Which in his times he shall shew, who is the blessed and only Potentate, the King of kings, and Lord of lords;
 
-### [[2 Timothy]]
+### [[books/2 Timothy|2 Timothy]]
 - **1:1** — Paul, an apostle of Jesus Christ by the will of God, according to the promise of life which is in Christ Jesus,
 - **1:2** — To Timothy, my dearly beloved son: Grace, mercy, and peace, from God the Father and Christ Jesus our Lord.
 - **1:8** — Be not thou therefore ashamed of the testimony of our Lord, nor of me his prisoner: but be thou partaker of the afflictions of the gospel according to the power of God;
@@ -3521,7 +3521,7 @@ metav_id: 905
 - **4:18** — And the Lord shall deliver me from every evil work, and will preserve me unto his heavenly kingdom: to whom be glory for ever and ever. Amen.
 - **4:22** — The Lord Jesus Christ be with thy spirit. Grace be with you. Amen.
 
-### [[Titus]]
+### [[books/Titus|Titus]]
 - **1:1** — Paul, a servant of God, and an apostle of Jesus Christ, according to the faith of God's elect, and the acknowledging of the truth which is after godliness;
 - **1:3** — But hath in due times manifested his word through preaching, which is committed unto me according to the commandment of God our Saviour;
 - **1:4** — To Titus, mine own son after the common faith: Grace, mercy, and peace, from God the Father and the Lord Jesus Christ our Saviour.
@@ -3534,7 +3534,7 @@ metav_id: 905
 - **3:6** — Which he shed on us abundantly through Jesus Christ our Saviour;
 - **3:7** — That being justified by his grace, we should be made heirs according to the hope of eternal life.
 
-### [[Philemon]]
+### [[books/Philemon|Philemon]]
 - **1:1** — Paul, a prisoner of Jesus Christ, and Timothy our brother, unto Philemon our dearly beloved, and fellowlabourer,
 - **1:3** — Grace to you, and peace, from God our Father and the Lord Jesus Christ.
 - **1:5** — Hearing of thy love and faith, which thou hast toward the Lord Jesus, and toward all saints;
@@ -3546,7 +3546,7 @@ metav_id: 905
 - **1:23** — There salute thee Epaphras, my fellowprisoner in Christ Jesus;
 - **1:25** — The grace of our Lord Jesus Christ be with your spirit. Amen.
 
-### [[Hebrews]]
+### [[books/Hebrews|Hebrews]]
 - **1:2** — Hath in these last days spoken unto us by his Son, whom he hath appointed heir of all things, by whom also he made the worlds;
 - **1:3** — Who being the brightness of his glory, and the express image of his person, and upholding all things by the word of his power, when he had by himself purged our sins, sat down on the right hand of the Majesty on high;
 - **1:4** — Being made so much better than the angels, as he hath by inheritance obtained a more excellent name than they.
@@ -3676,7 +3676,7 @@ metav_id: 905
 - **13:20** — Now the God of peace, that brought again from the dead our Lord Jesus, that great shepherd of the sheep, through the blood of the everlasting covenant,
 - **13:21** — Make you perfect in every good work to do his will, working in you that which is wellpleasing in his sight, through Jesus Christ; to whom be glory for ever and ever. Amen.
 
-### [[James]]
+### [[books/James|James]]
 - **1:1** — James, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are scattered abroad, greeting.
 - **1:7** — For let not that man think that he shall receive any thing of the Lord.
 - **1:12** — Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life, which the Lord hath promised to them that love him.
@@ -3695,7 +3695,7 @@ metav_id: 905
 - **5:14** — Is any sick among you? let him call for the elders of the church; and let them pray over him, anointing him with oil in the name of the Lord:
 - **5:15** — And the prayer of faith shall save the sick, and the Lord shall raise him up; and if he have committed sins, they shall be forgiven him.
 
-### [[1 Peter]]
+### [[books/1 Peter|1 Peter]]
 - **1:1** — Peter, an apostle of Jesus Christ, to the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia,
 - **1:2** — Elect according to the foreknowledge of God the Father, through sanctification of the Spirit, unto obedience and sprinkling of the blood of Jesus Christ: Grace unto you, and peace, be multiplied.
 - **1:3** — Blessed be the God and Father of our Lord Jesus Christ, which according to his abundant mercy hath begotten us again unto a lively hope by the resurrection of Jesus Christ from the dead,
@@ -3735,7 +3735,7 @@ metav_id: 905
 - **5:11** — To him be glory and dominion for ever and ever. Amen.
 - **5:14** — Greet ye one another with a kiss of charity. Peace be with you all that are in Christ Jesus. Amen.
 
-### [[2 Peter]]
+### [[books/2 Peter|2 Peter]]
 - **1:1** — Simon Peter, a servant and an apostle of Jesus Christ, to them that have obtained like precious faith with us through the righteousness of God and our Saviour Jesus Christ:
 - **1:2** — Grace and peace be multiplied unto you through the knowledge of God, and of Jesus our Lord,
 - **1:3** — According as his divine power hath given unto us all things that pertain unto life and godliness, through the knowledge of him that hath called us to glory and virtue:
@@ -3758,7 +3758,7 @@ metav_id: 905
 - **3:15** — And account that the longsuffering of our Lord is salvation; even as our beloved brother Paul also according to the wisdom given unto him hath written unto you;
 - **3:18** — But grow in grace, and in the knowledge of our Lord and Saviour Jesus Christ. To him be glory both now and for ever. Amen.
 
-### [[1 John]]
+### [[books/1 John|1 John]]
 - **1:1** — That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked upon, and our hands have handled, of the Word of life;
 - **1:3** — That which we have seen and heard declare we unto you, that ye also may have fellowship with us: and truly our fellowship is with the Father, and with his Son Jesus Christ.
 - **1:5** — This then is the message which we have heard of him, and declare unto you, that God is light, and in him is no darkness at all.
@@ -3821,16 +3821,16 @@ metav_id: 905
 - **5:16** — If any man see his brother sin a sin which is not unto death, he shall ask, and he shall give him life for them that sin not unto death. There is a sin unto death: I do not say that he shall pray for it.
 - **5:20** — And we know that the Son of God is come, and hath given us an understanding, that we may know him that is true, and we are in him that is true, even in his Son Jesus Christ. This is the true God, and eternal life.
 
-### [[2 John]]
+### [[books/2 John|2 John]]
 - **1:3** — Grace be with you, mercy, and peace, from God the Father, and from the Lord Jesus Christ, the Son of the Father, in truth and love.
 - **1:6** — And this is love, that we walk after his commandments. This is the commandment, That, as ye have heard from the beginning, ye should walk in it.
 - **1:7** — For many deceivers are entered into the world, who confess not that Jesus Christ is come in the flesh. This is a deceiver and an antichrist.
 - **1:9** — Whosoever transgresseth, and abideth not in the doctrine of Christ, hath not God. He that abideth in the doctrine of Christ, he hath both the Father and the Son.
 
-### [[3 John]]
+### [[books/3 John|3 John]]
 - **1:7** — Because that for his name's sake they went forth, taking nothing of the Gentiles.
 
-### [[Jude]]
+### [[books/Jude|Jude]]
 - **1:1** — Jude, the servant of Jesus Christ, and brother of James, to them that are sanctified by God the Father, and preserved in Jesus Christ, and called:
 - **1:4** — For there are certain men crept in unawares, who were before of old ordained to this condemnation, ungodly men, turning the grace of our God into lasciviousness, and denying the only Lord God, and our Lord Jesus Christ.
 - **1:5** — I will therefore put you in remembrance, though ye once knew this, how that the Lord, having saved the people out of the land of Egypt, afterward destroyed them that believed not.
@@ -3843,7 +3843,7 @@ metav_id: 905
 - **1:24** — Now unto him that is able to keep you from falling, and to present you faultless before the presence of his glory with exceeding joy,
 - **1:25** — To the only wise God our Saviour, be glory and majesty, dominion and power, both now and ever. Amen.
 
-### [[Revelation]]
+### [[books/Revelation|Revelation]]
 - **1:1** — The Revelation of Jesus Christ, which God gave unto him, to shew unto his servants things which must shortly come to pass; and he sent and signified it by his angel unto his servant John:
 - **1:2** — Who bare record of the word of God, and of the testimony of Jesus Christ, and of all things that he saw.
 - **1:4** — John to the seven churches which are in Asia: Grace be unto you, and peace, from him which is, and which was, and which is to come; and from the seven Spirits which are before his throne;

@@ -44,6 +44,6 @@ metav_id: 572
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **10:17** — Ater, Hizkijah, Azzur,
 

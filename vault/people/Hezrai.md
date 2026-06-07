@@ -44,9 +44,9 @@ metav_id: 1518
 
 ## Verse References
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **23:35** — Hezrai the Carmelite, Paarai the Arbite,
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **11:37** — Hezro the Carmelite, Naarai the son of Ezbai,
 

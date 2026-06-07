@@ -26,7 +26,7 @@ metav_id: 606
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **21:11** — And they journeyed from Oboth, and pitched at Ijeabarim, in the wilderness which is before Moab, toward the sunrising.
 - **33:44** — And they departed from Oboth, and pitched in Ijeabarim, in the border of Moab.
 

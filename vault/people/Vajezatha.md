@@ -53,6 +53,6 @@ metav_id: 2935
 
 ## Verse References
 
-### [[Esther]]
+### [[books/Esther|Esther]]
 - **9:9** — And Parmashta, and Arisai, and Aridai, and Vajezatha,
 

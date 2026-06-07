@@ -45,6 +45,6 @@ metav_id: 167
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **11:41** — Uriah the Hittite, Zabad the son of Ahlai,
 

@@ -45,16 +45,16 @@ metav_id: 2042
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **5:21** — And Enoch lived sixty and five years, and begat Methuselah:
 - **5:22** — And Enoch walked with God after he begat Methuselah three hundred years, and begat sons and daughters:
 - **5:25** — And Methuselah lived an hundred eighty and seven years, and begat Lamech:
 - **5:26** — And Methuselah lived after he begat Lamech seven hundred eighty and two years, and begat sons and daughters:
 - **5:27** — And all the days of Methuselah were nine hundred sixty and nine years: and he died.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:3** — Henoch, Methuselah, Lamech,
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **3:37** — Which was the son of Mathusala, which was the son of Enoch, which was the son of Jared, which was the son of Maleleel, which was the son of Cainan,
 

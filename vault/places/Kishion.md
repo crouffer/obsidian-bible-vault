@@ -26,7 +26,7 @@ metav_id: 704
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **19:20** — And Rabbith, and Kishion, and Abez,
 - **21:28** — And out of the tribe of Issachar, Kishon with her suburbs, Dabareh with her suburbs,
 

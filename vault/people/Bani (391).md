@@ -44,10 +44,10 @@ metav_id: 391
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **2:10** — The children of Bani, six hundred forty and two.
 - **10:29** — And of the sons of Bani; Meshullam, Malluch, and Adaiah, Jashub, and Sheal, and Ramoth.
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **7:15** — The children of Binnui, six hundred forty and eight.
 

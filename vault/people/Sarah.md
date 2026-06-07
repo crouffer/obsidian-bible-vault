@@ -47,7 +47,7 @@ metav_id: 2473
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **11:29** — And Abram and Nahor took them wives: the name of Abram's wife was Sarai; and the name of Nahor's wife, Milcah, the daughter of Haran, the father of Milcah, and the father of Iscah.
 - **11:30** — But Sarai was barren; she had no child.
 - **11:31** — And Terah took Abram his son, and Lot the son of Haran his son's son, and Sarai his daughter in law, his son Abram's wife; and they went forth with them from Ur of the Chaldees, to go into the land of Canaan; and they came unto Haran, and dwelt there.
@@ -92,16 +92,16 @@ metav_id: 2473
 - **25:12** — Now these are the generations of Ishmael, Abraham's son, whom Hagar the Egyptian, Sarah's handmaid, bare unto Abraham:
 - **49:31** — There they buried Abraham and Sarah his wife; there they buried Isaac and Rebekah his wife; and there I buried Leah.
 
-### [[Isaiah]]
+### [[books/Isaiah|Isaiah]]
 - **51:2** — Look unto Abraham your father, and unto Sarah that bare you: for I called him alone, and blessed him, and increased him.
 
-### [[Romans]]
+### [[books/Romans|Romans]]
 - **4:19** — And being not weak in faith, he considered not his own body now dead, when he was about an hundred years old, neither yet the deadness of Sara's womb:
 - **9:9** — For this is the word of promise, At this time will I come, and Sara shall have a son.
 
-### [[Hebrews]]
+### [[books/Hebrews|Hebrews]]
 - **11:11** — Through faith also Sara herself received strength to conceive seed, and was delivered of a child when she was past age, because she judged him faithful who had promised.
 
-### [[1 Peter]]
+### [[books/1 Peter|1 Peter]]
 - **3:6** — Even as Sara obeyed Abraham, calling him lord: whose daughters ye are, as long as ye do well, and are not afraid with any amazement.
 

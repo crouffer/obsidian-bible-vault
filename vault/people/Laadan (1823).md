@@ -46,13 +46,13 @@ metav_id: 1823
 
 ## Verse References
 
-### [[Exodus]]
+### [[books/Exodus|Exodus]]
 - **6:17** — The sons of Gershon; Libni, and Shimi, according to their families.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **3:18** — And these are the names of the sons of Gershon by their families; Libni, and Shimei.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:17** — And these be the names of the sons of Gershom; Libni, and Shimei.
 - **6:20** — Of Gershom; Libni his son, Jahath his son, Zimmah his son,
 - **6:43** — The son of Jahath, the son of Gershom, the son of Levi.

@@ -44,7 +44,7 @@ metav_id: 2869
 
 ## Verse References
 
-### [[2 Corinthians]]
+### [[books/2 Corinthians|2 Corinthians]]
 - **2:13** — I had no rest in my spirit, because I found not Titus my brother: but taking my leave of them, I went from thence into Macedonia.
 - **7:6** — Nevertheless God, that comforteth those that are cast down, comforted us by the coming of Titus;
 - **7:13** — Therefore we were comforted in your comfort: yea, and exceedingly the more joyed we for the joy of Titus, because his spirit was refreshed by you all.
@@ -54,13 +54,13 @@ metav_id: 2869
 - **8:23** — Whether any do enquire of Titus, he is my partner and fellowhelper concerning you: or our brethren be enquired of, they are the messengers of the churches, and the glory of Christ.
 - **12:18** — I desired Titus, and with him I sent a brother. Did Titus make a gain of you? walked we not in the same spirit? walked we not in the same steps?
 
-### [[Galatians]]
+### [[books/Galatians|Galatians]]
 - **2:1** — Then fourteen years after I went up again to Jerusalem with Barnabas, and took Titus with me also.
 - **2:3** — But neither Titus, who was with me, being a Greek, was compelled to be circumcised:
 
-### [[2 Timothy]]
+### [[books/2 Timothy|2 Timothy]]
 - **4:10** — For Demas hath forsaken me, having loved this present world, and is departed unto Thessalonica; Crescens to Galatia, Titus unto Dalmatia.
 
-### [[Titus]]
+### [[books/Titus|Titus]]
 - **1:4** — To Titus, mine own son after the common faith: Grace, mercy, and peace, from God the Father and the Lord Jesus Christ our Saviour.
 

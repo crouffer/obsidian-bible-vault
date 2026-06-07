@@ -26,12 +26,12 @@ metav_id: 653
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **32:10** — I am not worthy of the least of all the mercies, and of all the truth, which thou hast shewed unto thy servant; for with my staff I passed over this Jordan; and now I am become two bands.
 - **50:10** — And they came to the threshingfloor of Atad, which is beyond Jordan, and there they mourned with a great and very sore lamentation: and he made a mourning for his father seven days.
 - **50:11** — And when the inhabitants of the land, the Canaanites, saw the mourning in the floor of Atad, they said, This is a grievous mourning to the Egyptians: wherefore the name of it was called Abelmizraim, which is beyond Jordan.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **13:29** — The Amalekites dwell in the land of the south: and the Hittites, and the Jebusites, and the Amorites, dwell in the mountains: and the Canaanites dwell by the sea, and by the coast of Jordan.
 - **22:1** — And the children of Israel set forward, and pitched in the plains of Moab on this side Jordan by Jericho.
 - **26:3** — And Moses and Eleazar the priest spake with them in the plains of Moab by Jordan near Jericho, saying,
@@ -53,7 +53,7 @@ metav_id: 653
 - **35:14** — Ye shall give three cities on this side Jordan, and three cities shall ye give in the land of Canaan, which shall be cities of refuge.
 - **36:13** — These are the commandments and the judgments, which the LORD commanded by the hand of Moses unto the children of Israel in the plains of Moab by Jordan near Jericho.
 
-### [[Deuteronomy]]
+### [[books/Deuteronomy|Deuteronomy]]
 - **1:1** — These be the words which Moses spake unto all Israel on this side Jordan in the wilderness, in the plain over against the Red sea, between Paran, and Tophel, and Laban, and Hazeroth, and Dizahab.
 - **1:5** — On this side Jordan, in the land of Moab, began Moses to declare this law, saying,
 - **2:29** — (As the children of Esau which dwell in Seir, and the Moabites which dwell in Ar, did unto me;) until I shall pass over Jordan into the land which the LORD our God giveth us.
@@ -81,7 +81,7 @@ metav_id: 653
 - **31:13** — And that their children, which have not known any thing, may hear, and learn to fear the LORD your God, as long as ye live in the land whither ye go over Jordan to possess it.
 - **32:47** — For it is not a vain thing for you; because it is your life: and through this thing ye shall prolong your days in the land, whither ye go over Jordan to possess it.
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **1:2** — Moses my servant is dead; now therefore arise, go over this Jordan, thou, and all this people, unto the land which I do give to them, even to the children of Israel.
 - **1:11** — Pass through the host, and command the people, saying, Prepare you victuals; for within three days ye shall pass over this Jordan, to go in to possess the land, which the LORD your God giveth you to possess it.
 - **1:14** — Your wives, your little ones, and your cattle, shall remain in the land which Moses gave you on this side Jordan; but ye shall pass before your brethren armed, all the mighty men of valour, and help them;
@@ -141,7 +141,7 @@ metav_id: 653
 - **24:8** — And I brought you into the land of the Amorites, which dwelt on the other side Jordan; and they fought with you: and I gave them into your hand, that ye might possess their land; and I destroyed them from before you.
 - **24:11** — And ye went over Jordan, and came unto Jericho: and the men of Jericho fought against you, the Amorites, and the Perizzites, and the Canaanites, and the Hittites, and the Girgashites, the Hivites, and the Jebusites; and I delivered them into your hand.
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **3:28** — And he said unto them, Follow after me: for the LORD hath delivered your enemies the Moabites into your hand. And they went down after him, and took the fords of Jordan toward Moab, and suffered not a man to pass over.
 - **5:17** — Gilead abode beyond Jordan: and why did Dan remain in ships? Asher continued on the sea shore, and abode in his breaches.
 - **7:24** — And Gideon sent messengers throughout all mount Ephraim, saying, Come down against the Midianites, and take before them the waters unto Bethbarah and Jordan. Then all the men of Ephraim gathered themselves together, and took the waters unto Bethbarah and Jordan.
@@ -154,11 +154,11 @@ metav_id: 653
 - **12:5** — And the Gileadites took the passages of Jordan before the Ephraimites: and it was so, that when those Ephraimites which were escaped said, Let me go over; that the men of Gilead said unto him, Art thou an Ephraimite? If he said, Nay;
 - **12:6** — Then said they unto him, Say now Shibboleth: and he said Sibboleth: for he could not frame to pronounce it right. Then they took him, and slew him at the passages of Jordan: and there fell at that time of the Ephraimites forty and two thousand.
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **13:7** — And some of the Hebrews went over Jordan to the land of Gad and Gilead. As for Saul, he was yet in Gilgal, and all the people followed him trembling.
 - **31:7** — And when the men of Israel that were on the other side of the valley, and they that were on the other side Jordan, saw that the men of Israel fled, and that Saul and his sons were dead, they forsook the cities, and fled; and the Philistines came and dwelt in them.
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **2:29** — And Abner and his men walked all that night through the plain, and passed over Jordan, and went through all Bithron, and they came to Mahanaim.
 - **10:17** — And when it was told David, he gathered all Israel together, and passed over Jordan, and came to Helam. And the Syrians set themselves in array against David, and fought with him.
 - **17:22** — Then David arose, and all the people that were with him, and they passed over Jordan: by the morning light there lacked not one of them that was not gone over Jordan.
@@ -173,13 +173,13 @@ metav_id: 653
 - **20:2** — So every man of Israel went up from after David, and followed Sheba the son of Bichri: but the men of Judah clave unto their king, from Jordan even to Jerusalem.
 - **24:5** — And they passed over Jordan, and pitched in Aroer, on the right side of the city that lieth in the midst of the river of Gad, and toward Jazer:
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **2:8** — And, behold, thou hast with thee Shimei the son of Gera, a Benjamite of Bahurim, which cursed me with a grievous curse in the day when I went to Mahanaim: but he came down to meet me at Jordan, and I sware to him by the LORD, saying, I will not put thee to death with the sword.
 - **7:46** — In the plain of Jordan did the king cast them, in the clay ground between Succoth and Zarthan.
 - **17:3** — Get thee hence, and turn thee eastward, and hide thyself by the brook Cherith, that is before Jordan.
 - **17:5** — So he went and did according unto the word of the LORD: for he went and dwelt by the brook Cherith, that is before Jordan.
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **2:6** — And Elijah said unto him, Tarry, I pray thee, here; for the LORD hath sent me to Jordan. And he said, As the LORD liveth, and as thy soul liveth, I will not leave thee. And they two went on.
 - **2:7** — And fifty men of the sons of the prophets went, and stood to view afar off: and they two stood by Jordan.
 - **2:13** — He took up also the mantle of Elijah that fell from him, and went back, and stood by the bank of Jordan;
@@ -190,39 +190,39 @@ metav_id: 653
 - **7:15** — And they went after them unto Jordan: and, lo, all the way was full of garments and vessels, which the Syrians had cast away in their haste. And the messengers returned, and told the king.
 - **10:33** — From Jordan eastward, all the land of Gilead, the Gadites, and the Reubenites, and the Manassites, from Aroer, which is by the river Arnon, even Gilead and Bashan.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:78** — And on the other side Jordan by Jericho, on the east side of Jordan, were given them out of the tribe of Reuben, Bezer in the wilderness with her suburbs, and Jahzah with her suburbs,
 - **12:15** — These are they that went over Jordan in the first month, when it had overflown all his banks; and they put to flight all them of the valleys, both toward the east, and toward the west.
 - **12:37** — And on the other side of Jordan, of the Reubenites, and the Gadites, and of the half tribe of Manasseh, with all manner of instruments of war for the battle, an hundred and twenty thousand.
 - **19:17** — And it was told David; and he gathered all Israel, and passed over Jordan, and came upon them, and set the battle in array against them. So when David had put the battle in array against the Syrians, they fought with him.
 - **26:30** — And of the Hebronites, Hashabiah and his brethren, men of valour, a thousand and seven hundred, were officers among them of Israel on this side Jordan westward in all the business of the LORD, and in the service of the king.
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **4:17** — In the plain of Jordan did the king cast them, in the clay ground between Succoth and Zeredathah.
 
-### [[Job]]
+### [[books/Job|Job]]
 - **40:23** — Behold, he drinketh up a river, and hasteth not: he trusteth that he can draw up Jordan into his mouth.
 
-### [[Psalms]]
+### [[books/Psalms|Psalms]]
 - **42:6** — O my God, my soul is cast down within me: therefore will I remember thee from the land of Jordan, and of the Hermonites, from the hill Mizar.
 - **114:3** — The sea saw it, and fled: Jordan was driven back.
 - **114:5** — What ailed thee, O thou sea, that thou fleddest? thou Jordan, that thou wast driven back?
 
-### [[Isaiah]]
+### [[books/Isaiah|Isaiah]]
 - **9:1** — Nevertheless the dimness shall not be such as was in her vexation, when at the first he lightly afflicted the land of Zebulun and the land of Naphtali, and afterward did more grievously afflict her by the way of the sea, beyond Jordan, in Galilee of the nations.
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **12:5** — If thou hast run with the footmen, and they have wearied thee, then how canst thou contend with horses? and if in the land of peace, wherein thou trustedst, they wearied thee, then how wilt thou do in the swelling of Jordan?
 - **49:19** — Behold, he shall come up like a lion from the swelling of Jordan against the habitation of the strong: but I will suddenly make him run away from her: and who is a chosen man, that I may appoint over her? for who is like me? and who will appoint me the time? and who is that shepherd that will stand before me?
 - **50:44** — Behold, he shall come up like a lion from the swelling of Jordan unto the habitation of the strong: but I will make them suddenly run away from her: and who is a chosen man, that I may appoint over her? for who is like me? and who will appoint me the time? and who is that shepherd that will stand before me?
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **47:18** — And the east side ye shall measure from Hauran, and from Damascus, and from Gilead, and from the land of Israel by Jordan, from the border unto the east sea. And this is the east side.
 
-### [[Zechariah]]
+### [[books/Zechariah|Zechariah]]
 - **11:3** — There is a voice of the howling of the shepherds; for their glory is spoiled: a voice of the roaring of young lions; for the pride of Jordan is spoiled.
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **3:5** — Then went out to him Jerusalem, and all Judaea, and all the region round about Jordan,
 - **3:6** — And were baptized of him in Jordan, confessing their sins.
 - **3:13** — Then cometh Jesus from Galilee to Jordan unto John, to be baptized of him.
@@ -230,17 +230,17 @@ metav_id: 653
 - **4:25** — And there followed him great multitudes of people from Galilee, and from Decapolis, and from Jerusalem, and from Judaea, and from beyond Jordan.
 - **19:1** — And it came to pass, that when Jesus had finished these sayings, he departed from Galilee, and came into the coasts of Judaea beyond Jordan;
 
-### [[Mark]]
+### [[books/Mark|Mark]]
 - **1:5** — And there went out unto him all the land of Judaea, and they of Jerusalem, and were all baptized of him in the river of Jordan, confessing their sins.
 - **1:9** — And it came to pass in those days, that Jesus came from Nazareth of Galilee, and was baptized of John in Jordan.
 - **3:8** — And from Jerusalem, and from Idumaea, and from beyond Jordan; and they about Tyre and Sidon, a great multitude, when they had heard what great things he did, came unto him.
 - **10:1** — And he arose from thence, and cometh into the coasts of Judaea by the farther side of Jordan: and the people resort unto him again; and, as he was wont, he taught them again.
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **3:3** — And he came into all the country about Jordan, preaching the baptism of repentance for the remission of sins;
 - **4:1** — And Jesus being full of the Holy Ghost returned from Jordan, and was led by the Spirit into the wilderness,
 
-### [[John]]
+### [[books/John|John]]
 - **1:28** — These things were done in Bethabara beyond Jordan, where John was baptizing.
 - **3:26** — And they came unto John, and said unto him, Rabbi, he that was with thee beyond Jordan, to whom thou barest witness, behold, the same baptizeth, and all men come to him.
 - **10:40** — And went away again beyond Jordan into the place where John at first baptized; and there he abode.

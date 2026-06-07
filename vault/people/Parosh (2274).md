@@ -44,10 +44,10 @@ metav_id: 2274
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **2:3** — The children of Parosh, two thousand an hundred seventy and two.
 - **10:25** — Moreover of Israel: of the sons of Parosh; Ramiah, and Jeziah, and Malchiah, and Miamin, and Eleazar, and Malchijah, and Benaiah.
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **7:8** — The children of Parosh, two thousand an hundred seventy and two.
 

@@ -26,6 +26,6 @@ metav_id: 189
 
 ## Verse References
 
-### [[Hosea]]
+### [[books/Hosea|Hosea]]
 - **10:14** — Therefore shall a tumult arise among thy people, and all thy fortresses shall be spoiled, as Shalman spoiled Betharbel in the day of battle: the mother was dashed in pieces upon her children.
 

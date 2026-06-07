@@ -26,6 +26,6 @@ metav_id: 889
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **4:23** — These were the potters, and those that dwelt among plants and hedges: there they dwelt with the king for his work.
 

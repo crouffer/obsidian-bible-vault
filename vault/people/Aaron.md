@@ -51,7 +51,7 @@ metav_id: 1
 
 ## Verse References
 
-### [[Exodus]]
+### [[books/Exodus|Exodus]]
 - **4:14** — And the anger of the LORD was kindled against Moses, and he said, Is not Aaron the Levite thy brother? I know that he can speak well. And also, behold, he cometh forth to meet thee: and when he seeth thee, he will be glad in his heart.
 - **4:27** — And the LORD said to Aaron, Go into the wilderness to meet Moses. And he went, and met him in the mount of God, and kissed him.
 - **4:28** — And Moses told Aaron all the words of the LORD who had sent him, and all the signs which he had commanded him.
@@ -162,7 +162,7 @@ metav_id: 1
 - **40:13** — And thou shalt put upon Aaron the holy garments, and anoint him, and sanctify him; that he may minister unto me in the priest's office.
 - **40:31** — And Moses and Aaron and his sons washed their hands and their feet thereat:
 
-### [[Leviticus]]
+### [[books/Leviticus|Leviticus]]
 - **1:5** — And he shall kill the bullock before the LORD: and the priests, Aaron's sons, shall bring the blood, and sprinkle the blood round about upon the altar that is by the door of the tabernacle of the congregation.
 - **1:7** — And the sons of Aaron the priest shall put fire upon the altar, and lay the wood in order upon the fire:
 - **1:8** — And the priests, Aaron's sons, shall lay the parts, the head, and the fat, in order upon the wood that is on the fire which is upon the altar:
@@ -241,7 +241,7 @@ metav_id: 1
 - **24:3** — Without the vail of the testimony, in the tabernacle of the congregation, shall Aaron order it from the evening unto the morning before the LORD continually: it shall be a statute for ever in your generations.
 - **24:9** — And it shall be Aaron's and his sons'; and they shall eat it in the holy place: for it is most holy unto him of the offerings of the LORD made by fire by a perpetual statute.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **1:3** — From twenty years old and upward, all that are able to go forth to war in Israel: thou and Aaron shall number them by their armies.
 - **1:17** — And Moses and Aaron took these men which are expressed by their names:
 - **1:44** — These are those that were numbered, which Moses and Aaron numbered, and the princes of Israel, being twelve men: each one was for the house of his fathers.
@@ -340,12 +340,12 @@ metav_id: 1
 - **33:38** — And Aaron the priest went up into mount Hor at the commandment of the LORD, and died there, in the fortieth year after the children of Israel were come out of the land of Egypt, in the first day of the fifth month.
 - **33:39** — And Aaron was an hundred and twenty and three years old when he died in mount Hor.
 
-### [[Deuteronomy]]
+### [[books/Deuteronomy|Deuteronomy]]
 - **9:20** — And the LORD was very angry with Aaron to have destroyed him: and I prayed for Aaron also the same time.
 - **10:6** — And the children of Israel took their journey from Beeroth of the children of Jaakan to Mosera: there Aaron died, and there he was buried; and Eleazar his son ministered in the priest's office in his stead.
 - **32:50** — And die in the mount whither thou goest up, and be gathered unto thy people; as Aaron thy brother died in mount Hor, and was gathered unto his people:
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **21:4** — And the lot came out for the families of the Kohathites: and the children of Aaron the priest, which were of the Levites, had by lot out of the tribe of Judah, and out of the tribe of Simeon, and out of the tribe of Benjamin, thirteen cities.
 - **21:10** — Which the children of Aaron, being of the families of the Kohathites, who were of the children of Levi, had: for theirs was the first lot.
 - **21:13** — Thus they gave to the children of Aaron the priest Hebron with her suburbs, to be a city of refuge for the slayer; and Libnah with her suburbs,
@@ -353,14 +353,14 @@ metav_id: 1
 - **24:5** — I sent Moses also and Aaron, and I plagued Egypt, according to that which I did among them: and afterward I brought you out.
 - **24:33** — And Eleazar the son of Aaron died; and they buried him in a hill that pertained to Phinehas his son, which was given him in mount Ephraim.
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **20:28** — And Phinehas, the son of Eleazar, the son of Aaron, stood before it in those days,) saying, Shall I yet again go out to battle against the children of Benjamin my brother, or shall I cease? And the LORD said, Go up; for to morrow I will deliver them into thine hand.
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **12:6** — And Samuel said unto the people, It is the LORD that advanced Moses and Aaron, and that brought your fathers up out of the land of Egypt.
 - **12:8** — When Jacob was come into Egypt, and your fathers cried unto the LORD, then the LORD sent Moses and Aaron, which brought forth your fathers out of Egypt, and made them dwell in this place.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:3** — And the children of Amram; Aaron, and Moses, and Miriam. The sons also of Aaron; Nadab, and Abihu, Eleazar, and Ithamar.
 - **6:49** — But Aaron and his sons offered upon the altar of the burnt offering, and on the altar of incense, and were appointed for all the work of the place most holy, and to make an atonement for Israel, according to all that Moses the servant of God had commanded.
 - **6:50** — And these are the sons of Aaron; Eleazar his son, Phinehas his son, Abishua his son,
@@ -374,7 +374,7 @@ metav_id: 1
 - **24:19** — These were the orderings of them in their service to come into the house of the LORD, according to their manner, under Aaron their father, as the LORD God of Israel had commanded him.
 - **24:31** — These likewise cast lots over against their brethren the sons of Aaron in the presence of David the king, and Zadok, and Ahimelech, and the chief of the fathers of the priests and Levites, even the principal fathers over against their younger brethren.
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **13:9** — Have ye not cast out the priests of the LORD, the sons of Aaron, and the Levites, and have made you priests after the manner of the nations of other lands? so that whosoever cometh to consecrate himself with a young bullock and seven rams, the same may be a priest of them that are no gods.
 - **13:10** — But as for us, the LORD is our God, and we have not forsaken him; and the priests, which minister unto the LORD, are the sons of Aaron, and the Levites wait upon their business:
 - **26:18** — And they withstood Uzziah the king, and said unto him, It appertaineth not unto thee, Uzziah, to burn incense unto the LORD, but to the priests the sons of Aaron, that are consecrated to burn incense: go out of the sanctuary; for thou hast trespassed; neither shall it be for thine honour from the LORD God.
@@ -382,14 +382,14 @@ metav_id: 1
 - **31:19** — Also of the sons of Aaron the priests, which were in the fields of the suburbs of their cities, in every several city, the men that were expressed by name, to give portions to all the males among the priests, and to all that were reckoned by genealogies among the Levites.
 - **35:14** — And afterward they made ready for themselves, and for the priests: because the priests the sons of Aaron were busied in offering of burnt offerings and the fat until night; therefore the Levites prepared for themselves, and for the priests the sons of Aaron.
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **7:5** — The son of Abishua, the son of Phinehas, the son of Eleazar, the son of Aaron the chief priest:
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **10:38** — And the priest the son of Aaron shall be with the Levites, when the Levites take tithes: and the Levites shall bring up the tithe of the tithes unto the house of our God, to the chambers, into the treasure house.
 - **12:47** — And all Israel in the days of Zerubbabel, and in the days of Nehemiah, gave the portions of the singers and the porters, every day his portion: and they sanctified holy things unto the Levites; and the Levites sanctified them unto the children of Aaron.
 
-### [[Psalms]]
+### [[books/Psalms|Psalms]]
 - **77:20** — Thou leddest thy people like a flock by the hand of Moses and Aaron.
 - **99:6** — Moses and Aaron among his priests, and Samuel among them that call upon his name; they called upon the LORD, and he answered them.
 - **105:26** — He sent Moses his servant; and Aaron whom he had chosen.
@@ -400,16 +400,16 @@ metav_id: 1
 - **133:2** — It is like the precious ointment upon the head, that ran down upon the beard, even Aaron's beard: that went down to the skirts of his garments;
 - **135:19** — Bless the LORD, O house of Israel: bless the LORD, O house of Aaron:
 
-### [[Micah]]
+### [[books/Micah|Micah]]
 - **6:4** — For I brought thee up out of the land of Egypt, and redeemed thee out of the house of servants; and I sent before thee Moses, Aaron, and Miriam.
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **1:5** — There was in the days of Herod, the king of Judaea, a certain priest named Zacharias, of the course of Abia: and his wife was of the daughters of Aaron, and her name was Elisabeth.
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **7:40** — Saying unto Aaron, Make us gods to go before us: for as for this Moses, which brought us out of the land of Egypt, we wot not what is become of him.
 
-### [[Hebrews]]
+### [[books/Hebrews|Hebrews]]
 - **5:4** — And no man taketh this honour unto himself, but he that is called of God, as was Aaron.
 - **7:11** — If therefore perfection were by the Levitical priesthood, (for under it the people received the law,) what further need was there that another priest should rise after the order of Melchisedec, and not be called after the order of Aaron?
 - **9:4** — Which had the golden censer, and the ark of the covenant overlaid round about with gold, wherein was the golden pot that had manna, and Aaron's rod that budded, and the tables of the covenant;

@@ -47,7 +47,7 @@ metav_id: 616
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **17:19** — And God said, Sarah thy wife shall bear thee a son indeed; and thou shalt call his name Isaac: and I will establish my covenant with him for an everlasting covenant, and with his seed after him.
 - **17:21** — But my covenant will I establish with Isaac, which Sarah shall bear unto thee at this set time in the next year.
 - **21:3** — And Abraham called the name of his son that was born unto him, whom Sarah bare to him, Isaac.
@@ -123,7 +123,7 @@ metav_id: 616
 - **49:31** — There they buried Abraham and Sarah his wife; there they buried Isaac and Rebekah his wife; and there I buried Leah.
 - **50:24** — And Joseph said unto his brethren, I die: and God will surely visit you, and bring you out of this land unto the land which he sware to Abraham, to Isaac, and to Jacob.
 
-### [[Exodus]]
+### [[books/Exodus|Exodus]]
 - **2:24** — And God heard their groaning, and God remembered his covenant with Abraham, with Isaac, and with Jacob.
 - **3:6** — Moreover he said, I am the God of thy father, the God of Abraham, the God of Isaac, and the God of Jacob. And Moses hid his face; for he was afraid to look upon God.
 - **3:15** — And God said moreover unto Moses, Thus shalt thou say unto the children of Israel, The LORD God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, hath sent me unto you: this is my name for ever, and this is my memorial unto all generations.
@@ -134,13 +134,13 @@ metav_id: 616
 - **32:13** — Remember Abraham, Isaac, and Israel, thy servants, to whom thou swarest by thine own self, and saidst unto them, I will multiply your seed as the stars of heaven, and all this land that I have spoken of will I give unto your seed, and they shall inherit it for ever.
 - **33:1** — And the LORD said unto Moses, Depart, and go up hence, thou and the people which thou hast brought up out of the land of Egypt, unto the land which I sware unto Abraham, to Isaac, and to Jacob, saying, Unto thy seed will I give it:
 
-### [[Leviticus]]
+### [[books/Leviticus|Leviticus]]
 - **26:42** — Then will I remember my covenant with Jacob, and also my covenant with Isaac, and also my covenant with Abraham will I remember; and I will remember the land.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **32:11** — Surely none of the men that came up out of Egypt, from twenty years old and upward, shall see the land which I sware unto Abraham, unto Isaac, and unto Jacob; because they have not wholly followed me:
 
-### [[Deuteronomy]]
+### [[books/Deuteronomy|Deuteronomy]]
 - **1:8** — Behold, I have set the land before you: go in and possess the land which the LORD sware unto your fathers, Abraham, Isaac, and Jacob, to give unto them and to their seed after them.
 - **6:10** — And it shall be, when the LORD thy God shall have brought thee into the land which he sware unto thy fathers, to Abraham, to Isaac, and to Jacob, to give thee great and goodly cities, which thou buildedst not,
 - **9:5** — Not for thy righteousness, or for the uprightness of thine heart, dost thou go to possess their land: but for the wickedness of these nations the LORD thy God doth drive them out from before thee, and that he may perform the word which the LORD sware unto thy fathers, Abraham, Isaac, and Jacob.
@@ -149,66 +149,66 @@ metav_id: 616
 - **30:20** — That thou mayest love the LORD thy God, and that thou mayest obey his voice, and that thou mayest cleave unto him: for he is thy life, and the length of thy days: that thou mayest dwell in the land which the LORD sware unto thy fathers, to Abraham, to Isaac, and to Jacob, to give them.
 - **34:4** — And the LORD said unto him, This is the land which I sware unto Abraham, unto Isaac, and unto Jacob, saying, I will give it unto thy seed: I have caused thee to see it with thine eyes, but thou shalt not go over thither.
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **24:3** — And I took your father Abraham from the other side of the flood, and led him throughout all the land of Canaan, and multiplied his seed, and gave him Isaac.
 - **24:4** — And I gave unto Isaac Jacob and Esau: and I gave unto Esau mount Seir, to possess it; but Jacob and his children went down into Egypt.
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **18:36** — And it came to pass at the time of the offering of the evening sacrifice, that Elijah the prophet came near, and said, LORD God of Abraham, Isaac, and of Israel, let it be known this day that thou art God in Israel, and that I am thy servant, and that I have done all these things at thy word.
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **13:23** — And the LORD was gracious unto them, and had compassion on them, and had respect unto them, because of his covenant with Abraham, Isaac, and Jacob, and would not destroy them, neither cast he them from his presence as yet.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:28** — The sons of Abraham; Isaac, and Ishmael.
 - **1:34** — And Abraham begat Isaac. The sons of Isaac; Esau and Israel.
 - **16:16** — Even of the covenant which he made with Abraham, and of his oath unto Isaac;
 - **29:18** — O LORD God of Abraham, Isaac, and of Israel, our fathers, keep this for ever in the imagination of the thoughts of the heart of thy people, and prepare their heart unto thee:
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **30:6** — So the posts went with the letters from the king and his princes throughout all Israel and Judah, and according to the commandment of the king, saying, Ye children of Israel, turn again unto the LORD God of Abraham, Isaac, and Israel, and he will return to the remnant of you, that are escaped out of the hand of the kings of Assyria.
 
-### [[Psalms]]
+### [[books/Psalms|Psalms]]
 - **105:9** — Which covenant he made with Abraham, and his oath unto Isaac;
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **33:26** — Then will I cast away the seed of Jacob, and David my servant, so that I will not take any of his seed to be rulers over the seed of Abraham, Isaac, and Jacob: for I will cause their captivity to return, and have mercy on them.
 
-### [[Amos]]
+### [[books/Amos|Amos]]
 - **7:9** — And the high places of Isaac shall be desolate, and the sanctuaries of Israel shall be laid waste; and I will rise against the house of Jeroboam with the sword.
 - **7:16** — Now therefore hear thou the word of the LORD: Thou sayest, Prophesy not against Israel, and drop not thy word against the house of Isaac.
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **1:2** — Abraham begat Isaac; and Isaac begat Jacob; and Jacob begat Judas and his brethren;
 - **8:11** — And I say unto you, That many shall come from the east and west, and shall sit down with Abraham, and Isaac, and Jacob, in the kingdom of heaven.
 - **22:32** — I am the God of Abraham, and the God of Isaac, and the God of Jacob? God is not the God of the dead, but of the living.
 
-### [[Mark]]
+### [[books/Mark|Mark]]
 - **12:26** — And as touching the dead, that they rise: have ye not read in the book of Moses, how in the bush God spake unto him, saying, I am the God of Abraham, and the God of Isaac, and the God of Jacob?
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **3:34** — Which was the son of Jacob, which was the son of Isaac, which was the son of Abraham, which was the son of Thara, which was the son of Nachor,
 - **13:28** — There shall be weeping and gnashing of teeth, when ye shall see Abraham, and Isaac, and Jacob, and all the prophets, in the kingdom of God, and you yourselves thrust out.
 - **20:37** — Now that the dead are raised, even Moses shewed at the bush, when he calleth the Lord the God of Abraham, and the God of Isaac, and the God of Jacob.
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **3:13** — The God of Abraham, and of Isaac, and of Jacob, the God of our fathers, hath glorified his Son Jesus; whom ye delivered up, and denied him in the presence of Pilate, when he was determined to let him go.
 - **7:8** — And he gave him the covenant of circumcision: and so Abraham begat Isaac, and circumcised him the eighth day; and Isaac begat Jacob; and Jacob begat the twelve patriarchs.
 - **7:32** — Saying, I am the God of thy fathers, the God of Abraham, and the God of Isaac, and the God of Jacob. Then Moses trembled, and durst not behold.
 
-### [[Romans]]
+### [[books/Romans|Romans]]
 - **9:7** — Neither, because they are the seed of Abraham, are they all children: but, In Isaac shall thy seed be called.
 - **9:10** — And not only this; but when Rebecca also had conceived by one, even by our father Isaac;
 
-### [[Galatians]]
+### [[books/Galatians|Galatians]]
 - **4:28** — Now we, brethren, as Isaac was, are the children of promise.
 
-### [[Hebrews]]
+### [[books/Hebrews|Hebrews]]
 - **11:9** — By faith he sojourned in the land of promise, as in a strange country, dwelling in tabernacles with Isaac and Jacob, the heirs with him of the same promise:
 - **11:17** — By faith Abraham, when he was tried, offered up Isaac: and he that had received the promises offered up his only begotten son,
 - **11:18** — Of whom it was said, That in Isaac shall thy seed be called:
 - **11:20** — By faith Isaac blessed Jacob and Esau concerning things to come.
 
-### [[James]]
+### [[books/James|James]]
 - **2:21** — Was not Abraham our father justified by works, when he had offered Isaac his son upon the altar?
 

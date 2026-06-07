@@ -44,6 +44,6 @@ metav_id: 936
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **26:29** — Of the Izharites, Chenaniah and his sons were for the outward business over Israel, for officers and judges.
 

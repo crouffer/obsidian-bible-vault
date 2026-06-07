@@ -45,6 +45,6 @@ metav_id: 2448
 
 ## Verse References
 
-### [[Mark]]
+### [[books/Mark|Mark]]
 - **15:21** — And they compel one Simon a Cyrenian, who passed by, coming out of the country, the father of Alexander and Rufus, to bear his cross.
 

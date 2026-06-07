@@ -45,9 +45,9 @@ metav_id: 1499
 
 ## Verse References
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **21:1** — Manasseh was twelve years old when he began to reign, and reigned fifty and five years in Jerusalem. And his mother's name was Hephzibah.
 
-### [[Isaiah]]
+### [[books/Isaiah|Isaiah]]
 - **62:4** — Thou shalt no more be termed Forsaken; neither shall thy land any more be termed Desolate: but thou shalt be called Hephzibah, and thy land Beulah: for the LORD delighteth in thee, and thy land shall be married.
 

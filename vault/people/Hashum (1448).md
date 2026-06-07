@@ -44,6 +44,6 @@ metav_id: 1448
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **10:18** — Hodijah, Hashum, Bezai,
 

@@ -45,6 +45,6 @@ metav_id: 3048
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **8:4** — Of the sons of Pahathmoab; Elihoenai the son of Zerahiah, and with him two hundred males.
 

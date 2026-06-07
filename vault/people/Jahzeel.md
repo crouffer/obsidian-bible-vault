@@ -47,12 +47,12 @@ metav_id: 706
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **46:24** — And the sons of Naphtali; Jahzeel, and Guni, and Jezer, and Shillem.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **26:48** — Of the sons of Naphtali after their families: of Jahzeel, the family of the Jahzeelites: of Guni, the family of the Gunites:
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **7:13** — The sons of Naphtali; Jahziel, and Guni, and Jezer, and Shallum, the sons of Bilhah.
 

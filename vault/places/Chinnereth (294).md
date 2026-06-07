@@ -26,6 +26,6 @@ metav_id: 294
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **19:35** — And the fenced cities are Ziddim, Zer, and Hammath, Rakkath, and Chinnereth,
 

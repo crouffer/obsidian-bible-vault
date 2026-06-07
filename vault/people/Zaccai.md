@@ -44,9 +44,9 @@ metav_id: 2960
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **2:9** — The children of Zaccai, seven hundred and threescore.
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **7:14** — The children of Zaccai, seven hundred and threescore.
 

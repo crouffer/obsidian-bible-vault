@@ -26,6 +26,6 @@ metav_id: 451
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **12:13** — The king of Debir, one; the king of Geder, one;
 

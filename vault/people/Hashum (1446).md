@@ -44,10 +44,10 @@ metav_id: 1446
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **2:19** — The children of Hashum, two hundred twenty and three.
 - **10:33** — Of the sons of Hashum; Mattenai, Mattathah, Zabad, Eliphelet, Jeremai, Manasseh, and Shimei.
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **7:22** — The children of Hashum, three hundred twenty and eight.
 

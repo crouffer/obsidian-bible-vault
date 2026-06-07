@@ -26,9 +26,9 @@ metav_id: 342
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **37:17** — And the man said, They are departed hence; for I heard them say, Let us go to Dothan. And Joseph went after his brethren, and found them in Dothan.
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **6:13** — And he said, Go and spy where he is, that I may send and fetch him. And it was told him, saying, Behold, he is in Dothan.
 

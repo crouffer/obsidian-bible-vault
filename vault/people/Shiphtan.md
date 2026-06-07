@@ -45,6 +45,6 @@ metav_id: 2711
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **34:24** — And the prince of the tribe of the children of Ephraim, Kemuel the son of Shiphtan.
 

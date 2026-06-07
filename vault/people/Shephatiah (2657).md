@@ -55,9 +55,9 @@ metav_id: 2657
 
 ## Verse References
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **3:4** — And the fourth, Adonijah the son of Haggith; and the fifth, Shephatiah the son of Abital;
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **3:3** — The fifth, Shephatiah of Abital: the sixth, Ithream by Eglah his wife.
 

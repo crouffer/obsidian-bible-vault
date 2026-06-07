@@ -26,7 +26,7 @@ metav_id: 1061
 
 ## Verse References
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **10:1** — And after Abimelech there arose to defend Israel Tola the son of Puah, the son of Dodo, a man of Issachar; and he dwelt in Shamir in mount Ephraim.
 - **10:2** — And he judged Israel twenty and three years, and died, and was buried in Shamir.
 

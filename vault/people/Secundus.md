@@ -44,6 +44,6 @@ metav_id: 2482
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **20:4** — And there accompanied him into Asia Sopater of Berea; and of the Thessalonians, Aristarchus and Secundus; and Gaius of Derbe, and Timotheus; and of Asia, Tychicus and Trophimus.
 

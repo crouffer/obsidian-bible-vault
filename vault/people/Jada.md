@@ -47,7 +47,7 @@ metav_id: 684
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **2:28** — And the sons of Onam were, Shammai, and Jada. And the sons of Shammai; Nadab, and Abishur.
 - **2:32** — And the sons of Jada the brother of Shammai; Jether, and Jonathan: and Jether died without children.
 

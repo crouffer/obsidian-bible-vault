@@ -45,7 +45,7 @@ metav_id: 57
 
 ## Verse References
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **14:50** — And the name of Saul's wife was Ahinoam, the daughter of Ahimaaz: and the name of the captain of his host was Abner, the son of Ner, Saul's uncle.
 - **14:51** — And Kish was the father of Saul; and Ner the father of Abner was the son of Abiel.
 - **17:55** — And when Saul saw David go forth against the Philistine, he said unto Abner, the captain of the host, Abner, whose son is this youth? And Abner said, As thy soul liveth, O king, I cannot tell.
@@ -56,7 +56,7 @@ metav_id: 57
 - **26:14** — And David cried to the people, and to Abner the son of Ner, saying, Answerest thou not, Abner? Then Abner answered and said, Who art thou that criest to the king?
 - **26:15** — And David said to Abner, Art not thou a valiant man? and who is like to thee in Israel? wherefore then hast thou not kept thy lord the king? for there came one of the people in to destroy the king thy lord.
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **2:8** — But Abner the son of Ner, captain of Saul's host, took Ishbosheth the son of Saul, and brought him over to Mahanaim;
 - **2:12** — And Abner the son of Ner, and the servants of Ishbosheth the son of Saul, went out from Mahanaim to Gibeon.
 - **2:14** — And Abner said to Joab, Let the young men now arise, and play before us. And Joab said, Let them arise.
@@ -98,11 +98,11 @@ metav_id: 57
 - **4:1** — And when Saul's son heard that Abner was dead in Hebron, his hands were feeble, and all the Israelites were troubled.
 - **4:12** — And David commanded his young men, and they slew them, and cut off their hands and their feet, and hanged them up over the pool in Hebron. But they took the head of Ishbosheth, and buried it in the sepulchre of Abner in Hebron.
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **2:5** — Moreover thou knowest also what Joab the son of Zeruiah did to me, and what he did to the two captains of the hosts of Israel, unto Abner the son of Ner, and unto Amasa the son of Jether, whom he slew, and shed the blood of war in peace, and put the blood of war upon his girdle that was about his loins, and in his shoes that were on his feet.
 - **2:32** — And the LORD shall return his blood upon his own head, who fell upon two men more righteous and better than he, and slew them with the sword, my father David not knowing thereof, to wit, Abner the son of Ner, captain of the host of Israel, and Amasa the son of Jether, captain of the host of Judah.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **26:28** — And all that Samuel the seer, and Saul the son of Kish, and Abner the son of Ner, and Joab the son of Zeruiah, had dedicated; and whosoever had dedicated any thing, it was under the hand of Shelomith, and of his brethren.
 - **27:21** — Of the half tribe of Manasseh in Gilead, Iddo the son of Zechariah: of Benjamin, Jaasiel the son of Abner:
 

@@ -26,7 +26,7 @@ metav_id: 578
 
 ## Verse References
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **23:15** — And David saw that Saul was come out to seek his life: and David was in the wilderness of Ziph in a wood.
 - **23:16** — And Jonathan Saul's son arose, and went to David into the wood, and strengthened his hand in God.
 - **23:18** — And they two made a covenant before the LORD: and David abode in the wood, and Jonathan went to his house.

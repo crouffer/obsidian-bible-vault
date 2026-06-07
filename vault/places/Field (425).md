@@ -26,9 +26,9 @@ metav_id: 425
 
 ## Verse References
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **27:8** — Wherefore that field was called, The field of blood, unto this day.
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **1:19** — And it was known unto all the dwellers at Jerusalem; insomuch as that field is called in their proper tongue, Aceldama, that is to say, The field of blood.
 

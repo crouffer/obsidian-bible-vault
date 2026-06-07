@@ -44,6 +44,6 @@ metav_id: 2267
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **10:14** — The chief of the people; Parosh, Pahathmoab, Elam, Zatthu, Bani,
 

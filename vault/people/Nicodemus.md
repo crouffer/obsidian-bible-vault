@@ -44,7 +44,7 @@ metav_id: 2204
 
 ## Verse References
 
-### [[John]]
+### [[books/John|John]]
 - **3:1** — There was a man of the Pharisees, named Nicodemus, a ruler of the Jews:
 - **3:4** — Nicodemus saith unto him, How can a man be born when he is old? can he enter the second time into his mother's womb, and be born?
 - **3:9** — Nicodemus answered and said unto him, How can these things be?

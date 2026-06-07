@@ -47,6 +47,6 @@ metav_id: 196
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **7:35** — And the sons of his brother Helem; Zophah, and Imna, and Shelesh, and Amal.
 

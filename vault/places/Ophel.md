@@ -26,11 +26,11 @@ metav_id: 910
 
 ## Verse References
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **27:3** — He built the high gate of the house of the LORD, and on the wall of Ophel he built much.
 - **33:14** — Now after this he built a wall without the city of David, on the west side of Gihon, in the valley, even to the entering in at the fish gate, and compassed about Ophel, and raised it up a very great height, and put captains of war in all the fenced cities of Judah.
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **3:26** — Moreover the Nethinims dwelt in Ophel, unto the place over against the water gate toward the east, and the tower that lieth out.
 - **3:27** — After them the Tekoites repaired another piece, over against the great tower that lieth out, even unto the wall of Ophel.
 - **11:21** — But the Nethinims dwelt in Ophel: and Ziha and Gispa were over the Nethinims.

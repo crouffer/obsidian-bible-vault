@@ -45,7 +45,7 @@ metav_id: 1722
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **4:36** — And Joses, who by the apostles was surnamed Barnabas, (which is, being interpreted, The son of consolation,) a Levite, and of the country of Cyprus,
 - **9:27** — But Barnabas took him, and brought him to the apostles, and declared unto them how he had seen the Lord in the way, and that he had spoken to him, and how he had preached boldly at Damascus in the name of Jesus.
 - **11:22** — Then tidings of these things came unto the ears of the church which was in Jerusalem: and they sent forth Barnabas, that he should go as far as Antioch.
@@ -72,14 +72,14 @@ metav_id: 1722
 - **15:39** — And the contention was so sharp between them, that they departed asunder one from the other: and so Barnabas took Mark, and sailed unto Cyprus;
 - **19:35** — And when the townclerk had appeased the people, he said, Ye men of Ephesus, what man is there that knoweth not how that the city of the Ephesians is a worshipper of the great goddess Diana, and of the image which fell down from Jupiter?
 
-### [[1 Corinthians]]
+### [[books/1 Corinthians|1 Corinthians]]
 - **9:6** — Or I only and Barnabas, have not we power to forbear working?
 
-### [[Galatians]]
+### [[books/Galatians|Galatians]]
 - **2:1** — Then fourteen years after I went up again to Jerusalem with Barnabas, and took Titus with me also.
 - **2:9** — And when James, Cephas, and John, who seemed to be pillars, perceived the grace that was given unto me, they gave to me and Barnabas the right hands of fellowship; that we should go unto the heathen, and they unto the circumcision.
 - **2:13** — And the other Jews dissembled likewise with him; insomuch that Barnabas also was carried away with their dissimulation.
 
-### [[Colossians]]
+### [[books/Colossians|Colossians]]
 - **4:10** — Aristarchus my fellowprisoner saluteth you, and Marcus, sister's son to Barnabas, (touching whom ye received commandments: if he come unto you, receive him;)
 

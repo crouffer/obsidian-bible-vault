@@ -53,6 +53,6 @@ metav_id: 2698
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **8:21** — And Adaiah, and Beraiah, and Shimrath, the sons of Shimhi;
 

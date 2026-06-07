@@ -26,7 +26,7 @@ metav_id: 929
 
 ## Verse References
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **30:15** — And I will pour my fury upon Sin, the strength of Egypt; and I will cut off the multitude of No.
 - **30:16** — And I will set fire in Egypt: Sin shall have great pain, and No shall be rent asunder, and Noph shall have distresses daily.
 

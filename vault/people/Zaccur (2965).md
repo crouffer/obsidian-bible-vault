@@ -47,10 +47,10 @@ metav_id: 2965
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **25:2** — Of the sons of Asaph; Zaccur, and Joseph, and Nethaniah, and Asarelah, the sons of Asaph under the hands of Asaph, which prophesied according to the order of the king.
 - **25:10** — The third to Zaccur, he, his sons, and his brethren, were twelve:
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **12:35** — And certain of the priests' sons with trumpets; namely, Zechariah the son of Jonathan, the son of Shemaiah, the son of Mattaniah, the son of Michaiah, the son of Zaccur, the son of Asaph:
 

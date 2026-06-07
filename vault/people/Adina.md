@@ -44,6 +44,6 @@ metav_id: 88
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **11:42** — Adina the son of Shiza the Reubenite, a captain of the Reubenites, and thirty with him,
 

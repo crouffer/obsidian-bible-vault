@@ -45,7 +45,7 @@ metav_id: 1486
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **1:9** — Of Zebulun; Eliab the son of Helon.
 - **2:7** — Then the tribe of Zebulun: and Eliab the son of Helon shall be captain of the children of Zebulun.
 - **7:24** — On the third day Eliab the son of Helon, prince of the children of Zebulun, did offer:

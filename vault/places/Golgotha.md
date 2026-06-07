@@ -26,12 +26,12 @@ metav_id: 487
 
 ## Verse References
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **27:33** — And when they were come unto a place called Golgotha, that is to say, a place of a skull,
 
-### [[Mark]]
+### [[books/Mark|Mark]]
 - **15:22** — And they bring him unto the place Golgotha, which is, being interpreted, The place of a skull.
 
-### [[John]]
+### [[books/John|John]]
 - **19:17** — And he bearing his cross went forth into a place called the place of a skull, which is called in the Hebrew Golgotha:
 

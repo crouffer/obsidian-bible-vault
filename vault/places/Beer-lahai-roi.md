@@ -26,7 +26,7 @@ metav_id: 167
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **24:62** — And Isaac came from the way of the well Lahairoi; for he dwelt in the south country.
 - **25:11** — And it came to pass after the death of Abraham, that God blessed his son Isaac; and Isaac dwelt by the well Lahairoi.
 

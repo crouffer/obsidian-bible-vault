@@ -45,6 +45,6 @@ metav_id: 2312
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **2:33** — And the sons of Jonathan; Peleth, and Zaza. These were the sons of Jerahmeel.
 

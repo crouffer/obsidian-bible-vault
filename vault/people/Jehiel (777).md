@@ -45,6 +45,6 @@ metav_id: 777
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **8:9** — Of the sons of Joab; Obadiah the son of Jehiel, and with him two hundred and eighteen males.
 

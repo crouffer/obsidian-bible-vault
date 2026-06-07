@@ -45,6 +45,6 @@ metav_id: 123
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **7:12** — Shuppim also, and Huppim, the children of Ir, and Hushim, the sons of Aher.
 

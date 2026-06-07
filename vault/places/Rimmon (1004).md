@@ -26,13 +26,13 @@ metav_id: 1004
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **15:32** — And Lebaoth, and Shilhim, and Ain, and Rimmon: all the cities are twenty and nine, with their villages:
 - **19:7** — Ain, Remmon, and Ether, and Ashan; four cities and their villages:
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **4:32** — And their villages were, Etam, and Ain, Rimmon, and Tochen, and Ashan, five cities:
 
-### [[Zechariah]]
+### [[books/Zechariah|Zechariah]]
 - **14:10** — All the land shall be turned as a plain from Geba to Rimmon south of Jerusalem: and it shall be lifted up, and inhabited in her place, from Benjamin's gate unto the place of the first gate, unto the corner gate, and from the tower of Hananeel unto the king's winepresses.
 

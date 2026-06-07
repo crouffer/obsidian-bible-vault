@@ -55,12 +55,12 @@ metav_id: 336
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **46:21** — And the sons of Benjamin were Belah, and Becher, and Ashbel, Gera, and Naaman, Ehi, and Rosh, Muppim, and Huppim, and Ard.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **26:38** — The sons of Benjamin after their families: of Bela, the family of the Belaites: of Ashbel, the family of the Ashbelites: of Ahiram, the family of the Ahiramites:
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **8:1** — Now Benjamin begat Bela his firstborn, Ashbel the second, and Aharah the third,
 

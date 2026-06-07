@@ -26,12 +26,12 @@ metav_id: 229
 
 ## Verse References
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **21:1** — And when they drew nigh unto Jerusalem, and were come to Bethphage, unto the mount of Olives, then sent Jesus two disciples,
 
-### [[Mark]]
+### [[books/Mark|Mark]]
 - **11:1** — And when they came nigh to Jerusalem, unto Bethphage and Bethany, at the mount of Olives, he sendeth forth two of his disciples,
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **19:29** — And it came to pass, when he was come nigh to Bethphage and Bethany, at the mount called the mount of Olives, he sent two of his disciples,
 

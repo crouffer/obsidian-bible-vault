@@ -26,7 +26,7 @@ metav_id: 286
 
 ## Verse References
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **17:3** — Get thee hence, and turn thee eastward, and hide thyself by the brook Cherith, that is before Jordan.
 - **17:5** — So he went and did according unto the word of the LORD: for he went and dwelt by the brook Cherith, that is before Jordan.
 

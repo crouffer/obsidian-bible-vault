@@ -45,6 +45,6 @@ metav_id: 2472
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **5:1** — But a certain man named Ananias, with Sapphira his wife, sold a possession,
 

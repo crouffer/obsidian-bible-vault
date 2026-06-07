@@ -44,6 +44,6 @@ metav_id: 2645
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **12:5** — Eluzai, and Jerimoth, and Bealiah, and Shemariah, and Shephatiah the Haruphite,
 

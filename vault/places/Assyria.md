@@ -26,11 +26,11 @@ metav_id: 111
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **10:11** — Out of that land went forth Asshur, and builded Nineveh, and the city Rehoboth, and Calah,
 - **25:18** — And they dwelt from Havilah unto Shur, that is before Egypt, as thou goest toward Assyria: and he died in the presence of all his brethren.
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **15:19** — And Pul the king of Assyria came against the land: and Menahem gave Pul a thousand talents of silver, that his hand might be with him to confirm the kingdom in his hand.
 - **15:20** — And Menahem exacted the money of Israel, even of all the mighty men of wealth, of each man fifty shekels of silver, to give to the king of Assyria. So the king of Assyria turned back, and stayed not there in the land.
 - **15:29** — In the days of Pekah king of Israel came Tiglathpileser king of Assyria, and took Ijon, and Abelbethmaachah, and Janoah, and Kedesh, and Hazor, and Gilead, and Galilee, all the land of Naphtali, and carried them captive to Assyria.
@@ -72,11 +72,11 @@ metav_id: 111
 - **20:6** — And I will add unto thy days fifteen years; and I will deliver thee and this city out of the hand of the king of Assyria; and I will defend this city for mine own sake, and for my servant David's sake.
 - **23:29** — In his days Pharaohnechoh king of Egypt went up against the king of Assyria to the river Euphrates: and king Josiah went against him; and he slew him at Megiddo, when he had seen him.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **5:6** — Beerah his son, whom Tilgathpilneser king of Assyria carried away captive: he was prince of the Reubenites.
 - **5:26** — And the God of Israel stirred up the spirit of Pul king of Assyria, and the spirit of Tilgathpilneser king of Assyria, and he carried them away, even the Reubenites, and the Gadites, and the half tribe of Manasseh, and brought them unto Halah, and Habor, and Hara, and to the river Gozan, unto this day.
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **28:16** — At that time did king Ahaz send unto the kings of Assyria to help him.
 - **28:20** — And Tilgathpilneser king of Assyria came unto him, and distressed him, but strengthened him not.
 - **28:21** — For Ahaz took away a portion out of the house of the LORD, and out of the house of the king, and of the princes, and gave it unto the king of Assyria: but he helped him not.
@@ -91,14 +91,14 @@ metav_id: 111
 - **32:22** — Thus the LORD saved Hezekiah and the inhabitants of Jerusalem from the hand of Sennacherib the king of Assyria, and from the hand of all other, and guided them on every side.
 - **33:11** — Wherefore the LORD brought upon them the captains of the host of the king of Assyria, which took Manasseh among the thorns, and bound him with fetters, and carried him to Babylon.
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **4:2** — Then they came to Zerubbabel, and to the chief of the fathers, and said unto them, Let us build with you: for we seek your God, as ye do; and we do sacrifice unto him since the days of Esarhaddon king of Assur, which brought us up hither.
 - **6:22** — And kept the feast of unleavened bread seven days with joy: for the LORD had made them joyful, and turned the heart of the king of Assyria unto them, to strengthen their hands in the work of the house of God, the God of Israel.
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **9:32** — Now therefore, our God, the great, the mighty, and the terrible God, who keepest covenant and mercy, let not all the trouble seem little before thee, that hath come upon us, on our kings, on our princes, and on our priests, and on our prophets, and on our fathers, and on all thy people, since the time of the kings of Assyria unto this day.
 
-### [[Isaiah]]
+### [[books/Isaiah|Isaiah]]
 - **7:17** — The LORD shall bring upon thee, and upon thy people, and upon thy father's house, days that have not come, from the day that Ephraim departed from Judah; even the king of Assyria.
 - **7:18** — And it shall come to pass in that day, that the LORD shall hiss for the fly that is in the uttermost part of the rivers of Egypt, and for the bee that is in the land of Assyria.
 - **7:20** — In the same day shall the Lord shave with a razor that is hired, namely, by them beyond the river, by the king of Assyria, the head, and the hair of the feet: and it shall also consume the beard.
@@ -135,17 +135,17 @@ metav_id: 111
 - **37:37** — So Sennacherib king of Assyria departed, and went and returned, and dwelt at Nineveh.
 - **38:6** — And I will deliver thee and this city out of the hand of the king of Assyria: and I will defend this city.
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **2:18** — And now what hast thou to do in the way of Egypt, to drink the waters of Sihor? or what hast thou to do in the way of Assyria, to drink the waters of the river?
 - **2:36** — Why gaddest thou about so much to change thy way? thou also shalt be ashamed of Egypt, as thou wast ashamed of Assyria.
 - **50:17** — Israel is a scattered sheep; the lions have driven him away: first the king of Assyria hath devoured him; and last this Nebuchadrezzar king of Babylon hath broken his bones.
 - **50:18** — Therefore thus saith the LORD of hosts, the God of Israel; Behold, I will punish the king of Babylon and his land, as I have punished the king of Assyria.
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **23:7** — Thus she committed her whoredoms with them, with all them that were the chosen men of Assyria, and with all on whom she doted: with all their idols she defiled herself.
 - **31:3** — Behold, the Assyrian was a cedar in Lebanon with fair branches, and with a shadowing shroud, and of an high stature; and his top was among the thick boughs.
 
-### [[Hosea]]
+### [[books/Hosea|Hosea]]
 - **5:13** — When Ephraim saw his sickness, and Judah saw his wound, then went Ephraim to the Assyrian, and sent to king Jareb: yet could he not heal you, nor cure you of your wound.
 - **7:11** — Ephraim also is like a silly dove without heart: they call to Egypt, they go to Assyria.
 - **8:9** — For they are gone up to Assyria, a wild ass alone by himself: Ephraim hath hired lovers.
@@ -155,17 +155,17 @@ metav_id: 111
 - **11:11** — They shall tremble as a bird out of Egypt, and as a dove out of the land of Assyria: and I will place them in their houses, saith the LORD.
 - **12:1** — Ephraim feedeth on wind, and followeth after the east wind: he daily increaseth lies and desolation; and they do make a covenant with the Assyrians, and oil is carried into Egypt.
 
-### [[Micah]]
+### [[books/Micah|Micah]]
 - **5:6** — And they shall waste the land of Assyria with the sword, and the land of Nimrod in the entrances thereof: thus shall he deliver us from the Assyrian, when he cometh into our land, and when he treadeth within our borders.
 - **7:12** — In that day also he shall come even to thee from Assyria, and from the fortified cities, and from the fortress even to the river, and from sea to sea, and from mountain to mountain.
 
-### [[Nahum]]
+### [[books/Nahum|Nahum]]
 - **3:18** — Thy shepherds slumber, O king of Assyria: thy nobles shall dwell in the dust: thy people is scattered upon the mountains, and no man gathereth them.
 
-### [[Zephaniah]]
+### [[books/Zephaniah|Zephaniah]]
 - **2:13** — And he will stretch out his hand against the north, and destroy Assyria; and will make Nineveh a desolation, and dry like a wilderness.
 
-### [[Zechariah]]
+### [[books/Zechariah|Zechariah]]
 - **10:10** — I will bring them again also out of the land of Egypt, and gather them out of Assyria; and I will bring them into the land of Gilead and Lebanon; and place shall not be found for them.
 - **10:11** — And he shall pass through the sea with affliction, and shall smite the waves in the sea, and all the deeps of the river shall dry up: and the pride of Assyria shall be brought down, and the sceptre of Egypt shall depart away.
 

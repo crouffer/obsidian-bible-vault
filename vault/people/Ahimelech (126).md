@@ -45,7 +45,7 @@ metav_id: 126
 
 ## Verse References
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **14:3** — And Ahiah, the son of Ahitub, Ichabod's brother, the son of Phinehas, the son of Eli, the LORD'S priest in Shiloh, wearing an ephod. And the people knew not that Jonathan was gone.
 - **14:18** — And Saul said unto Ahiah, Bring hither the ark of God. For the ark of God was at that time with the children of Israel.
 - **21:1** — Then came David to Nob to Ahimelech the priest: and Ahimelech was afraid at the meeting of David, and said unto him, Why art thou alone, and no man with thee?
@@ -58,6 +58,6 @@ metav_id: 126
 - **22:20** — And one of the sons of Ahimelech the son of Ahitub, named Abiathar, escaped, and fled after David.
 - **23:6** — And it came to pass, when Abiathar the son of Ahimelech fled to David to Keilah, that he came down with an ephod in his hand.
 
-### [[Psalms]]
+### [[books/Psalms|Psalms]]
 - **52:1** — Why boastest thou thyself in mischief, O mighty man? the goodness of God endureth continually.
 

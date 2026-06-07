@@ -45,7 +45,7 @@ metav_id: 1669
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:9** — And Ahimaaz begat Azariah, and Azariah begat Johanan,
 - **6:10** — And Johanan begat Azariah, (he it is that executed the priest's office in the temple that Solomon built in Jerusalem:)
 

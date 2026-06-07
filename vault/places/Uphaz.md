@@ -26,9 +26,9 @@ metav_id: 1187
 
 ## Verse References
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **10:9** — Silver spread into plates is brought from Tarshish, and gold from Uphaz, the work of the workman, and of the hands of the founder: blue and purple is their clothing: they are all the work of cunning men.
 
-### [[Daniel]]
+### [[books/Daniel|Daniel]]
 - **10:5** — Then I lifted up mine eyes, and looked, and behold a certain man clothed in linen, whose loins were girded with fine gold of Uphaz:
 

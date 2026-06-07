@@ -17,8 +17,8 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Shaharaim]]"
-mother: "[[Hodesh]]"
+father: "[[Hodesh]]"
+mother: "[[Shaharaim]]"
 spouse: []
 children: []
 siblings: 
@@ -50,6 +50,6 @@ metav_id: 1604
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **8:10** — And Jeuz, and Shachia, and Mirma. These were his sons, heads of the fathers.
 

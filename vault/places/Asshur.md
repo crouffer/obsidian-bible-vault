@@ -26,13 +26,13 @@ metav_id: 109
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **24:22** — Nevertheless the Kenite shall be wasted, until Asshur shall carry thee away captive.
 - **24:24** — And ships shall come from the coast of Chittim, and shall afflict Asshur, and shall afflict Eber, and he also shall perish for ever.
 
-### [[Psalms]]
+### [[books/Psalms|Psalms]]
 - **83:8** — Assur also is joined with them: they have holpen the children of Lot. Selah.
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **27:23** — Haran, and Canneh, and Eden, the merchants of Sheba, Asshur, and Chilmad, were thy merchants.
 

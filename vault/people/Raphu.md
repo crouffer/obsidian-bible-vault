@@ -45,6 +45,6 @@ metav_id: 2397
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **13:9** — Of the tribe of Benjamin, Palti the son of Raphu.
 

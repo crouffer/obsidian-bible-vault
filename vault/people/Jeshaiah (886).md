@@ -44,6 +44,6 @@ metav_id: 886
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **8:7** — And of the sons of Elam; Jeshaiah the son of Athaliah, and with him seventy males.
 

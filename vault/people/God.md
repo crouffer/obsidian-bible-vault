@@ -46,7 +46,7 @@ metav_id: 1324
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **1:1** — In the beginning God created the heaven and the earth.
 - **1:2** — And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters.
 - **1:3** — And God said, Let there be light: and there was light.
@@ -432,7 +432,7 @@ metav_id: 1324
 - **50:24** — And Joseph said unto his brethren, I die: and God will surely visit you, and bring you out of this land unto the land which he sware to Abraham, to Isaac, and to Jacob.
 - **50:25** — And Joseph took an oath of the children of Israel, saying, God will surely visit you, and ye shall carry up my bones from hence.
 
-### [[Exodus]]
+### [[books/Exodus|Exodus]]
 - **1:17** — But the midwives feared God, and did not as the king of Egypt commanded them, but saved the men children alive.
 - **1:20** — Therefore God dealt well with the midwives: and the people multiplied, and waxed very mighty.
 - **1:21** — And it came to pass, because the midwives feared God, that he made them houses.
@@ -946,7 +946,7 @@ metav_id: 1324
 - **40:35** — And Moses was not able to enter into the tent of the congregation, because the cloud abode thereon, and the glory of the LORD filled the tabernacle.
 - **40:38** — For the cloud of the LORD was upon the tabernacle by day, and fire was on it by night, in the sight of all the house of Israel, throughout all their journeys.
 
-### [[Leviticus]]
+### [[books/Leviticus|Leviticus]]
 - **1:1** — And the LORD called unto Moses, and spake unto him out of the tabernacle of the congregation, saying,
 - **1:2** — Speak unto the children of Israel, and say unto them, If any man of you bring an offering unto the LORD, ye shall bring your offering of the cattle, even of the herd, and of the flock.
 - **1:3** — If his offering be a burnt sacrifice of the herd, let him offer a male without blemish: he shall offer it of his own voluntary will at the door of the tabernacle of the congregation before the LORD.
@@ -1293,7 +1293,7 @@ metav_id: 1324
 - **27:32** — And concerning the tithe of the herd, or of the flock, even of whatsoever passeth under the rod, the tenth shall be holy unto the LORD.
 - **27:34** — These are the commandments, which the LORD commanded Moses for the children of Israel in mount Sinai.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **1:1** — And the LORD spake unto Moses in the wilderness of Sinai, in the tabernacle of the congregation, on the first day of the second month, in the second year after they were come out of the land of Egypt, saying,
 - **1:19** — As the LORD commanded Moses, so he numbered them in the wilderness of Sinai.
 - **1:48** — For the LORD had spoken unto Moses, saying,
@@ -1716,7 +1716,7 @@ metav_id: 1324
 - **36:10** — Even as the LORD commanded Moses, so did the daughters of Zelophehad:
 - **36:13** — These are the commandments and the judgments, which the LORD commanded by the hand of Moses unto the children of Israel in the plains of Moab by Jordan near Jericho.
 
-### [[Deuteronomy]]
+### [[books/Deuteronomy|Deuteronomy]]
 - **1:3** — And it came to pass in the fortieth year, in the eleventh month, on the first day of the month, that Moses spake unto the children of Israel, according unto all that the LORD had given him in commandment unto them;
 - **1:6** — The LORD our God spake unto us in Horeb, saying, Ye have dwelt long enough in this mount:
 - **1:8** — Behold, I have set the land before you: go in and possess the land which the LORD sware unto your fathers, Abraham, Isaac, and Jacob, to give unto them and to their seed after them.
@@ -2242,7 +2242,7 @@ metav_id: 1324
 - **34:10** — And there arose not a prophet since in Israel like unto Moses, whom the LORD knew face to face,
 - **34:11** — In all the signs and the wonders, which the LORD sent him to do in the land of Egypt to Pharaoh, and to all his servants, and to all his land,
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **1:1** — Now after the death of Moses the servant of the LORD it came to pass, that the LORD spake unto Joshua the son of Nun, Moses' minister, saying,
 - **1:2** — Moses my servant is dead; now therefore arise, go over this Jordan, thou, and all this people, unto the land which I do give to them, even to the children of Israel.
 - **1:3** — Every place that the sole of your foot shall tread upon, that have I given unto you, as I said unto Moses.
@@ -2441,7 +2441,7 @@ metav_id: 1324
 - **24:29** — And it came to pass after these things, that Joshua the son of Nun, the servant of the LORD, died, being an hundred and ten years old.
 - **24:31** — And Israel served the LORD all the days of Joshua, and all the days of the elders that overlived Joshua, and which had known all the works of the LORD, that he had done for Israel.
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **1:1** — Now after the death of Joshua it came to pass, that the children of Israel asked the LORD, saying, Who shall go up for us against the Canaanites first, to fight against them?
 - **1:2** — And the LORD said, Judah shall go up: behold, I have delivered the land into his hand.
 - **1:4** — And Judah went up; and the LORD delivered the Canaanites and the Perizzites into their hand: and they slew of them in Bezek ten thousand men.
@@ -2619,7 +2619,7 @@ metav_id: 1324
 - **21:15** — And the people repented them for Benjamin, because that the LORD had made a breach in the tribes of Israel.
 - **21:19** — Then they said, Behold, there is a feast of the LORD in Shiloh yearly in a place which is on the north side of Bethel, on the east side of the highway that goeth up from Bethel to Shechem, and on the south of Lebonah.
 
-### [[Ruth]]
+### [[books/Ruth|Ruth]]
 - **1:6** — Then she arose with her daughters in law, that she might return from the country of Moab: for she had heard in the country of Moab how that the LORD had visited his people in giving them bread.
 - **1:8** — And Naomi said unto her two daughters in law, Go, return each to her mother's house: the LORD deal kindly with you, as ye have dealt with the dead, and with me.
 - **1:9** — The LORD grant you that ye may find rest, each of you in the house of her husband. Then she kissed them; and they lifted up their voice, and wept.
@@ -2638,7 +2638,7 @@ metav_id: 1324
 - **4:13** — So Boaz took Ruth, and she was his wife: and when he went in unto her, the LORD gave her conception, and she bare a son.
 - **4:14** — And the women said unto Naomi, Blessed be the LORD, which hath not left thee this day without a kinsman, that his name may be famous in Israel.
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **1:3** — And this man went up out of his city yearly to worship and to sacrifice unto the LORD of hosts in Shiloh. And the two sons of Eli, Hophni and Phinehas, the priests of the LORD, were there.
 - **1:5** — But unto Hannah he gave a worthy portion; for he loved Hannah: but the LORD had shut up her womb.
 - **1:6** — And her adversary also provoked her sore, for to make her fret, because the LORD had shut up her womb.
@@ -2951,7 +2951,7 @@ metav_id: 1324
 - **30:23** — Then said David, Ye shall not do so, my brethren, with that which the LORD hath given us, who hath preserved us, and delivered the company that came against us into our hand.
 - **30:26** — And when David came to Ziklag, he sent of the spoil unto the elders of Judah, even to his friends, saying, Behold a present for you of the spoil of the enemies of the LORD;
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **1:12** — And they mourned, and wept, and fasted until even, for Saul, and for Jonathan his son, and for the people of the LORD, and for the house of Israel; because they were fallen by the sword.
 - **1:14** — And David said unto him, How wast thou not afraid to stretch forth thine hand to destroy the LORD'S anointed?
 - **1:16** — And David said unto him, Thy blood be upon thy head; for thy mouth hath testified against thee, saying, I have slain the LORD'S anointed.
@@ -3143,7 +3143,7 @@ metav_id: 1324
 - **24:24** — And the king said unto Araunah, Nay; but I will surely buy it of thee at a price: neither will I offer burnt offerings unto the LORD my God of that which doth cost me nothing. So David bought the threshingfloor and the oxen for fifty shekels of silver.
 - **24:25** — And David built there an altar unto the LORD, and offered burnt offerings and peace offerings. So the LORD was intreated for the land, and the plague was stayed from Israel.
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **1:17** — And she said unto him, My lord, thou swarest by the LORD thy God unto thine handmaid, saying, Assuredly Solomon thy son shall reign after me, and he shall sit upon my throne.
 - **1:25** — For he is gone down this day, and hath slain oxen and fat cattle and sheep in abundance, and hath called all the king's sons, and the captains of the host, and Abiathar the priest; and, behold, they eat and drink before him, and say, God save king Adonijah.
 - **1:29** — And the king sware, and said, As the LORD liveth, that hath redeemed my soul out of all distress,
@@ -3441,7 +3441,7 @@ metav_id: 1324
 - **22:52** — And he did evil in the sight of the LORD, and walked in the way of his father, and in the way of his mother, and in the way of Jeroboam the son of Nebat, who made Israel to sin:
 - **22:53** — For he served Baal, and worshipped him, and provoked to anger the LORD God of Israel, according to all that his father had done.
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **1:3** — But the angel of the LORD said to Elijah the Tishbite, Arise, go up to meet the messengers of the king of Samaria, and say unto them, Is it not because there is not a God in Israel, that ye go to enquire of Baalzebub the god of Ekron?
 - **1:4** — Now therefore thus saith the LORD, Thou shalt not come down from that bed on which thou art gone up, but shalt surely die. And Elijah departed.
 - **1:6** — And they said unto him, There came a man up to meet us, and said unto us, Go, turn again unto the king that sent you, and say unto him, Thus saith the LORD, Is it not because there is not a God in Israel, that thou sendest to enquire of Baalzebub the god of Ekron? therefore thou shalt not come down from that bed on which thou art gone up, but shalt surely die.
@@ -3723,7 +3723,7 @@ metav_id: 1324
 - **25:13** — And the pillars of brass that were in the house of the LORD, and the bases, and the brasen sea that was in the house of the LORD, did the Chaldees break in pieces, and carried the brass of them to Babylon.
 - **25:16** — The two pillars, one sea, and the bases which Solomon had made for the house of the LORD; the brass of all these vessels was without weight.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **2:3** — The sons of Judah; Er, and Onan, and Shelah: which three were born unto him of the daughter of Shua the Canaanitess. And Er, the firstborn of Judah, was evil in the sight of the LORD; and he slew him.
 - **4:10** — And Jabez called on the God of Israel, saying, Oh that thou wouldest bless me indeed, and enlarge my coast, and that thine hand might be with me, and that thou wouldest keep me from evil, that it may not grieve me! And God granted him that which he requested.
 - **5:20** — And they were helped against them, and the Hagarites were delivered into their hand, and all that were with them: for they cried to God in the battle, and he was intreated of them; because they put their trust in him.
@@ -3946,7 +3946,7 @@ metav_id: 1324
 - **29:23** — Then Solomon sat on the throne of the LORD as king instead of David his father, and prospered; and all Israel obeyed him.
 - **29:25** — And the LORD magnified Solomon exceedingly in the sight of all Israel, and bestowed upon him such royal majesty as had not been on any king before him in Israel.
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **1:1** — And Solomon the son of David was strengthened in his kingdom, and the LORD his God was with him, and magnified him exceedingly.
 - **1:3** — So Solomon, and all the congregation with him, went to the high place that was at Gibeon; for there was the tabernacle of the congregation of God, which Moses the servant of the LORD had made in the wilderness.
 - **1:4** — But the ark of God had David brought up from Kirjathjearim to the place which David had prepared for it: for he had pitched a tent for it at Jerusalem.
@@ -4358,7 +4358,7 @@ metav_id: 1324
 - **36:22** — Now in the first year of Cyrus king of Persia, that the word of the LORD spoken by the mouth of Jeremiah might be accomplished, the LORD stirred up the spirit of Cyrus king of Persia, that he made a proclamation throughout all his kingdom, and put it also in writing, saying,
 - **36:23** — Thus saith Cyrus king of Persia, All the kingdoms of the earth hath the LORD God of heaven given me; and he hath charged me to build him an house in Jerusalem, which is in Judah. Who is there among you of all his people? The LORD his God be with him, and let him go up.
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **1:1** — Now in the first year of Cyrus king of Persia, that the word of the LORD by the mouth of Jeremiah might be fulfilled, the LORD stirred up the spirit of Cyrus king of Persia, that he made a proclamation throughout all his kingdom, and put it also in writing, saying,
 - **1:2** — Thus saith Cyrus king of Persia, The LORD God of heaven hath given me all the kingdoms of the earth; and he hath charged me to build him an house at Jerusalem, which is in Judah.
 - **1:3** — Who is there among you of all his people? his God be with him, and let him go up to Jerusalem, which is in Judah, and build the house of the LORD God of Israel, (he is the God,) which is in Jerusalem.
@@ -4452,7 +4452,7 @@ metav_id: 1324
 - **10:11** — Now therefore make confession unto the LORD God of your fathers, and do his pleasure: and separate yourselves from the people of the land, and from the strange wives.
 - **10:14** — Let now our rulers of all the congregation stand, and let all them which have taken strange wives in our cities come at appointed times, and with them the elders of every city, and the judges thereof, until the fierce wrath of our God for this matter be turned from us.
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **1:4** — And it came to pass, when I heard these words, that I sat down and wept, and mourned certain days, and fasted, and prayed before the God of heaven,
 - **1:5** — And said, I beseech thee, O LORD God of heaven, the great and terrible God, that keepeth covenant and mercy for them that love him and observe his commandments:
 - **1:6** — Let thine ear now be attentive, and thine eyes open, that thou mayest hear the prayer of thy servant, which I pray before thee now, day and night, for the children of Israel thy servants, and confess the sins of the children of Israel, which we have sinned against thee: both I and my father's house have sinned.
@@ -4558,7 +4558,7 @@ metav_id: 1324
 - **13:29** — Remember them, O my God, because they have defiled the priesthood, and the covenant of the priesthood, and of the Levites.
 - **13:31** — And for the wood offering, at times appointed, and for the firstfruits. Remember me, O my God, for good.
 
-### [[Job]]
+### [[books/Job|Job]]
 - **1:1** — There was a man in the land of Uz, whose name was Job; and that man was perfect and upright, and one that feared God, and eschewed evil.
 - **1:5** — And it was so, when the days of their feasting were gone about, that Job sent and sanctified them, and rose up early in the morning, and offered burnt offerings according to the number of them all: for Job said, It may be that my sons have sinned, and cursed God in their hearts. Thus did Job continually.
 - **1:6** — Now there was a day when the sons of God came to present themselves before the LORD, and Satan came also among them.
@@ -4910,7 +4910,7 @@ metav_id: 1324
 - **42:11** — Then came there unto him all his brethren, and all his sisters, and all they that had been of his acquaintance before, and did eat bread with him in his house: and they bemoaned him, and comforted him over all the evil that the LORD had brought upon him: every man also gave him a piece of money, and every one an earring of gold.
 - **42:12** — So the LORD blessed the latter end of Job more than his beginning: for he had fourteen thousand sheep, and six thousand camels, and a thousand yoke of oxen, and a thousand she asses.
 
-### [[Psalms]]
+### [[books/Psalms|Psalms]]
 - **1:2** — But his delight is in the law of the LORD; and in his law doth he meditate day and night.
 - **1:6** — For the LORD knoweth the way of the righteous: but the way of the ungodly shall perish.
 - **2:2** — The kings of the earth set themselves, and the rulers take counsel together, against the LORD, and against his anointed, saying,
@@ -6655,7 +6655,7 @@ metav_id: 1324
 - **150:5** — Praise him upon the loud cymbals: praise him upon the high sounding cymbals.
 - **150:6** — Let every thing that hath breath praise the LORD. Praise ye the LORD.
 
-### [[Proverbs]]
+### [[books/Proverbs|Proverbs]]
 - **1:7** — The fear of the LORD is the beginning of knowledge: but fools despise wisdom and instruction.
 - **1:23** — Turn you at my reproof: behold, I will pour out my spirit unto you, I will make known my words unto you.
 - **1:24** — Because I have called, and ye refused; I have stretched out my hand, and no man regarded;
@@ -6777,7 +6777,7 @@ metav_id: 1324
 - **30:9** — Lest I be full, and deny thee, and say, Who is the LORD? or lest I be poor, and steal, and take the name of my God in vain.
 - **31:30** — Favour is deceitful, and beauty is vain: but a woman that feareth the LORD, she shall be praised.
 
-### [[Ecclesiastes]]
+### [[books/Ecclesiastes|Ecclesiastes]]
 - **1:13** — And I gave my heart to seek and search out by wisdom concerning all things that are done under heaven: this sore travail hath God given to the sons of man to be exercised therewith.
 - **2:24** — There is nothing better for a man, than that he should eat and drink, and that he should make his soul enjoy good in his labour. This also I saw, that it was from the hand of God.
 - **2:26** — For God giveth to a man that is good in his sight wisdom, and knowledge, and joy: but to the sinner he giveth travail, to gather and to heap up, that he may give to him that is good before God. This also is vanity and vexation of spirit.
@@ -6818,7 +6818,7 @@ metav_id: 1324
 - **12:13** — Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this is the whole duty of man.
 - **12:14** — For God shall bring every work into judgment, with every secret thing, whether it be good, or whether it be evil.
 
-### [[Isaiah]]
+### [[books/Isaiah|Isaiah]]
 - **1:2** — Hear, O heavens, and give ear, O earth: for the LORD hath spoken, I have nourished and brought up children, and they have rebelled against me.
 - **1:3** — The ox knoweth his owner, and the ass his master's crib: but Israel doth not know, my people doth not consider.
 - **1:4** — Ah sinful nation, a people laden with iniquity, a seed of evildoers, children that are corrupters: they have forsaken the LORD, they have provoked the Holy One of Israel unto anger, they are gone away backward.
@@ -7566,7 +7566,7 @@ metav_id: 1324
 - **66:23** — And it shall come to pass, that from one new moon to another, and from one sabbath to another, shall all flesh come to worship before me, saith the LORD.
 - **66:24** — And they shall go forth, and look upon the carcases of the men that have transgressed against me: for their worm shall not die, neither shall their fire be quenched; and they shall be an abhorring unto all flesh.
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **1:2** — To whom the word of the LORD came in the days of Josiah the son of Amon king of Judah, in the thirteenth year of his reign.
 - **1:4** — Then the word of the LORD came unto me, saying,
 - **1:5** — Before I formed thee in the belly I knew thee; and before thou camest forth out of the womb I sanctified thee, and I ordained thee a prophet unto the nations.
@@ -8442,7 +8442,7 @@ metav_id: 1324
 - **52:17** — Also the pillars of brass that were in the house of the LORD, and the bases, and the brasen sea that was in the house of the LORD, the Chaldeans brake, and carried all the brass of them to Babylon.
 - **52:20** — The two pillars, one sea, and twelve brasen bulls that were under the bases, which king Solomon had made in the house of the LORD: the brass of all these vessels was without weight.
 
-### [[Lamentations]]
+### [[books/Lamentations|Lamentations]]
 - **1:5** — Her adversaries are the chief, her enemies prosper; for the LORD hath afflicted her for the multitude of her transgressions: her children are gone into captivity before the enemy.
 - **1:9** — Her filthiness is in her skirts; she remembereth not her last end; therefore she came down wonderfully: she had no comforter. O LORD, behold my affliction: for the enemy hath magnified himself.
 - **1:10** — The adversary hath spread out his hand upon all her pleasant things: for she hath seen that the heathen entered into her sanctuary, whom thou didst command that they should not enter into thy congregation.
@@ -8522,7 +8522,7 @@ metav_id: 1324
 - **5:21** — Turn thou us unto thee, O LORD, and we shall be turned; renew our days as of old.
 - **5:22** — But thou hast utterly rejected us; thou art very wroth against us.
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **1:1** — Now it came to pass in the thirtieth year, in the fourth month, in the fifth day of the month, as I was among the captives by the river of Chebar, that the heavens were opened, and I saw visions of God.
 - **1:3** — The word of the LORD came expressly unto Ezekiel the priest, the son of Buzi, in the land of the Chaldeans by the river Chebar; and the hand of the LORD was there upon him.
 - **1:24** — And when they went, I heard the noise of their wings, like the noise of great waters, as the voice of the Almighty, the voice of speech, as the noise of an host: when they stood, they let down their wings.
@@ -9225,7 +9225,7 @@ metav_id: 1324
 - **48:29** — This is the land which ye shall divide by lot unto the tribes of Israel for inheritance, and these are their portions, saith the Lord GOD.
 - **48:35** — It was round about eighteen thousand measures: and the name of the city from that day shall be, The LORD is there.
 
-### [[Daniel]]
+### [[books/Daniel|Daniel]]
 - **1:2** — And the Lord gave Jehoiakim king of Judah into his hand, with part of the vessels of the house of God: which he carried into the land of Shinar to the house of his god; and he brought the vessels into the treasure house of his god.
 - **1:9** — Now God had brought Daniel into favour and tender love with the prince of the eunuchs.
 - **1:17** — As for these four children, God gave them knowledge and skill in all learning and wisdom: and Daniel had understanding in all visions and dreams.
@@ -9309,7 +9309,7 @@ metav_id: 1324
 - **12:7** — And I heard the man clothed in linen, which was upon the waters of the river, when he held up his right hand and his left hand unto heaven, and sware by him that liveth for ever that it shall be for a time, times, and an half; and when he shall have accomplished to scatter the power of the holy people, all these things shall be finished.
 - **12:8** — And I heard, but I understood not: then said I, O my Lord, what shall be the end of these things?
 
-### [[Hosea]]
+### [[books/Hosea|Hosea]]
 - **1:1** — The word of the LORD that came unto Hosea, the son of Beeri, in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel.
 - **1:2** — The beginning of the word of the LORD by Hosea. And the LORD said to Hosea, Go, take unto thee a wife of whoredoms and children of whoredoms: for the land hath committed great whoredom, departing from the LORD.
 - **1:4** — And the LORD said unto him, Call his name Jezreel; for yet a little while, and I will avenge the blood of Jezreel upon the house of Jehu, and will cause to cease the kingdom of the house of Israel.
@@ -9443,7 +9443,7 @@ metav_id: 1324
 - **14:8** — Ephraim shall say, What have I to do any more with idols? I have heard him, and observed him: I am like a green fir tree. From me is thy fruit found.
 - **14:9** — Who is wise, and he shall understand these things? prudent, and he shall know them? for the ways of the LORD are right, and the just shall walk in them: but the transgressors shall fall therein.
 
-### [[Joel]]
+### [[books/Joel|Joel]]
 - **1:1** — The word of the LORD that came to Joel the son of Pethuel.
 - **1:6** — For a nation is come up upon my land, strong, and without number, whose teeth are the teeth of a lion, and he hath the cheek teeth of a great lion.
 - **1:7** — He hath laid my vine waste, and barked my fig tree: he hath made it clean bare, and cast it away; the branches thereof are made white.
@@ -9488,7 +9488,7 @@ metav_id: 1324
 - **3:18** — And it shall come to pass in that day, that the mountains shall drop down new wine, and the hills shall flow with milk, and all the rivers of Judah shall flow with waters, and a fountain shall come forth of the house of the LORD, and shall water the valley of Shittim.
 - **3:21** — For I will cleanse their blood that I have not cleansed: for the LORD dwelleth in Zion.
 
-### [[Amos]]
+### [[books/Amos|Amos]]
 - **1:2** — And he said, The LORD will roar from Zion, and utter his voice from Jerusalem; and the habitations of the shepherds shall mourn, and the top of Carmel shall wither.
 - **1:3** — Thus saith the LORD; For three transgressions of Damascus, and for four, I will not turn away the punishment thereof; because they have threshed Gilead with threshing instruments of iron:
 - **1:4** — But I will send a fire into the house of Hazael, which shall devour the palaces of Benhadad.
@@ -9592,7 +9592,7 @@ metav_id: 1324
 - **9:14** — And I will bring again the captivity of my people of Israel, and they shall build the waste cities, and inhabit them; and they shall plant vineyards, and drink the wine thereof; they shall also make gardens, and eat the fruit of them.
 - **9:15** — And I will plant them upon their land, and they shall no more be pulled up out of their land which I have given them, saith the LORD thy God.
 
-### [[Obadiah]]
+### [[books/Obadiah|Obadiah]]
 - **1:1** — The vision of Obadiah. Thus saith the Lord GOD concerning Edom; We have heard a rumour from the LORD, and an ambassador is sent among the heathen, Arise ye, and let us rise up against her in battle.
 - **1:2** — Behold, I have made thee small among the heathen: thou art greatly despised.
 - **1:4** — Though thou exalt thyself as the eagle, and though thou set thy nest among the stars, thence will I bring thee down, saith the LORD.
@@ -9603,7 +9603,7 @@ metav_id: 1324
 - **1:18** — And the house of Jacob shall be a fire, and the house of Joseph a flame, and the house of Esau for stubble, and they shall kindle in them, and devour them; and there shall not be any remaining of the house of Esau; for the LORD hath spoken it.
 - **1:21** — And saviours shall come up on mount Zion to judge the mount of Esau; and the kingdom shall be the LORD'S.
 
-### [[Jonah]]
+### [[books/Jonah|Jonah]]
 - **1:1** — Now the word of the LORD came unto Jonah the son of Amittai, saying,
 - **1:2** — Arise, go to Nineveh, that great city, and cry against it; for their wickedness is come up before me.
 - **1:3** — But Jonah rose up to flee unto Tarshish from the presence of the LORD, and went down to Joppa; and he found a ship going to Tarshish: so he paid the fare thereof, and went down into it, to go with them unto Tarshish from the presence of the LORD.
@@ -9638,7 +9638,7 @@ metav_id: 1324
 - **4:9** — And God said to Jonah, Doest thou well to be angry for the gourd? And he said, I do well to be angry, even unto death.
 - **4:10** — Then said the LORD, Thou hast had pity on the gourd, for the which thou hast not laboured, neither madest it grow; which came up in a night, and perished in a night:
 
-### [[Micah]]
+### [[books/Micah|Micah]]
 - **1:1** — The word of the LORD that came to Micah the Morasthite in the days of Jotham, Ahaz, and Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem.
 - **1:2** — Hear, all ye people; hearken, O earth, and all that therein is: and let the Lord GOD be witness against you, the Lord from his holy temple.
 - **1:3** — For, behold, the LORD cometh forth out of his place, and will come down, and tread upon the high places of the earth.
@@ -9708,7 +9708,7 @@ metav_id: 1324
 - **7:19** — He will turn again, he will have compassion upon us; he will subdue our iniquities; and thou wilt cast all their sins into the depths of the sea.
 - **7:20** — Thou wilt perform the truth to Jacob, and the mercy to Abraham, which thou hast sworn unto our fathers from the days of old.
 
-### [[Nahum]]
+### [[books/Nahum|Nahum]]
 - **1:2** — God is jealous, and the LORD revengeth; the LORD revengeth, and is furious; the LORD will take vengeance on his adversaries, and he reserveth wrath for his enemies.
 - **1:3** — The LORD is slow to anger, and great in power, and will not at all acquit the wicked: the LORD hath his way in the whirlwind and in the storm, and the clouds are the dust of his feet.
 - **1:5** — The mountains quake at him, and the hills melt, and the earth is burned at his presence, yea, the world, and all that dwell therein.
@@ -9726,7 +9726,7 @@ metav_id: 1324
 - **3:6** — And I will cast abominable filth upon thee, and make thee vile, and will set thee as a gazingstock.
 - **3:7** — And it shall come to pass, that all they that look upon thee shall flee from thee, and say, Nineveh is laid waste: who will bemoan her? whence shall I seek comforters for thee?
 
-### [[Habakkuk]]
+### [[books/Habakkuk|Habakkuk]]
 - **1:2** — O LORD, how long shall I cry, and thou wilt not hear! even cry out unto thee of violence, and thou wilt not save!
 - **1:3** — Why dost thou shew me iniquity, and cause me to behold grievance? for spoiling and violence are before me: and there are that raise up strife and contention.
 - **1:6** — For, lo, I raise up the Chaldeans, that bitter and hasty nation, which shall march through the breadth of the land, to possess the dwellingplaces that are not theirs.
@@ -9753,7 +9753,7 @@ metav_id: 1324
 - **3:18** — Yet I will rejoice in the LORD, I will joy in the God of my salvation.
 - **3:19** — The LORD God is my strength, and he will make my feet like hinds' feet, and he will make me to walk upon mine high places. To the chief singer on my stringed instruments.
 
-### [[Zephaniah]]
+### [[books/Zephaniah|Zephaniah]]
 - **1:1** — The word of the LORD which came unto Zephaniah the son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hizkiah, in the days of Josiah the son of Amon, king of Judah.
 - **1:2** — I will utterly consume all things from off the land, saith the LORD.
 - **1:3** — I will consume man and beast; I will consume the fowls of the heaven, and the fishes of the sea, and the stumblingblocks with the wicked; and I will cut off man from off the land, saith the LORD.
@@ -9794,7 +9794,7 @@ metav_id: 1324
 - **3:19** — Behold, at that time I will undo all that afflict thee: and I will save her that halteth, and gather her that was driven out; and I will get them praise and fame in every land where they have been put to shame.
 - **3:20** — At that time will I bring you again, even in the time that I gather you: for I will make you a name and a praise among all people of the earth, when I turn back your captivity before your eyes, saith the LORD.
 
-### [[Haggai]]
+### [[books/Haggai|Haggai]]
 - **1:1** — In the second year of Darius the king, in the sixth month, in the first day of the month, came the word of the LORD by Haggai the prophet unto Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high priest, saying,
 - **1:2** — Thus speaketh the LORD of hosts, saying, This people say, The time is not come, the time that the LORD'S house should be built.
 - **1:3** — Then came the word of the LORD by Haggai the prophet, saying,
@@ -9825,7 +9825,7 @@ metav_id: 1324
 - **2:22** — And I will overthrow the throne of kingdoms, and I will destroy the strength of the kingdoms of the heathen; and I will overthrow the chariots, and those that ride in them; and the horses and their riders shall come down, every one by the sword of his brother.
 - **2:23** — In that day, saith the LORD of hosts, will I take thee, O Zerubbabel, my servant, the son of Shealtiel, saith the LORD, and will make thee as a signet: for I have chosen thee, saith the LORD of hosts.
 
-### [[Zechariah]]
+### [[books/Zechariah|Zechariah]]
 - **1:1** — In the eighth month, in the second year of Darius, came the word of the LORD unto Zechariah, the son of Berechiah, the son of Iddo the prophet, saying,
 - **1:2** — The LORD hath been sore displeased with your fathers.
 - **1:3** — Therefore say thou unto them, Thus saith the LORD of hosts; Turn ye unto me, saith the LORD of hosts, and I will turn unto you, saith the LORD of hosts.
@@ -9962,7 +9962,7 @@ metav_id: 1324
 - **14:20** — In that day shall there be upon the bells of the horses, HOLINESS UNTO THE LORD; and the pots in the LORD'S house shall be like the bowls before the altar.
 - **14:21** — Yea, every pot in Jerusalem and in Judah shall be holiness unto the LORD of hosts: and all they that sacrifice shall come and take of them, and seethe therein: and in that day there shall be no more the Canaanite in the house of the LORD of hosts.
 
-### [[Malachi]]
+### [[books/Malachi|Malachi]]
 - **1:1** — The burden of the word of the LORD to Israel by Malachi.
 - **1:2** — I have loved you, saith the LORD. Yet ye say, Wherein hast thou loved us? Was not Esau Jacob's brother? saith the LORD: yet I loved Jacob,
 - **1:3** — And I hated Esau, and laid his mountains and his heritage waste for the dragons of the wilderness.
@@ -10017,7 +10017,7 @@ metav_id: 1324
 - **4:5** — Behold, I will send you Elijah the prophet before the coming of the great and dreadful day of the LORD:
 - **4:6** — And he shall turn the heart of the fathers to the children, and the heart of the children to their fathers, lest I come and smite the earth with a curse.
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **1:20** — But while he thought on these things, behold, the angel of the Lord appeared unto him in a dream, saying, Joseph, thou son of David, fear not to take unto thee Mary thy wife: for that which is conceived in her is of the Holy Ghost.
 - **1:23** — Behold, a virgin shall be with child, and shall bring forth a son, and they shall call his name Emmanuel, which being interpreted is, God with us.
 - **1:24** — Then Joseph being raised from sleep did as the angel of the Lord had bidden him, and took unto him his wife:
@@ -10126,7 +10126,7 @@ metav_id: 1324
 - **27:54** — Now when the centurion, and they that were with him, watching Jesus, saw the earthquake, and those things that were done, they feared greatly, saying, Truly this was the Son of God.
 - **28:19** — Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost:
 
-### [[Mark]]
+### [[books/Mark|Mark]]
 - **1:1** — The beginning of the gospel of Jesus Christ, the Son of God;
 - **1:2** — As it is written in the prophets, Behold, I send my messenger before thy face, which shall prepare thy way before thee.
 - **1:11** — And there came a voice from heaven, saying, Thou art my beloved Son, in whom I am well pleased.
@@ -10184,7 +10184,7 @@ metav_id: 1324
 - **15:43** — Joseph of Arimathaea, an honourable counsellor, which also waited for the kingdom of God, came, and went in boldly unto Pilate, and craved the body of Jesus.
 - **16:19** — So then after the Lord had spoken unto them, he was received up into heaven, and sat on the right hand of God.
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **1:6** — And they were both righteous before God, walking in all the commandments and ordinances of the Lord blameless.
 - **1:8** — And it came to pass, that while he executed the priest's office before God in the order of his course,
 - **1:11** — And there appeared unto him an angel of the Lord standing on the right side of the altar of incense.
@@ -10351,7 +10351,7 @@ metav_id: 1324
 - **24:49** — And, behold, I send the promise of my Father upon you: but tarry ye in the city of Jerusalem, until ye be endued with power from on high.
 - **24:53** — And were continually in the temple, praising and blessing God. Amen.
 
-### [[John]]
+### [[books/John|John]]
 - **1:1** — In the beginning was the Word, and the Word was with God, and the Word was God.
 - **1:2** — The same was in the beginning with God.
 - **1:6** — There was a man sent from God, whose name was John.
@@ -10546,7 +10546,7 @@ metav_id: 1324
 - **20:31** — But these are written, that ye might believe that Jesus is the Christ, the Son of God; and that believing ye might have life through his name.
 - **21:19** — This spake he, signifying by what death he should glorify God. And when he had spoken this, he saith unto him, Follow me.
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **1:3** — To whom also he shewed himself alive after his passion by many infallible proofs, being seen of them forty days, and speaking of the things pertaining to the kingdom of God:
 - **1:4** — And, being assembled together with them, commanded them that they should not depart from Jerusalem, but wait for the promise of the Father, which, saith he, ye have heard of me.
 - **1:7** — And he said unto them, It is not for you to know the times or the seasons, which the Father hath put in his own power.
@@ -10719,7 +10719,7 @@ metav_id: 1324
 - **28:28** — Be it known therefore unto you, that the salvation of God is sent unto the Gentiles, and that they will hear it.
 - **28:31** — Preaching the kingdom of God, and teaching those things which concern the Lord Jesus Christ, with all confidence, no man forbidding him.
 
-### [[Romans]]
+### [[books/Romans|Romans]]
 - **1:1** — Paul, a servant of Jesus Christ, called to be an apostle, separated unto the gospel of God,
 - **1:2** — Which he had promised afore by his prophets in the holy scriptures,)
 - **1:3** — Concerning his Son Jesus Christ our Lord, which was made of the seed of David according to the flesh;
@@ -10879,7 +10879,7 @@ metav_id: 1324
 - **16:26** — But now is made manifest, and by the scriptures of the prophets, according to the commandment of the everlasting God, made known to all nations for the obedience of faith:
 - **16:27** — To God only wise, be glory through Jesus Christ for ever. Amen.
 
-### [[1 Corinthians]]
+### [[books/1 Corinthians|1 Corinthians]]
 - **1:1** — Paul, called to be an apostle of Jesus Christ through the will of God, and Sosthenes our brother,
 - **1:2** — Unto the church of God which is at Corinth, to them that are sanctified in Christ Jesus, called to be saints, with all that in every place call upon the name of Jesus Christ our Lord, both theirs and ours:
 - **1:3** — Grace be unto you, and peace, from God our Father, and from the Lord Jesus Christ.
@@ -10976,7 +10976,7 @@ metav_id: 1324
 - **15:50** — Now this I say, brethren, that flesh and blood cannot inherit the kingdom of God; neither doth corruption inherit incorruption.
 - **15:57** — But thanks be to God, which giveth us the victory through our Lord Jesus Christ.
 
-### [[2 Corinthians]]
+### [[books/2 Corinthians|2 Corinthians]]
 - **1:1** — Paul, an apostle of Jesus Christ by the will of God, and Timothy our brother, unto the church of God which is at Corinth, with all the saints which are in all Achaia:
 - **1:2** — Grace be to you and peace from God our Father, and from the Lord Jesus Christ.
 - **1:3** — Blessed be God, even the Father of our Lord Jesus Christ, the Father of mercies, and the God of all comfort;
@@ -11043,7 +11043,7 @@ metav_id: 1324
 - **13:11** — Finally, brethren, farewell. Be perfect, be of good comfort, be of one mind, live in peace; and the God of love and peace shall be with you.
 - **13:14** — The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Ghost, be with you all. Amen.
 
-### [[Galatians]]
+### [[books/Galatians|Galatians]]
 - **1:1** — Paul, an apostle, (not of men, neither by man, but by Jesus Christ, and God the Father, who raised him from the dead;)
 - **1:3** — Grace be to you and peace from God the Father, and from our Lord Jesus Christ,
 - **1:4** — Who gave himself for our sins, that he might deliver us from this present evil world, according to the will of God and our Father:
@@ -11079,7 +11079,7 @@ metav_id: 1324
 - **6:14** — But God forbid that I should glory, save in the cross of our Lord Jesus Christ, by whom the world is crucified unto me, and I unto the world.
 - **6:16** — And as many as walk according to this rule, peace be on them, and mercy, and upon the Israel of God.
 
-### [[Ephesians]]
+### [[books/Ephesians|Ephesians]]
 - **1:1** — Paul, an apostle of Jesus Christ by the will of God, to the saints which are at Ephesus, and to the faithful in Christ Jesus:
 - **1:2** — Grace be to you, and peace, from God our Father, and from the Lord Jesus Christ.
 - **1:3** — Blessed be the God and Father of our Lord Jesus Christ, who hath blessed us with all spiritual blessings in heavenly places in Christ:
@@ -11116,7 +11116,7 @@ metav_id: 1324
 - **6:17** — And take the helmet of salvation, and the sword of the Spirit, which is the word of God:
 - **6:23** — Peace be to the brethren, and love with faith, from God the Father and the Lord Jesus Christ.
 
-### [[Philippians]]
+### [[books/Philippians|Philippians]]
 - **1:2** — Grace be unto you, and peace, from God our Father, and from the Lord Jesus Christ.
 - **1:3** — I thank my God upon every remembrance of you,
 - **1:8** — For God is my record, how greatly I long after you all in the bowels of Jesus Christ.
@@ -11141,7 +11141,7 @@ metav_id: 1324
 - **4:19** — But my God shall supply all your need according to his riches in glory by Christ Jesus.
 - **4:20** — Now unto God and our Father be glory for ever and ever. Amen.
 
-### [[Colossians]]
+### [[books/Colossians|Colossians]]
 - **1:1** — Paul, an apostle of Jesus Christ by the will of God, and Timotheus our brother,
 - **1:2** — To the saints and faithful brethren in Christ which are at Colosse: Grace be unto you, and peace, from God our Father and the Lord Jesus Christ.
 - **1:3** — We give thanks to God and the Father of our Lord Jesus Christ, praying always for you,
@@ -11167,7 +11167,7 @@ metav_id: 1324
 - **4:11** — And Jesus, which is called Justus, who are of the circumcision. These only are my fellowworkers unto the kingdom of God, which have been a comfort unto me.
 - **4:12** — Epaphras, who is one of you, a servant of Christ, saluteth you, always labouring fervently for you in prayers, that ye may stand perfect and complete in all the will of God.
 
-### [[1 Thessalonians]]
+### [[books/1 Thessalonians|1 Thessalonians]]
 - **1:1** — Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians which is in God the Father and in the Lord Jesus Christ: Grace be unto you, and peace, from God our Father, and the Lord Jesus Christ.
 - **1:2** — We give thanks to God always for you all, making mention of you in our prayers;
 - **1:3** — Remembering without ceasing your work of faith, and labour of love, and patience of hope in our Lord Jesus Christ, in the sight of God and our Father;
@@ -11199,7 +11199,7 @@ metav_id: 1324
 - **5:18** — In every thing give thanks: for this is the will of God in Christ Jesus concerning you.
 - **5:23** — And the very God of peace sanctify you wholly; and I pray God your whole spirit and soul and body be preserved blameless unto the coming of our Lord Jesus Christ.
 
-### [[2 Thessalonians]]
+### [[books/2 Thessalonians|2 Thessalonians]]
 - **1:1** — Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians in God our Father and the Lord Jesus Christ:
 - **1:2** — Grace unto you, and peace, from God our Father and the Lord Jesus Christ.
 - **1:3** — We are bound to thank God always for you, brethren, as it is meet, because that your faith groweth exceedingly, and the charity of every one of you all toward each other aboundeth;
@@ -11215,7 +11215,7 @@ metav_id: 1324
 - **2:16** — Now our Lord Jesus Christ himself, and God, even our Father, which hath loved us, and hath given us everlasting consolation and good hope through grace,
 - **3:5** — And the Lord direct your hearts into the love of God, and into the patient waiting for Christ.
 
-### [[1 Timothy]]
+### [[books/1 Timothy|1 Timothy]]
 - **1:1** — Paul, an apostle of Jesus Christ by the commandment of God our Saviour, and Lord Jesus Christ, which is our hope;
 - **1:2** — Unto Timothy, my own son in the faith: Grace, mercy, and peace, from God our Father and Jesus Christ our Lord.
 - **1:11** — According to the glorious gospel of the blessed God, which was committed to my trust.
@@ -11237,7 +11237,7 @@ metav_id: 1324
 - **6:13** — I give thee charge in the sight of God, who quickeneth all things, and before Christ Jesus, who before Pontius Pilate witnessed a good confession;
 - **6:17** — Charge them that are rich in this world, that they be not highminded, nor trust in uncertain riches, but in the living God, who giveth us richly all things to enjoy;
 
-### [[2 Timothy]]
+### [[books/2 Timothy|2 Timothy]]
 - **1:1** — Paul, an apostle of Jesus Christ by the will of God, according to the promise of life which is in Christ Jesus,
 - **1:2** — To Timothy, my dearly beloved son: Grace, mercy, and peace, from God the Father and Christ Jesus our Lord.
 - **1:3** — I thank God, whom I serve from my forefathers with pure conscience, that without ceasing I have remembrance of thee in my prayers night and day;
@@ -11254,7 +11254,7 @@ metav_id: 1324
 - **4:1** — I charge thee therefore before God, and the Lord Jesus Christ, who shall judge the quick and the dead at his appearing and his kingdom;
 - **4:16** — At my first answer no man stood with me, but all men forsook me: I pray God that it may not be laid to their charge.
 
-### [[Titus]]
+### [[books/Titus|Titus]]
 - **1:1** — Paul, a servant of God, and an apostle of Jesus Christ, according to the faith of God's elect, and the acknowledging of the truth which is after godliness;
 - **1:2** — In hope of eternal life, which God, that cannot lie, promised before the world began;
 - **1:3** — But hath in due times manifested his word through preaching, which is committed unto me according to the commandment of God our Saviour;
@@ -11268,11 +11268,11 @@ metav_id: 1324
 - **3:4** — But after that the kindness and love of God our Saviour toward man appeared,
 - **3:8** — This is a faithful saying, and these things I will that thou affirm constantly, that they which have believed in God might be careful to maintain good works. These things are good and profitable unto men.
 
-### [[Philemon]]
+### [[books/Philemon|Philemon]]
 - **1:3** — Grace to you, and peace, from God our Father and the Lord Jesus Christ.
 - **1:4** — I thank my God, making mention of thee always in my prayers,
 
-### [[Hebrews]]
+### [[books/Hebrews|Hebrews]]
 - **1:1** — God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets,
 - **1:5** — For unto which of the angels said he at any time, Thou art my Son, this day have I begotten thee? And again, I will be to him a Father, and he shall be to me a Son?
 - **1:6** — And again, when he bringeth in the firstbegotten into the world, he saith, And let all the angels of God worship him.
@@ -11358,7 +11358,7 @@ metav_id: 1324
 - **13:16** — But to do good and to communicate forget not: for with such sacrifices God is well pleased.
 - **13:20** — Now the God of peace, that brought again from the dead our Lord Jesus, that great shepherd of the sheep, through the blood of the everlasting covenant,
 
-### [[James]]
+### [[books/James|James]]
 - **1:1** — James, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are scattered abroad, greeting.
 - **1:5** — If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.
 - **1:13** — Let no man say when he is tempted, I am tempted of God: for God cannot be tempted with evil, neither tempteth he any man:
@@ -11376,7 +11376,7 @@ metav_id: 1324
 - **4:8** — Draw nigh to God, and he will draw nigh to you. Cleanse your hands, ye sinners; and purify your hearts, ye double minded.
 - **4:12** — There is one lawgiver, who is able to save and to destroy: who art thou that judgest another?
 
-### [[1 Peter]]
+### [[books/1 Peter|1 Peter]]
 - **1:2** — Elect according to the foreknowledge of God the Father, through sanctification of the Spirit, unto obedience and sprinkling of the blood of Jesus Christ: Grace unto you, and peace, be multiplied.
 - **1:3** — Blessed be the God and Father of our Lord Jesus Christ, which according to his abundant mercy hath begotten us again unto a lively hope by the resurrection of Jesus Christ from the dead,
 - **1:5** — Who are kept by the power of God through faith unto salvation ready to be revealed in the last time.
@@ -11418,7 +11418,7 @@ metav_id: 1324
 - **5:10** — But the God of all grace, who hath called us unto his eternal glory by Christ Jesus, after that ye have suffered a while, make you perfect, stablish, strengthen, settle you.
 - **5:12** — By Silvanus, a faithful brother unto you, as I suppose, I have written briefly, exhorting, and testifying that this is the true grace of God wherein ye stand.
 
-### [[2 Peter]]
+### [[books/2 Peter|2 Peter]]
 - **1:1** — Simon Peter, a servant and an apostle of Jesus Christ, to them that have obtained like precious faith with us through the righteousness of God and our Saviour Jesus Christ:
 - **1:2** — Grace and peace be multiplied unto you through the knowledge of God, and of Jesus our Lord,
 - **1:17** — For he received from God the Father honour and glory, when there came such a voice to him from the excellent glory, This is my beloved Son, in whom I am well pleased.
@@ -11428,7 +11428,7 @@ metav_id: 1324
 - **3:5** — For this they willingly are ignorant of, that by the word of God the heavens were of old, and the earth standing out of the water and in the water:
 - **3:12** — Looking for and hasting unto the coming of the day of God, wherein the heavens being on fire shall be dissolved, and the elements shall melt with fervent heat?
 
-### [[1 John]]
+### [[books/1 John|1 John]]
 - **1:2** — For the life was manifested, and we have seen it, and bear witness, and shew unto you that eternal life, which was with the Father, and was manifested unto us;)
 - **1:3** — That which we have seen and heard declare we unto you, that ye also may have fellowship with us: and truly our fellowship is with the Father, and with his Son Jesus Christ.
 - **1:5** — This then is the message which we have heard of him, and declare unto you, that God is light, and in him is no darkness at all.
@@ -11482,23 +11482,23 @@ metav_id: 1324
 - **5:19** — And we know that we are of God, and the whole world lieth in wickedness.
 - **5:20** — And we know that the Son of God is come, and hath given us an understanding, that we may know him that is true, and we are in him that is true, even in his Son Jesus Christ. This is the true God, and eternal life.
 
-### [[2 John]]
+### [[books/2 John|2 John]]
 - **1:3** — Grace be with you, mercy, and peace, from God the Father, and from the Lord Jesus Christ, the Son of the Father, in truth and love.
 - **1:4** — I rejoiced greatly that I found of thy children walking in truth, as we have received a commandment from the Father.
 - **1:9** — Whosoever transgresseth, and abideth not in the doctrine of Christ, hath not God. He that abideth in the doctrine of Christ, he hath both the Father and the Son.
 - **1:10** — If there come any unto you, and bring not this doctrine, receive him not into your house, neither bid him God speed:
 - **1:11** — For he that biddeth him God speed is partaker of his evil deeds.
 
-### [[3 John]]
+### [[books/3 John|3 John]]
 - **1:11** — Beloved, follow not that which is evil, but that which is good. He that doeth good is of God: but he that doeth evil hath not seen God.
 
-### [[Jude]]
+### [[books/Jude|Jude]]
 - **1:1** — Jude, the servant of Jesus Christ, and brother of James, to them that are sanctified by God the Father, and preserved in Jesus Christ, and called:
 - **1:4** — For there are certain men crept in unawares, who were before of old ordained to this condemnation, ungodly men, turning the grace of our God into lasciviousness, and denying the only Lord God, and our Lord Jesus Christ.
 - **1:21** — Keep yourselves in the love of God, looking for the mercy of our Lord Jesus Christ unto eternal life.
 - **1:25** — To the only wise God our Saviour, be glory and majesty, dominion and power, both now and ever. Amen.
 
-### [[Revelation]]
+### [[books/Revelation|Revelation]]
 - **1:1** — The Revelation of Jesus Christ, which God gave unto him, to shew unto his servants things which must shortly come to pass; and he sent and signified it by his angel unto his servant John:
 - **1:2** — Who bare record of the word of God, and of the testimony of Jesus Christ, and of all things that he saw.
 - **1:6** — And hath made us kings and priests unto God and his Father; to him be glory and dominion for ever and ever. Amen.

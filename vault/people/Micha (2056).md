@@ -44,6 +44,6 @@ metav_id: 2056
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **10:11** — Micha, Rehob, Hashabiah,
 

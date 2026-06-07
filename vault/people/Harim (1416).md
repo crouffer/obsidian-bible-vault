@@ -44,14 +44,14 @@ metav_id: 1416
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **24:8** — The third to Harim, the fourth to Seorim,
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **2:39** — The children of Harim, a thousand and seventeen.
 - **10:21** — And of the sons of Harim; Maaseiah, and Elijah, and Shemaiah, and Jehiel, and Uzziah.
 - **10:31** — And of the sons of Harim; Eliezer, Ishijah, Malchiah, Shemaiah, Shimeon,
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **7:42** — The children of Harim, a thousand and seventeen.
 

@@ -44,6 +44,6 @@ metav_id: 2697
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **10:31** — And of the sons of Harim; Eliezer, Ishijah, Malchiah, Shemaiah, Shimeon,
 

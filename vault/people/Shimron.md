@@ -47,12 +47,12 @@ metav_id: 2706
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **46:13** — And the sons of Issachar; Tola, and Phuvah, and Job, and Shimron.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **26:24** — Of Jashub, the family of the Jashubites: of Shimron, the family of the Shimronites.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **7:1** — Now the sons of Issachar were, Tola, and Puah, Jashub, and Shimron, four.
 

@@ -26,6 +26,6 @@ metav_id: 1163
 
 ## Verse References
 
-### [[Daniel]]
+### [[books/Daniel|Daniel]]
 - **10:4** — And in the four and twentieth day of the first month, as I was by the side of the great river, which is Hiddekel;
 

@@ -47,6 +47,6 @@ metav_id: 1587
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **24:27** — The sons of Merari by Jaaziah; Beno, and Shoham, and Zaccur, and Ibri.
 

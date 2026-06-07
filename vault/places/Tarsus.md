@@ -26,7 +26,7 @@ metav_id: 1140
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **9:11** — And the Lord said unto him, Arise, and go into the street which is called Straight, and enquire in the house of Judas for one called Saul, of Tarsus: for, behold, he prayeth,
 - **9:30** — Which when the brethren knew, they brought him down to Caesarea, and sent him forth to Tarsus.
 - **11:25** — Then departed Barnabas to Tarsus, for to seek Saul:

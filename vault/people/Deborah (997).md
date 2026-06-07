@@ -45,7 +45,7 @@ metav_id: 997
 
 ## Verse References
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **4:4** — And Deborah, a prophetess, the wife of Lapidoth, she judged Israel at that time.
 - **4:5** — And she dwelt under the palm tree of Deborah between Ramah and Bethel in mount Ephraim: and the children of Israel came up to her for judgment.
 - **4:9** — And she said, I will surely go with thee: notwithstanding the journey that thou takest shall not be for thine honour; for the LORD shall sell Sisera into the hand of a woman. And Deborah arose, and went with Barak to Kedesh.

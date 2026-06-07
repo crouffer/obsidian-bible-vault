@@ -17,8 +17,8 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Shaharaim]]"
-mother: "[[Hushim (1581)]]"
+father: "[[Hushim (1581)]]"
+mother: "[[Shaharaim]]"
 spouse: []
 children: []
 siblings: 
@@ -45,6 +45,6 @@ metav_id: 55
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **8:11** — And of Hushim he begat Abitub, and Elpaal.
 

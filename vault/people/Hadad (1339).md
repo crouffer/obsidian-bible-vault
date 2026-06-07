@@ -46,7 +46,7 @@ metav_id: 1339
 
 ## Verse References
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **11:14** — And the LORD stirred up an adversary unto Solomon, Hadad the Edomite: he was of the king's seed in Edom.
 - **11:17** — That Hadad fled, he and certain Edomites of his father's servants with him, to go into Egypt; Hadad being yet a little child.
 - **11:19** — And Hadad found great favour in the sight of Pharaoh, so that he gave him to wife the sister of his own wife, the sister of Tahpenes the queen.

@@ -44,6 +44,6 @@ metav_id: 697
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **16:6** — Benaiah also and Jahaziel the priests with trumpets continually before the ark of the covenant of God.
 

@@ -47,9 +47,9 @@ metav_id: 3091
 
 ## Verse References
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **26:2** — Then Saul arose, and went down to the wilderness of Ziph, having three thousand chosen men of Israel with him, to seek David in the wilderness of Ziph.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **4:16** — And the sons of Jehaleleel; Ziph, and Ziphah, Tiria, and Asareel.
 

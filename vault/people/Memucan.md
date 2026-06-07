@@ -44,7 +44,7 @@ metav_id: 1995
 
 ## Verse References
 
-### [[Esther]]
+### [[books/Esther|Esther]]
 - **1:14** — And the next unto him was Carshena, Shethar, Admatha, Tarshish, Meres, Marsena, and Memucan, the seven princes of Persia and Media, which saw the king's face, and which sat the first in the kingdom;)
 - **1:16** — And Memucan answered before the king and the princes, Vashti the queen hath not done wrong to the king only, but also to all the princes, and to all the people that are in all the provinces of the king Ahasuerus.
 - **1:21** — And the saying pleased the king and the princes; and the king did according to the word of Memucan:

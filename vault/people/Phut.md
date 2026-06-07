@@ -47,12 +47,12 @@ metav_id: 2354
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **10:6** — And the sons of Ham; Cush, and Mizraim, and Phut, and Canaan.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:8** — The sons of Ham; Cush, and Mizraim, Put, and Canaan.
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **27:10** — They of Persia and of Lud and of Phut were in thine army, thy men of war: they hanged the shield and helmet in thee; they set forth thy comeliness.
 

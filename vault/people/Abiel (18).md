@@ -44,6 +44,6 @@ metav_id: 18
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **11:32** — Hurai of the brooks of Gaash, Abiel the Arbathite,
 

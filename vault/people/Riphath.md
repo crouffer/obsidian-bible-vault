@@ -46,9 +46,9 @@ metav_id: 2443
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **10:3** — And the sons of Gomer; Ashkenaz, and Riphath, and Togarmah.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:6** — And the sons of Gomer; Ashchenaz, and Riphath, and Togarmah.
 

@@ -44,7 +44,7 @@ metav_id: 947
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **11:28** — And there stood up one of them named Agabus, and signified by the Spirit that there should be great dearth throughout all the world: which came to pass in the days of Claudius Caesar.
 - **18:2** — And found a certain Jew named Aquila, born in Pontus, lately come from Italy, with his wife Priscilla; (because that Claudius had commanded all Jews to depart from Rome:) and came unto them.
 

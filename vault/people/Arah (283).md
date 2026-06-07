@@ -44,9 +44,9 @@ metav_id: 283
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **2:5** — The children of Arah, seven hundred seventy and five.
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **7:10** — The children of Arah, six hundred fifty and two.
 

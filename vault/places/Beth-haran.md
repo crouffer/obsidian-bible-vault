@@ -26,6 +26,6 @@ metav_id: 212
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **32:36** — And Bethnimrah, and Bethharan, fenced cities: and folds for sheep.
 

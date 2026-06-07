@@ -17,8 +17,8 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Israel]]"
-mother: "[[Leah]]"
+father: "[[Leah]]"
+mother: "[[Israel]]"
 spouse: []
 children: []
 siblings: 
@@ -50,7 +50,7 @@ metav_id: 1012
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **30:21** — And afterwards she bare a daughter, and called her name Dinah.
 - **34:1** — And Dinah the daughter of Leah, which she bare unto Jacob, went out to see the daughters of the land.
 - **34:3** — And his soul clave unto Dinah the daughter of Jacob, and he loved the damsel, and spake kindly unto the damsel.

@@ -54,7 +54,7 @@ metav_id: 2293
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **3:18** — Malchiram also, and Pedaiah, and Shenazar, Jecamiah, Hoshama, and Nedabiah.
 - **3:19** — And the sons of Pedaiah were, Zerubbabel, and Shimei: and the sons of Zerubbabel; Meshullam, and Hananiah, and Shelomith their sister:
 

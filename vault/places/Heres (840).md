@@ -26,6 +26,6 @@ metav_id: 840
 
 ## Verse References
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **1:35** — But the Amorites would dwell in mount Heres in Aijalon, and in Shaalbim: yet the hand of the house of Joseph prevailed, so that they became tributaries.
 

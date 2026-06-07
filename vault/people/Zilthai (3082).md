@@ -52,6 +52,6 @@ metav_id: 3082
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **8:20** — And Elienai, and Zilthai, and Eliel,
 

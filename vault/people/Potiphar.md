@@ -44,7 +44,7 @@ metav_id: 2368
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **37:36** — And the Midianites sold him into Egypt unto Potiphar, an officer of Pharaoh's, and captain of the guard.
 - **39:1** — And Joseph was brought down to Egypt; and Potiphar, an officer of Pharaoh, captain of the guard, an Egyptian, bought him of the hands of the Ishmeelites, which had brought him down thither.
 

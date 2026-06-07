@@ -46,7 +46,7 @@ metav_id: 1091
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **1:14** — Of Gad; Eliasaph the son of Deuel.
 - **2:14** — Then the tribe of Gad: and the captain of the sons of Gad shall be Eliasaph the son of Reuel.
 - **7:42** — On the sixth day Eliasaph the son of Deuel, prince of the children of Gad, offered:

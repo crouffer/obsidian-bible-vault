@@ -17,8 +17,8 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Adah (69)]]"
-mother: "[[Lamech (1808)]]"
+father: "[[Lamech (1808)]]"
+mother: "[[Adah (69)]]"
 spouse: []
 children: []
 siblings: 
@@ -45,6 +45,6 @@ metav_id: 673
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **4:20** — And Adah bare Jabal: he was the father of such as dwell in tents, and of such as have cattle.
 

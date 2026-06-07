@@ -26,6 +26,6 @@ metav_id: 769
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:74** — And out of the tribe of Asher; Mashal with her suburbs, and Abdon with her suburbs,
 

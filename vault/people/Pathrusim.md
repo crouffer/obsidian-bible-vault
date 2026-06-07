@@ -50,9 +50,9 @@ metav_id: 2288
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **10:14** — And Pathrusim, and Casluhim, (out of whom came Philistim,) and Caphtorim.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:12** — And Pathrusim, and Casluhim, (of whom came the Philistines,) and Caphthorim.
 

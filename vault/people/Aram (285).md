@@ -52,10 +52,10 @@ metav_id: 285
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **10:22** — The children of Shem; Elam, and Asshur, and Arphaxad, and Lud, and Aram.
 - **10:23** — And the children of Aram; Uz, and Hul, and Gether, and Mash.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:17** — The sons of Shem; Elam, and Asshur, and Arphaxad, and Lud, and Aram, and Uz, and Hul, and Gether, and Meshech.
 

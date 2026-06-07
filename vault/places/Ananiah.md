@@ -26,6 +26,6 @@ metav_id: 62
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **11:32** — And at Anathoth, Nob, Ananiah,
 

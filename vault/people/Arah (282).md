@@ -46,6 +46,6 @@ metav_id: 282
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **7:39** — And the sons of Ulla; Arah, and Haniel, and Rezia.
 

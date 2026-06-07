@@ -44,18 +44,18 @@ metav_id: 2885
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **20:4** — And there accompanied him into Asia Sopater of Berea; and of the Thessalonians, Aristarchus and Secundus; and Gaius of Derbe, and Timotheus; and of Asia, Tychicus and Trophimus.
 
-### [[Ephesians]]
+### [[books/Ephesians|Ephesians]]
 - **6:21** — But that ye also may know my affairs, and how I do, Tychicus, a beloved brother and faithful minister in the Lord, shall make known to you all things:
 
-### [[Colossians]]
+### [[books/Colossians|Colossians]]
 - **4:7** — All my state shall Tychicus declare unto you, who is a beloved brother, and a faithful minister and fellowservant in the Lord:
 
-### [[2 Timothy]]
+### [[books/2 Timothy|2 Timothy]]
 - **4:12** — And Tychicus have I sent to Ephesus.
 
-### [[Titus]]
+### [[books/Titus|Titus]]
 - **3:12** — When I shall send Artemas unto thee, or Tychicus, be diligent to come unto me to Nicopolis: for I have determined there to winter.
 

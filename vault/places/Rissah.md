@@ -26,7 +26,7 @@ metav_id: 1008
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **33:21** — And they removed from Libnah, and pitched at Rissah.
 - **33:22** — And they journeyed from Rissah, and pitched in Kehelathah.
 

@@ -45,9 +45,9 @@ metav_id: 565
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **9:14** — And of the Levites; Shemaiah the son of Hasshub, the son of Azrikam, the son of Hashabiah, of the sons of Merari;
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **11:15** — Also of the Levites: Shemaiah the son of Hashub, the son of Azrikam, the son of Hashabiah, the son of Bunni;
 

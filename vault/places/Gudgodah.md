@@ -26,6 +26,6 @@ metav_id: 496
 
 ## Verse References
 
-### [[Deuteronomy]]
+### [[books/Deuteronomy|Deuteronomy]]
 - **10:7** — From thence they journeyed unto Gudgodah; and from Gudgodah to Jotbath, a land of rivers of waters.
 

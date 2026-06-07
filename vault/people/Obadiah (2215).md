@@ -44,7 +44,7 @@ metav_id: 2215
 
 ## Verse References
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **18:3** — And Ahab called Obadiah, which was the governor of his house. (Now Obadiah feared the LORD greatly:
 - **18:4** — For it was so, when Jezebel cut off the prophets of the LORD, that Obadiah took an hundred prophets, and hid them by fifty in a cave, and fed them with bread and water.)
 - **18:5** — And Ahab said unto Obadiah, Go into the land, unto all fountains of water, and unto all brooks: peradventure we may find grass to save the horses and mules alive, that we lose not all the beasts.

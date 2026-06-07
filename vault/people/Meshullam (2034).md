@@ -44,7 +44,7 @@ metav_id: 2034
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **10:7** — Meshullam, Abijah, Mijamin,
 - **12:33** — And Azariah, Ezra, and Meshullam,
 

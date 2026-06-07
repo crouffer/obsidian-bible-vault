@@ -26,6 +26,6 @@ metav_id: 870
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **21:19** — And from Mattanah to Nahaliel: and from Nahaliel to Bamoth:
 

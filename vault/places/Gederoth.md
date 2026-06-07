@@ -26,9 +26,9 @@ metav_id: 453
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **15:41** — And Gederoth, Bethdagon, and Naamah, and Makkedah; sixteen cities with their villages:
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **28:18** — The Philistines also had invaded the cities of the low country, and of the south of Judah, and had taken Bethshemesh, and Ajalon, and Gederoth, and Shocho with the villages thereof, and Timnah with the villages thereof, Gimzo also and the villages thereof: and they dwelt there.
 

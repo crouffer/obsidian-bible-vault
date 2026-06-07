@@ -17,8 +17,8 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Helah]]"
-mother: "[[Ashur]]"
+father: "[[Ashur]]"
+mother: "[[Helah]]"
 spouse: []
 children: []
 siblings: 
@@ -47,6 +47,6 @@ metav_id: 1610
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **4:7** — And the sons of Helah were, Zereth, and Jezoar, and Ethnan.
 

@@ -26,9 +26,9 @@ metav_id: 184
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **19:38** — And Iron, and Migdalel, Horem, and Bethanath, and Bethshemesh; nineteen cities with their villages.
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **1:33** — Neither did Naphtali drive out the inhabitants of Bethshemesh, nor the inhabitants of Bethanath; but he dwelt among the Canaanites, the inhabitants of the land: nevertheless the inhabitants of Bethshemesh and of Bethanath became tributaries unto them.
 

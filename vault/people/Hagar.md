@@ -45,7 +45,7 @@ metav_id: 1348
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **16:1** — Now Sarai Abram's wife bare him no children: and she had an handmaid, an Egyptian, whose name was Hagar.
 - **16:3** — And Sarai Abram's wife took Hagar her maid the Egyptian, after Abram had dwelt ten years in the land of Canaan, and gave her to her husband Abram to be his wife.
 - **16:4** — And he went in unto Hagar, and she conceived: and when she saw that she had conceived, her mistress was despised in her eyes.
@@ -57,7 +57,7 @@ metav_id: 1348
 - **21:17** — And God heard the voice of the lad; and the angel of God called to Hagar out of heaven, and said unto her, What aileth thee, Hagar? fear not; for God hath heard the voice of the lad where he is.
 - **25:12** — Now these are the generations of Ishmael, Abraham's son, whom Hagar the Egyptian, Sarah's handmaid, bare unto Abraham:
 
-### [[Galatians]]
+### [[books/Galatians|Galatians]]
 - **4:24** — Which things are an allegory: for these are the two covenants; the one from the mount Sinai, which gendereth to bondage, which is Agar.
 - **4:25** — For this Agar is mount Sinai in Arabia, and answereth to Jerusalem which now is, and is in bondage with her children.
 

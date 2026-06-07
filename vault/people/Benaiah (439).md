@@ -45,13 +45,13 @@ metav_id: 439
 
 ## Verse References
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **8:18** — And Benaiah the son of Jehoiada was over both the Cherethites and the Pelethites; and David's sons were chief rulers.
 - **20:23** — Now Joab was over all the host of Israel: and Benaiah the son of Jehoiada was over the Cherethites and over the Pelethites:
 - **23:20** — And Benaiah the son of Jehoiada, the son of a valiant man, of Kabzeel, who had done many acts, he slew two lionlike men of Moab: he went down also and slew a lion in the midst of a pit in time of snow:
 - **23:22** — These things did Benaiah the son of Jehoiada, and had the name among three mighty men.
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **1:8** — But Zadok the priest, and Benaiah the son of Jehoiada, and Nathan the prophet, and Shimei, and Rei, and the mighty men which belonged to David, were not with Adonijah.
 - **1:10** — But Nathan the prophet, and Benaiah, and the mighty men, and Solomon his brother, he called not.
 - **1:26** — But me, even me thy servant, and Zadok the priest, and Benaiah the son of Jehoiada, and thy servant Solomon, hath he not called.
@@ -67,7 +67,7 @@ metav_id: 439
 - **2:46** — So the king commanded Benaiah the son of Jehoiada; which went out, and fell upon him, that he died. And the kingdom was established in the hand of Solomon.
 - **4:4** — And Benaiah the son of Jehoiada was over the host: and Zadok and Abiathar were the priests:
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **11:22** — Benaiah the son of Jehoiada, the son of a valiant man of Kabzeel, who had done many acts; he slew two lionlike men of Moab: also he went down and slew a lion in a pit in a snowy day.
 - **11:24** — These things did Benaiah the son of Jehoiada, and had the name among the three mighties.
 - **18:17** — And Benaiah the son of Jehoiada was over the Cherethites and the Pelethites; and the sons of David were chief about the king.

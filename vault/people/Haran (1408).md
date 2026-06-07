@@ -53,6 +53,6 @@ metav_id: 1408
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **2:46** — And Ephah, Caleb's concubine, bare Haran, and Moza, and Gazez: and Haran begat Gazez.
 

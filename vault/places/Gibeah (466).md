@@ -26,10 +26,10 @@ metav_id: 466
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **18:28** — And Zelah, Eleph, and Jebusi, which is Jerusalem, Gibeath, and Kirjath; fourteen cities with their villages. This is the inheritance of the children of Benjamin according to their families.
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **19:12** — And his master said unto him, We will not turn aside hither into the city of a stranger, that is not of the children of Israel; we will pass over to Gibeah.
 - **19:13** — And he said unto his servant, Come, and let us draw near to one of these places to lodge all night, in Gibeah, or in Ramah.
 - **19:14** — And they passed on and went their way; and the sun went down upon them when they were by Gibeah, which belongeth to Benjamin.
@@ -54,7 +54,7 @@ metav_id: 466
 - **20:37** — And the liers in wait hasted, and rushed upon Gibeah; and the liers in wait drew themselves along, and smote all the city with the edge of the sword.
 - **20:43** — Thus they inclosed the Benjamites round about, and chased them, and trode them down with ease over against Gibeah toward the sunrising.
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **10:26** — And Saul also went home to Gibeah; and there went with him a band of men, whose hearts God had touched.
 - **11:4** — Then came the messengers to Gibeah of Saul, and told the tidings in the ears of the people: and all the people lifted up their voices, and wept.
 - **13:2** — Saul chose him three thousand men of Israel; whereof two thousand were with Saul in Michmash and in mount Bethel, and a thousand were with Jonathan in Gibeah of Benjamin: and the rest of the people he sent every man to his tent.
@@ -66,17 +66,17 @@ metav_id: 466
 - **23:19** — Then came up the Ziphites to Saul to Gibeah, saying, Doth not David hide himself with us in strong holds in the wood, in the hill of Hachilah, which is on the south of Jeshimon?
 - **26:1** — And the Ziphites came unto Saul to Gibeah, saying, Doth not David hide himself in the hill of Hachilah, which is before Jeshimon?
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **21:6** — Let seven men of his sons be delivered unto us, and we will hang them up unto the LORD in Gibeah of Saul, whom the LORD did choose. And the king said, I will give them.
 - **23:29** — Heleb the son of Baanah, a Netophathite, Ittai the son of Ribai out of Gibeah of the children of Benjamin,
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **11:31** — Ithai the son of Ribai of Gibeah, that pertained to the children of Benjamin, Benaiah the Pirathonite,
 
-### [[Isaiah]]
+### [[books/Isaiah|Isaiah]]
 - **10:29** — They are gone over the passage: they have taken up their lodging at Geba; Ramah is afraid; Gibeah of Saul is fled.
 
-### [[Hosea]]
+### [[books/Hosea|Hosea]]
 - **5:8** — Blow ye the cornet in Gibeah, and the trumpet in Ramah: cry aloud at Bethaven, after thee, O Benjamin.
 - **9:9** — They have deeply corrupted themselves, as in the days of Gibeah: therefore he will remember their iniquity, he will visit their sins.
 - **10:9** — O Israel, thou hast sinned from the days of Gibeah: there they stood: the battle in Gibeah against the children of iniquity did not overtake them.

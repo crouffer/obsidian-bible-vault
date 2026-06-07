@@ -45,7 +45,7 @@ metav_id: 2112
 
 ## Verse References
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **20:20** — Then came to him the mother of Zebedee's children with her sons, worshipping him, and desiring a certain thing of him.
 - **27:56** — Among which was Mary Magdalene, and Mary the mother of James and Joses, and the mother of Zebedee's children.
 

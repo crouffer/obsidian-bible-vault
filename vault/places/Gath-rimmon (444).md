@@ -26,10 +26,10 @@ metav_id: 444
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **19:45** — And Jehud, and Beneberak, and Gathrimmon,
 - **21:24** — Aijalon with her suburbs, Gathrimmon with her suburbs; four cities.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:69** — And Aijalon with her suburbs, and Gathrimmon with her suburbs:
 

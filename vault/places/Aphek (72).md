@@ -26,10 +26,10 @@ metav_id: 72
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **12:18** — The king of Aphek, one; the king of Lasharon, one;
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **4:1** — And the word of Samuel came to all Israel. Now Israel went out against the Philistines to battle, and pitched beside Ebenezer: and the Philistines pitched in Aphek.
 - **29:1** — Now the Philistines gathered together all their armies to Aphek: and the Israelites pitched by a fountain which is in Jezreel.
 

@@ -44,7 +44,7 @@ metav_id: 2997
 
 ## Verse References
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **8:5** — And he said unto the men of Succoth, Give, I pray you, loaves of bread unto the people that follow me; for they be faint, and I am pursuing after Zebah and Zalmunna, kings of Midian.
 - **8:6** — And the princes of Succoth said, Are the hands of Zebah and Zalmunna now in thine hand, that we should give bread unto thine army?
 - **8:7** — And Gideon said, Therefore when the LORD hath delivered Zebah and Zalmunna into mine hand, then I will tear your flesh with the thorns of the wilderness and with briers.
@@ -54,6 +54,6 @@ metav_id: 2997
 - **8:18** — Then said he unto Zebah and Zalmunna, What manner of men were they whom ye slew at Tabor? And they answered, As thou art, so were they; each one resembled the children of a king.
 - **8:21** — Then Zebah and Zalmunna said, Rise thou, and fall upon us: for as the man is, so is his strength. And Gideon arose, and slew Zebah and Zalmunna, and took away the ornaments that were on their camels' necks.
 
-### [[Psalms]]
+### [[books/Psalms|Psalms]]
 - **83:11** — Make their nobles like Oreb, and like Zeeb: yea, all their princes as Zebah, and as Zalmunna:
 

@@ -45,13 +45,13 @@ metav_id: 1231
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **3:20** — And Adam called his wife's name Eve; because she was the mother of all living.
 - **4:1** — And Adam knew Eve his wife; and she conceived, and bare Cain, and said, I have gotten a man from the LORD.
 
-### [[2 Corinthians]]
+### [[books/2 Corinthians|2 Corinthians]]
 - **11:3** — But I fear, lest by any means, as the serpent beguiled Eve through his subtilty, so your minds should be corrupted from the simplicity that is in Christ.
 
-### [[1 Timothy]]
+### [[books/1 Timothy|1 Timothy]]
 - **2:13** — For Adam was first formed, then Eve.
 

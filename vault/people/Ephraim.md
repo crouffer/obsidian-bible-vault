@@ -17,8 +17,8 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Joseph (1710)]]"
-mother: "[[Asenath]]"
+father: "[[Asenath]]"
+mother: "[[Joseph (1710)]]"
 spouse: []
 children: 
   - "[[Becher (424)]]"
@@ -51,7 +51,7 @@ metav_id: 1206
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **41:52** — And the name of the second called he Ephraim: For God hath caused me to be fruitful in the land of my affliction.
 - **46:20** — And unto Joseph in the land of Egypt were born Manasseh and Ephraim, which Asenath the daughter of Potipherah priest of On bare unto him.
 - **48:1** — And it came to pass after these things, that one told Joseph, Behold, thy father is sick: and he took with him his two sons, Manasseh and Ephraim.
@@ -62,7 +62,7 @@ metav_id: 1206
 - **48:20** — And he blessed them that day, saying, In thee shall Israel bless, saying, God make thee as Ephraim and as Manasseh: and he set Ephraim before Manasseh.
 - **50:23** — And Joseph saw Ephraim's children of the third generation: the children also of Machir the son of Manasseh were brought up upon Joseph's knees.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **1:10** — Of the children of Joseph: of Ephraim; Elishama the son of Ammihud: of Manasseh; Gamaliel the son of Pedahzur.
 - **1:32** — Of the children of Joseph, namely, of the children of Ephraim, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;
 - **1:33** — Those that were numbered of them, even of the tribe of Ephraim, were forty thousand and five hundred.
@@ -76,11 +76,11 @@ metav_id: 1206
 - **26:37** — These are the families of the sons of Ephraim according to those that were numbered of them, thirty and two thousand and five hundred. These are the sons of Joseph after their families.
 - **34:24** — And the prince of the tribe of the children of Ephraim, Kemuel the son of Shiphtan.
 
-### [[Deuteronomy]]
+### [[books/Deuteronomy|Deuteronomy]]
 - **33:17** — His glory is like the firstling of his bullock, and his horns are like the horns of unicorns: with them he shall push the people together to the ends of the earth: and they are the ten thousands of Ephraim, and they are the thousands of Manasseh.
 - **34:2** — And all Naphtali, and the land of Ephraim, and Manasseh, and all the land of Judah, unto the utmost sea,
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **14:4** — For the children of Joseph were two tribes, Manasseh and Ephraim: therefore they gave no part unto the Levites in the land, save cities to dwell in, with their suburbs for their cattle and for their substance.
 - **16:4** — So the children of Joseph, Manasseh and Ephraim, took their inheritance.
 - **16:5** — And the border of the children of Ephraim according to their families was thus: even the border of their inheritance on the east side was Atarothaddar, unto Bethhoron the upper;
@@ -97,7 +97,7 @@ metav_id: 1206
 - **24:30** — And they buried him in the border of his inheritance in Timnathserah, which is in mount Ephraim, on the north side of the hill of Gaash.
 - **24:33** — And Eleazar the son of Aaron died; and they buried him in a hill that pertained to Phinehas his son, which was given him in mount Ephraim.
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **1:29** — Neither did Ephraim drive out the Canaanites that dwelt in Gezer; but the Canaanites dwelt in Gezer among them.
 - **2:9** — And they buried him in the border of his inheritance in Timnathheres, in the mount of Ephraim, on the north side of the hill Gaash.
 - **3:27** — And it came to pass, when he was come, that he blew a trumpet in the mountain of Ephraim, and the children of Israel went down with him from the mount, and he before them.
@@ -119,26 +119,26 @@ metav_id: 1206
 - **19:16** — And, behold, there came an old man from his work out of the field at even, which was also of mount Ephraim; and he sojourned in Gibeah: but the men of the place were Benjamites.
 - **19:18** — And he said unto him, We are passing from Bethlehemjudah toward the side of mount Ephraim; from thence am I: and I went to Bethlehemjudah, but I am now going to the house of the LORD; and there is no man that receiveth me to house.
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **1:1** — Now there was a certain man of Ramathaimzophim, of mount Ephraim, and his name was Elkanah, the son of Jeroham, the son of Elihu, the son of Tohu, the son of Zuph, an Ephrathite:
 - **9:4** — And he passed through mount Ephraim, and passed through the land of Shalisha, but they found them not: then they passed through the land of Shalim, and there they were not: and he passed through the land of the Benjamites, but they found them not.
 - **14:22** — Likewise all the men of Israel which had hid themselves in mount Ephraim, when they heard that the Philistines fled, even they also followed hard after them in the battle.
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **2:9** — And made him king over Gilead, and over the Ashurites, and over Jezreel, and over Ephraim, and over Benjamin, and over all Israel.
 - **13:23** — And it came to pass after two full years, that Absalom had sheepshearers in Baalhazor, which is beside Ephraim: and Absalom invited all the king's sons.
 - **18:6** — So the people went out into the field against Israel: and the battle was in the wood of Ephraim;
 - **20:21** — The matter is not so: but a man of mount Ephraim, Sheba the son of Bichri by name, hath lifted up his hand against the king, even against David: deliver him only, and I will depart from the city. And the woman said unto Joab, Behold, his head shall be thrown to thee over the wall.
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **4:8** — And these are their names: The son of Hur, in mount Ephraim:
 - **12:25** — Then Jeroboam built Shechem in mount Ephraim, and dwelt therein; and went out from thence, and built Penuel.
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **5:22** — And he said, All is well. My master hath sent me, saying, Behold, even now there be come to me from mount Ephraim two young men of the sons of the prophets: give them, I pray thee, a talent of silver, and two changes of garments.
 - **14:13** — And Jehoash king of Israel took Amaziah king of Judah, the son of Jehoash the son of Ahaziah, at Bethshemesh, and came to Jerusalem, and brake down the wall of Jerusalem from the gate of Ephraim unto the corner gate, four hundred cubits.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:66** — And the residue of the families of the sons of Kohath had cities of their coasts out of the tribe of Ephraim.
 - **6:67** — And they gave unto them, of the cities of refuge, Shechem in mount Ephraim with her suburbs; they gave also Gezer with her suburbs,
 - **7:20** — And the sons of Ephraim; Shuthelah, and Bered his son, and Tahath his son, and Eladah his son, and Tahath his son,
@@ -149,7 +149,7 @@ metav_id: 1206
 - **27:14** — The eleventh captain for the eleventh month was Benaiah the Pirathonite, of the children of Ephraim: and in his course were twenty and four thousand.
 - **27:20** — Of the children of Ephraim, Hoshea the son of Azaziah: of the half tribe of Manasseh, Joel the son of Pedaiah:
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **13:4** — And Abijah stood up upon mount Zemaraim, which is in mount Ephraim, and said, Hear me, thou Jeroboam, and all Israel;
 - **15:8** — And when Asa heard these words, and the prophecy of Oded the prophet, he took courage, and put away the abominable idols out of all the land of Judah and Benjamin, and out of the cities which he had taken from mount Ephraim, and renewed the altar of the LORD, that was before the porch of the LORD.
 - **15:9** — And he gathered all Judah and Benjamin, and the strangers with them out of Ephraim and Manasseh, and out of Simeon: for they fell to him out of Israel in abundance, when they saw that the LORD his God was with him.
@@ -167,18 +167,18 @@ metav_id: 1206
 - **34:6** — And so did he in the cities of Manasseh, and Ephraim, and Simeon, even unto Naphtali, with their mattocks round about.
 - **34:9** — And when they came to Hilkiah the high priest, they delivered the money that was brought into the house of God, which the Levites that kept the doors had gathered of the hand of Manasseh and Ephraim, and of all the remnant of Israel, and of all Judah and Benjamin; and they returned to Jerusalem.
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **8:16** — So the people went forth, and brought them, and made themselves booths, every one upon the roof of his house, and in their courts, and in the courts of the house of God, and in the street of the water gate, and in the street of the gate of Ephraim.
 - **12:39** — And from above the gate of Ephraim, and above the old gate, and above the fish gate, and the tower of Hananeel, and the tower of Meah, even unto the sheep gate: and they stood still in the prison gate.
 
-### [[Psalms]]
+### [[books/Psalms|Psalms]]
 - **60:7** — Gilead is mine, and Manasseh is mine; Ephraim also is the strength of mine head; Judah is my lawgiver;
 - **78:9** — The children of Ephraim, being armed, and carrying bows, turned back in the day of battle.
 - **78:67** — Moreover he refused the tabernacle of Joseph, and chose not the tribe of Ephraim:
 - **80:2** — Before Ephraim and Benjamin and Manasseh stir up thy strength, and come and save us.
 - **108:8** — Gilead is mine; Manasseh is mine; Ephraim also is the strength of mine head; Judah is my lawgiver;
 
-### [[Isaiah]]
+### [[books/Isaiah|Isaiah]]
 - **7:2** — And it was told the house of David, saying, Syria is confederate with Ephraim. And his heart was moved, and the heart of his people, as the trees of the wood are moved with the wind.
 - **7:5** — Because Syria, Ephraim, and the son of Remaliah, have taken evil counsel against thee, saying,
 - **7:8** — For the head of Syria is Damascus, and the head of Damascus is Rezin; and within threescore and five years shall Ephraim be broken, that it be not a people.
@@ -191,7 +191,7 @@ metav_id: 1206
 - **28:1** — Woe to the crown of pride, to the drunkards of Ephraim, whose glorious beauty is a fading flower, which are on the head of the fat valleys of them that are overcome with wine!
 - **28:3** — The crown of pride, the drunkards of Ephraim, shall be trodden under feet:
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **4:15** — For a voice declareth from Dan, and publisheth affliction from mount Ephraim.
 - **7:15** — And I will cast you out of my sight, as I have cast out all your brethren, even the whole seed of Ephraim.
 - **31:6** — For there shall be a day, that the watchmen upon the mount Ephraim shall cry, Arise ye, and let us go up to Zion unto the LORD our God.
@@ -200,13 +200,13 @@ metav_id: 1206
 - **31:20** — Is Ephraim my dear son? is he a pleasant child? for since I spake against him, I do earnestly remember him still: therefore my bowels are troubled for him; I will surely have mercy upon him, saith the LORD.
 - **50:19** — And I will bring Israel again to his habitation, and he shall feed on Carmel and Bashan, and his soul shall be satisfied upon mount Ephraim and Gilead.
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **37:16** — Moreover, thou son of man, take thee one stick, and write upon it, For Judah, and for the children of Israel his companions: then take another stick, and write upon it, For Joseph, the stick of Ephraim, and for all the house of Israel his companions:
 - **37:19** — Say unto them, Thus saith the Lord GOD; Behold, I will take the stick of Joseph, which is in the hand of Ephraim, and the tribes of Israel his fellows, and will put them with him, even with the stick of Judah, and make them one stick, and they shall be one in mine hand.
 - **48:5** — And by the border of Manasseh, from the east side unto the west side, a portion for Ephraim.
 - **48:6** — And by the border of Ephraim, from the east side even unto the west side, a portion for Reuben.
 
-### [[Hosea]]
+### [[books/Hosea|Hosea]]
 - **4:17** — Ephraim is joined to idols: let him alone.
 - **5:3** — I know Ephraim, and Israel is not hid from me: for now, O Ephraim, thou committest whoredom, and Israel is defiled.
 - **5:5** — And the pride of Israel doth testify to his face: therefore shall Israel and Ephraim fall in their iniquity; Judah also shall fall with them.
@@ -240,14 +240,14 @@ metav_id: 1206
 - **13:12** — The iniquity of Ephraim is bound up; his sin is hid.
 - **14:8** — Ephraim shall say, What have I to do any more with idols? I have heard him, and observed him: I am like a green fir tree. From me is thy fruit found.
 
-### [[Obadiah]]
+### [[books/Obadiah|Obadiah]]
 - **1:19** — And they of the south shall possess the mount of Esau; and they of the plain the Philistines: and they shall possess the fields of Ephraim, and the fields of Samaria: and Benjamin shall possess Gilead.
 
-### [[Zechariah]]
+### [[books/Zechariah|Zechariah]]
 - **9:10** — And I will cut off the chariot from Ephraim, and the horse from Jerusalem, and the battle bow shall be cut off: and he shall speak peace unto the heathen: and his dominion shall be from sea even to sea, and from the river even to the ends of the earth.
 - **9:13** — When I have bent Judah for me, filled the bow with Ephraim, and raised up thy sons, O Zion, against thy sons, O Greece, and made thee as the sword of a mighty man.
 - **10:7** — And they of Ephraim shall be like a mighty man, and their heart shall rejoice as through wine: yea, their children shall see it, and be glad; their heart shall rejoice in the LORD.
 
-### [[John]]
+### [[books/John|John]]
 - **11:54** — Jesus therefore walked no more openly among the Jews; but went thence unto a country near to the wilderness, into a city called Ephraim, and there continued with his disciples.
 

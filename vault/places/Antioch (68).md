@@ -26,7 +26,7 @@ metav_id: 68
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **6:5** — And the saying pleased the whole multitude: and they chose Stephen, a man full of faith and of the Holy Ghost, and Philip, and Prochorus, and Nicanor, and Timon, and Parmenas, and Nicolas a proselyte of Antioch:
 - **11:19** — Now they which were scattered abroad upon the persecution that arose about Stephen travelled as far as Phenice, and Cyprus, and Antioch, preaching the word to none but unto the Jews only.
 - **11:20** — And some of them were men of Cyprus and Cyrene, which, when they were come to Antioch, spake unto the Grecians, preaching the Lord Jesus.
@@ -41,6 +41,6 @@ metav_id: 68
 - **15:35** — Paul also and Barnabas continued in Antioch, teaching and preaching the word of the Lord, with many others also.
 - **18:22** — And when he had landed at Caesarea, and gone up, and saluted the church, he went down to Antioch.
 
-### [[Galatians]]
+### [[books/Galatians|Galatians]]
 - **2:11** — But when Peter was come to Antioch, I withstood him to the face, because he was to be blamed.
 

@@ -26,6 +26,6 @@ metav_id: 598
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **15:43** — And Jiphtah, and Ashnah, and Nezib,
 

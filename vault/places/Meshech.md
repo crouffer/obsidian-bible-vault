@@ -26,10 +26,10 @@ metav_id: 788
 
 ## Verse References
 
-### [[Psalms]]
+### [[books/Psalms|Psalms]]
 - **120:5** — Woe is me, that I sojourn in Mesech, that I dwell in the tents of Kedar!
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **27:13** — Javan, Tubal, and Meshech, they were thy merchants: they traded the persons of men and vessels of brass in thy market.
 - **38:2** — Son of man, set thy face against Gog, the land of Magog, the chief prince of Meshech and Tubal, and prophesy against him,
 - **38:3** — And say, Thus saith the Lord GOD; Behold, I am against thee, O Gog, the chief prince of Meshech and Tubal:

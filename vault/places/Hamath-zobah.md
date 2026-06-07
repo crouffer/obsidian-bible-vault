@@ -26,6 +26,6 @@ metav_id: 517
 
 ## Verse References
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **8:3** — And Solomon went to Hamathzobah, and prevailed against it.
 

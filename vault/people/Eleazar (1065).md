@@ -46,7 +46,7 @@ metav_id: 1065
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **23:21** — The sons of Merari; Mahli, and Mushi. The sons of Mahli; Eleazar, and Kish.
 - **23:22** — And Eleazar died, and had no sons, but daughters: and their brethren the sons of Kish took them.
 - **24:28** — Of Mahli came Eleazar, who had no sons.

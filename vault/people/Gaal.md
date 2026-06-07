@@ -44,7 +44,7 @@ metav_id: 1259
 
 ## Verse References
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **9:26** — And Gaal the son of Ebed came with his brethren, and went over to Shechem: and the men of Shechem put their confidence in him.
 - **9:28** — And Gaal the son of Ebed said, Who is Abimelech, and who is Shechem, that we should serve him? is not he the son of Jerubbaal? and Zebul his officer? serve the men of Hamor the father of Shechem: for why should we serve him?
 - **9:30** — And when Zebul the ruler of the city heard the words of Gaal the son of Ebed, his anger was kindled.

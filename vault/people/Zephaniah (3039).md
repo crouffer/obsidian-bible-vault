@@ -44,10 +44,10 @@ metav_id: 3039
 
 ## Verse References
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **25:18** — And the captain of the guard took Seraiah the chief priest, and Zephaniah the second priest, and the three keepers of the door:
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **21:1** — The word which came unto Jeremiah from the LORD, when king Zedekiah sent unto him Pashur the son of Melchiah, and Zephaniah the son of Maaseiah the priest, saying,
 - **29:25** — Thus speaketh the LORD of hosts, the God of Israel, saying, Because thou hast sent letters in thy name unto all the people that are at Jerusalem, and to Zephaniah the son of Maaseiah the priest, and to all the priests, saying,
 - **29:29** — And Zephaniah the priest read this letter in the ears of Jeremiah the prophet.

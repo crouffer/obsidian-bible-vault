@@ -57,7 +57,7 @@ metav_id: 630
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **16:11** — And the angel of the LORD said unto her, Behold, thou art with child, and shalt bear a son, and shalt call his name Ishmael; because the LORD hath heard thy affliction.
 - **16:15** — And Hagar bare Abram a son: and Abram called his son's name, which Hagar bare, Ishmael.
 - **16:16** — And Abram was fourscore and six years old, when Hagar bare Ishmael to Abram.
@@ -74,7 +74,7 @@ metav_id: 630
 - **28:9** — Then went Esau unto Ishmael, and took unto the wives which he had Mahalath the daughter of Ishmael Abraham's son, the sister of Nebajoth, to be his wife.
 - **36:3** — And Bashemath Ishmael's daughter, sister of Nebajoth.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:28** — The sons of Abraham; Isaac, and Ishmael.
 - **1:29** — These are their generations: The firstborn of Ishmael, Nebaioth; then Kedar, and Adbeel, and Mibsam,
 - **1:31** — Jetur, Naphish, and Kedemah. These are the sons of Ishmael.

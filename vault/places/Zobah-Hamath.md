@@ -26,6 +26,6 @@ metav_id: 1273
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **18:3** — And David smote Hadarezer king of Zobah unto Hamath, as he went to stablish his dominion by the river Euphrates.
 

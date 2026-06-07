@@ -26,11 +26,11 @@ metav_id: 1097
 
 ## Verse References
 
-### [[Exodus]]
+### [[books/Exodus|Exodus]]
 - **16:1** — And they took their journey from Elim, and all the congregation of the children of Israel came unto the wilderness of Sin, which is between Elim and Sinai, on the fifteenth day of the second month after their departing out of the land of Egypt.
 - **17:1** — And all the congregation of the children of Israel journeyed from the wilderness of Sin, after their journeys, according to the commandment of the LORD, and pitched in Rephidim: and there was no water for the people to drink.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **33:11** — And they removed from the Red sea, and encamped in the wilderness of Sin.
 - **33:12** — And they took their journey out of the wilderness of Sin, and encamped in Dophkah.
 

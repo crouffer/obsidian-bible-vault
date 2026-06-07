@@ -26,7 +26,7 @@ metav_id: 654
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **13:10** — And Lot lifted up his eyes, and beheld all the plain of Jordan, that it was well watered every where, before the LORD destroyed Sodom and Gomorrah, even as the garden of the LORD, like the land of Egypt, as thou comest unto Zoar.
 - **13:11** — Then Lot chose him all the plain of Jordan; and Lot journeyed east: and they separated themselves the one from the other.
 

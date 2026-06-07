@@ -17,8 +17,8 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Maachah (1841)]]"
-mother: "[[Rehoboam]]"
+father: "[[Rehoboam]]"
+mother: "[[Maachah (1841)]]"
 spouse: []
 children: []
 siblings: 
@@ -47,6 +47,6 @@ metav_id: 365
 
 ## Verse References
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **11:20** — And after her he took Maachah the daughter of Absalom; which bare him Abijah, and Attai, and Ziza, and Shelomith.
 

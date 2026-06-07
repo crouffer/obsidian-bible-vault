@@ -44,9 +44,9 @@ metav_id: 2849
 
 ## Verse References
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **1:3** — It seemed good to me also, having had perfect understanding of all things from the very first, to write unto thee in order, most excellent Theophilus,
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **1:1** — The former treatise have I made, O Theophilus, of all that Jesus began both to do and teach,
 

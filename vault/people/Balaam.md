@@ -44,7 +44,7 @@ metav_id: 593
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **22:5** — He sent messengers therefore unto Balaam the son of Beor to Pethor, which is by the river of the land of the children of his people, to call him, saying, Behold, there is a people come out from Egypt: behold, they cover the face of the earth, and they abide over against me:
 - **22:7** — And the elders of Moab and the elders of Midian departed with the rewards of divination in their hand; and they came unto Balaam, and spake unto him the words of Balak.
 - **22:8** — And he said unto them, Lodge here this night, and I will bring you word again, as the LORD shall speak unto me: and the princes of Moab abode with Balaam.
@@ -95,27 +95,27 @@ metav_id: 593
 - **31:8** — And they slew the kings of Midian, beside the rest of them that were slain; namely, Evi, and Rekem, and Zur, and Hur, and Reba, five kings of Midian: Balaam also the son of Beor they slew with the sword.
 - **31:16** — Behold, these caused the children of Israel, through the counsel of Balaam, to commit trespass against the LORD in the matter of Peor, and there was a plague among the congregation of the LORD.
 
-### [[Deuteronomy]]
+### [[books/Deuteronomy|Deuteronomy]]
 - **23:4** — Because they met you not with bread and with water in the way, when ye came forth out of Egypt; and because they hired against thee Balaam the son of Beor of Pethor of Mesopotamia, to curse thee.
 - **23:5** — Nevertheless the LORD thy God would not hearken unto Balaam; but the LORD thy God turned the curse into a blessing unto thee, because the LORD thy God loved thee.
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **13:22** — Balaam also the son of Beor, the soothsayer, did the children of Israel slay with the sword among them that were slain by them.
 - **24:9** — Then Balak the son of Zippor, king of Moab, arose and warred against Israel, and sent and called Balaam the son of Beor to curse you:
 - **24:10** — But I would not hearken unto Balaam; therefore he blessed you still: so I delivered you out of his hand.
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **13:2** — Because they met not the children of Israel with bread and with water, but hired Balaam against them, that he should curse them: howbeit our God turned the curse into a blessing.
 
-### [[Micah]]
+### [[books/Micah|Micah]]
 - **6:5** — O my people, remember now what Balak king of Moab consulted, and what Balaam the son of Beor answered him from Shittim unto Gilgal; that ye may know the righteousness of the LORD.
 
-### [[2 Peter]]
+### [[books/2 Peter|2 Peter]]
 - **2:15** — Which have forsaken the right way, and are gone astray, following the way of Balaam the son of Bosor, who loved the wages of unrighteousness;
 
-### [[Jude]]
+### [[books/Jude|Jude]]
 - **1:11** — Woe unto them! for they have gone in the way of Cain, and ran greedily after the error of Balaam for reward, and perished in the gainsaying of Core.
 
-### [[Revelation]]
+### [[books/Revelation|Revelation]]
 - **2:14** — But I have a few things against thee, because thou hast there them that hold the doctrine of Balaam, who taught Balac to cast a stumblingblock before the children of Israel, to eat things sacrificed unto idols, and to commit fornication.
 

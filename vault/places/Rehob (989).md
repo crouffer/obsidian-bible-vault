@@ -26,13 +26,13 @@ metav_id: 989
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **19:30** — Ummah also, and Aphek, and Rehob: twenty and two cities with their villages.
 - **21:31** — Helkath with her suburbs, and Rehob with her suburbs; four cities.
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **1:31** — Neither did Asher drive out the inhabitants of Accho, nor the inhabitants of Zidon, nor of Ahlab, nor of Achzib, nor of Helbah, nor of Aphik, nor of Rehob:
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:75** — And Hukok with her suburbs, and Rehob with her suburbs:
 

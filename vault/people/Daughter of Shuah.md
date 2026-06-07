@@ -45,9 +45,9 @@ metav_id: 993
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **38:2** — And Judah saw there a daughter of a certain Canaanite, whose name was Shuah; and he took her, and went in unto her.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **2:3** — The sons of Judah; Er, and Onan, and Shelah: which three were born unto him of the daughter of Shua the Canaanitess. And Er, the firstborn of Judah, was evil in the sight of the LORD; and he slew him.
 

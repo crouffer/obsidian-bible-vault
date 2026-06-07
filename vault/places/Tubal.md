@@ -26,10 +26,10 @@ metav_id: 1183
 
 ## Verse References
 
-### [[Isaiah]]
+### [[books/Isaiah|Isaiah]]
 - **66:19** — And I will set a sign among them, and I will send those that escape of them unto the nations, to Tarshish, Pul, and Lud, that draw the bow, to Tubal, and Javan, to the isles afar off, that have not heard my fame, neither have seen my glory; and they shall declare my glory among the Gentiles.
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **27:13** — Javan, Tubal, and Meshech, they were thy merchants: they traded the persons of men and vessels of brass in thy market.
 - **38:2** — Son of man, set thy face against Gog, the land of Magog, the chief prince of Meshech and Tubal, and prophesy against him,
 - **38:3** — And say, Thus saith the Lord GOD; Behold, I am against thee, O Gog, the chief prince of Meshech and Tubal:

@@ -26,6 +26,6 @@ metav_id: 1121
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **28:12** — And landing at Syracuse, we tarried there three days.
 

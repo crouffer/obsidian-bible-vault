@@ -26,6 +26,6 @@ metav_id: 833
 
 ## Verse References
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **4:15** — For a voice declareth from Dan, and publisheth affliction from mount Ephraim.
 

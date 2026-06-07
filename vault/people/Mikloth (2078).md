@@ -17,8 +17,8 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Maachah (1844)]]"
-mother: "[[Abiel (23)]]"
+father: "[[Abiel (23)]]"
+mother: "[[Maachah (1844)]]"
 spouse: []
 children: 
   - "[[Shimeah]]"
@@ -54,7 +54,7 @@ metav_id: 2078
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **8:32** — And Mikloth begat Shimeah. And these also dwelt with their brethren in Jerusalem, over against them.
 - **9:37** — And Gedor, and Ahio, and Zechariah, and Mikloth.
 - **9:38** — And Mikloth begat Shimeam. And they also dwelt with their brethren at Jerusalem, over against their brethren.

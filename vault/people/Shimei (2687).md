@@ -44,7 +44,7 @@ metav_id: 2687
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **4:26** — And the sons of Mishma; Hamuel his son, Zacchur his son, Shimei his son.
 - **4:27** — And Shimei had sixteen sons and six daughters; but his brethren had not many children, neither did all their family multiply, like to the children of Judah.
 

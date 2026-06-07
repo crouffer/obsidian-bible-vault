@@ -44,7 +44,7 @@ metav_id: 545
 
 ## Verse References
 
-### [[Daniel]]
+### [[books/Daniel|Daniel]]
 - **1:6** — Now among these were of the children of Judah, Daniel, Hananiah, Mishael, and Azariah:
 - **1:7** — Unto whom the prince of the eunuchs gave names: for he gave unto Daniel the name of Belteshazzar; and to Hananiah, of Shadrach; and to Mishael, of Meshach; and to Azariah, of Abednego.
 - **1:11** — Then said Daniel to Melzar, whom the prince of the eunuchs had set over Daniel, Hananiah, Mishael, and Azariah,

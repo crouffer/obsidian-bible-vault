@@ -26,6 +26,6 @@ metav_id: 270
 
 ## Verse References
 
-### [[Isaiah]]
+### [[books/Isaiah|Isaiah]]
 - **10:9** — Is not Calno as Carchemish? is not Hamath as Arpad? is not Samaria as Damascus?
 

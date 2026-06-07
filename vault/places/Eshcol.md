@@ -26,11 +26,11 @@ metav_id: 1202
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **13:23** — And they came unto the brook of Eshcol, and cut down from thence a branch with one cluster of grapes, and they bare it between two upon a staff; and they brought of the pomegranates, and of the figs.
 - **13:24** — The place was called the brook Eshcol, because of the cluster of grapes which the children of Israel cut down from thence.
 - **32:9** — For when they went up unto the valley of Eshcol, and saw the land, they discouraged the heart of the children of Israel, that they should not go into the land which the LORD had given them.
 
-### [[Deuteronomy]]
+### [[books/Deuteronomy|Deuteronomy]]
 - **1:24** — And they turned and went up into the mountain, and came unto the valley of Eshcol, and searched it out.
 

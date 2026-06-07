@@ -53,12 +53,12 @@ metav_id: 962
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **10:6** — And the sons of Ham; Cush, and Mizraim, and Phut, and Canaan.
 - **10:7** — And the sons of Cush; Seba, and Havilah, and Sabtah, and Raamah, and Sabtecha: and the sons of Raamah; Sheba, and Dedan.
 - **10:8** — And Cush begat Nimrod: he began to be a mighty one in the earth.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:8** — The sons of Ham; Cush, and Mizraim, Put, and Canaan.
 - **1:9** — And the sons of Cush; Seba, and Havilah, and Sabta, and Raamah, and Sabtecha. And the sons of Raamah; Sheba, and Dedan.
 - **1:10** — And Cush begat Nimrod: he began to be mighty upon the earth.

@@ -44,7 +44,7 @@ metav_id: 1977
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **11:26** — But there remained two of the men in the camp, the name of the one was Eldad, and the name of the other Medad: and the spirit rested upon them; and they were of them that were written, but went not out unto the tabernacle: and they prophesied in the camp.
 - **11:27** — And there ran a young man, and told Moses, and said, Eldad and Medad do prophesy in the camp.
 

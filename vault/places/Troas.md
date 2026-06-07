@@ -26,15 +26,15 @@ metav_id: 1182
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **16:8** — And they passing by Mysia came down to Troas.
 - **16:11** — Therefore loosing from Troas, we came with a straight course to Samothracia, and the next day to Neapolis;
 - **20:5** — These going before tarried for us at Troas.
 - **20:6** — And we sailed away from Philippi after the days of unleavened bread, and came unto them to Troas in five days; where we abode seven days.
 
-### [[2 Corinthians]]
+### [[books/2 Corinthians|2 Corinthians]]
 - **2:12** — Furthermore, when I came to Troas to preach Christ's gospel, and a door was opened unto me of the Lord,
 
-### [[2 Timothy]]
+### [[books/2 Timothy|2 Timothy]]
 - **4:13** — The cloke that I left at Troas with Carpus, when thou comest, bring with thee, and the books, but especially the parchments.
 

@@ -26,15 +26,15 @@ metav_id: 1098
 
 ## Verse References
 
-### [[Exodus]]
+### [[books/Exodus|Exodus]]
 - **16:1** — And they took their journey from Elim, and all the congregation of the children of Israel came unto the wilderness of Sin, which is between Elim and Sinai, on the fifteenth day of the second month after their departing out of the land of Egypt.
 - **19:1** — In the third month, when the children of Israel were gone forth out of the land of Egypt, the same day came they into the wilderness of Sinai.
 - **19:2** — For they were departed from Rephidim, and were come to the desert of Sinai, and had pitched in the wilderness; and there Israel camped before the mount.
 
-### [[Leviticus]]
+### [[books/Leviticus|Leviticus]]
 - **7:38** — Which the LORD commanded Moses in mount Sinai, in the day that he commanded the children of Israel to offer their oblations unto the LORD, in the wilderness of Sinai.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **1:1** — And the LORD spake unto Moses in the wilderness of Sinai, in the tabernacle of the congregation, on the first day of the second month, in the second year after they were come out of the land of Egypt, saying,
 - **1:19** — As the LORD commanded Moses, so he numbered them in the wilderness of Sinai.
 - **3:4** — And Nadab and Abihu died before the LORD, when they offered strange fire before the LORD, in the wilderness of Sinai, and they had no children: and Eleazar and Ithamar ministered in the priest's office in the sight of Aaron their father.
@@ -46,12 +46,12 @@ metav_id: 1098
 - **33:15** — And they departed from Rephidim, and pitched in the wilderness of Sinai.
 - **33:16** — And they removed from the desert of Sinai, and pitched at Kibrothhattaavah.
 
-### [[Deuteronomy]]
+### [[books/Deuteronomy|Deuteronomy]]
 - **33:2** — And he said, The LORD came from Sinai, and rose up from Seir unto them; he shined forth from mount Paran, and he came with ten thousands of saints: from his right hand went a fiery law for them.
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **5:5** — The mountains melted from before the LORD, even that Sinai from before the LORD God of Israel.
 
-### [[Psalms]]
+### [[books/Psalms|Psalms]]
 - **68:17** — The chariots of God are twenty thousand, even thousands of angels: the Lord is among them, as in Sinai, in the holy place.
 

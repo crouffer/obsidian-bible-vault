@@ -26,9 +26,9 @@ metav_id: 582
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **3:28** — From above the horse gate repaired the priests, every one over against his house.
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **31:40** — And the whole valley of the dead bodies, and of the ashes, and all the fields unto the brook of Kidron, unto the corner of the horse gate toward the east, shall be holy unto the LORD; it shall not be plucked up, nor thrown down any more for ever.
 

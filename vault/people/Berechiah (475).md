@@ -45,7 +45,7 @@ metav_id: 475
 
 ## Verse References
 
-### [[Zechariah]]
+### [[books/Zechariah|Zechariah]]
 - **1:1** — In the eighth month, in the second year of Darius, came the word of the LORD unto Zechariah, the son of Berechiah, the son of Iddo the prophet, saying,
 - **1:7** — Upon the four and twentieth day of the eleventh month, which is the month Sebat, in the second year of Darius, came the word of the LORD unto Zechariah, the son of Berechiah, the son of Iddo the prophet, saying,
 

@@ -26,9 +26,9 @@ metav_id: 225
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **32:36** — And Bethnimrah, and Bethharan, fenced cities: and folds for sheep.
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **13:27** — And in the valley, Betharam, and Bethnimrah, and Succoth, and Zaphon, the rest of the kingdom of Sihon king of Heshbon, Jordan and his border, even unto the edge of the sea of Chinnereth on the other side Jordan eastward.
 

@@ -26,6 +26,6 @@ metav_id: 249
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **4:29** — And at Bilhah, and at Ezem, and at Tolad,
 

@@ -47,7 +47,7 @@ metav_id: 2130
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **2:28** — And the sons of Onam were, Shammai, and Jada. And the sons of Shammai; Nadab, and Abishur.
 - **2:30** — And the sons of Nadab; Seled, and Appaim: but Seled died without children.
 

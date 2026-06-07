@@ -44,6 +44,6 @@ metav_id: 1967
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **12:19** — And of Joiarib, Mattenai; of Jedaiah, Uzzi;
 

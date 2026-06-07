@@ -46,7 +46,7 @@ metav_id: 1632
 
 ## Verse References
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **11:2** — But Jehosheba, the daughter of king Joram, sister of Ahaziah, took Joash the son of Ahaziah, and stole him from among the king's sons which were slain; and they hid him, even him and his nurse, in the bedchamber from Athaliah, so that he was not slain.
 - **11:21** — Seven years old was Jehoash when he began to reign.
 - **12:1** — In the seventh year of Jehu Jehoash began to reign; and forty years reigned he in Jerusalem. And his mother's name was Zibiah of Beersheba.
@@ -60,10 +60,10 @@ metav_id: 1632
 - **13:1** — In the three and twentieth year of Joash the son of Ahaziah king of Judah Jehoahaz the son of Jehu began to reign over Israel in Samaria, and reigned seventeen years.
 - **14:3** — And he did that which was right in the sight of the LORD, yet not like David his father: he did according to all things as Joash his father did.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **3:11** — Joram his son, Ahaziah his son, Joash his son,
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **22:11** — But Jehoshabeath, the daughter of the king, took Joash the son of Ahaziah, and stole him from among the king's sons that were slain, and put him and his nurse in a bedchamber. So Jehoshabeath, the daughter of king Jehoram, the wife of Jehoiada the priest, (for she was the sister of Ahaziah,) hid him from Athaliah, so that she slew him not.
 - **24:1** — Joash was seven years old when he began to reign, and he reigned forty years in Jerusalem. His mother's name also was Zibiah of Beersheba.
 - **24:2** — And Joash did that which was right in the sight of the LORD all the days of Jehoiada the priest.

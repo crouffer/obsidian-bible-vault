@@ -26,6 +26,6 @@ metav_id: 416
 
 ## Verse References
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **11:6** — He built even Bethlehem, and Etam, and Tekoa,
 

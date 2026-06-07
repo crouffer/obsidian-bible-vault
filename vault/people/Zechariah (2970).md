@@ -45,9 +45,9 @@ metav_id: 2970
 
 ## Verse References
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **18:2** — Twenty and five years old was he when he began to reign; and he reigned twenty and nine years in Jerusalem. His mother's name also was Abi, the daughter of Zachariah.
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **29:1** — Hezekiah began to reign when he was five and twenty years old, and he reigned nine and twenty years in Jerusalem. And his mother's name was Abijah, the daughter of Zechariah.
 

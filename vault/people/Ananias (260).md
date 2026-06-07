@@ -44,7 +44,7 @@ metav_id: 260
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **23:2** — And the high priest Ananias commanded them that stood by him to smite him on the mouth.
 - **24:1** — And after five days Ananias the high priest descended with the elders, and with a certain orator named Tertullus, who informed the governor against Paul.
 

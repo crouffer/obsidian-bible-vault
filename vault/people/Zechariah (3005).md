@@ -44,6 +44,6 @@ metav_id: 3005
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **24:25** — The brother of Michah was Isshiah: of the sons of Isshiah; Zechariah.
 

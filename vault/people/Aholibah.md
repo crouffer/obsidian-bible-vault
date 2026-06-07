@@ -45,7 +45,7 @@ metav_id: 171
 
 ## Verse References
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **23:4** — And the names of them were Aholah the elder, and Aholibah her sister: and they were mine, and they bare sons and daughters. Thus were their names; Samaria is Aholah, and Jerusalem Aholibah.
 - **23:11** — And when her sister Aholibah saw this, she was more corrupt in her inordinate love than she, and in her whoredoms more than her sister in her whoredoms.
 - **23:22** — Therefore, O Aholibah, thus saith the Lord GOD; Behold, I will raise up thy lovers against thee, from whom thy mind is alienated, and I will bring them against thee on every side;

@@ -26,6 +26,6 @@ metav_id: 1105
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **15:35** — Jarmuth, and Adullam, Socoh, and Azekah,
 

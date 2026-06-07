@@ -26,6 +26,6 @@ metav_id: 1228
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **21:14** — Wherefore it is said in the book of the wars of the LORD, What he did in the Red sea, and in the brooks of Arnon,
 

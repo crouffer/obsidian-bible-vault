@@ -26,7 +26,7 @@ metav_id: 558
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **19:25** — And their border was Helkath, and Hali, and Beten, and Achshaph,
 - **21:31** — Helkath with her suburbs, and Rehob with her suburbs; four cities.
 

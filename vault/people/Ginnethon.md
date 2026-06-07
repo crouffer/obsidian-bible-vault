@@ -44,7 +44,7 @@ metav_id: 1321
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **10:6** — Daniel, Ginnethon, Baruch,
 - **12:4** — Iddo, Ginnetho, Abijah,
 - **12:16** — Of Iddo, Zechariah; of Ginnethon, Meshullam;

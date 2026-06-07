@@ -54,18 +54,18 @@ metav_id: 744
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **10:2** — The sons of Japheth; Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras.
 - **10:4** — And the sons of Javan; Elishah, and Tarshish, Kittim, and Dodanim.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:5** — The sons of Japheth; Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras.
 - **1:7** — And the sons of Javan; Elishah, and Tarshish, Kittim, and Dodanim.
 
-### [[Isaiah]]
+### [[books/Isaiah|Isaiah]]
 - **66:19** — And I will set a sign among them, and I will send those that escape of them unto the nations, to Tarshish, Pul, and Lud, that draw the bow, to Tubal, and Javan, to the isles afar off, that have not heard my fame, neither have seen my glory; and they shall declare my glory among the Gentiles.
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **27:13** — Javan, Tubal, and Meshech, they were thy merchants: they traded the persons of men and vessels of brass in thy market.
 - **27:19** — Dan also and Javan going to and fro occupied in thy fairs: bright iron, cassia, and calamus, were in thy market.
 

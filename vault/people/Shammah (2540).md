@@ -44,9 +44,9 @@ metav_id: 2540
 
 ## Verse References
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **23:25** — Shammah the Harodite, Elika the Harodite,
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **11:27** — Shammoth the Harorite, Helez the Pelonite,
 

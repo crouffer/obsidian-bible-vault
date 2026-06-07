@@ -26,10 +26,10 @@ metav_id: 907
 
 ## Verse References
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **19:29** — And it came to pass, when he was come nigh to Bethphage and Bethany, at the mount called the mount of Olives, he sent two of his disciples,
 - **21:37** — And in the day time he was teaching in the temple; and at night he went out, and abode in the mount that is called the mount of Olives.
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **1:12** — Then returned they unto Jerusalem from the mount called Olivet, which is from Jerusalem a sabbath day's journey.
 

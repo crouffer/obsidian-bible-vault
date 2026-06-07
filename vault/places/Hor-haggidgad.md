@@ -26,7 +26,7 @@ metav_id: 579
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **33:32** — And they removed from Benejaakan, and encamped at Horhagidgad.
 - **33:33** — And they went from Horhagidgad, and pitched in Jotbathah.
 

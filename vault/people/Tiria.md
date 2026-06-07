@@ -47,6 +47,6 @@ metav_id: 2867
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **4:16** — And the sons of Jehaleleel; Ziph, and Ziphah, Tiria, and Asareel.
 

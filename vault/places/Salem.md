@@ -26,13 +26,13 @@ metav_id: 1018
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **14:18** — And Melchizedek king of Salem brought forth bread and wine: and he was the priest of the most high God.
 
-### [[Psalms]]
+### [[books/Psalms|Psalms]]
 - **76:2** — In Salem also is his tabernacle, and his dwelling place in Zion.
 
-### [[Hebrews]]
+### [[books/Hebrews|Hebrews]]
 - **7:1** — For this Melchisedec, king of Salem, priest of the most high God, who met Abraham returning from the slaughter of the kings, and blessed him;
 - **7:2** — To whom also Abraham gave a tenth part of all; first being by interpretation King of righteousness, and after that also King of Salem, which is, King of peace;
 

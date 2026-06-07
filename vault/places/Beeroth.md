@@ -26,17 +26,17 @@ metav_id: 168
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **9:17** — And the children of Israel journeyed, and came unto their cities on the third day. Now their cities were Gibeon, and Chephirah, and Beeroth, and Kirjathjearim.
 - **18:25** — Gibeon, and Ramah, and Beeroth,
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **4:2** — And Saul's son had two men that were captains of bands: the name of the one was Baanah, and the name of the other Rechab, the sons of Rimmon a Beerothite, of the children of Benjamin: (for Beeroth also was reckoned to Benjamin:
 - **23:37** — Zelek the Ammonite, Naharai the Beerothite, armourbearer to Joab the son of Zeruiah,
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **2:25** — The children of Kirjatharim, Chephirah, and Beeroth, seven hundred and forty and three.
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **7:29** — The men of Kirjathjearim, Chephirah, and Beeroth, seven hundred forty and three.
 

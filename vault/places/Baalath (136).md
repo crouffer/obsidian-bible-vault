@@ -26,6 +26,6 @@ metav_id: 136
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **19:44** — And Eltekeh, and Gibbethon, and Baalath,
 

@@ -26,6 +26,6 @@ metav_id: 280
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **27:16** — And running under a certain island which is called Clauda, we had much work to come by the boat:
 

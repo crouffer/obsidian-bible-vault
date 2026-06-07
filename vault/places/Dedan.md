@@ -26,11 +26,11 @@ metav_id: 329
 
 ## Verse References
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **25:23** — Dedan, and Tema, and Buz, and all that are in the utmost corners,
 - **49:8** — Flee ye, turn back, dwell deep, O inhabitants of Dedan; for I will bring the calamity of Esau upon him, the time that I will visit him.
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **25:13** — Therefore thus saith the Lord GOD; I will also stretch out mine hand upon Edom, and will cut off man and beast from it; and I will make it desolate from Teman; and they of Dedan shall fall by the sword.
 - **27:15** — The men of Dedan were thy merchants; many isles were the merchandise of thine hand: they brought thee for a present horns of ivory and ebony.
 - **27:20** — Dedan was thy merchant in precious clothes for chariots.

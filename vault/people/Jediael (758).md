@@ -45,6 +45,6 @@ metav_id: 758
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **11:45** — Jediael the son of Shimri, and Joha his brother, the Tizite,
 

@@ -44,10 +44,10 @@ metav_id: 2529
 
 ## Verse References
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **17:3** — Against him came up Shalmaneser king of Assyria; and Hoshea became his servant, and gave him presents.
 - **18:9** — And it came to pass in the fourth year of king Hezekiah, which was the seventh year of Hoshea son of Elah king of Israel, that Shalmaneser king of Assyria came up against Samaria, and besieged it.
 
-### [[Hosea]]
+### [[books/Hosea|Hosea]]
 - **10:14** — Therefore shall a tumult arise among thy people, and all thy fortresses shall be spoiled, as Shalman spoiled Betharbel in the day of battle: the mother was dashed in pieces upon her children.
 

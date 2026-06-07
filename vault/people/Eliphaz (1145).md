@@ -44,7 +44,7 @@ metav_id: 1145
 
 ## Verse References
 
-### [[Job]]
+### [[books/Job|Job]]
 - **2:11** — Now when Job's three friends heard of all this evil that was come upon him, they came every one from his own place; Eliphaz the Temanite, and Bildad the Shuhite, and Zophar the Naamathite: for they had made an appointment together to come to mourn with him and to comfort him.
 - **4:1** — Then Eliphaz the Temanite answered and said,
 - **15:1** — Then answered Eliphaz the Temanite, and said,

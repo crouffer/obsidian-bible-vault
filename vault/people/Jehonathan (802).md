@@ -44,6 +44,6 @@ metav_id: 802
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **12:18** — Of Bilgah, Shammua; of Shemaiah, Jehonathan;
 

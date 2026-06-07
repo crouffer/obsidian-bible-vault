@@ -44,7 +44,7 @@ metav_id: 96
 
 ## Verse References
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **1:5** — And they found Adonibezek in Bezek: and they fought against him, and they slew the Canaanites and the Perizzites.
 - **1:6** — But Adonibezek fled; and they pursued after him, and caught him, and cut off his thumbs and his great toes.
 - **1:7** — And Adonibezek said, Threescore and ten kings, having their thumbs and their great toes cut off, gathered their meat under my table: as I have done, so God hath requited me. And they brought him to Jerusalem, and there he died.

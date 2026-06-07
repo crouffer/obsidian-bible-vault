@@ -44,6 +44,6 @@ metav_id: 2996
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **10:20** — And of the sons of Immer; Hanani, and Zebadiah.
 

@@ -26,16 +26,16 @@ metav_id: 1091
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **32:38** — And Nebo, and Baalmeon, (their names being changed,) and Shibmah: and gave other names unto the cities which they builded.
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **13:19** — And Kirjathaim, and Sibmah, and Zarethshahar in the mount of the valley,
 
-### [[Isaiah]]
+### [[books/Isaiah|Isaiah]]
 - **16:8** — For the fields of Heshbon languish, and the vine of Sibmah: the lords of the heathen have broken down the principal plants thereof, they are come even unto Jazer, they wandered through the wilderness: her branches are stretched out, they are gone over the sea.
 - **16:9** — Therefore I will bewail with the weeping of Jazer the vine of Sibmah: I will water thee with my tears, O Heshbon, and Elealeh: for the shouting for thy summer fruits and for thy harvest is fallen.
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **48:32** — O vine of Sibmah, I will weep for thee with the weeping of Jazer: thy plants are gone over the sea, they reach even to the sea of Jazer: the spoiler is fallen upon thy summer fruits and upon thy vintage.
 

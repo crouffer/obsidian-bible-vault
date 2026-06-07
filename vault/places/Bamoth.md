@@ -26,7 +26,7 @@ metav_id: 157
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **21:19** — And from Mattanah to Nahaliel: and from Nahaliel to Bamoth:
 - **21:20** — And from Bamoth in the valley, that is in the country of Moab, to the top of Pisgah, which looketh toward Jeshimon.
 

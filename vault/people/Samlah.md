@@ -44,11 +44,11 @@ metav_id: 2467
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **36:36** — And Hadad died, and Samlah of Masrekah reigned in his stead.
 - **36:37** — And Samlah died, and Saul of Rehoboth by the river reigned in his stead.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:47** — And when Hadad was dead, Samlah of Masrekah reigned in his stead.
 - **1:48** — And when Samlah was dead, Shaul of Rehoboth by the river reigned in his stead.
 

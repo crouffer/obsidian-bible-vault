@@ -46,12 +46,12 @@ metav_id: 1215
 
 ## Verse References
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **19:37** — And it came to pass, as he was worshipping in the house of Nisroch his god, that Adrammelech and Sharezer his sons smote him with the sword: and they escaped into the land of Armenia. And Esarhaddon his son reigned in his stead.
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **4:2** — Then they came to Zerubbabel, and to the chief of the fathers, and said unto them, Let us build with you: for we seek your God, as ye do; and we do sacrifice unto him since the days of Esarhaddon king of Assur, which brought us up hither.
 
-### [[Isaiah]]
+### [[books/Isaiah|Isaiah]]
 - **37:38** — And it came to pass, as he was worshipping in the house of Nisroch his god, that Adrammelech and Sharezer his sons smote him with the sword; and they escaped into the land of Armenia: and Esarhaddon his son reigned in his stead.
 

@@ -46,11 +46,11 @@ metav_id: 379
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:13** — And Shallum begat Hilkiah, and Hilkiah begat Azariah,
 - **6:14** — And Azariah begat Seraiah, and Seraiah begat Jehozadak,
 - **9:11** — And Azariah the son of Hilkiah, the son of Meshullam, the son of Zadok, the son of Meraioth, the son of Ahitub, the ruler of the house of God;
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **7:1** — Now after these things, in the reign of Artaxerxes king of Persia, Ezra the son of Seraiah, the son of Azariah, the son of Hilkiah,
 

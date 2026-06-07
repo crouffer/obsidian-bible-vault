@@ -26,6 +26,6 @@ metav_id: 119
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **32:35** — And Atroth, Shophan, and Jaazer, and Jogbehah,
 

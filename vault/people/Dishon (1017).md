@@ -45,9 +45,9 @@ metav_id: 1017
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **36:25** — And the children of Anah were these; Dishon, and Aholibamah the daughter of Anah.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:41** — The sons of Anah; Dishon. And the sons of Dishon; Amram, and Eshban, and Ithran, and Cheran.
 

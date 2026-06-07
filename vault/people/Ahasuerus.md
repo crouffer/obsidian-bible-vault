@@ -46,10 +46,10 @@ metav_id: 117
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **4:6** — And in the reign of Ahasuerus, in the beginning of his reign, wrote they unto him an accusation against the inhabitants of Judah and Jerusalem.
 
-### [[Esther]]
+### [[books/Esther|Esther]]
 - **1:1** — Now it came to pass in the days of Ahasuerus, (this is Ahasuerus which reigned, from India even unto Ethiopia, over an hundred and seven and twenty provinces:)
 - **1:2** — That in those days, when the king Ahasuerus sat on the throne of his kingdom, which was in Shushan the palace,
 - **1:9** — Also Vashti the queen made a feast for the women in the royal house which belonged to king Ahasuerus.
@@ -78,6 +78,6 @@ metav_id: 117
 - **10:1** — And the king Ahasuerus laid a tribute upon the land, and upon the isles of the sea.
 - **10:3** — For Mordecai the Jew was next unto king Ahasuerus, and great among the Jews, and accepted of the multitude of his brethren, seeking the wealth of his people, and speaking peace to all his seed.
 
-### [[Daniel]]
+### [[books/Daniel|Daniel]]
 - **9:1** — In the first year of Darius the son of Ahasuerus, of the seed of the Medes, which was made king over the realm of the Chaldeans;
 

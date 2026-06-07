@@ -50,14 +50,14 @@ metav_id: 2004
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **46:11** — And the sons of Levi; Gershon, Kohath, and Merari.
 
-### [[Exodus]]
+### [[books/Exodus|Exodus]]
 - **6:16** — And these are the names of the sons of Levi according to their generations; Gershon, and Kohath, and Merari: and the years of the life of Levi were an hundred thirty and seven years.
 - **6:19** — And the sons of Merari; Mahali and Mushi: these are the families of Levi according to their generations.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **3:17** — And these were the sons of Levi by their names; Gershon, and Kohath, and Merari.
 - **3:20** — And the sons of Merari by their families; Mahli, and Mushi. These are the families of the Levites according to the house of their fathers.
 - **3:33** — Of Merari was the family of the Mahlites, and the family of the Mushites: these are the families of Merari.
@@ -71,12 +71,12 @@ metav_id: 2004
 - **10:17** — And the tabernacle was taken down; and the sons of Gershon and the sons of Merari set forward, bearing the tabernacle.
 - **26:57** — And these are they that were numbered of the Levites after their families: of Gershon, the family of the Gershonites: of Kohath, the family of the Kohathites: of Merari, the family of the Merarites.
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **21:7** — The children of Merari by their families had out of the tribe of Reuben, and out of the tribe of Gad, and out of the tribe of Zebulun, twelve cities.
 - **21:34** — And unto the families of the children of Merari, the rest of the Levites, out of the tribe of Zebulun, Jokneam with her suburbs, and Kartah with her suburbs,
 - **21:40** — So all the cities for the children of Merari by their families, which were remaining of the families of the Levites, were by their lot twelve cities.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:1** — The sons of Levi; Gershon, Kohath, and Merari.
 - **6:16** — The sons of Levi; Gershom, Kohath, and Merari.
 - **6:19** — The sons of Merari; Mahli, and Mushi. And these are the families of the Levites according to their fathers.
@@ -95,10 +95,10 @@ metav_id: 2004
 - **26:10** — Also Hosah, of the children of Merari, had sons; Simri the chief, (for though he was not the firstborn, yet his father made him the chief;)
 - **26:19** — These are the divisions of the porters among the sons of Kore, and among the sons of Merari.
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **29:12** — Then the Levites arose, Mahath the son of Amasai, and Joel the son of Azariah, of the sons of the Kohathites: and of the sons of Merari, Kish the son of Abdi, and Azariah the son of Jehalelel: and of the Gershonites; Joah the son of Zimmah, and Eden the son of Joah:
 - **34:12** — And the men did the work faithfully: and the overseers of them were Jahath and Obadiah, the Levites, of the sons of Merari; and Zechariah and Meshullam, of the sons of the Kohathites, to set it forward; and other of the Levites, all that could skill of instruments of musick.
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **8:19** — And Hashabiah, and with him Jeshaiah of the sons of Merari, his brethren and their sons, twenty;
 

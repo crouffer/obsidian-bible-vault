@@ -26,12 +26,12 @@ metav_id: 783
 
 ## Verse References
 
-### [[Exodus]]
+### [[books/Exodus|Exodus]]
 - **17:7** — And he called the name of the place Massah, and Meribah, because of the chiding of the children of Israel, and because they tempted the LORD, saying, Is the LORD among us, or not?
 
-### [[Deuteronomy]]
+### [[books/Deuteronomy|Deuteronomy]]
 - **33:8** — And of Levi he said, Let thy Thummim and thy Urim be with thy holy one, whom thou didst prove at Massah, and with whom thou didst strive at the waters of Meribah;
 
-### [[Psalms]]
+### [[books/Psalms|Psalms]]
 - **95:8** — Harden not your heart, as in the provocation, and as in the day of temptation in the wilderness:
 

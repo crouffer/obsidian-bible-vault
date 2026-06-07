@@ -47,7 +47,7 @@ metav_id: 2431
 
 ## Verse References
 
-### [[Exodus]]
+### [[books/Exodus|Exodus]]
 - **2:18** — And when they came to Reuel their father, he said, How is it that ye are come so soon to day?
 - **3:1** — Now Moses kept the flock of Jethro his father in law, the priest of Midian: and he led the flock to the backside of the desert, and came to the mountain of God, even to Horeb.
 - **4:18** — And Moses went and returned to Jethro his father in law, and said unto him, Let me go, I pray thee, and return unto my brethren which are in Egypt, and see whether they be yet alive. And Jethro said to Moses, Go in peace.
@@ -59,7 +59,7 @@ metav_id: 2431
 - **18:10** — And Jethro said, Blessed be the LORD, who hath delivered you out of the hand of the Egyptians, and out of the hand of Pharaoh, who hath delivered the people from under the hand of the Egyptians.
 - **18:12** — And Jethro, Moses' father in law, took a burnt offering and sacrifices for God: and Aaron came, and all the elders of Israel, to eat bread with Moses' father in law before God.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **1:14** — Of Gad; Eliasaph the son of Deuel.
 - **2:14** — Then the tribe of Gad: and the captain of the sons of Gad shall be Eliasaph the son of Reuel.
 - **7:42** — On the sixth day Eliasaph the son of Deuel, prince of the children of Gad, offered:

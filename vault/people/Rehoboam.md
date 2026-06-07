@@ -17,8 +17,8 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Naamah (2119)]]"
-mother: "[[Solomon]]"
+father: "[[Solomon]]"
+mother: "[[Naamah (2119)]]"
 spouse: 
   - "[[Abihail (31)]]"
   - "[[Maachah (1841)]]"
@@ -56,7 +56,7 @@ metav_id: 2412
 
 ## Verse References
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **11:43** — And Solomon slept with his fathers, and was buried in the city of David his father: and Rehoboam his son reigned in his stead.
 - **12:1** — And Rehoboam went to Shechem: for all Israel were come to Shechem to make him king.
 - **12:3** — That they sent and called him. And Jeroboam and all the congregation of Israel came, and spake unto Rehoboam, saying,
@@ -75,10 +75,10 @@ metav_id: 2412
 - **14:31** — And Rehoboam slept with his fathers, and was buried with his fathers in the city of David. And his mother's name was Naamah an Ammonitess. And Abijam his son reigned in his stead.
 - **15:6** — And there was war between Rehoboam and Jeroboam all the days of his life.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **3:10** — And Solomon's son was Rehoboam, Abia his son, Asa his son, Jehoshaphat his son,
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **9:31** — And Solomon slept with his fathers, and he was buried in the city of David his father: and Rehoboam his son reigned in his stead.
 - **10:1** — And Rehoboam went to Shechem: for to Shechem were all Israel come to make him king.
 - **10:3** — And they sent and called him. So Jeroboam and all Israel came and spake to Rehoboam, saying,
@@ -103,6 +103,6 @@ metav_id: 2412
 - **12:16** — And Rehoboam slept with his fathers, and was buried in the city of David: and Abijah his son reigned in his stead.
 - **13:7** — And there are gathered unto him vain men, the children of Belial, and have strengthened themselves against Rehoboam the son of Solomon, when Rehoboam was young and tenderhearted, and could not withstand them.
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **1:7** — And Solomon begat Roboam; and Roboam begat Abia; and Abia begat Asa;
 

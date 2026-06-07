@@ -51,7 +51,7 @@ metav_id: 622
 
 ## Verse References
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **2:8** — But Abner the son of Ner, captain of Saul's host, took Ishbosheth the son of Saul, and brought him over to Mahanaim;
 - **2:10** — Ishbosheth Saul's son was forty years old when he began to reign over Israel, and reigned two years. But the house of Judah followed David.
 - **2:12** — And Abner the son of Ner, and the servants of Ishbosheth the son of Saul, went out from Mahanaim to Gibeon.

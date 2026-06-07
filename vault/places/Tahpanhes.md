@@ -26,7 +26,7 @@ metav_id: 1133
 
 ## Verse References
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **43:7** — So they came into the land of Egypt: for they obeyed not the voice of the LORD: thus came they even to Tahpanhes.
 - **43:8** — Then came the word of the LORD unto Jeremiah in Tahpanhes, saying,
 - **43:9** — Take great stones in thine hand, and hide them in the clay in the brickkiln, which is at the entry of Pharaoh's house in Tahpanhes, in the sight of the men of Judah;

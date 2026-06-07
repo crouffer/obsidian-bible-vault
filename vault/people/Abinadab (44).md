@@ -51,10 +51,10 @@ metav_id: 44
 
 ## Verse References
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **16:8** — Then Jesse called Abinadab, and made him pass before Samuel. And he said, Neither hath the LORD chosen this.
 - **17:13** — And the three eldest sons of Jesse went and followed Saul to the battle: and the names of his three sons that went to the battle were Eliab the firstborn, and next unto him Abinadab, and the third Shammah.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **2:13** — And Jesse begat his firstborn Eliab, and Abinadab the second, and Shimma the third,
 

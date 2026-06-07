@@ -57,7 +57,7 @@ metav_id: 2627
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **26:4** — Moreover the sons of Obededom were, Shemaiah the firstborn, Jehozabad the second, Joah the third, and Sacar the fourth, and Nethaneel the fifth,
 - **26:6** — Also unto Shemaiah his son were sons born, that ruled throughout the house of their father: for they were mighty men of valour.
 - **26:7** — The sons of Shemaiah; Othni, and Rephael, and Obed, Elzabad, whose brethren were strong men, Elihu, and Semachiah.

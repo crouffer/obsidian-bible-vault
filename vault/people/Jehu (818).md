@@ -45,6 +45,6 @@ metav_id: 818
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **2:38** — And Obed begat Jehu, and Jehu begat Azariah,
 

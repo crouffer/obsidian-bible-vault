@@ -44,9 +44,9 @@ metav_id: 36
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **24:10** — The seventh to Hakkoz, the eighth to Abijah,
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **1:5** — There was in the days of Herod, the king of Judaea, a certain priest named Zacharias, of the course of Abia: and his wife was of the daughters of Aaron, and her name was Elisabeth.
 

@@ -17,8 +17,8 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Adah (69)]]"
-mother: "[[Lamech (1808)]]"
+father: "[[Lamech (1808)]]"
+mother: "[[Adah (69)]]"
 spouse: []
 children: []
 siblings: 
@@ -45,6 +45,6 @@ metav_id: 1748
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **4:21** — And his brother's name was Jubal: he was the father of all such as handle the harp and organ.
 

@@ -51,6 +51,6 @@ metav_id: 2387
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **2:14** — Nethaneel the fourth, Raddai the fifth,
 

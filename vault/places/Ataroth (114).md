@@ -26,7 +26,7 @@ metav_id: 114
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **16:2** — And goeth out from Bethel to Luz, and passeth along unto the borders of Archi to Ataroth,
 - **16:7** — And it went down from Janohah to Ataroth, and to Naarath, and came to Jericho, and went out at Jordan.
 

@@ -48,12 +48,12 @@ metav_id: 2345
 
 ## Verse References
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **14:3** — For Herod had laid hold on John, and bound him, and put him in prison for Herodias' sake, his brother Philip's wife.
 
-### [[Mark]]
+### [[books/Mark|Mark]]
 - **6:17** — For Herod himself had sent forth and laid hold upon John, and bound him in prison for Herodias' sake, his brother Philip's wife: for he had married her.
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **3:19** — But Herod the tetrarch, being reproved by him for Herodias his brother Philip's wife, and for all the evils which Herod had done,
 

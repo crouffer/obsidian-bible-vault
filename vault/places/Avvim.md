@@ -26,6 +26,6 @@ metav_id: 124
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **18:23** — And Avim, and Parah, and Ophrah,
 

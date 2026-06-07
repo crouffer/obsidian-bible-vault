@@ -26,9 +26,9 @@ metav_id: 913
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **18:23** — And Avim, and Parah, and Ophrah,
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **13:17** — And the spoilers came out of the camp of the Philistines in three companies: one company turned unto the way that leadeth to Ophrah, unto the land of Shual:
 

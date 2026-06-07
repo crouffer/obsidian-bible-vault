@@ -45,6 +45,6 @@ metav_id: 1509
 
 ## Verse References
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **4:10** — The son of Hesed, in Aruboth; to him pertained Sochoh, and all the land of Hepher:
 

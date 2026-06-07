@@ -44,9 +44,9 @@ metav_id: 2772
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **18:17** — Then all the Greeks took Sosthenes, the chief ruler of the synagogue, and beat him before the judgment seat. And Gallio cared for none of those things.
 
-### [[1 Corinthians]]
+### [[books/1 Corinthians|1 Corinthians]]
 - **1:1** — Paul, called to be an apostle of Jesus Christ through the will of God, and Sosthenes our brother,
 

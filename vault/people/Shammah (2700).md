@@ -52,14 +52,14 @@ metav_id: 2700
 
 ## Verse References
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **16:9** — Then Jesse made Shammah to pass by. And he said, Neither hath the LORD chosen this.
 - **17:13** — And the three eldest sons of Jesse went and followed Saul to the battle: and the names of his three sons that went to the battle were Eliab the firstborn, and next unto him Abinadab, and the third Shammah.
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **13:3** — But Amnon had a friend, whose name was Jonadab, the son of Shimeah David's brother: and Jonadab was a very subtil man.
 - **13:32** — And Jonadab, the son of Shimeah David's brother, answered and said, Let not my lord suppose that they have slain all the young men the king's sons; for Amnon only is dead: for by the appointment of Absalom this hath been determined from the day that he forced his sister Tamar.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **2:13** — And Jesse begat his firstborn Eliab, and Abinadab the second, and Shimma the third,
 

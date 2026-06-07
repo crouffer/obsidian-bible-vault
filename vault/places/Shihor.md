@@ -26,9 +26,9 @@ metav_id: 1076
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **13:3** — From Sihor, which is before Egypt, even unto the borders of Ekron northward, which is counted to the Canaanite: five lords of the Philistines; the Gazathites, and the Ashdothites, the Eshkalonites, the Gittites, and the Ekronites; also the Avites:
 
-### [[Isaiah]]
+### [[books/Isaiah|Isaiah]]
 - **23:3** — And by great waters the seed of Sihor, the harvest of the river, is her revenue; and she is a mart of nations.
 

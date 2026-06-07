@@ -26,6 +26,6 @@ metav_id: 882
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **11:34** — Hadid, Zeboim, Neballat,
 

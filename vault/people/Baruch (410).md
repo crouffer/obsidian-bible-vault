@@ -45,7 +45,7 @@ metav_id: 410
 
 ## Verse References
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **32:12** — And I gave the evidence of the purchase unto Baruch the son of Neriah, the son of Maaseiah, in the sight of Hanameel mine uncle's son, and in the presence of the witnesses that subscribed the book of the purchase, before all the Jews that sat in the court of the prison.
 - **32:13** — And I charged Baruch before them, saying,
 - **32:16** — Now when I had delivered the evidence of the purchase unto Baruch the son of Neriah, I prayed unto the LORD, saying,

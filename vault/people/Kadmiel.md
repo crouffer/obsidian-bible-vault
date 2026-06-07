@@ -45,11 +45,11 @@ metav_id: 1767
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **2:40** — The Levites: the children of Jeshua and Kadmiel, of the children of Hodaviah, seventy and four.
 - **3:9** — Then stood Jeshua with his sons and his brethren, Kadmiel and his sons, the sons of Judah, together, to set forward the workmen in the house of God: the sons of Henadad, with their sons and their brethren the Levites.
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **7:43** — The Levites: the children of Jeshua, of Kadmiel, and of the children of Hodevah, seventy and four.
 - **9:4** — Then stood up upon the stairs, of the Levites, Jeshua, and Bani, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani, and Chenani, and cried with a loud voice unto the LORD their God.
 - **9:5** — Then the Levites, Jeshua, and Kadmiel, Bani, Hashabniah, Sherebiah, Hodijah, Shebaniah, and Pethahiah, said, Stand up and bless the LORD your God for ever and ever: and blessed be thy glorious name, which is exalted above all blessing and praise.

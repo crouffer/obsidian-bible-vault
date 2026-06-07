@@ -45,7 +45,7 @@ metav_id: 162
 
 ## Verse References
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **15:12** — And Absalom sent for Ahithophel the Gilonite, David's counsellor, from his city, even from Giloh, while he offered sacrifices. And the conspiracy was strong; for the people increased continually with Absalom.
 - **15:31** — And one told David, saying, Ahithophel is among the conspirators with Absalom. And David said, O LORD, I pray thee, turn the counsel of Ahithophel into foolishness.
 - **15:34** — But if thou return to the city, and say unto Absalom, I will be thy servant, O king; as I have been thy father's servant hitherto, so will I now also be thy servant: then mayest thou for me defeat the counsel of Ahithophel.
@@ -62,7 +62,7 @@ metav_id: 162
 - **17:23** — And when Ahithophel saw that his counsel was not followed, he saddled his ass, and arose, and gat him home to his house, to his city, and put his household in order, and hanged himself, and died, and was buried in the sepulchre of his father.
 - **23:34** — Eliphelet the son of Ahasbai, the son of the Maachathite, Eliam the son of Ahithophel the Gilonite,
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **27:33** — And Ahithophel was the king's counsellor: and Hushai the Archite was the king's companion:
 - **27:34** — And after Ahithophel was Jehoiada the son of Benaiah, and Abiathar: and the general of the king's army was Joab.
 

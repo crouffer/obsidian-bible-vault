@@ -26,6 +26,6 @@ metav_id: 1154
 
 ## Verse References
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **23:33** — And when they were come to the place, which is called Calvary, there they crucified him, and the malefactors, one on the right hand, and the other on the left.
 

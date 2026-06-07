@@ -26,6 +26,6 @@ metav_id: 959
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **21:7** — And when we had finished our course from Tyre, we came to Ptolemais, and saluted the brethren, and abode with them one day.
 

@@ -44,7 +44,7 @@ metav_id: 2331
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **12:15** — The princes also of Pharaoh saw her, and commended her before Pharaoh: and the woman was taken into Pharaoh's house.
 - **37:36** — And the Midianites sold him into Egypt unto Potiphar, an officer of Pharaoh's, and captain of the guard.
 - **40:7** — And he asked Pharaoh's officers that were with him in the ward of his lord's house, saying, Wherefore look ye so sadly to day?
@@ -57,7 +57,7 @@ metav_id: 2331
 - **47:25** — And they said, Thou hast saved our lives: let us find grace in the sight of my lord, and we will be Pharaoh's servants.
 - **47:26** — And Joseph made it a law over the land of Egypt unto this day, that Pharaoh should have the fifth part; except the land of the priests only, which became not Pharaoh's.
 
-### [[Exodus]]
+### [[books/Exodus|Exodus]]
 - **2:7** — Then said his sister to Pharaoh's daughter, Shall I go and call to thee a nurse of the Hebrew women, that she may nurse the child for thee?
 - **2:8** — And Pharaoh's daughter said to her, Go. And the maid went and called the child's mother.
 - **2:9** — And Pharaoh's daughter said unto her, Take this child away, and nurse it for me, and I will give thee thy wages. And the woman took the child, and nursed it.
@@ -160,7 +160,7 @@ metav_id: 2331
 - **18:8** — And Moses told his father in law all that the LORD had done unto Pharaoh and to the Egyptians for Israel's sake, and all the travail that had come upon them by the way, and how the LORD delivered them.
 - **18:10** — And Jethro said, Blessed be the LORD, who hath delivered you out of the hand of the Egyptians, and out of the hand of Pharaoh, who hath delivered the people from under the hand of the Egyptians.
 
-### [[Deuteronomy]]
+### [[books/Deuteronomy|Deuteronomy]]
 - **6:21** — Then thou shalt say unto thy son, We were Pharaoh's bondmen in Egypt; and the LORD brought us out of Egypt with a mighty hand:
 - **6:22** — And the LORD shewed signs and wonders, great and sore, upon Egypt, upon Pharaoh, and upon all his household, before our eyes:
 - **7:8** — But because the LORD loved you, and because he would keep the oath which he had sworn unto your fathers, hath the LORD brought you out with a mighty hand, and redeemed you out of the house of bondmen, from the hand of Pharaoh king of Egypt.
@@ -169,44 +169,44 @@ metav_id: 2331
 - **29:2** — And Moses called unto all Israel, and said unto them, Ye have seen all that the LORD did before your eyes in the land of Egypt unto Pharaoh, and unto all his servants, and unto all his land;
 - **34:11** — In all the signs and the wonders, which the LORD sent him to do in the land of Egypt to Pharaoh, and to all his servants, and to all his land,
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **2:27** — And there came a man of God unto Eli, and said unto him, Thus saith the LORD, Did I plainly appear unto the house of thy father, when they were in Egypt in Pharaoh's house?
 - **6:6** — Wherefore then do ye harden your hearts, as the Egyptians and Pharaoh hardened their hearts? when he had wrought wonderfully among them, did they not let the people go, and they departed?
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **3:1** — And Solomon made affinity with Pharaoh king of Egypt, and took Pharaoh's daughter, and brought her into the city of David, until he had made an end of building his own house, and the house of the LORD, and the wall of Jerusalem round about.
 - **7:8** — And his house where he dwelt had another court within the porch, which was of the like work. Solomon made also an house for Pharaoh's daughter, whom he had taken to wife, like unto this porch.
 - **9:24** — But Pharaoh's daughter came up out of the city of David unto her house which Solomon had built for her: then did he build Millo.
 - **11:20** — And the sister of Tahpenes bare him Genubath his son, whom Tahpenes weaned in Pharaoh's house: and Genubath was in Pharaoh's household among the sons of Pharaoh.
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **17:7** — For so it was, that the children of Israel had sinned against the LORD their God, which had brought them up out of the land of Egypt, from under the hand of Pharaoh king of Egypt, and had feared other gods,
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **9:10** — And shewedst signs and wonders upon Pharaoh, and on all his servants, and on all the people of his land: for thou knewest that they dealt proudly against them. So didst thou get thee a name, as it is this day.
 
-### [[Psalms]]
+### [[books/Psalms|Psalms]]
 - **135:9** — Who sent tokens and wonders into the midst of thee, O Egypt, upon Pharaoh, and upon all his servants.
 - **136:15** — But overthrew Pharaoh and his host in the Red sea: for his mercy endureth for ever.
 
-### [[Song of Solomon]]
+### [[books/Song of Solomon|Song of Solomon]]
 - **1:9** — I have compared thee, O my love, to a company of horses in Pharaoh's chariots.
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **37:5** — Then Pharaoh's army was come forth out of Egypt: and when the Chaldeans that besieged Jerusalem heard tidings of them, they departed from Jerusalem.
 - **37:7** — Thus saith the LORD, the God of Israel; Thus shall ye say to the king of Judah, that sent you unto me to enquire of me; Behold, Pharaoh's army, which is come forth to help you, shall return to Egypt into their own land.
 - **37:11** — And it came to pass, that when the army of the Chaldeans was broken up from Jerusalem for fear of Pharaoh's army,
 - **43:9** — Take great stones in thine hand, and hide them in the clay in the brickkiln, which is at the entry of Pharaoh's house in Tahpanhes, in the sight of the men of Judah;
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **30:24** — And I will strengthen the arms of the king of Babylon, and put my sword in his hand: but I will break Pharaoh's arms, and he shall groan before him with the groanings of a deadly wounded man.
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **7:21** — And when he was cast out, Pharaoh's daughter took him up, and nourished him for her own son.
 
-### [[Romans]]
+### [[books/Romans|Romans]]
 - **9:17** — For the scripture saith unto Pharaoh, Even for this same purpose have I raised thee up, that I might shew my power in thee, and that my name might be declared throughout all the earth.
 
-### [[Hebrews]]
+### [[books/Hebrews|Hebrews]]
 - **11:24** — By faith Moses, when he was come to years, refused to be called the son of Pharaoh's daughter;
 

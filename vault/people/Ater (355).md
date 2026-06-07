@@ -45,9 +45,9 @@ metav_id: 355
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **2:16** — The children of Ater of Hezekiah, ninety and eight.
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **7:21** — The children of Ater of Hezekiah, ninety and eight.
 

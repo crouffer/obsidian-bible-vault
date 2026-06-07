@@ -50,7 +50,7 @@ metav_id: 1359
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **5:32** — And Noah was five hundred years old: and Noah begat Shem, Ham, and Japheth.
 - **6:10** — And Noah begat three sons, Shem, Ham, and Japheth.
 - **7:13** — In the selfsame day entered Noah, and Shem, and Ham, and Japheth, the sons of Noah, and Noah's wife, and the three wives of his sons with them, into the ark;
@@ -60,11 +60,11 @@ metav_id: 1359
 - **10:6** — And the sons of Ham; Cush, and Mizraim, and Phut, and Canaan.
 - **10:20** — These are the sons of Ham, after their families, after their tongues, in their countries, and in their nations.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:4** — Noah, Shem, Ham, and Japheth.
 - **1:8** — The sons of Ham; Cush, and Mizraim, Put, and Canaan.
 
-### [[Psalms]]
+### [[books/Psalms|Psalms]]
 - **78:51** — And smote all the firstborn in Egypt; the chief of their strength in the tabernacles of Ham:
 - **105:23** — Israel also came into Egypt; and Jacob sojourned in the land of Ham.
 - **105:27** — They shewed his signs among them, and wonders in the land of Ham.

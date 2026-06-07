@@ -44,7 +44,7 @@ metav_id: 2264
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **1:13** — Of Asher; Pagiel the son of Ocran.
 - **2:27** — And those that encamp by him shall be the tribe of Asher: and the captain of the children of Asher shall be Pagiel the son of Ocran.
 - **7:72** — On the eleventh day Pagiel the son of Ocran, prince of the children of Asher, offered:

@@ -44,6 +44,6 @@ metav_id: 1013
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **17:34** — Howbeit certain men clave unto him, and believed: among the which was Dionysius the Areopagite, and a woman named Damaris, and others with them.
 

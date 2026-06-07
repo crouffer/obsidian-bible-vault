@@ -26,7 +26,7 @@ metav_id: 772
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **21:18** — The princes digged the well, the nobles of the people digged it, by the direction of the lawgiver, with their staves. And from the wilderness they went to Mattanah:
 - **21:19** — And from Mattanah to Nahaliel: and from Nahaliel to Bamoth:
 

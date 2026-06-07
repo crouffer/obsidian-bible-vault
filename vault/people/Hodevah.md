@@ -44,10 +44,10 @@ metav_id: 1542
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **2:40** — The Levites: the children of Jeshua and Kadmiel, of the children of Hodaviah, seventy and four.
 - **3:9** — Then stood Jeshua with his sons and his brethren, Kadmiel and his sons, the sons of Judah, together, to set forward the workmen in the house of God: the sons of Henadad, with their sons and their brethren the Levites.
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **7:43** — The Levites: the children of Jeshua, of Kadmiel, and of the children of Hodevah, seventy and four.
 

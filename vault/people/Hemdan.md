@@ -47,9 +47,9 @@ metav_id: 1492
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **36:26** — And these are the children of Dishon; Hemdan, and Eshban, and Ithran, and Cheran.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:41** — The sons of Anah; Dishon. And the sons of Dishon; Amram, and Eshban, and Ithran, and Cheran.
 

@@ -44,7 +44,7 @@ metav_id: 738
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **11:11** — And this is the number of the mighty men whom David had; Jashobeam, an Hachmonite, the chief of the captains: he lifted up his spear against three hundred slain by him at one time.
 - **27:2** — Over the first course for the first month was Jashobeam the son of Zabdiel: and in his course were twenty and four thousand.
 

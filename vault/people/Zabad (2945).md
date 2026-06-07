@@ -45,7 +45,7 @@ metav_id: 2945
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **2:36** — And Attai begat Nathan, and Nathan begat Zabad,
 - **2:37** — And Zabad begat Ephlal, and Ephlal begat Obed,
 

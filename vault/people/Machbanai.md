@@ -44,6 +44,6 @@ metav_id: 1875
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **12:13** — Jeremiah the tenth, Machbanai the eleventh.
 

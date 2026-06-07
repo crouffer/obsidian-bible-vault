@@ -26,6 +26,6 @@ metav_id: 484
 
 ## Verse References
 
-### [[Revelation]]
+### [[books/Revelation|Revelation]]
 - **20:8** — And shall go out to deceive the nations which are in the four quarters of the earth, Gog and Magog, to gather them together to battle: the number of whom is as the sand of the sea.
 

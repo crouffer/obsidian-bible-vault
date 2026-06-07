@@ -48,7 +48,7 @@ metav_id: 119
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **8:35** — And the sons of Micah were, Pithon, and Melech, and Tarea, and Ahaz.
 - **8:36** — And Ahaz begat Jehoadah; and Jehoadah begat Alemeth, and Azmaveth, and Zimri; and Zimri begat Moza,
 - **9:41** — And the sons of Micah were, Pithon, and Melech, and Tahrea, and Ahaz.

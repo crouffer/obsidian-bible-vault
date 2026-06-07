@@ -44,6 +44,6 @@ metav_id: 275
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **24:15** — The seventeenth to Hezir, the eighteenth to Aphses,
 

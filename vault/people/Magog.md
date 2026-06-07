@@ -50,16 +50,16 @@ metav_id: 1882
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **10:2** — The sons of Japheth; Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:5** — The sons of Japheth; Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras.
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **38:2** — Son of man, set thy face against Gog, the land of Magog, the chief prince of Meshech and Tubal, and prophesy against him,
 - **39:6** — And I will send a fire on Magog, and among them that dwell carelessly in the isles: and they shall know that I am the LORD.
 
-### [[Revelation]]
+### [[books/Revelation|Revelation]]
 - **20:8** — And shall go out to deceive the nations which are in the four quarters of the earth, Gog and Magog, to gather them together to battle: the number of whom is as the sand of the sea.
 

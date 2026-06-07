@@ -26,7 +26,7 @@ metav_id: 807
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **33:28** — And they removed from Tarah, and pitched in Mithcah.
 - **33:29** — And they went from Mithcah, and pitched in Hashmonah.
 

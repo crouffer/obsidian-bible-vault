@@ -46,7 +46,7 @@ metav_id: 1734
 
 ## Verse References
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **9:5** — And he went unto his father's house at Ophrah, and slew his brethren the sons of Jerubbaal, being threescore and ten persons, upon one stone: notwithstanding yet Jotham the youngest son of Jerubbaal was left; for he hid himself.
 - **9:7** — And when they told it to Jotham, he went and stood in the top of mount Gerizim, and lifted up his voice, and cried, and said unto them, Hearken unto me, ye men of Shechem, that God may hearken unto you.
 - **9:21** — And Jotham ran away, and fled, and went to Beer, and dwelt there, for fear of Abimelech his brother.

@@ -26,10 +26,10 @@ metav_id: 149
 
 ## Verse References
 
-### [[Exodus]]
+### [[books/Exodus|Exodus]]
 - **14:2** — Speak unto the children of Israel, that they turn and encamp before Pihahiroth, between Migdol and the sea, over against Baalzephon: before it shall ye encamp by the sea.
 - **14:9** — But the Egyptians pursued after them, all the horses and chariots of Pharaoh, and his horsemen, and his army, and overtook them encamping by the sea, beside Pihahiroth, before Baalzephon.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **33:7** — And they removed from Etham, and turned again unto Pihahiroth, which is before Baalzephon: and they pitched before Migdol.
 

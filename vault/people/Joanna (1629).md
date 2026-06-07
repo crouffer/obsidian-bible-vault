@@ -45,7 +45,7 @@ metav_id: 1629
 
 ## Verse References
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **8:3** — And Joanna the wife of Chuza Herod's steward, and Susanna, and many others, which ministered unto him of their substance.
 - **24:10** — It was Mary Magdalene, and Joanna, and Mary the mother of James, and other women that were with them, which told these things unto the apostles.
 

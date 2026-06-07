@@ -51,6 +51,6 @@ metav_id: 2170
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **3:18** — Malchiram also, and Pedaiah, and Shenazar, Jecamiah, Hoshama, and Nedabiah.
 

@@ -48,6 +48,6 @@ metav_id: 134
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **8:7** — And Naaman, and Ahiah, and Gera, he removed them, and begat Uzza, and Ahihud.
 

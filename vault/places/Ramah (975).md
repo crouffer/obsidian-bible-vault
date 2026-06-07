@@ -26,7 +26,7 @@ metav_id: 975
 
 ## Verse References
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **1:19** — And they rose up in the morning early, and worshipped before the LORD, and returned, and came to their house to Ramah: and Elkanah knew Hannah his wife; and the LORD remembered her.
 - **2:11** — And Elkanah went to Ramah to his house. And the child did minister unto the LORD before Eli the priest.
 - **7:17** — And his return was to Ramah; for there was his house; and there he judged Israel; and there he built an altar unto the LORD.

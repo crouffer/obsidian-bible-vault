@@ -26,10 +26,10 @@ metav_id: 657
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **9:9** — For we were bondmen; yet our God hath not forsaken us in our bondage, but hath extended mercy unto us in the sight of the kings of Persia, to give us a reviving, to set up the house of our God, and to repair the desolations thereof, and to give us a wall in Judah and in Jerusalem.
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **2:1** — Now when Jesus was born in Bethlehem of Judaea in the days of Herod the king, behold, there came wise men from the east to Jerusalem,
 - **2:5** — And they said unto him, In Bethlehem of Judaea: for thus it is written by the prophet,
 - **2:22** — But when he heard that Archelaus did reign in Judaea in the room of his father Herod, he was afraid to go thither: notwithstanding, being warned of God in a dream, he turned aside into the parts of Galilee:
@@ -39,13 +39,13 @@ metav_id: 657
 - **19:1** — And it came to pass, that when Jesus had finished these sayings, he departed from Galilee, and came into the coasts of Judaea beyond Jordan;
 - **24:16** — Then let them which be in Judaea flee into the mountains:
 
-### [[Mark]]
+### [[books/Mark|Mark]]
 - **1:5** — And there went out unto him all the land of Judaea, and they of Jerusalem, and were all baptized of him in the river of Jordan, confessing their sins.
 - **3:7** — But Jesus withdrew himself with his disciples to the sea: and a great multitude from Galilee followed him, and from Judaea,
 - **10:1** — And he arose from thence, and cometh into the coasts of Judaea by the farther side of Jordan: and the people resort unto him again; and, as he was wont, he taught them again.
 - **13:14** — But when ye shall see the abomination of desolation, spoken of by Daniel the prophet, standing where it ought not, (let him that readeth understand,) then let them that be in Judaea flee to the mountains:
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **1:5** — There was in the days of Herod, the king of Judaea, a certain priest named Zacharias, of the course of Abia: and his wife was of the daughters of Aaron, and her name was Elisabeth.
 - **1:65** — And fear came on all that dwelt round about them: and all these sayings were noised abroad throughout all the hill country of Judaea.
 - **2:4** — And Joseph also went up from Galilee, out of the city of Nazareth, into Judaea, unto the city of David, which is called Bethlehem; (because he was of the house and lineage of David:)
@@ -55,14 +55,14 @@ metav_id: 657
 - **7:17** — And this rumour of him went forth throughout all Judaea, and throughout all the region round about.
 - **21:21** — Then let them which are in Judaea flee to the mountains; and let them which are in the midst of it depart out; and let not them that are in the countries enter thereinto.
 
-### [[John]]
+### [[books/John|John]]
 - **4:3** — He left Judaea, and departed again into Galilee.
 - **4:47** — When he heard that Jesus was come out of Judaea into Galilee, he went unto him, and besought him that he would come down, and heal his son: for he was at the point of death.
 - **4:54** — This is again the second miracle that Jesus did, when he was come out of Judaea into Galilee.
 - **7:3** — His brethren therefore said unto him, Depart hence, and go into Judaea, that thy disciples also may see the works that thou doest.
 - **11:7** — Then after that saith he to his disciples, Let us go into Judaea again.
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **1:8** — But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judaea, and in Samaria, and unto the uttermost part of the earth.
 - **2:9** — Parthians, and Medes, and Elamites, and the dwellers in Mesopotamia, and in Judaea, and Cappadocia, in Pontus, and Asia,
 - **2:14** — But Peter, standing up with the eleven, lifted up his voice, and said unto them, Ye men of Judaea, and all ye that dwell at Jerusalem, be this known unto you, and hearken to my words:
@@ -77,15 +77,15 @@ metav_id: 657
 - **26:20** — But shewed first unto them of Damascus, and at Jerusalem, and throughout all the coasts of Judaea, and then to the Gentiles, that they should repent and turn to God, and do works meet for repentance.
 - **28:21** — And they said unto him, We neither received letters out of Judaea concerning thee, neither any of the brethren that came shewed or spake any harm of thee.
 
-### [[Romans]]
+### [[books/Romans|Romans]]
 - **15:31** — That I may be delivered from them that do not believe in Judaea; and that my service which I have for Jerusalem may be accepted of the saints;
 
-### [[2 Corinthians]]
+### [[books/2 Corinthians|2 Corinthians]]
 - **1:16** — And to pass by you into Macedonia, and to come again out of Macedonia unto you, and of you to be brought on my way toward Judaea.
 
-### [[Galatians]]
+### [[books/Galatians|Galatians]]
 - **1:22** — And was unknown by face unto the churches of Judaea which were in Christ:
 
-### [[1 Thessalonians]]
+### [[books/1 Thessalonians|1 Thessalonians]]
 - **2:14** — For ye, brethren, became followers of the churches of God which in Judaea are in Christ Jesus: for ye also have suffered like things of your own countrymen, even as they have of the Jews:
 

@@ -44,7 +44,7 @@ metav_id: 2188
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **1:8** — Of Issachar; Nethaneel the son of Zuar.
 - **2:5** — And those that do pitch next unto him shall be the tribe of Issachar: and Nethaneel the son of Zuar shall be captain of the children of Issachar.
 - **7:18** — On the second day Nethaneel the son of Zuar, prince of Issachar, did offer:

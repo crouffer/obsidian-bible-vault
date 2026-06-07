@@ -46,9 +46,9 @@ metav_id: 351
 
 ## Verse References
 
-### [[Exodus]]
+### [[books/Exodus|Exodus]]
 - **6:24** — And the sons of Korah; Assir, and Elkanah, and Abiasaph: these are the families of the Korhites.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:22** — The sons of Kohath; Amminadab his son, Korah his son, Assir his son,
 

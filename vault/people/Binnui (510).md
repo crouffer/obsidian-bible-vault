@@ -44,6 +44,6 @@ metav_id: 510
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **10:38** — And Bani, and Binnui, Shimei,
 

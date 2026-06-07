@@ -26,10 +26,10 @@ metav_id: 417
 
 ## Verse References
 
-### [[Exodus]]
+### [[books/Exodus|Exodus]]
 - **13:20** — And they took their journey from Succoth, and encamped in Etham, in the edge of the wilderness.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **33:6** — And they departed from Succoth, and pitched in Etham, which is in the edge of the wilderness.
 - **33:7** — And they removed from Etham, and turned again unto Pihahiroth, which is before Baalzephon: and they pitched before Migdol.
 - **33:8** — And they departed from before Pihahiroth, and passed through the midst of the sea into the wilderness, and went three days' journey in the wilderness of Etham, and pitched in Marah.

@@ -17,8 +17,8 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Nahor (2143)]]"
-mother: "[[Milcah (2082)]]"
+father: "[[Milcah (2082)]]"
+mother: "[[Nahor (2143)]]"
 spouse: []
 children: 
   - "[[Aram (286)]]"
@@ -52,6 +52,6 @@ metav_id: 1773
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **22:21** — Huz his firstborn, and Buz his brother, and Kemuel the father of Aram,
 

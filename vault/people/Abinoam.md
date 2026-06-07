@@ -45,7 +45,7 @@ metav_id: 46
 
 ## Verse References
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **4:6** — And she sent and called Barak the son of Abinoam out of Kedeshnaphtali, and said unto him, Hath not the LORD God of Israel commanded, saying, Go and draw toward mount Tabor, and take with thee ten thousand men of the children of Naphtali and of the children of Zebulun?
 - **4:12** — And they shewed Sisera that Barak the son of Abinoam was gone up to mount Tabor.
 - **5:1** — Then sang Deborah and Barak the son of Abinoam on that day, saying,

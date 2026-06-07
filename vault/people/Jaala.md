@@ -44,9 +44,9 @@ metav_id: 661
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **2:56** — The children of Jaalah, the children of Darkon, the children of Giddel,
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **7:58** — The children of Jaala, the children of Darkon, the children of Giddel,
 

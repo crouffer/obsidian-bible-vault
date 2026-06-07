@@ -48,15 +48,15 @@ metav_id: 2055
 
 ## Verse References
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **18:18** — And these went into Micah's house, and fetched the carved image, the ephod, and the teraphim, and the molten image. Then said the priest unto them, What do ye?
 - **18:22** — And when they were a good way from the house of Micah, the men that were in the houses near to Micah's house were gathered together, and overtook the children of Dan.
 - **18:31** — And they set them up Micah's graven image, which he made, all the time that the house of God was in Shiloh.
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **9:12** — And Mephibosheth had a young son, whose name was Micha. And all that dwelt in the house of Ziba were servants unto Mephibosheth.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **8:34** — And the son of Jonathan was Meribbaal; and Meribbaal begat Micah.
 - **8:35** — And the sons of Micah were, Pithon, and Melech, and Tarea, and Ahaz.
 - **9:40** — And the son of Jonathan was Meribbaal: and Meribbaal begat Micah.

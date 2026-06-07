@@ -26,6 +26,6 @@ metav_id: 1134
 
 ## Verse References
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **9:18** — And Baalath, and Tadmor in the wilderness, in the land,
 

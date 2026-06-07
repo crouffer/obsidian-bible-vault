@@ -26,7 +26,7 @@ metav_id: 177
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **17:10** — And the brethren immediately sent away Paul and Silas by night unto Berea: who coming thither went into the synagogue of the Jews.
 - **17:13** — But when the Jews of Thessalonica had knowledge that the word of God was preached of Paul at Berea, they came thither also, and stirred up the people.
 

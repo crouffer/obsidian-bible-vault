@@ -26,9 +26,9 @@ metav_id: 561
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **12:17** — The king of Tappuah, one; the king of Hepher, one;
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **4:10** — The son of Hesed, in Aruboth; to him pertained Sochoh, and all the land of Hepher:
 

@@ -45,7 +45,7 @@ metav_id: 3081
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **29:24** — And Laban gave unto his daughter Leah Zilpah his maid for an handmaid.
 - **30:9** — When Leah saw that she had left bearing, she took Zilpah her maid, and gave her Jacob to wife.
 - **30:10** — And Zilpah Leah's maid bare Jacob a son.

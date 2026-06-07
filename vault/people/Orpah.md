@@ -45,7 +45,7 @@ metav_id: 2257
 
 ## Verse References
 
-### [[Ruth]]
+### [[books/Ruth|Ruth]]
 - **1:4** — And they took them wives of the women of Moab; the name of the one was Orpah, and the name of the other Ruth: and they dwelled there about ten years.
 - **1:14** — And they lifted up their voice, and wept again: and Orpah kissed her mother in law; but Ruth clave unto her.
 

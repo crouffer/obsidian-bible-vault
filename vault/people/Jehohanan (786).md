@@ -44,6 +44,6 @@ metav_id: 786
 
 ## Verse References
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **17:15** — And next to him was Jehohanan the captain, and with him two hundred and fourscore thousand.
 

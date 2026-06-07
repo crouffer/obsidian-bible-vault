@@ -47,7 +47,7 @@ metav_id: 2082
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **11:29** — And Abram and Nahor took them wives: the name of Abram's wife was Sarai; and the name of Nahor's wife, Milcah, the daughter of Haran, the father of Milcah, and the father of Iscah.
 - **22:20** — And it came to pass after these things, that it was told Abraham, saying, Behold, Milcah, she hath also born children unto thy brother Nahor;
 - **22:23** — And Bethuel begat Rebekah: these eight Milcah did bear to Nahor, Abraham's brother.

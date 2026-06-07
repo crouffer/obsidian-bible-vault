@@ -48,9 +48,9 @@ metav_id: 2747
 
 ## Verse References
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **13:55** — Is not this the carpenter's son? is not his mother called Mary? and his brethren, James, and Joses, and Simon, and Judas?
 
-### [[Mark]]
+### [[books/Mark|Mark]]
 - **6:3** — Is not this the carpenter, the son of Mary, the brother of James, and Joses, and of Juda, and Simon? and are not his sisters here with us? And they were offended at him.
 

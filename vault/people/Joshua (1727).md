@@ -44,7 +44,7 @@ metav_id: 1727
 
 ## Verse References
 
-### [[Exodus]]
+### [[books/Exodus|Exodus]]
 - **17:9** — And Moses said unto Joshua, Choose us out men, and go out, fight with Amalek: to morrow I will stand on the top of the hill with the rod of God in mine hand.
 - **17:10** — So Joshua did as Moses had said to him, and fought with Amalek: and Moses, Aaron, and Hur went up to the top of the hill.
 - **17:13** — And Joshua discomfited Amalek and his people with the edge of the sword.
@@ -53,7 +53,7 @@ metav_id: 1727
 - **32:17** — And when Joshua heard the noise of the people as they shouted, he said unto Moses, There is a noise of war in the camp.
 - **33:11** — And the LORD spake unto Moses face to face, as a man speaketh unto his friend. And he turned again into the camp: but his servant Joshua, the son of Nun, a young man, departed not out of the tabernacle.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **11:28** — And Joshua the son of Nun, the servant of Moses, one of his young men, answered and said, My lord Moses, forbid them.
 - **13:8** — Of the tribe of Ephraim, Oshea the son of Nun.
 - **13:16** — These are the names of the men which Moses sent to spy out the land. And Moses called Oshea the son of Nun Jehoshua.
@@ -67,7 +67,7 @@ metav_id: 1727
 - **32:28** — So concerning them Moses commanded Eleazar the priest, and Joshua the son of Nun, and the chief fathers of the tribes of the children of Israel:
 - **34:17** — These are the names of the men which shall divide the land unto you: Eleazar the priest, and Joshua the son of Nun.
 
-### [[Deuteronomy]]
+### [[books/Deuteronomy|Deuteronomy]]
 - **1:38** — But Joshua the son of Nun, which standeth before thee, he shall go in thither: encourage him: for he shall cause Israel to inherit it.
 - **3:21** — And I commanded Joshua at that time, saying, Thine eyes have seen all that the LORD your God hath done unto these two kings: so shall the LORD do unto all the kingdoms whither thou passest.
 - **3:28** — But charge Joshua, and encourage him, and strengthen him: for he shall go over before this people, and he shall cause them to inherit the land which thou shalt see.
@@ -78,7 +78,7 @@ metav_id: 1727
 - **32:44** — And Moses came and spake all the words of this song in the ears of the people, he, and Hoshea the son of Nun.
 - **34:9** — And Joshua the son of Nun was full of the spirit of wisdom; for Moses had laid his hands upon him: and the children of Israel hearkened unto him, and did as the LORD commanded Moses.
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **1:1** — Now after the death of Moses the servant of the LORD it came to pass, that the LORD spake unto Joshua the son of Nun, Moses' minister, saying,
 - **1:10** — Then Joshua commanded the officers of the people, saying,
 - **1:12** — And to the Reubenites, and to the Gadites, and to half the tribe of Manasseh, spake Joshua, saying,
@@ -231,7 +231,7 @@ metav_id: 1727
 - **24:29** — And it came to pass after these things, that Joshua the son of Nun, the servant of the LORD, died, being an hundred and ten years old.
 - **24:31** — And Israel served the LORD all the days of Joshua, and all the days of the elders that overlived Joshua, and which had known all the works of the LORD, that he had done for Israel.
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **1:1** — Now after the death of Joshua it came to pass, that the children of Israel asked the LORD, saying, Who shall go up for us against the Canaanites first, to fight against them?
 - **2:6** — And when Joshua had let the people go, the children of Israel went every man unto his inheritance to possess the land.
 - **2:7** — And the people served the LORD all the days of Joshua, and all the days of the elders that outlived Joshua, who had seen all the great works of the LORD, that he did for Israel.
@@ -239,15 +239,15 @@ metav_id: 1727
 - **2:21** — I also will not henceforth drive out any from before them of the nations which Joshua left when he died:
 - **2:23** — Therefore the LORD left those nations, without driving them out hastily; neither delivered he them into the hand of Joshua.
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **16:34** — In his days did Hiel the Bethelite build Jericho: he laid the foundation thereof in Abiram his firstborn, and set up the gates thereof in his youngest son Segub, according to the word of the LORD, which he spake by Joshua the son of Nun.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **7:27** — Non his son, Jehoshua his son.
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **8:17** — And all the congregation of them that were come again out of the captivity made booths, and sat under the booths: for since the days of Jeshua the son of Nun unto that day had not the children of Israel done so. And there was very great gladness.
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **7:45** — Which also our fathers that came after brought in with Jesus into the possession of the Gentiles, whom God drave out before the face of our fathers, unto the days of David;
 

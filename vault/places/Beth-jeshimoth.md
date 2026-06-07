@@ -26,13 +26,13 @@ metav_id: 215
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **33:49** — And they pitched by Jordan, from Bethjesimoth even unto Abelshittim in the plains of Moab.
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **12:3** — And from the plain to the sea of Chinneroth on the east, and unto the sea of the plain, even the salt sea on the east, the way to Bethjeshimoth; and from the south, under Ashdothpisgah:
 - **13:20** — And Bethpeor, and Ashdothpisgah, and Bethjeshimoth,
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **25:9** — Therefore, behold, I will open the side of Moab from the cities, from his cities which are on his frontiers, the glory of the country, Bethjeshimoth, Baalmeon, and Kiriathaim,
 

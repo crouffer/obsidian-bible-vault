@@ -45,6 +45,6 @@ metav_id: 736
 
 ## Verse References
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **23:32** — Eliahba the Shaalbonite, of the sons of Jashen, Jonathan,
 

@@ -44,9 +44,9 @@ metav_id: 2770
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **20:4** — And there accompanied him into Asia Sopater of Berea; and of the Thessalonians, Aristarchus and Secundus; and Gaius of Derbe, and Timotheus; and of Asia, Tychicus and Trophimus.
 
-### [[Romans]]
+### [[books/Romans|Romans]]
 - **16:21** — Timotheus my workfellow, and Lucius, and Jason, and Sosipater, my kinsmen, salute you.
 

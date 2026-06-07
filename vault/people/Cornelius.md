@@ -44,7 +44,7 @@ metav_id: 956
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **10:1** — There was a certain man in Caesarea called Cornelius, a centurion of the band called the Italian band,
 - **10:3** — He saw in a vision evidently about the ninth hour of the day an angel of God coming in to him, and saying unto him, Cornelius.
 - **10:7** — And when the angel which spake unto Cornelius was departed, he called two of his household servants, and a devout soldier of them that waited on him continually;

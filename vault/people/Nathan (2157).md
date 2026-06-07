@@ -44,6 +44,6 @@ metav_id: 2157
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **10:39** — And Shelemiah, and Nathan, and Adaiah,
 

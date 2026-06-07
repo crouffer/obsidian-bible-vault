@@ -26,6 +26,6 @@ metav_id: 1043
 
 ## Verse References
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **3:26** — And Ehud escaped while they tarried, and passed beyond the quarries, and escaped unto Seirath.
 

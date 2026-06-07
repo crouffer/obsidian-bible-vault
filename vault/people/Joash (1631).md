@@ -47,9 +47,9 @@ metav_id: 1631
 
 ## Verse References
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **22:26** — And the king of Israel said, Take Micaiah, and carry him back unto Amon the governor of the city, and to Joash the king's son;
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **18:25** — Then the king of Israel said, Take ye Micaiah, and carry him back to Amon the governor of the city, and to Joash the king's son;
 

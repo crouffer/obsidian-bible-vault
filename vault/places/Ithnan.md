@@ -26,6 +26,6 @@ metav_id: 603
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **15:23** — And Kedesh, and Hazor, and Ithnan,
 

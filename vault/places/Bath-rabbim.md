@@ -26,6 +26,6 @@ metav_id: 160
 
 ## Verse References
 
-### [[Song of Solomon]]
+### [[books/Song of Solomon|Song of Solomon]]
 - **7:4** — Thy neck is as a tower of ivory; thine eyes like the fishpools in Heshbon, by the gate of Bathrabbim: thy nose is as the tower of Lebanon which looketh toward Damascus.
 

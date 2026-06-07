@@ -46,7 +46,7 @@ metav_id: 732
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **2:34** — Now Sheshan had no sons, but daughters. And Sheshan had a servant, an Egyptian, whose name was Jarha.
 - **2:35** — And Sheshan gave his daughter to Jarha his servant to wife; and she bare him Attai.
 

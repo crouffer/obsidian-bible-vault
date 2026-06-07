@@ -46,12 +46,12 @@ metav_id: 2749
 
 ## Verse References
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **27:32** — And as they came out, they found a man of Cyrene, Simon by name: him they compelled to bear his cross.
 
-### [[Mark]]
+### [[books/Mark|Mark]]
 - **15:21** — And they compel one Simon a Cyrenian, who passed by, coming out of the country, the father of Alexander and Rufus, to bear his cross.
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **23:26** — And as they led him away, they laid hold upon one Simon, a Cyrenian, coming out of the country, and on him they laid the cross, that he might bear it after Jesus.
 

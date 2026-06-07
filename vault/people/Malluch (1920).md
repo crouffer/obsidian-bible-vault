@@ -44,6 +44,6 @@ metav_id: 1920
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **10:32** — Benjamin, Malluch, and Shemariah.
 

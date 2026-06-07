@@ -44,10 +44,10 @@ metav_id: 2413
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **2:2** — Which came with Zerubbabel: Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, Baanah. The number of the men of the people of Israel:
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **7:7** — Who came with Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai, Bilshan, Mispereth, Bigvai, Nehum, Baanah. The number, I say, of the men of the people of Israel was this;
 - **10:5** — Harim, Meremoth, Obadiah,
 - **12:3** — Shechaniah, Rehum, Meremoth,

@@ -26,10 +26,10 @@ metav_id: 1122
 
 ## Verse References
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **10:6** — And the children of Israel did evil again in the sight of the LORD, and served Baalim, and Ashtaroth, and the gods of Syria, and the gods of Zidon, and the gods of Moab, and the gods of the children of Ammon, and the gods of the Philistines, and forsook the LORD, and served not him.
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **10:29** — And a chariot came up and went out of Egypt for six hundred shekels of silver, and an horse for an hundred and fifty: and so for all the kings of the Hittites, and for the kings of Syria, did they bring them out by their means.
 - **11:25** — And he was an adversary to Israel all the days of Solomon, beside the mischief that Hadad did: and he abhorred Israel, and reigned over Syria.
 - **15:18** — Then Asa took all the silver and the gold that were left in the treasures of the house of the LORD, and the treasures of the king's house, and delivered them into the hand of his servants: and king Asa sent them to Benhadad, the son of Tabrimon, the son of Hezion, king of Syria, that dwelt at Damascus, saying,
@@ -44,7 +44,7 @@ metav_id: 1122
 - **22:3** — And the king of Israel said unto his servants, Know ye that Ramoth in Gilead is ours, and we be still, and take it not out of the hand of the king of Syria?
 - **22:31** — But the king of Syria commanded his thirty and two captains that had rule over his chariots, saying, Fight neither with small nor great, save only with the king of Israel.
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **5:1** — Now Naaman, captain of the host of the king of Syria, was a great man with his master, and honourable, because by him the LORD had given deliverance unto Syria: he was also a mighty man in valour, but he was a leper.
 - **5:5** — And the king of Syria said, Go to, go, and I will send a letter unto the king of Israel. And he departed, and took with him ten talents of silver, and six thousand pieces of gold, and ten changes of raiment.
 - **6:8** — Then the king of Syria warred against Israel, and took counsel with his servants, saying, In such and such a place shall be my camp.
@@ -71,7 +71,7 @@ metav_id: 1122
 - **16:6** — At that time Rezin king of Syria recovered Elath to Syria, and drave the Jews from Elath: and the Syrians came to Elath, and dwelt there unto this day.
 - **16:7** — So Ahaz sent messengers to Tiglathpileser king of Assyria, saying, I am thy servant and thy son: come up, and save me out of the hand of the king of Syria, and out of the hand of the king of Israel, which rise up against me.
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **1:17** — And they fetched up, and brought forth out of Egypt a chariot for six hundred shekels of silver, and an horse for an hundred and fifty: and so brought they out horses for all the kings of the Hittites, and for the kings of Syria, by their means.
 - **16:2** — Then Asa brought out silver and gold out of the treasures of the house of the LORD and of the king's house, and sent to Benhadad king of Syria, that dwelt at Damascus, saying,
 - **16:7** — And at that time Hanani the seer came to Asa king of Judah, and said unto him, Because thou hast relied on the king of Syria, and not relied on the LORD thy God, therefore is the host of the king of Syria escaped out of thine hand.
@@ -81,7 +81,7 @@ metav_id: 1122
 - **28:5** — Wherefore the LORD his God delivered him into the hand of the king of Syria; and they smote him, and carried away a great multitude of them captives, and brought them to Damascus. And he was also delivered into the hand of the king of Israel, who smote him with a great slaughter.
 - **28:23** — For he sacrificed unto the gods of Damascus, which smote him: and he said, Because the gods of the kings of Syria help them, therefore will I sacrifice to them, that they may help me. But they were the ruin of him, and of all Israel.
 
-### [[Isaiah]]
+### [[books/Isaiah|Isaiah]]
 - **7:1** — And it came to pass in the days of Ahaz the son of Jotham, the son of Uzziah, king of Judah, that Rezin the king of Syria, and Pekah the son of Remaliah, king of Israel, went up toward Jerusalem to war against it, but could not prevail against it.
 - **7:2** — And it was told the house of David, saying, Syria is confederate with Ephraim. And his heart was moved, and the heart of his people, as the trees of the wood are moved with the wind.
 - **7:4** — And say unto him, Take heed, and be quiet; fear not, neither be fainthearted for the two tails of these smoking firebrands, for the fierce anger of Rezin with Syria, and of the son of Remaliah.
@@ -89,26 +89,26 @@ metav_id: 1122
 - **7:8** — For the head of Syria is Damascus, and the head of Damascus is Rezin; and within threescore and five years shall Ephraim be broken, that it be not a people.
 - **17:3** — The fortress also shall cease from Ephraim, and the kingdom from Damascus, and the remnant of Syria: they shall be as the glory of the children of Israel, saith the LORD of hosts.
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **16:57** — Before thy wickedness was discovered, as at the time of thy reproach of the daughters of Syria, and all that are round about her, the daughters of the Philistines, which despise thee round about.
 - **27:16** — Syria was thy merchant by reason of the multitude of the wares of thy making: they occupied in thy fairs with emeralds, purple, and broidered work, and fine linen, and coral, and agate.
 
-### [[Amos]]
+### [[books/Amos|Amos]]
 - **1:5** — I will break also the bar of Damascus, and cut off the inhabitant from the plain of Aven, and him that holdeth the sceptre from the house of Eden: and the people of Syria shall go into captivity unto Kir, saith the LORD.
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **4:24** — And his fame went throughout all Syria: and they brought unto him all sick people that were taken with divers diseases and torments, and those which were possessed with devils, and those which were lunatick, and those that had the palsy; and he healed them.
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **2:2** — And this taxing was first made when Cyrenius was governor of Syria.)
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **15:23** — And they wrote letters by them after this manner; The apostles and elders and brethren send greeting unto the brethren which are of the Gentiles in Antioch and Syria and Cilicia:
 - **15:41** — And he went through Syria and Cilicia, confirming the churches.
 - **18:18** — And Paul after this tarried there yet a good while, and then took his leave of the brethren, and sailed thence into Syria, and with him Priscilla and Aquila; having shorn his head in Cenchrea: for he had a vow.
 - **20:3** — And there abode three months. And when the Jews laid wait for him, as he was about to sail into Syria, he purposed to return through Macedonia.
 - **21:3** — Now when we had discovered Cyprus, we left it on the left hand, and sailed into Syria, and landed at Tyre: for there the ship was to unlade her burden.
 
-### [[Galatians]]
+### [[books/Galatians|Galatians]]
 - **1:21** — Afterwards I came into the regions of Syria and Cilicia;
 

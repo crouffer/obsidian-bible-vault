@@ -44,9 +44,9 @@ metav_id: 1312
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **2:47** — The children of Giddel, the children of Gahar, the children of Reaiah,
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **7:49** — The children of Hanan, the children of Giddel, the children of Gahar,
 

@@ -55,7 +55,7 @@ metav_id: 1360
 
 ## Verse References
 
-### [[Esther]]
+### [[books/Esther|Esther]]
 - **3:1** — After these things did king Ahasuerus promote Haman the son of Hammedatha the Agagite, and advanced him, and set his seat above all the princes that were with him.
 - **3:2** — And all the king's servants, that were in the king's gate, bowed, and reverenced Haman: for the king had so commanded concerning him. But Mordecai bowed not, nor did him reverence.
 - **3:4** — Now it came to pass, when they spake daily unto him, and he hearkened not unto them, that they told Haman, to see whether Mordecai's matters would stand: for he had told them that he was a Jew.

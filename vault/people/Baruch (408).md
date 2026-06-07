@@ -44,6 +44,6 @@ metav_id: 408
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **10:6** — Daniel, Ginnethon, Baruch,
 

@@ -54,13 +54,13 @@ metav_id: 237
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **10:16** — And the Jebusite, and the Amorite, and the Girgasite,
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:14** — The Jebusite also, and the Amorite, and the Girgashite,
 
-### [[Amos]]
+### [[books/Amos|Amos]]
 - **2:9** — Yet destroyed I the Amorite before them, whose height was like the height of the cedars, and he was strong as the oaks; yet I destroyed his fruit from above, and his roots from beneath.
 - **2:10** — Also I brought you up from the land of Egypt, and led you forty years through the wilderness, to possess the land of the Amorite.
 

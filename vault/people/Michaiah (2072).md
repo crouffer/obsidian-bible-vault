@@ -44,7 +44,7 @@ metav_id: 2072
 
 ## Verse References
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **36:11** — When Michaiah the son of Gemariah, the son of Shaphan, had heard out of the book all the words of the LORD,
 - **36:13** — Then Michaiah declared unto them all the words that he had heard, when Baruch read the book in the ears of the people.
 

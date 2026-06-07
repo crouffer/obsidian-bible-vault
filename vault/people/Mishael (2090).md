@@ -48,9 +48,9 @@ metav_id: 2090
 
 ## Verse References
 
-### [[Exodus]]
+### [[books/Exodus|Exodus]]
 - **6:22** — And the sons of Uzziel; Mishael, and Elzaphan, and Zithri.
 
-### [[Leviticus]]
+### [[books/Leviticus|Leviticus]]
 - **10:4** — And Moses called Mishael and Elzaphan, the sons of Uzziel the uncle of Aaron, and said unto them, Come near, carry your brethren from before the sanctuary out of the camp.
 

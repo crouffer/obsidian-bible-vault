@@ -44,6 +44,6 @@ metav_id: 2125
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **11:37** — Hezro the Carmelite, Naarai the son of Ezbai,
 

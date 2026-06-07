@@ -26,13 +26,13 @@ metav_id: 909
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **8:12** — The sons of Elpaal; Eber, and Misham, and Shamed, who built Ono, and Lod, with the towns thereof:
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **2:33** — The children of Lod, Hadid, and Ono, seven hundred twenty and five.
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **6:2** — That Sanballat and Geshem sent unto me, saying, Come, let us meet together in some one of the villages in the plain of Ono. But they thought to do me mischief.
 - **7:37** — The children of Lod, Hadid, and Ono, seven hundred twenty and one.
 - **11:35** — Lod, and Ono, the valley of craftsmen.

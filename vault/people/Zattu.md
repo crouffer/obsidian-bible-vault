@@ -44,10 +44,10 @@ metav_id: 2986
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **2:8** — The children of Zattu, nine hundred forty and five.
 - **10:27** — And of the sons of Zattu; Elioenai, Eliashib, Mattaniah, and Jeremoth, and Zabad, and Aziza.
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **7:13** — The children of Zattu, eight hundred forty and five.
 

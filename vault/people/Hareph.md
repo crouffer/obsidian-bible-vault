@@ -53,6 +53,6 @@ metav_id: 1412
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **2:51** — Salma the father of Bethlehem, Hareph the father of Bethgader.
 

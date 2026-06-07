@@ -17,8 +17,8 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Shaharaim]]"
-mother: "[[Hodesh]]"
+father: "[[Hodesh]]"
+mother: "[[Shaharaim]]"
 spouse: []
 children: []
 siblings: 
@@ -50,9 +50,9 @@ metav_id: 1900
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **8:9** — And he begat of Hodesh his wife, Jobab, and Zibia, and Mesha, and Malcham,
 
-### [[Zephaniah]]
+### [[books/Zephaniah|Zephaniah]]
 - **1:5** — And them that worship the host of heaven upon the housetops; and them that worship and that swear by the LORD, and that swear by Malcham;
 

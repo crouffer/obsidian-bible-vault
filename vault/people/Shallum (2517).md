@@ -45,7 +45,7 @@ metav_id: 2517
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **2:40** — And Eleasah begat Sisamai, and Sisamai begat Shallum,
 - **2:41** — And Shallum begat Jekamiah, and Jekamiah begat Elishama.
 

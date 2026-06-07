@@ -26,6 +26,6 @@ metav_id: 1240
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **15:56** — And Jezreel, and Jokdeam, and Zanoah,
 

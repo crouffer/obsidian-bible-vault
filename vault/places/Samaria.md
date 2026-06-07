@@ -26,7 +26,7 @@ metav_id: 1022
 
 ## Verse References
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **13:32** — For the saying which he cried by the word of the LORD against the altar in Bethel, and against all the houses of the high places which are in the cities of Samaria, shall surely come to pass.
 - **16:24** — And he bought the hill Samaria of Shemer for two talents of silver, and built on the hill, and called the name of the city which he built, after the name of Shemer, owner of the hill, Samaria.
 - **16:28** — So Omri slept with his fathers, and was buried in Samaria: and Ahab his son reigned in his stead.
@@ -45,7 +45,7 @@ metav_id: 1022
 - **22:38** — And one washed the chariot in the pool of Samaria; and the dogs licked up his blood; and they washed his armour; according unto the word of the LORD which he spake.
 - **22:51** — Ahaziah the son of Ahab began to reign over Israel in Samaria the seventeenth year of Jehoshaphat king of Judah, and reigned two years over Israel.
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **1:2** — And Ahaziah fell down through a lattice in his upper chamber that was in Samaria, and was sick: and he sent messengers, and said unto them, Go, enquire of Baalzebub the god of Ekron whether I shall recover of this disease.
 - **1:3** — But the angel of the LORD said to Elijah the Tishbite, Arise, go up to meet the messengers of the king of Samaria, and say unto them, Is it not because there is not a God in Israel, that ye go to enquire of Baalzebub the god of Ekron?
 - **2:25** — And he went from thence to mount Carmel, and from thence he returned to Samaria.
@@ -91,7 +91,7 @@ metav_id: 1022
 - **23:18** — And he said, Let him alone; let no man move his bones. So they let his bones alone, with the bones of the prophet that came out of Samaria.
 - **23:19** — And all the houses also of the high places that were in the cities of Samaria, which the kings of Israel had made to provoke the LORD to anger, Josiah took away, and did to them according to all the acts that he had done in Bethel.
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **18:2** — And after certain years he went down to Ahab to Samaria. And Ahab killed sheep and oxen for him in abundance, and for the people that he had with him, and persuaded him to go up with him to Ramothgilead.
 - **18:9** — And the king of Israel and Jehoshaphat king of Judah sat either of them on his throne, clothed in their robes, and they sat in a void place at the entering in of the gate of Samaria; and all the prophets prophesied before them.
 - **22:9** — And he sought Ahaziah: and they caught him, (for he was hid in Samaria,) and brought him to Jehu: and when they had slain him, they buried him: Because, said they, he is the son of Jehoshaphat, who sought the LORD with all his heart. So the house of Ahaziah had no power to keep still the kingdom.
@@ -101,14 +101,14 @@ metav_id: 1022
 - **28:9** — But a prophet of the LORD was there, whose name was Oded: and he went out before the host that came to Samaria, and said unto them, Behold, because the LORD God of your fathers was wroth with Judah, he hath delivered them into your hand, and ye have slain them in a rage that reacheth up unto heaven.
 - **28:15** — And the men which were expressed by name rose up, and took the captives, and with the spoil clothed all that were naked among them, and arrayed them, and shod them, and gave them to eat and to drink, and anointed them, and carried all the feeble of them upon asses, and brought them to Jericho, the city of palm trees, to their brethren: then they returned to Samaria.
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **4:10** — And the rest of the nations whom the great and noble Asnappar brought over, and set in the cities of Samaria, and the rest that are on this side the river, and at such a time.
 - **4:17** — Then sent the king an answer unto Rehum the chancellor, and to Shimshai the scribe, and to the rest of their companions that dwell in Samaria, and unto the rest beyond the river, Peace, and at such a time.
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **4:2** — And he spake before his brethren and the army of Samaria, and said, What do these feeble Jews? will they fortify themselves? will they sacrifice? will they make an end in a day? will they revive the stones out of the heaps of the rubbish which are burned?
 
-### [[Isaiah]]
+### [[books/Isaiah|Isaiah]]
 - **7:9** — And the head of Ephraim is Samaria, and the head of Samaria is Remaliah's son. If ye will not believe, surely ye shall not be established.
 - **8:4** — For before the child shall have knowledge to cry, My father, and my mother, the riches of Damascus and the spoil of Samaria shall be taken away before the king of Assyria.
 - **9:9** — And all the people shall know, even Ephraim and the inhabitant of Samaria, that say in the pride and stoutness of heart,
@@ -117,12 +117,12 @@ metav_id: 1022
 - **10:11** — Shall I not, as I have done unto Samaria and her idols, so do to Jerusalem and her idols?
 - **36:19** — Where are the gods of Hamath and Arphad? where are the gods of Sepharvaim? and have they delivered Samaria out of my hand?
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **23:13** — And I have seen folly in the prophets of Samaria; they prophesied in Baal, and caused my people Israel to err.
 - **31:5** — Thou shalt yet plant vines upon the mountains of Samaria: the planters shall plant, and shall eat them as common things.
 - **41:5** — That there came certain from Shechem, from Shiloh, and from Samaria, even fourscore men, having their beards shaven, and their clothes rent, and having cut themselves, with offerings and incense in their hand, to bring them to the house of the LORD.
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **16:46** — And thine elder sister is Samaria, she and her daughters that dwell at thy left hand: and thy younger sister, that dwelleth at thy right hand, is Sodom and her daughters.
 - **16:51** — Neither hath Samaria committed half of thy sins; but thou hast multiplied thine abominations more than they, and hast justified thy sisters in all thine abominations which thou hast done.
 - **16:53** — When I shall bring again their captivity, the captivity of Sodom and her daughters, and the captivity of Samaria and her daughters, then will I bring again the captivity of thy captives in the midst of them:
@@ -130,37 +130,37 @@ metav_id: 1022
 - **23:4** — And the names of them were Aholah the elder, and Aholibah her sister: and they were mine, and they bare sons and daughters. Thus were their names; Samaria is Aholah, and Jerusalem Aholibah.
 - **23:33** — Thou shalt be filled with drunkenness and sorrow, with the cup of astonishment and desolation, with the cup of thy sister Samaria.
 
-### [[Hosea]]
+### [[books/Hosea|Hosea]]
 - **7:1** — When I would have healed Israel, then the iniquity of Ephraim was discovered, and the wickedness of Samaria: for they commit falsehood; and the thief cometh in, and the troop of robbers spoileth without.
 - **8:5** — Thy calf, O Samaria, hath cast thee off; mine anger is kindled against them: how long will it be ere they attain to innocency?
 - **8:6** — For from Israel was it also: the workman made it; therefore it is not God: but the calf of Samaria shall be broken in pieces.
 - **10:5** — The inhabitants of Samaria shall fear because of the calves of Bethaven: for the people thereof shall mourn over it, and the priests thereof that rejoiced on it, for the glory thereof, because it is departed from it.
 - **13:16** — Samaria shall become desolate; for she hath rebelled against her God: they shall fall by the sword: their infants shall be dashed in pieces, and their women with child shall be ripped up.
 
-### [[Amos]]
+### [[books/Amos|Amos]]
 - **3:9** — Publish in the palaces at Ashdod, and in the palaces in the land of Egypt, and say, Assemble yourselves upon the mountains of Samaria, and behold the great tumults in the midst thereof, and the oppressed in the midst thereof.
 - **3:12** — Thus saith the LORD; As the shepherd taketh out of the mouth of the lion two legs, or a piece of an ear; so shall the children of Israel be taken out that dwell in Samaria in the corner of a bed, and in Damascus in a couch.
 - **4:1** — Hear this word, ye kine of Bashan, that are in the mountain of Samaria, which oppress the poor, which crush the needy, which say to their masters, Bring, and let us drink.
 - **6:1** — Woe to them that are at ease in Zion, and trust in the mountain of Samaria, which are named chief of the nations, to whom the house of Israel came!
 
-### [[Obadiah]]
+### [[books/Obadiah|Obadiah]]
 - **1:19** — And they of the south shall possess the mount of Esau; and they of the plain the Philistines: and they shall possess the fields of Ephraim, and the fields of Samaria: and Benjamin shall possess Gilead.
 
-### [[Micah]]
+### [[books/Micah|Micah]]
 - **1:1** — The word of the LORD that came to Micah the Morasthite in the days of Jotham, Ahaz, and Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem.
 - **1:5** — For the transgression of Jacob is all this, and for the sins of the house of Israel. What is the transgression of Jacob? is it not Samaria? and what are the high places of Judah? are they not Jerusalem?
 - **1:6** — Therefore I will make Samaria as an heap of the field, and as plantings of a vineyard: and I will pour down the stones thereof into the valley, and I will discover the foundations thereof.
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **17:11** — And it came to pass, as he went to Jerusalem, that he passed through the midst of Samaria and Galilee.
 
-### [[John]]
+### [[books/John|John]]
 - **4:4** — And he must needs go through Samaria.
 - **4:5** — Then cometh he to a city of Samaria, which is called Sychar, near to the parcel of ground that Jacob gave to his son Joseph.
 - **4:7** — There cometh a woman of Samaria to draw water: Jesus saith unto her, Give me to drink.
 - **4:9** — Then saith the woman of Samaria unto him, How is it that thou, being a Jew, askest drink of me, which am a woman of Samaria? for the Jews have no dealings with the Samaritans.
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **1:8** — But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judaea, and in Samaria, and unto the uttermost part of the earth.
 - **8:1** — And Saul was consenting unto his death. And at that time there was a great persecution against the church which was at Jerusalem; and they were all scattered abroad throughout the regions of Judaea and Samaria, except the apostles.
 - **8:5** — Then Philip went down to the city of Samaria, and preached Christ unto them.

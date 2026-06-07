@@ -26,6 +26,6 @@ metav_id: 49
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **21:18** — Anathoth with her suburbs, and Almon with her suburbs; four cities.
 

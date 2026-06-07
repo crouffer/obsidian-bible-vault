@@ -26,6 +26,6 @@ metav_id: 1153
 
 ## Verse References
 
-### [[John]]
+### [[books/John|John]]
 - **19:17** — And he bearing his cross went forth into a place called the place of a skull, which is called in the Hebrew Golgotha:
 

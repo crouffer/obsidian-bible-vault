@@ -45,6 +45,6 @@ metav_id: 1352
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:30** — Shimea his son, Haggiah his son, Asaiah his son.
 

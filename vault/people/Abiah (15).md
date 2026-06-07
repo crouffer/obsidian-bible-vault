@@ -45,9 +45,9 @@ metav_id: 15
 
 ## Verse References
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **8:2** — Now the name of his firstborn was Joel; and the name of his second, Abiah: they were judges in Beersheba.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:28** — And the sons of Samuel; the firstborn Vashni, and Abiah.
 

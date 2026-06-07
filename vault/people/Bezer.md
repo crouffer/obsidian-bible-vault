@@ -54,6 +54,6 @@ metav_id: 492
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **7:37** — Bezer, and Hod, and Shamma, and Shilshah, and Ithran, and Beera.
 

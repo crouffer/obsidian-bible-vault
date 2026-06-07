@@ -47,12 +47,12 @@ metav_id: 1606
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **46:24** — And the sons of Naphtali; Jahzeel, and Guni, and Jezer, and Shillem.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **26:49** — Of Jezer, the family of the Jezerites: of Shillem, the family of the Shillemites.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **7:13** — The sons of Naphtali; Jahziel, and Guni, and Jezer, and Shallum, the sons of Bilhah.
 

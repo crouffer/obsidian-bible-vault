@@ -44,7 +44,7 @@ metav_id: 2842
 
 ## Verse References
 
-### [[Esther]]
+### [[books/Esther|Esther]]
 - **2:21** — In those days, while Mordecai sat in the king's gate, two of the king's chamberlains, Bigthan and Teresh, of those which kept the door, were wroth, and sought to lay hand on the king Ahasuerus.
 - **6:2** — And it was found written, that Mordecai had told of Bigthana and Teresh, two of the king's chamberlains, the keepers of the door, who sought to lay hand on the king Ahasuerus.
 

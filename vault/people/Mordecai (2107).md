@@ -44,7 +44,7 @@ metav_id: 2107
 
 ## Verse References
 
-### [[Esther]]
+### [[books/Esther|Esther]]
 - **2:5** — Now in Shushan the palace there was a certain Jew, whose name was Mordecai, the son of Jair, the son of Shimei, the son of Kish, a Benjamite;
 - **2:7** — And he brought up Hadassah, that is, Esther, his uncle's daughter: for she had neither father nor mother, and the maid was fair and beautiful; whom Mordecai, when her father and mother were dead, took for his own daughter.
 - **2:10** — Esther had not shewed her people nor her kindred: for Mordecai had charged her that she should not shew it.

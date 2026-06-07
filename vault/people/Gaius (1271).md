@@ -44,9 +44,9 @@ metav_id: 1271
 
 ## Verse References
 
-### [[Romans]]
+### [[books/Romans|Romans]]
 - **16:23** — Gaius mine host, and of the whole church, saluteth you. Erastus the chamberlain of the city saluteth you, and Quartus a brother.
 
-### [[1 Corinthians]]
+### [[books/1 Corinthians|1 Corinthians]]
 - **1:14** — I thank God that I baptized none of you, but Crispus and Gaius;
 

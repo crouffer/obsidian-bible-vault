@@ -26,7 +26,7 @@ metav_id: 785
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **11:5** — And when all these kings were met together, they came and pitched together at the waters of Merom, to fight against Israel.
 - **11:7** — So Joshua came, and all the people of war with him, against them by the waters of Merom suddenly; and they fell upon them.
 

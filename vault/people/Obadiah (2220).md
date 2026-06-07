@@ -44,6 +44,6 @@ metav_id: 2220
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **12:9** — Ezer the first, Obadiah the second, Eliab the third,
 

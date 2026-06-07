@@ -45,17 +45,17 @@ metav_id: 2463
 
 ## Verse References
 
-### [[Ruth]]
+### [[books/Ruth|Ruth]]
 - **4:20** — And Amminadab begat Nahshon, and Nahshon begat Salmon,
 - **4:21** — And Salmon begat Boaz, and Boaz begat Obed,
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **2:11** — And Nahshon begat Salma, and Salma begat Boaz,
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **1:4** — And Aram begat Aminadab; and Aminadab begat Naasson; and Naasson begat Salmon;
 - **1:5** — And Salmon begat Booz of Rachab; and Booz begat Obed of Ruth; and Obed begat Jesse;
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **3:32** — Which was the son of Jesse, which was the son of Obed, which was the son of Booz, which was the son of Salmon, which was the son of Naasson,
 

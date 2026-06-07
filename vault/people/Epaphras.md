@@ -44,10 +44,10 @@ metav_id: 1195
 
 ## Verse References
 
-### [[Colossians]]
+### [[books/Colossians|Colossians]]
 - **1:7** — As ye also learned of Epaphras our dear fellowservant, who is for you a faithful minister of Christ;
 - **4:12** — Epaphras, who is one of you, a servant of Christ, saluteth you, always labouring fervently for you in prayers, that ye may stand perfect and complete in all the will of God.
 
-### [[Philemon]]
+### [[books/Philemon|Philemon]]
 - **1:23** — There salute thee Epaphras, my fellowprisoner in Christ Jesus;
 

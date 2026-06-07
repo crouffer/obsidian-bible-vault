@@ -44,6 +44,6 @@ metav_id: 686
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **10:21** — Meshezabeel, Zadok, Jaddua,
 

@@ -44,6 +44,6 @@ metav_id: 2524
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **3:12** — And next unto him repaired Shallum the son of Halohesh, the ruler of the half part of Jerusalem, he and his daughters.
 

@@ -26,7 +26,7 @@ metav_id: 13
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **33:34** — And they removed from Jotbathah, and encamped at Ebronah.
 - **33:35** — And they departed from Ebronah, and encamped at Eziongaber.
 

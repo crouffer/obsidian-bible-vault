@@ -44,9 +44,9 @@ metav_id: 1985
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **2:50** — The children of Asnah, the children of Mehunim, the children of Nephusim,
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **7:52** — The children of Besai, the children of Meunim, the children of Nephishesim,
 

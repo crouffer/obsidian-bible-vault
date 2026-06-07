@@ -64,7 +64,7 @@ metav_id: 2213
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **3:7** — And Nogah, and Nepheg, and Japhia,
 - **14:6** — And Nogah, and Nepheg, and Japhia,
 

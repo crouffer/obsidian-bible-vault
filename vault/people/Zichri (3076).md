@@ -44,6 +44,6 @@ metav_id: 3076
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **12:17** — Of Abijah, Zichri; of Miniamin, of Moadiah, Piltai;
 

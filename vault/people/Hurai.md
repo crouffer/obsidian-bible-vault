@@ -44,9 +44,9 @@ metav_id: 1521
 
 ## Verse References
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **23:30** — Benaiah the Pirathonite, Hiddai of the brooks of Gaash,
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **11:32** — Hurai of the brooks of Gaash, Abiel the Arbathite,
 

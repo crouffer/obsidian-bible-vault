@@ -44,7 +44,7 @@ metav_id: 2461
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **12:7** — Sallu, Amok, Hilkiah, Jedaiah. These were the chief of the priests and of their brethren in the days of Jeshua.
 - **12:20** — Of Sallai, Kallai; of Amok, Eber;
 

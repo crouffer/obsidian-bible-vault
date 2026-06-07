@@ -26,12 +26,12 @@ metav_id: 44
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **34:4** — And your border shall turn from the south to the ascent of Akrabbim, and pass on to Zin: and the going forth thereof shall be from the south to Kadeshbarnea, and shall go on to Hazaraddar, and pass on to Azmon:
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **15:3** — And it went out to the south side to Maalehacrabbim, and passed along to Zin, and ascended up on the south side unto Kadeshbarnea, and passed along to Hezron, and went up to Adar, and fetched a compass to Karkaa:
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **1:36** — And the coast of the Amorites was from the going up to Akrabbim, from the rock, and upward.
 

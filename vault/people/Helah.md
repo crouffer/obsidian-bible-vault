@@ -45,7 +45,7 @@ metav_id: 1478
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **4:5** — And Ashur the father of Tekoa had two wives, Helah and Naarah.
 - **4:7** — And the sons of Helah were, Zereth, and Jezoar, and Ethnan.
 

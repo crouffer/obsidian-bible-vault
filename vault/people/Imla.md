@@ -45,11 +45,11 @@ metav_id: 597
 
 ## Verse References
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **22:8** — And the king of Israel said unto Jehoshaphat, There is yet one man, Micaiah the son of Imlah, by whom we may enquire of the LORD: but I hate him; for he doth not prophesy good concerning me, but evil. And Jehoshaphat said, Let not the king say so.
 - **22:9** — Then the king of Israel called an officer, and said, Hasten hither Micaiah the son of Imlah.
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **18:7** — And the king of Israel said unto Jehoshaphat, There is yet one man, by whom we may enquire of the LORD: but I hate him; for he never prophesied good unto me, but always evil: the same is Micaiah the son of Imla. And Jehoshaphat said, Let not the king say so.
 - **18:8** — And the king of Israel called for one of his officers, and said, Fetch quickly Micaiah the son of Imla.
 

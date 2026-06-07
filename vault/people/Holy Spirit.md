@@ -44,11 +44,11 @@ metav_id: 7400
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **1:2** — And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters.
 - **41:38** — And Pharaoh said unto his servants, Can we find such a one as this is, a man in whom the Spirit of God is?
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **3:10** — And the Spirit of the LORD came upon him, and he judged Israel, and went out to war: and the LORD delivered Chushanrishathaim king of Mesopotamia into his hand; and his hand prevailed against Chushanrishathaim.
 - **6:34** — But the Spirit of the LORD came upon Gideon, and he blew a trumpet; and Abiezer was gathered after him.
 - **11:29** — Then the Spirit of the LORD came upon Jephthah, and he passed over Gilead, and Manasseh, and passed over Mizpeh of Gilead, and from Mizpeh of Gilead he passed over unto the children of Ammon.
@@ -57,7 +57,7 @@ metav_id: 7400
 - **14:19** — And the Spirit of the LORD came upon him, and he went down to Ashkelon, and slew thirty men of them, and took their spoil, and gave change of garments unto them which expounded the riddle. And his anger was kindled, and he went up to his father's house.
 - **15:14** — And when he came unto Lehi, the Philistines shouted against him: and the Spirit of the LORD came mightily upon him, and the cords that were upon his arms became as flax that was burnt with fire, and his bands loosed from off his hands.
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **10:6** — And the Spirit of the LORD will come upon thee, and thou shalt prophesy with them, and shalt be turned into another man.
 - **10:10** — And when they came thither to the hill, behold, a company of prophets met him; and the Spirit of God came upon him, and he prophesied among them.
 - **11:6** — And the Spirit of God came upon Saul when he heard those tidings, and his anger was kindled greatly.
@@ -66,29 +66,29 @@ metav_id: 7400
 - **19:20** — And Saul sent messengers to take David: and when they saw the company of the prophets prophesying, and Samuel standing as appointed over them, the Spirit of God was upon the messengers of Saul, and they also prophesied.
 - **19:23** — And he went thither to Naioth in Ramah: and the Spirit of God was upon him also, and he went on, and prophesied, until he came to Naioth in Ramah.
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **23:2** — The Spirit of the LORD spake by me, and his word was in my tongue.
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **18:12** — And it shall come to pass, as soon as I am gone from thee, that the Spirit of the LORD shall carry thee whither I know not; and so when I come and tell Ahab, and he cannot find thee, he shall slay me: but I thy servant fear the LORD from my youth.
 - **22:24** — But Zedekiah the son of Chenaanah went near, and smote Micaiah on the cheek, and said, Which way went the Spirit of the LORD from me to speak unto thee?
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **2:16** — And they said unto him, Behold now, there be with thy servants fifty strong men; let them go, we pray thee, and seek thy master: lest peradventure the Spirit of the LORD hath taken him up, and cast him upon some mountain, or into some valley. And he said, Ye shall not send.
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **15:1** — And the Spirit of God came upon Azariah the son of Oded:
 - **18:23** — Then Zedekiah the son of Chenaanah came near, and smote Micaiah upon the cheek, and said, Which way went the Spirit of the LORD from me to speak unto thee?
 - **20:14** — Then upon Jahaziel the son of Zechariah, the son of Benaiah, the son of Jeiel, the son of Mattaniah, a Levite of the sons of Asaph, came the Spirit of the LORD in the midst of the congregation;
 - **24:20** — And the Spirit of God came upon Zechariah the son of Jehoiada the priest, which stood above the people, and said unto them, Thus saith God, Why transgress ye the commandments of the LORD, that ye cannot prosper? because ye have forsaken the LORD, he hath also forsaken you.
 
-### [[Job]]
+### [[books/Job|Job]]
 - **33:4** — The Spirit of God hath made me, and the breath of the Almighty hath given me life.
 
-### [[Psalms]]
+### [[books/Psalms|Psalms]]
 - **51:11** — Cast me not away from thy presence; and take not thy holy spirit from me.
 
-### [[Isaiah]]
+### [[books/Isaiah|Isaiah]]
 - **40:13** — Who hath directed the Spirit of the LORD, or being his counsellor hath taught him?
 - **48:16** — Come ye near unto me, hear ye this; I have not spoken in secret from the beginning; from the time that it was, there am I: and now the Lord GOD, and his Spirit, hath sent me.
 - **59:19** — So shall they fear the name of the LORD from the west, and his glory from the rising of the sun. When the enemy shall come in like a flood, the Spirit of the LORD shall lift up a standard against him.
@@ -97,11 +97,11 @@ metav_id: 7400
 - **63:11** — Then he remembered the days of old, Moses, and his people, saying, Where is he that brought them up out of the sea with the shepherd of his flock? where is he that put his holy Spirit within him?
 - **63:14** — As a beast goeth down into the valley, the Spirit of the LORD caused him to rest: so didst thou lead thy people, to make thyself a glorious name.
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **11:5** — And the Spirit of the LORD fell upon me, and said unto me, Speak; Thus saith the LORD; Thus have ye said, O house of Israel: for I know the things that come into your mind, every one of them.
 - **11:24** — Afterwards the spirit took me up, and brought me in a vision by the Spirit of God into Chaldea, to them of the captivity. So the vision that I had seen went up from me.
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **1:18** — Now the birth of Jesus Christ was on this wise: When as his mother Mary was espoused to Joseph, before they came together, she was found with child of the Holy Ghost.
 - **1:20** — But while he thought on these things, behold, the angel of the Lord appeared unto him in a dream, saying, Joseph, thou son of David, fear not to take unto thee Mary thy wife: for that which is conceived in her is of the Holy Ghost.
 - **3:11** — I indeed baptize you with water unto repentance: but he that cometh after me is mightier than I, whose shoes I am not worthy to bear: he shall baptize you with the Holy Ghost, and with fire:
@@ -114,7 +114,7 @@ metav_id: 7400
 - **12:32** — And whosoever speaketh a word against the Son of man, it shall be forgiven him: but whosoever speaketh against the Holy Ghost, it shall not be forgiven him, neither in this world, neither in the world to come.
 - **28:19** — Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost:
 
-### [[Mark]]
+### [[books/Mark|Mark]]
 - **1:8** — I indeed have baptized you with water: but he shall baptize you with the Holy Ghost.
 - **1:10** — And straightway coming up out of the water, he saw the heavens opened, and the Spirit like a dove descending upon him:
 - **1:12** — And immediately the Spirit driveth him into the wilderness.
@@ -122,7 +122,7 @@ metav_id: 7400
 - **12:36** — For David himself said by the Holy Ghost, The LORD said to my Lord, Sit thou on my right hand, till I make thine enemies thy footstool.
 - **13:11** — But when they shall lead you, and deliver you up, take no thought beforehand what ye shall speak, neither do ye premeditate: but whatsoever shall be given you in that hour, that speak ye: for it is not ye that speak, but the Holy Ghost.
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **1:15** — For he shall be great in the sight of the Lord, and shall drink neither wine nor strong drink; and he shall be filled with the Holy Ghost, even from his mother's womb.
 - **1:35** — And the angel answered and said unto her, The Holy Ghost shall come upon thee, and the power of the Highest shall overshadow thee: therefore also that holy thing which shall be born of thee shall be called the Son of God.
 - **1:41** — And it came to pass, that, when Elisabeth heard the salutation of Mary, the babe leaped in her womb; and Elisabeth was filled with the Holy Ghost:
@@ -139,7 +139,7 @@ metav_id: 7400
 - **12:10** — And whosoever shall speak a word against the Son of man, it shall be forgiven him: but unto him that blasphemeth against the Holy Ghost it shall not be forgiven.
 - **12:12** — For the Holy Ghost shall teach you in the same hour what ye ought to say.
 
-### [[John]]
+### [[books/John|John]]
 - **1:32** — And John bare record, saying, I saw the Spirit descending from heaven like a dove, and it abode upon him.
 - **1:33** — And I knew him not: but he that sent me to baptize with water, the same said unto me, Upon whom thou shalt see the Spirit descending, and remaining on him, the same is he which baptizeth with the Holy Ghost.
 - **3:5** — Jesus answered, Verily, verily, I say unto thee, Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God.
@@ -156,7 +156,7 @@ metav_id: 7400
 - **16:13** — Howbeit when he, the Spirit of truth, is come, he will guide you into all truth: for he shall not speak of himself; but whatsoever he shall hear, that shall he speak: and he will shew you things to come.
 - **20:22** — And when he had said this, he breathed on them, and saith unto them, Receive ye the Holy Ghost:
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **1:2** — Until the day in which he was taken up, after that he through the Holy Ghost had given commandments unto the apostles whom he had chosen:
 - **1:5** — For John truly baptized with water; but ye shall be baptized with the Holy Ghost not many days hence.
 - **1:8** — But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judaea, and in Samaria, and unto the uttermost part of the earth.
@@ -210,7 +210,7 @@ metav_id: 7400
 - **21:11** — And when he was come unto us, he took Paul's girdle, and bound his own hands and feet, and said, Thus saith the Holy Ghost, So shall the Jews at Jerusalem bind the man that owneth this girdle, and shall deliver him into the hands of the Gentiles.
 - **28:25** — And when they agreed not among themselves, they departed, after that Paul had spoken one word, Well spake the Holy Ghost by Esaias the prophet unto our fathers,
 
-### [[Romans]]
+### [[books/Romans|Romans]]
 - **5:5** — And hope maketh not ashamed; because the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us.
 - **8:1** — There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.
 - **8:2** — For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death.
@@ -233,7 +233,7 @@ metav_id: 7400
 - **15:19** — Through mighty signs and wonders, by the power of the Spirit of God; so that from Jerusalem, and round about unto Illyricum, I have fully preached the gospel of Christ.
 - **15:30** — Now I beseech you, brethren, for the Lord Jesus Christ's sake, and for the love of the Spirit, that ye strive together with me in your prayers to God for me;
 
-### [[1 Corinthians]]
+### [[books/1 Corinthians|1 Corinthians]]
 - **2:4** — And my speech and my preaching was not with enticing words of man's wisdom, but in demonstration of the Spirit and of power:
 - **2:10** — But God hath revealed them unto us by his Spirit: for the Spirit searcheth all things, yea, the deep things of God.
 - **2:11** — For what man knoweth the things of a man, save the spirit of man which is in him? even so the things of God knoweth no man, but the Spirit of God.
@@ -251,7 +251,7 @@ metav_id: 7400
 - **12:11** — But all these worketh that one and the selfsame Spirit, dividing to every man severally as he will.
 - **12:13** — For by one Spirit are we all baptized into one body, whether we be Jews or Gentiles, whether we be bond or free; and have been all made to drink into one Spirit.
 
-### [[2 Corinthians]]
+### [[books/2 Corinthians|2 Corinthians]]
 - **1:22** — Who hath also sealed us, and given the earnest of the Spirit in our hearts.
 - **3:3** — Forasmuch as ye are manifestly declared to be the epistle of Christ ministered by us, written not with ink, but with the Spirit of the living God; not in tables of stone, but in fleshy tables of the heart.
 - **3:17** — Now the Lord is that Spirit: and where the Spirit of the Lord is, there is liberty.
@@ -260,7 +260,7 @@ metav_id: 7400
 - **6:6** — By pureness, by knowledge, by longsuffering, by kindness, by the Holy Ghost, by love unfeigned,
 - **13:14** — The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Ghost, be with you all. Amen.
 
-### [[Galatians]]
+### [[books/Galatians|Galatians]]
 - **3:2** — This only would I learn of you, Received ye the Spirit by the works of the law, or by the hearing of faith?
 - **3:3** — Are ye so foolish? having begun in the Spirit, are ye now made perfect by the flesh?
 - **3:5** — He therefore that ministereth to you the Spirit, and worketh miracles among you, doeth he it by the works of the law, or by the hearing of faith?
@@ -275,7 +275,7 @@ metav_id: 7400
 - **5:25** — If we live in the Spirit, let us also walk in the Spirit.
 - **6:8** — For he that soweth to his flesh shall of the flesh reap corruption; but he that soweth to the Spirit shall of the Spirit reap life everlasting.
 
-### [[Ephesians]]
+### [[books/Ephesians|Ephesians]]
 - **1:13** — In whom ye also trusted, after that ye heard the word of truth, the gospel of your salvation: in whom also after that ye believed, ye were sealed with that holy Spirit of promise,
 - **2:18** — For through him we both have access by one Spirit unto the Father.
 - **2:22** — In whom ye also are builded together for an habitation of God through the Spirit.
@@ -289,33 +289,33 @@ metav_id: 7400
 - **6:17** — And take the helmet of salvation, and the sword of the Spirit, which is the word of God:
 - **6:18** — Praying always with all prayer and supplication in the Spirit, and watching thereunto with all perseverance and supplication for all saints;
 
-### [[Philippians]]
+### [[books/Philippians|Philippians]]
 - **1:19** — For I know that this shall turn to my salvation through your prayer, and the supply of the Spirit of Jesus Christ,
 - **2:1** — If there be therefore any consolation in Christ, if any comfort of love, if any fellowship of the Spirit, if any bowels and mercies,
 
-### [[Colossians]]
+### [[books/Colossians|Colossians]]
 - **1:8** — Who also declared unto us your love in the Spirit.
 
-### [[1 Thessalonians]]
+### [[books/1 Thessalonians|1 Thessalonians]]
 - **1:5** — For our gospel came not unto you in word only, but also in power, and in the Holy Ghost, and in much assurance; as ye know what manner of men we were among you for your sake.
 - **1:6** — And ye became followers of us, and of the Lord, having received the word in much affliction, with joy of the Holy Ghost:
 - **4:8** — He therefore that despiseth, despiseth not man, but God, who hath also given unto us his holy Spirit.
 - **5:19** — Quench not the Spirit.
 
-### [[2 Thessalonians]]
+### [[books/2 Thessalonians|2 Thessalonians]]
 - **2:13** — But we are bound to give thanks alway to God for you, brethren beloved of the Lord, because God hath from the beginning chosen you to salvation through sanctification of the Spirit and belief of the truth:
 
-### [[1 Timothy]]
+### [[books/1 Timothy|1 Timothy]]
 - **3:16** — And without controversy great is the mystery of godliness: God was manifest in the flesh, justified in the Spirit, seen of angels, preached unto the Gentiles, believed on in the world, received up into glory.
 - **4:1** — Now the Spirit speaketh expressly, that in the latter times some shall depart from the faith, giving heed to seducing spirits, and doctrines of devils;
 
-### [[2 Timothy]]
+### [[books/2 Timothy|2 Timothy]]
 - **1:14** — That good thing which was committed unto thee keep by the Holy Ghost which dwelleth in us.
 
-### [[Titus]]
+### [[books/Titus|Titus]]
 - **3:5** — Not by works of righteousness which we have done, but according to his mercy he saved us, by the washing of regeneration, and renewing of the Holy Ghost;
 
-### [[Hebrews]]
+### [[books/Hebrews|Hebrews]]
 - **2:4** — God also bearing them witness, both with signs and wonders, and with divers miracles, and gifts of the Holy Ghost, according to his own will?
 - **3:7** — Wherefore (as the Holy Ghost saith, To day if ye will hear his voice,
 - **6:4** — For it is impossible for those who were once enlightened, and have tasted of the heavenly gift, and were made partakers of the Holy Ghost,
@@ -324,17 +324,17 @@ metav_id: 7400
 - **10:15** — Whereof the Holy Ghost also is a witness to us: for after that he had said before,
 - **10:29** — Of how much sorer punishment, suppose ye, shall he be thought worthy, who hath trodden under foot the Son of God, and hath counted the blood of the covenant, wherewith he was sanctified, an unholy thing, and hath done despite unto the Spirit of grace?
 
-### [[1 Peter]]
+### [[books/1 Peter|1 Peter]]
 - **1:2** — Elect according to the foreknowledge of God the Father, through sanctification of the Spirit, unto obedience and sprinkling of the blood of Jesus Christ: Grace unto you, and peace, be multiplied.
 - **1:11** — Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow.
 - **1:12** — Unto whom it was revealed, that not unto themselves, but unto us they did minister the things, which are now reported unto you by them that have preached the gospel unto you with the Holy Ghost sent down from heaven; which things the angels desire to look into.
 - **1:22** — Seeing ye have purified your souls in obeying the truth through the Spirit unto unfeigned love of the brethren, see that ye love one another with a pure heart fervently:
 - **3:18** — For Christ also hath once suffered for sins, the just for the unjust, that he might bring us to God, being put to death in the flesh, but quickened by the Spirit:
 
-### [[2 Peter]]
+### [[books/2 Peter|2 Peter]]
 - **1:21** — For the prophecy came not in old time by the will of man: but holy men of God spake as they were moved by the Holy Ghost.
 
-### [[1 John]]
+### [[books/1 John|1 John]]
 - **3:24** — And he that keepeth his commandments dwelleth in him, and he in him. And hereby we know that he abideth in us, by the Spirit which he hath given us.
 - **4:2** — Hereby know ye the Spirit of God: Every spirit that confesseth that Jesus Christ is come in the flesh is of God:
 - **4:13** — Hereby know we that we dwell in him, and he in us, because he hath given us of his Spirit.
@@ -342,11 +342,11 @@ metav_id: 7400
 - **5:7** — For there are three that bear record in heaven, the Father, the Word, and the Holy Ghost: and these three are one.
 - **5:8** — And there are three that bear witness in earth, the Spirit, and the water, and the blood: and these three agree in one.
 
-### [[Jude]]
+### [[books/Jude|Jude]]
 - **1:19** — These be they who separate themselves, sensual, having not the Spirit.
 - **1:20** — But ye, beloved, building up yourselves on your most holy faith, praying in the Holy Ghost,
 
-### [[Revelation]]
+### [[books/Revelation|Revelation]]
 - **1:4** — John to the seven churches which are in Asia: Grace be unto you, and peace, from him which is, and which was, and which is to come; and from the seven Spirits which are before his throne;
 - **1:10** — I was in the Spirit on the Lord's day, and heard behind me a great voice, as of a trumpet,
 - **2:7** — He that hath an ear, let him hear what the Spirit saith unto the churches; To him that overcometh will I give to eat of the tree of life, which is in the midst of the paradise of God.

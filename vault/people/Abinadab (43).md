@@ -47,13 +47,13 @@ metav_id: 43
 
 ## Verse References
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **7:1** — And the men of Kirjathjearim came, and fetched up the ark of the LORD, and brought it into the house of Abinadab in the hill, and sanctified Eleazar his son to keep the ark of the LORD.
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **6:3** — And they set the ark of God upon a new cart, and brought it out of the house of Abinadab that was in Gibeah: and Uzzah and Ahio, the sons of Abinadab, drave the new cart.
 - **6:4** — And they brought it out of the house of Abinadab which was at Gibeah, accompanying the ark of God: and Ahio went before the ark.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **13:7** — And they carried the ark of God in a new cart out of the house of Abinadab: and Uzza and Ahio drave the cart.
 

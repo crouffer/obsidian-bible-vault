@@ -52,18 +52,18 @@ metav_id: 2929
 
 ## Verse References
 
-### [[Exodus]]
+### [[books/Exodus|Exodus]]
 - **6:18** — And the sons of Kohath; Amram, and Izhar, and Hebron, and Uzziel: and the years of the life of Kohath were an hundred thirty and three years.
 - **6:22** — And the sons of Uzziel; Mishael, and Elzaphan, and Zithri.
 
-### [[Leviticus]]
+### [[books/Leviticus|Leviticus]]
 - **10:4** — And Moses called Mishael and Elzaphan, the sons of Uzziel the uncle of Aaron, and said unto them, Come near, carry your brethren from before the sanctuary out of the camp.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **3:19** — And the sons of Kohath by their families; Amram, and Izehar, Hebron, and Uzziel.
 - **3:30** — And the chief of the house of the father of the families of the Kohathites shall be Elizaphan the son of Uzziel.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:2** — And the sons of Kohath; Amram, Izhar, and Hebron, and Uzziel.
 - **6:18** — And the sons of Kohath were, Amram, and Izhar, and Hebron, and Uzziel.
 - **15:10** — Of the sons of Uzziel; Amminadab the chief, and his brethren an hundred and twelve.

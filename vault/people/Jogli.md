@@ -45,6 +45,6 @@ metav_id: 1663
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **34:22** — And the prince of the tribe of the children of Dan, Bukki the son of Jogli.
 

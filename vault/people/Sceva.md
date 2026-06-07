@@ -44,6 +44,6 @@ metav_id: 2480
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **19:14** — And there were seven sons of one Sceva, a Jew, and chief of the priests, which did so.
 

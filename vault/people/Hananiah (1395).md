@@ -44,7 +44,7 @@ metav_id: 1395
 
 ## Verse References
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **28:1** — And it came to pass the same year, in the beginning of the reign of Zedekiah king of Judah, in the fourth year, and in the fifth month, that Hananiah the son of Azur the prophet, which was of Gibeon, spake unto me in the house of the LORD, in the presence of the priests and of all the people, saying,
 - **28:5** — Then the prophet Jeremiah said unto the prophet Hananiah in the presence of the priests, and in the presence of all the people that stood in the house of the LORD,
 - **28:10** — Then Hananiah the prophet took the yoke from off the prophet Jeremiah's neck, and brake it.

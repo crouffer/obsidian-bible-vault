@@ -17,8 +17,8 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Zebudah]]"
-mother: "[[Josiah (1730)]]"
+father: "[[Josiah (1730)]]"
+mother: "[[Zebudah]]"
 spouse: 
   - "[[Nehushta]]"
 children: 
@@ -47,7 +47,7 @@ metav_id: 1085
 
 ## Verse References
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **23:34** — And Pharaohnechoh made Eliakim the son of Josiah king in the room of Josiah his father, and turned his name to Jehoiakim, and took Jehoahaz away: and he came to Egypt, and died there.
 - **23:35** — And Jehoiakim gave the silver and the gold to Pharaoh; but he taxed the land to give the money according to the commandment of Pharaoh: he exacted the silver and the gold of the people of the land, of every one according to his taxation, to give it unto Pharaohnechoh.
 - **23:36** — Jehoiakim was twenty and five years old when he began to reign; and he reigned eleven years in Jerusalem. And his mother's name was Zebudah, the daughter of Pedaiah of Rumah.
@@ -56,16 +56,16 @@ metav_id: 1085
 - **24:6** — So Jehoiakim slept with his fathers: and Jehoiachin his son reigned in his stead.
 - **24:19** — And he did that which was evil in the sight of the LORD, according to all that Jehoiakim had done.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **3:15** — And the sons of Josiah were, the firstborn Johanan, the second Jehoiakim, the third Zedekiah, the fourth Shallum.
 - **3:16** — And the sons of Jehoiakim: Jeconiah his son, Zedekiah his son.
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **36:4** — And the king of Egypt made Eliakim his brother king over Judah and Jerusalem, and turned his name to Jehoiakim. And Necho took Jehoahaz his brother, and carried him to Egypt.
 - **36:5** — Jehoiakim was twenty and five years old when he began to reign, and he reigned eleven years in Jerusalem: and he did that which was evil in the sight of the LORD his God.
 - **36:8** — Now the rest of the acts of Jehoiakim, and his abominations which he did, and that which was found in him, behold, they are written in the book of the kings of Israel and Judah: and Jehoiachin his son reigned in his stead.
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **1:3** — It came also in the days of Jehoiakim the son of Josiah king of Judah, unto the end of the eleventh year of Zedekiah the son of Josiah king of Judah, unto the carrying away of Jerusalem captive in the fifth month.
 - **22:18** — Therefore thus saith the LORD concerning Jehoiakim the son of Josiah king of Judah; They shall not lament for him, saying, Ah my brother! or, Ah sister! they shall not lament for him, saying, Ah lord! or, Ah his glory!
 - **22:24** — As I live, saith the LORD, though Coniah the son of Jehoiakim king of Judah were the signet upon my right hand, yet would I pluck thee thence;
@@ -90,7 +90,7 @@ metav_id: 1085
 - **46:2** — Against Egypt, against the army of Pharaohnecho king of Egypt, which was by the river Euphrates in Carchemish, which Nebuchadrezzar king of Babylon smote in the fourth year of Jehoiakim the son of Josiah king of Judah.
 - **52:2** — And he did that which was evil in the eyes of the LORD, according to all that Jehoiakim had done.
 
-### [[Daniel]]
+### [[books/Daniel|Daniel]]
 - **1:1** — In the third year of the reign of Jehoiakim king of Judah came Nebuchadnezzar king of Babylon unto Jerusalem, and besieged it.
 - **1:2** — And the Lord gave Jehoiakim king of Judah into his hand, with part of the vessels of the house of God: which he carried into the land of Shinar to the house of his god; and he brought the vessels into the treasure house of his god.
 

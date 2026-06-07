@@ -47,7 +47,7 @@ metav_id: 481
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **23:10** — And the sons of Shimei were, Jahath, Zina, and Jeush, and Beriah. These four were the sons of Shimei.
 - **23:11** — And Jahath was the chief, and Zizah the second: but Jeush and Beriah had not many sons; therefore they were in one reckoning, according to their father's house.
 

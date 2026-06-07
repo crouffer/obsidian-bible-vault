@@ -44,7 +44,7 @@ metav_id: 1972
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **1:23** — And they appointed two, Joseph called Barsabas, who was surnamed Justus, and Matthias.
 - **1:26** — And they gave forth their lots; and the lot fell upon Matthias; and he was numbered with the eleven apostles.
 

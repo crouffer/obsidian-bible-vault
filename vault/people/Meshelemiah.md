@@ -51,7 +51,7 @@ metav_id: 2013
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **9:21** — And Zechariah the son of Meshelemiah was porter of the door of the tabernacle of the congregation.
 - **26:1** — Concerning the divisions of the porters: Of the Korhites was Meshelemiah the son of Kore, of the sons of Asaph.
 - **26:2** — And the sons of Meshelemiah were, Zechariah the firstborn, Jediael the second, Zebadiah the third, Jathniel the fourth,

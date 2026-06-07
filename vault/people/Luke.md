@@ -44,12 +44,12 @@ metav_id: 1836
 
 ## Verse References
 
-### [[Colossians]]
+### [[books/Colossians|Colossians]]
 - **4:14** — Luke, the beloved physician, and Demas, greet you.
 
-### [[2 Timothy]]
+### [[books/2 Timothy|2 Timothy]]
 - **4:11** — Only Luke is with me. Take Mark, and bring him with thee: for he is profitable to me for the ministry.
 
-### [[Philemon]]
+### [[books/Philemon|Philemon]]
 - **1:24** — Marcus, Aristarchus, Demas, Lucas, my fellowlabourers.
 

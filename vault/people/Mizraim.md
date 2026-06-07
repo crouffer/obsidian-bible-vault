@@ -54,11 +54,11 @@ metav_id: 2100
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **10:6** — And the sons of Ham; Cush, and Mizraim, and Phut, and Canaan.
 - **10:13** — And Mizraim begat Ludim, and Anamim, and Lehabim, and Naphtuhim,
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:8** — The sons of Ham; Cush, and Mizraim, Put, and Canaan.
 - **1:11** — And Mizraim begat Ludim, and Anamim, and Lehabim, and Naphtuhim,
 

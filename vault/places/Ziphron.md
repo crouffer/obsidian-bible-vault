@@ -26,6 +26,6 @@ metav_id: 1268
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **34:9** — And the border shall go on to Ziphron, and the goings out of it shall be at Hazarenan: this shall be your north border.
 

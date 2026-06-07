@@ -45,7 +45,7 @@ metav_id: 3113
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **1:6** — Of Simeon; Shelumiel the son of Zurishaddai.
 - **2:12** — And those which pitch by him shall be the tribe of Simeon: and the captain of the children of Simeon shall be Shelumiel the son of Zurishaddai.
 - **7:36** — On the fifth day Shelumiel the son of Zurishaddai, prince of the children of Simeon, did offer:

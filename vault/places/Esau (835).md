@@ -26,7 +26,7 @@ metav_id: 835
 
 ## Verse References
 
-### [[Obadiah]]
+### [[books/Obadiah|Obadiah]]
 - **1:8** — Shall I not in that day, saith the LORD, even destroy the wise men out of Edom, and understanding out of the mount of Esau?
 - **1:9** — And thy mighty men, O Teman, shall be dismayed, to the end that every one of the mount of Esau may be cut off by slaughter.
 - **1:19** — And they of the south shall possess the mount of Esau; and they of the plain the Philistines: and they shall possess the fields of Ephraim, and the fields of Samaria: and Benjamin shall possess Gilead.

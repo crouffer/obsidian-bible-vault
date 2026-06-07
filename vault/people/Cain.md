@@ -47,7 +47,7 @@ metav_id: 533
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **4:1** — And Adam knew Eve his wife; and she conceived, and bare Cain, and said, I have gotten a man from the LORD.
 - **4:2** — And she again bare his brother Abel. And Abel was a keeper of sheep, but Cain was a tiller of the ground.
 - **4:3** — And in process of time it came to pass, that Cain brought of the fruit of the ground an offering unto the LORD.
@@ -62,12 +62,12 @@ metav_id: 533
 - **4:24** — If Cain shall be avenged sevenfold, truly Lamech seventy and sevenfold.
 - **4:25** — And Adam knew his wife again; and she bare a son, and called his name Seth: For God, said she, hath appointed me another seed instead of Abel, whom Cain slew.
 
-### [[Hebrews]]
+### [[books/Hebrews|Hebrews]]
 - **11:4** — By faith Abel offered unto God a more excellent sacrifice than Cain, by which he obtained witness that he was righteous, God testifying of his gifts: and by it he being dead yet speaketh.
 
-### [[1 John]]
+### [[books/1 John|1 John]]
 - **3:12** — Not as Cain, who was of that wicked one, and slew his brother. And wherefore slew he him? Because his own works were evil, and his brother's righteous.
 
-### [[Jude]]
+### [[books/Jude|Jude]]
 - **1:11** — Woe unto them! for they have gone in the way of Cain, and ran greedily after the error of Balaam for reward, and perished in the gainsaying of Core.
 

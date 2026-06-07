@@ -44,6 +44,6 @@ metav_id: 2682
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **8:32** — And Mikloth begat Shimeah. And these also dwelt with their brethren in Jerusalem, over against them.
 

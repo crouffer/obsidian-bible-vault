@@ -46,13 +46,13 @@ metav_id: 2916
 
 ## Verse References
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **6:3** — And they set the ark of God upon a new cart, and brought it out of the house of Abinadab that was in Gibeah: and Uzzah and Ahio, the sons of Abinadab, drave the new cart.
 - **6:6** — And when they came to Nachon's threshingfloor, Uzzah put forth his hand to the ark of God, and took hold of it; for the oxen shook it.
 - **6:7** — And the anger of the LORD was kindled against Uzzah; and God smote him there for his error; and there he died by the ark of God.
 - **6:8** — And David was displeased, because the LORD had made a breach upon Uzzah: and he called the name of the place Perezuzzah to this day.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **13:7** — And they carried the ark of God in a new cart out of the house of Abinadab: and Uzza and Ahio drave the cart.
 - **13:9** — And when they came unto the threshingfloor of Chidon, Uzza put forth his hand to hold the ark; for the oxen stumbled.
 - **13:10** — And the anger of the LORD was kindled against Uzza, and he smote him, because he put his hand to the ark: and there he died before God.

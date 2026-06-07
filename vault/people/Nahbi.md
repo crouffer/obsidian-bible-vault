@@ -44,6 +44,6 @@ metav_id: 2141
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **13:14** — Of the tribe of Naphtali, Nahbi the son of Vophsi.
 

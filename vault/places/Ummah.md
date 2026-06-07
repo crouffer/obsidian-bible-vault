@@ -26,6 +26,6 @@ metav_id: 1186
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **19:30** — Ummah also, and Aphek, and Rehob: twenty and two cities with their villages.
 

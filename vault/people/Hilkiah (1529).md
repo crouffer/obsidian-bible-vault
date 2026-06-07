@@ -46,6 +46,6 @@ metav_id: 1529
 
 ## Verse References
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **1:1** — The words of Jeremiah the son of Hilkiah, of the priests that were in Anathoth in the land of Benjamin:
 

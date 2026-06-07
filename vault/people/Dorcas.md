@@ -44,7 +44,7 @@ metav_id: 2810
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **9:36** — Now there was at Joppa a certain disciple named Tabitha, which by interpretation is called Dorcas: this woman was full of good works and almsdeeds which she did.
 - **9:39** — Then Peter arose and went with them. When he was come, they brought him into the upper chamber: and all the widows stood by him weeping, and shewing the coats and garments which Dorcas made, while she was with them.
 - **9:40** — But Peter put them all forth, and kneeled down, and prayed; and turning him to the body said, Tabitha, arise. And she opened her eyes: and when she saw Peter, she sat up.

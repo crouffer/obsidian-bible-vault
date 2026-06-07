@@ -26,12 +26,12 @@ metav_id: 458
 
 ## Verse References
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **14:34** — And when they were gone over, they came into the land of Gennesaret.
 
-### [[Mark]]
+### [[books/Mark|Mark]]
 - **6:53** — And when they had passed over, they came into the land of Gennesaret, and drew to the shore.
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **5:1** — And it came to pass, that, as the people pressed upon him to hear the word of God, he stood by the lake of Gennesaret,
 

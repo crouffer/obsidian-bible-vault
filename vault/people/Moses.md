@@ -49,7 +49,7 @@ metav_id: 2108
 
 ## Verse References
 
-### [[Exodus]]
+### [[books/Exodus|Exodus]]
 - **2:10** — And the child grew, and she brought him unto Pharaoh's daughter, and he became her son. And she called his name Moses: and she said, Because I drew him out of the water.
 - **2:11** — And it came to pass in those days, when Moses was grown, that he went out unto his brethren, and looked on their burdens: and he spied an Egyptian smiting an Hebrew, one of his brethren.
 - **2:14** — And he said, Who made thee a prince and a judge over us? intendest thou to kill me, as thou killedst the Egyptian? And Moses feared, and said, Surely this thing is known.
@@ -306,7 +306,7 @@ metav_id: 2108
 - **40:33** — And he reared up the court round about the tabernacle and the altar, and set up the hanging of the court gate. So Moses finished the work.
 - **40:35** — And Moses was not able to enter into the tent of the congregation, because the cloud abode thereon, and the glory of the LORD filled the tabernacle.
 
-### [[Leviticus]]
+### [[books/Leviticus|Leviticus]]
 - **1:1** — And the LORD called unto Moses, and spake unto him out of the tabernacle of the congregation, saying,
 - **4:1** — And the LORD spake unto Moses, saying,
 - **5:14** — And the LORD spake unto Moses, saying,
@@ -388,7 +388,7 @@ metav_id: 2108
 - **27:1** — And the LORD spake unto Moses, saying,
 - **27:34** — These are the commandments, which the LORD commanded Moses for the children of Israel in mount Sinai.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **1:1** — And the LORD spake unto Moses in the wilderness of Sinai, in the tabernacle of the congregation, on the first day of the second month, in the second year after they were come out of the land of Egypt, saying,
 - **1:17** — And Moses and Aaron took these men which are expressed by their names:
 - **1:19** — As the LORD commanded Moses, so he numbered them in the wilderness of Sinai.
@@ -606,7 +606,7 @@ metav_id: 2108
 - **36:10** — Even as the LORD commanded Moses, so did the daughters of Zelophehad:
 - **36:13** — These are the commandments and the judgments, which the LORD commanded by the hand of Moses unto the children of Israel in the plains of Moab by Jordan near Jericho.
 
-### [[Deuteronomy]]
+### [[books/Deuteronomy|Deuteronomy]]
 - **1:1** — These be the words which Moses spake unto all Israel on this side Jordan in the wilderness, in the plain over against the Red sea, between Paran, and Tophel, and Laban, and Hazeroth, and Dizahab.
 - **1:3** — And it came to pass in the fortieth year, in the eleventh month, on the first day of the month, that Moses spake unto the children of Israel, according unto all that the LORD had given him in commandment unto them;
 - **1:5** — On this side Jordan, in the land of Moab, began Moses to declare this law, saying,
@@ -643,7 +643,7 @@ metav_id: 2108
 - **34:10** — And there arose not a prophet since in Israel like unto Moses, whom the LORD knew face to face,
 - **34:12** — And in all that mighty hand, and in all the great terror which Moses shewed in the sight of all Israel.
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **1:1** — Now after the death of Moses the servant of the LORD it came to pass, that the LORD spake unto Joshua the son of Nun, Moses' minister, saying,
 - **1:2** — Moses my servant is dead; now therefore arise, go over this Jordan, thou, and all this people, unto the land which I do give to them, even to the children of Israel.
 - **1:3** — Every place that the sole of your foot shall tread upon, that have I given unto you, as I said unto Moses.
@@ -696,22 +696,22 @@ metav_id: 2108
 - **23:6** — Be ye therefore very courageous to keep and to do all that is written in the book of the law of Moses, that ye turn not aside therefrom to the right hand or to the left;
 - **24:5** — I sent Moses also and Aaron, and I plagued Egypt, according to that which I did among them: and afterward I brought you out.
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **1:20** — And they gave Hebron unto Caleb, as Moses said: and he expelled thence the three sons of Anak.
 - **3:4** — And they were to prove Israel by them, to know whether they would hearken unto the commandments of the LORD, which he commanded their fathers by the hand of Moses.
 - **4:11** — Now Heber the Kenite, which was of the children of Hobab the father in law of Moses, had severed himself from the Kenites, and pitched his tent unto the plain of Zaanaim, which is by Kedesh.
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **12:6** — And Samuel said unto the people, It is the LORD that advanced Moses and Aaron, and that brought your fathers up out of the land of Egypt.
 - **12:8** — When Jacob was come into Egypt, and your fathers cried unto the LORD, then the LORD sent Moses and Aaron, which brought forth your fathers out of Egypt, and made them dwell in this place.
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **2:3** — And keep the charge of the LORD thy God, to walk in his ways, to keep his statutes, and his commandments, and his judgments, and his testimonies, as it is written in the law of Moses, that thou mayest prosper in all that thou doest, and whithersoever thou turnest thyself:
 - **8:9** — There was nothing in the ark save the two tables of stone, which Moses put there at Horeb, when the LORD made a covenant with the children of Israel, when they came out of the land of Egypt.
 - **8:53** — For thou didst separate them from among all the people of the earth, to be thine inheritance, as thou spakest by the hand of Moses thy servant, when thou broughtest our fathers out of Egypt, O Lord GOD.
 - **8:56** — Blessed be the LORD, that hath given rest unto his people Israel, according to all that he promised: there hath not failed one word of all his good promise, which he promised by the hand of Moses his servant.
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **14:6** — But the children of the murderers he slew not: according unto that which is written in the book of the law of Moses, wherein the LORD commanded, saying, The fathers shall not be put to death for the children, nor the children be put to death for the fathers; but every man shall be put to death for his own sin.
 - **18:4** — He removed the high places, and brake the images, and cut down the groves, and brake in pieces the brasen serpent that Moses had made: for unto those days the children of Israel did burn incense to it: and he called it Nehushtan.
 - **18:6** — For he clave to the LORD, and departed not from following him, but kept his commandments, which the LORD commanded Moses.
@@ -719,7 +719,7 @@ metav_id: 2108
 - **21:8** — Neither will I make the feet of Israel move any more out of the land which I gave their fathers; only if they will observe to do according to all that I have commanded them, and according to all the law that my servant Moses commanded them.
 - **23:25** — And like unto him was there no king before him, that turned to the LORD with all his heart, and with all his soul, and with all his might, according to all the law of Moses; neither after him arose there any like him.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:3** — And the children of Amram; Aaron, and Moses, and Miriam. The sons also of Aaron; Nadab, and Abihu, Eleazar, and Ithamar.
 - **6:49** — But Aaron and his sons offered upon the altar of the burnt offering, and on the altar of incense, and were appointed for all the work of the place most holy, and to make an atonement for Israel, according to all that Moses the servant of God had commanded.
 - **15:15** — And the children of the Levites bare the ark of God upon their shoulders with the staves thereon, as Moses commanded according to the word of the LORD.
@@ -730,7 +730,7 @@ metav_id: 2108
 - **23:15** — The sons of Moses were, Gershom, and Eliezer.
 - **26:24** — And Shebuel the son of Gershom, the son of Moses, was ruler of the treasures.
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **1:3** — So Solomon, and all the congregation with him, went to the high place that was at Gibeon; for there was the tabernacle of the congregation of God, which Moses the servant of the LORD had made in the wilderness.
 - **5:10** — There was nothing in the ark save the two tables which Moses put therein at Horeb, when the LORD made a covenant with the children of Israel, when they came out of Egypt.
 - **8:13** — Even after a certain rate every day, offering according to the commandment of Moses, on the sabbaths, and on the new moons, and on the solemn feasts, three times in the year, even in the feast of unleavened bread, and in the feast of weeks, and in the feast of tabernacles.
@@ -744,12 +744,12 @@ metav_id: 2108
 - **35:6** — So kill the passover, and sanctify yourselves, and prepare your brethren, that they may do according to the word of the LORD by the hand of Moses.
 - **35:12** — And they removed the burnt offerings, that they might give according to the divisions of the families of the people, to offer unto the LORD, as it is written in the book of Moses. And so did they with the oxen.
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **3:2** — Then stood up Jeshua the son of Jozadak, and his brethren the priests, and Zerubbabel the son of Shealtiel, and his brethren, and builded the altar of the God of Israel, to offer burnt offerings thereon, as it is written in the law of Moses the man of God.
 - **6:18** — And they set the priests in their divisions, and the Levites in their courses, for the service of God, which is at Jerusalem; as it is written in the book of Moses.
 - **7:6** — This Ezra went up from Babylon; and he was a ready scribe in the law of Moses, which the LORD God of Israel had given: and the king granted him all his request, according to the hand of the LORD his God upon him.
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **1:7** — We have dealt very corruptly against thee, and have not kept the commandments, nor the statutes, nor the judgments, which thou commandedst thy servant Moses.
 - **1:8** — Remember, I beseech thee, the word that thou commandedst thy servant Moses, saying, If ye transgress, I will scatter you abroad among the nations:
 - **8:1** — And all the people gathered themselves together as one man into the street that was before the water gate; and they spake unto Ezra the scribe to bring the book of the law of Moses, which the LORD had commanded to Israel.
@@ -758,7 +758,7 @@ metav_id: 2108
 - **10:29** — They clave to their brethren, their nobles, and entered into a curse, and into an oath, to walk in God's law, which was given by Moses the servant of God, and to observe and do all the commandments of the LORD our Lord, and his judgments and his statutes;
 - **13:1** — On that day they read in the book of Moses in the audience of the people; and therein was found written, that the Ammonite and the Moabite should not come into the congregation of God for ever;
 
-### [[Psalms]]
+### [[books/Psalms|Psalms]]
 - **77:20** — Thou leddest thy people like a flock by the hand of Moses and Aaron.
 - **90:1** — Lord, thou hast been our dwelling place in all generations.
 - **99:6** — Moses and Aaron among his priests, and Samuel among them that call upon his name; they called upon the LORD, and he answered them.
@@ -768,24 +768,24 @@ metav_id: 2108
 - **106:23** — Therefore he said that he would destroy them, had not Moses his chosen stood before him in the breach, to turn away his wrath, lest he should destroy them.
 - **106:32** — They angered him also at the waters of strife, so that it went ill with Moses for their sakes:
 
-### [[Isaiah]]
+### [[books/Isaiah|Isaiah]]
 - **63:11** — Then he remembered the days of old, Moses, and his people, saying, Where is he that brought them up out of the sea with the shepherd of his flock? where is he that put his holy Spirit within him?
 - **63:12** — That led them by the right hand of Moses with his glorious arm, dividing the water before them, to make himself an everlasting name?
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **15:1** — Then said the LORD unto me, Though Moses and Samuel stood before me, yet my mind could not be toward this people: cast them out of my sight, and let them go forth.
 
-### [[Daniel]]
+### [[books/Daniel|Daniel]]
 - **9:11** — Yea, all Israel have transgressed thy law, even by departing, that they might not obey thy voice; therefore the curse is poured upon us, and the oath that is written in the law of Moses the servant of God, because we have sinned against him.
 - **9:13** — As it is written in the law of Moses, all this evil is come upon us: yet made we not our prayer before the LORD our God, that we might turn from our iniquities, and understand thy truth.
 
-### [[Micah]]
+### [[books/Micah|Micah]]
 - **6:4** — For I brought thee up out of the land of Egypt, and redeemed thee out of the house of servants; and I sent before thee Moses, Aaron, and Miriam.
 
-### [[Malachi]]
+### [[books/Malachi|Malachi]]
 - **4:4** — Remember ye the law of Moses my servant, which I commanded unto him in Horeb for all Israel, with the statutes and judgments.
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **8:4** — And Jesus saith unto him, See thou tell no man; but go thy way, shew thyself to the priest, and offer the gift that Moses commanded, for a testimony unto them.
 - **17:3** — And, behold, there appeared unto them Moses and Elias talking with him.
 - **17:4** — Then answered Peter, and said unto Jesus, Lord, it is good for us to be here: if thou wilt, let us make here three tabernacles; one for thee, and one for Moses, and one for Elias.
@@ -793,7 +793,7 @@ metav_id: 2108
 - **19:8** — He saith unto them, Moses because of the hardness of your hearts suffered you to put away your wives: but from the beginning it was not so.
 - **22:24** — Saying, Master, Moses said, If a man die, having no children, his brother shall marry his wife, and raise up seed unto his brother.
 
-### [[Mark]]
+### [[books/Mark|Mark]]
 - **1:44** — And saith unto him, See thou say nothing to any man: but go thy way, shew thyself to the priest, and offer for thy cleansing those things which Moses commanded, for a testimony unto them.
 - **7:10** — For Moses said, Honour thy father and thy mother; and, Whoso curseth father or mother, let him die the death:
 - **9:4** — And there appeared unto them Elias with Moses: and they were talking with Jesus.
@@ -803,7 +803,7 @@ metav_id: 2108
 - **12:19** — Master, Moses wrote unto us, If a man's brother die, and leave his wife behind him, and leave no children, that his brother should take his wife, and raise up seed unto his brother.
 - **12:26** — And as touching the dead, that they rise: have ye not read in the book of Moses, how in the bush God spake unto him, saying, I am the God of Abraham, and the God of Isaac, and the God of Jacob?
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **2:22** — And when the days of her purification according to the law of Moses were accomplished, they brought him to Jerusalem, to present him to the Lord;
 - **5:14** — And he charged him to tell no man: but go, and shew thyself to the priest, and offer for thy cleansing, according as Moses commanded, for a testimony unto them.
 - **9:30** — And, behold, there talked with him two men, which were Moses and Elias:
@@ -815,7 +815,7 @@ metav_id: 2108
 - **24:27** — And beginning at Moses and all the prophets, he expounded unto them in all the scriptures the things concerning himself.
 - **24:44** — And he said unto them, These are the words which I spake unto you, while I was yet with you, that all things must be fulfilled, which were written in the law of Moses, and in the prophets, and in the psalms, concerning me.
 
-### [[John]]
+### [[books/John|John]]
 - **1:17** — For the law was given by Moses, but grace and truth came by Jesus Christ.
 - **1:45** — Philip findeth Nathanael, and saith unto him, We have found him, of whom Moses in the law, and the prophets, did write, Jesus of Nazareth, the son of Joseph.
 - **3:14** — And as Moses lifted up the serpent in the wilderness, even so must the Son of man be lifted up:
@@ -828,7 +828,7 @@ metav_id: 2108
 - **8:5** — Now Moses in the law commanded us, that such should be stoned: but what sayest thou?
 - **9:29** — We know that God spake unto Moses: as for this fellow, we know not from whence he is.
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **3:22** — For Moses truly said unto the fathers, A prophet shall the Lord your God raise up unto you of your brethren, like unto me; him shall ye hear in all things whatsoever he shall say unto you.
 - **6:11** — Then they suborned men, which said, We have heard him speak blasphemous words against Moses, and against God.
 - **6:14** — For we have heard him say, that this Jesus of Nazareth shall destroy this place, and shall change the customs which Moses delivered us.
@@ -849,25 +849,25 @@ metav_id: 2108
 - **26:22** — Having therefore obtained help of God, I continue unto this day, witnessing both to small and great, saying none other things than those which the prophets and Moses did say should come:
 - **28:23** — And when they had appointed him a day, there came many to him into his lodging; to whom he expounded and testified the kingdom of God, persuading them concerning Jesus, both out of the law of Moses, and out of the prophets, from morning till evening.
 
-### [[Romans]]
+### [[books/Romans|Romans]]
 - **5:14** — Nevertheless death reigned from Adam to Moses, even over them that had not sinned after the similitude of Adam's transgression, who is the figure of him that was to come.
 - **9:15** — For he saith to Moses, I will have mercy on whom I will have mercy, and I will have compassion on whom I will have compassion.
 - **10:5** — For Moses describeth the righteousness which is of the law, That the man which doeth those things shall live by them.
 - **10:19** — But I say, Did not Israel know? First Moses saith, I will provoke you to jealousy by them that are no people, and by a foolish nation I will anger you.
 
-### [[1 Corinthians]]
+### [[books/1 Corinthians|1 Corinthians]]
 - **9:9** — For it is written in the law of Moses, Thou shalt not muzzle the mouth of the ox that treadeth out the corn. Doth God take care for oxen?
 - **10:2** — And were all baptized unto Moses in the cloud and in the sea;
 
-### [[2 Corinthians]]
+### [[books/2 Corinthians|2 Corinthians]]
 - **3:7** — But if the ministration of death, written and engraven in stones, was glorious, so that the children of Israel could not stedfastly behold the face of Moses for the glory of his countenance; which glory was to be done away:
 - **3:13** — And not as Moses, which put a vail over his face, that the children of Israel could not stedfastly look to the end of that which is abolished:
 - **3:15** — But even unto this day, when Moses is read, the vail is upon their heart.
 
-### [[2 Timothy]]
+### [[books/2 Timothy|2 Timothy]]
 - **3:8** — Now as Jannes and Jambres withstood Moses, so do these also resist the truth: men of corrupt minds, reprobate concerning the faith.
 
-### [[Hebrews]]
+### [[books/Hebrews|Hebrews]]
 - **3:2** — Who was faithful to him that appointed him, as also Moses was faithful in all his house.
 - **3:3** — For this man was counted worthy of more glory than Moses, inasmuch as he who hath builded the house hath more honour than the house.
 - **3:5** — And Moses verily was faithful in all his house, as a servant, for a testimony of those things which were to be spoken after;
@@ -879,9 +879,9 @@ metav_id: 2108
 - **11:24** — By faith Moses, when he was come to years, refused to be called the son of Pharaoh's daughter;
 - **12:21** — And so terrible was the sight, that Moses said, I exceedingly fear and quake:)
 
-### [[Jude]]
+### [[books/Jude|Jude]]
 - **1:9** — Yet Michael the archangel, when contending with the devil he disputed about the body of Moses, durst not bring against him a railing accusation, but said, The Lord rebuke thee.
 
-### [[Revelation]]
+### [[books/Revelation|Revelation]]
 - **15:3** — And they sing the song of Moses the servant of God, and the song of the Lamb, saying, Great and marvellous are thy works, Lord God Almighty; just and true are thy ways, thou King of saints.
 

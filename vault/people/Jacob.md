@@ -45,7 +45,7 @@ metav_id: 683
 
 ## Verse References
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **1:15** — And Eliud begat Eleazar; and Eleazar begat Matthan; and Matthan begat Jacob;
 - **1:16** — And Jacob begat Joseph the husband of Mary, of whom was born Jesus, who is called Christ.
 

@@ -26,6 +26,6 @@ metav_id: 1075
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **26:33** — And he called it Shebah: therefore the name of the city is Beersheba unto this day.
 

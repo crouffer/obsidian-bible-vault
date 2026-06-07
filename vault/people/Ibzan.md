@@ -44,7 +44,7 @@ metav_id: 1588
 
 ## Verse References
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **12:8** — And after him Ibzan of Bethlehem judged Israel.
 - **12:10** — Then died Ibzan, and was buried at Bethlehem.
 

@@ -44,7 +44,7 @@ metav_id: 1029
 
 ## Verse References
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **38:7** — Now when Ebedmelech the Ethiopian, one of the eunuchs which was in the king's house, heard that they had put Jeremiah in the dungeon; the king then sitting in the gate of Benjamin;
 - **38:8** — Ebedmelech went forth out of the king's house, and spake to the king, saying,
 - **38:10** — Then the king commanded Ebedmelech the Ethiopian, saying, Take from hence thirty men with thee, and take up Jeremiah the prophet out of the dungeon, before he die.

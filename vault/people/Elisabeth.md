@@ -45,7 +45,7 @@ metav_id: 1152
 
 ## Verse References
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **1:5** — There was in the days of Herod, the king of Judaea, a certain priest named Zacharias, of the course of Abia: and his wife was of the daughters of Aaron, and her name was Elisabeth.
 - **1:7** — And they had no child, because that Elisabeth was barren, and they both were now well stricken in years.
 - **1:13** — But the angel said unto him, Fear not, Zacharias: for thy prayer is heard; and thy wife Elisabeth shall bear thee a son, and thou shalt call his name John.

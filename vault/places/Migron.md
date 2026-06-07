@@ -26,9 +26,9 @@ metav_id: 800
 
 ## Verse References
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **14:2** — And Saul tarried in the uttermost part of Gibeah under a pomegranate tree which is in Migron: and the people that were with him were about six hundred men;
 
-### [[Isaiah]]
+### [[books/Isaiah|Isaiah]]
 - **10:28** — He is come to Aiath, he is passed to Migron; at Michmash he hath laid up his carriages:
 

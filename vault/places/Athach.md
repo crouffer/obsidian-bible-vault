@@ -26,6 +26,6 @@ metav_id: 116
 
 ## Verse References
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **30:30** — And to them which were in Hormah, and to them which were in Chorashan, and to them which were in Athach,
 

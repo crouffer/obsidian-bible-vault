@@ -26,9 +26,9 @@ metav_id: 434
 
 ## Verse References
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **25:44** — But Saul had given Michal his daughter, David's wife, to Phalti the son of Laish, which was of Gallim.
 
-### [[Isaiah]]
+### [[books/Isaiah|Isaiah]]
 - **10:30** — Lift up thy voice, O daughter of Gallim: cause it to be heard unto Laish, O poor Anathoth.
 

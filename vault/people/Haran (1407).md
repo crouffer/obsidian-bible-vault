@@ -50,7 +50,7 @@ metav_id: 1407
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **11:26** — And Terah lived seventy years, and begat Abram, Nahor, and Haran.
 - **11:27** — Now these are the generations of Terah: Terah begat Abram, Nahor, and Haran; and Haran begat Lot.
 - **11:28** — And Haran died before his father Terah in the land of his nativity, in Ur of the Chaldees.

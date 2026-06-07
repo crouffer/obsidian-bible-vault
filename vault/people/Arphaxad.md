@@ -49,7 +49,7 @@ metav_id: 312
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **10:22** — The children of Shem; Elam, and Asshur, and Arphaxad, and Lud, and Aram.
 - **10:24** — And Arphaxad begat Salah; and Salah begat Eber.
 - **11:10** — These are the generations of Shem: Shem was an hundred years old, and begat Arphaxad two years after the flood:
@@ -57,11 +57,11 @@ metav_id: 312
 - **11:12** — And Arphaxad lived five and thirty years, and begat Salah:
 - **11:13** — And Arphaxad lived after he begat Salah four hundred and three years, and begat sons and daughters.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:17** — The sons of Shem; Elam, and Asshur, and Arphaxad, and Lud, and Aram, and Uz, and Hul, and Gether, and Meshech.
 - **1:18** — And Arphaxad begat Shelah, and Shelah begat Eber.
 - **1:24** — Shem, Arphaxad, Shelah,
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **3:36** — Which was the son of Cainan, which was the son of Arphaxad, which was the son of Sem, which was the son of Noe, which was the son of Lamech,
 

@@ -17,8 +17,8 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Maachah (1844)]]"
-mother: "[[Abiel (23)]]"
+father: "[[Abiel (23)]]"
+mother: "[[Maachah (1844)]]"
 spouse: []
 children: []
 siblings: 
@@ -53,7 +53,7 @@ metav_id: 2131
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **8:30** — And his firstborn son Abdon, and Zur, and Kish, and Baal, and Nadab,
 - **9:36** — And his firstborn son Abdon, then Zur, and Kish, and Baal, and Ner, and Nadab,
 

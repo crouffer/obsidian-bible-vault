@@ -45,16 +45,16 @@ metav_id: 3094
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **22:2** — And Balak the son of Zippor saw all that Israel had done to the Amorites.
 - **22:4** — And Moab said unto the elders of Midian, Now shall this company lick up all that are round about us, as the ox licketh up the grass of the field. And Balak the son of Zippor was king of the Moabites at that time.
 - **22:10** — And Balaam said unto God, Balak the son of Zippor, king of Moab, hath sent unto me, saying,
 - **22:16** — And they came to Balaam, and said to him, Thus saith Balak the son of Zippor, Let nothing, I pray thee, hinder thee from coming unto me:
 - **23:18** — And he took up his parable, and said, Rise up, Balak, and hear; hearken unto me, thou son of Zippor:
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **24:9** — Then Balak the son of Zippor, king of Moab, arose and warred against Israel, and sent and called Balaam the son of Beor to curse you:
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **11:25** — And now art thou any thing better than Balak the son of Zippor, king of Moab? did he ever strive against Israel, or did he ever fight against them,
 

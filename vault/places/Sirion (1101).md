@@ -26,12 +26,12 @@ metav_id: 1101
 
 ## Verse References
 
-### [[Deuteronomy]]
+### [[books/Deuteronomy|Deuteronomy]]
 - **3:9** — (Which Hermon the Sidonians call Sirion; and the Amorites call it Shenir;)
 
-### [[Psalms]]
+### [[books/Psalms|Psalms]]
 - **29:6** — He maketh them also to skip like a calf; Lebanon and Sirion like a young unicorn.
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **18:14** — Will a man leave the snow of Lebanon which cometh from the rock of the field? or shall the cold flowing waters that come from another place be forsaken?
 

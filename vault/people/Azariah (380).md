@@ -44,6 +44,6 @@ metav_id: 380
 
 ## Verse References
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **15:1** — And the Spirit of God came upon Azariah the son of Oded:
 

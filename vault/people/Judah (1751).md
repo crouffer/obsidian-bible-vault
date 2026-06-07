@@ -17,8 +17,8 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Israel]]"
-mother: "[[Leah]]"
+father: "[[Leah]]"
+mother: "[[Israel]]"
 spouse: 
   - "[[Daughter of Shuah]]"
 children: 
@@ -56,7 +56,7 @@ metav_id: 1751
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **29:35** — And she conceived again, and bare a son: and she said, Now will I praise the LORD: therefore she called his name Judah; and left bearing.
 - **35:23** — The sons of Leah; Reuben, Jacob's firstborn, and Simeon, and Levi, and Judah, and Issachar, and Zebulun:
 - **37:26** — And Judah said unto his brethren, What profit is it if we slay our brother, and conceal his blood?
@@ -84,13 +84,13 @@ metav_id: 1751
 - **49:9** — Judah is a lion's whelp: from the prey, my son, thou art gone up: he stooped down, he couched as a lion, and as an old lion; who shall rouse him up?
 - **49:10** — The sceptre shall not depart from Judah, nor a lawgiver from between his feet, until Shiloh come; and unto him shall the gathering of the people be.
 
-### [[Exodus]]
+### [[books/Exodus|Exodus]]
 - **1:2** — Reuben, Simeon, Levi, and Judah,
 - **31:2** — See, I have called by name Bezaleel the son of Uri, the son of Hur, of the tribe of Judah:
 - **35:30** — And Moses said unto the children of Israel, See, the LORD hath called by name Bezaleel the son of Uri, the son of Hur, of the tribe of Judah;
 - **38:22** — And Bezaleel the son of Uri, the son of Hur, of the tribe of Judah, made all that the LORD commanded Moses.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **1:7** — Of Judah; Nahshon the son of Amminadab.
 - **1:26** — Of the children of Judah, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;
 - **1:27** — Those that were numbered of them, even of the tribe of Judah, were threescore and fourteen thousand and six hundred.
@@ -104,12 +104,12 @@ metav_id: 1751
 - **26:22** — These are the families of Judah according to those that were numbered of them, threescore and sixteen thousand and five hundred.
 - **34:19** — And the names of the men are these: Of the tribe of Judah, Caleb the son of Jephunneh.
 
-### [[Deuteronomy]]
+### [[books/Deuteronomy|Deuteronomy]]
 - **27:12** — These shall stand upon mount Gerizim to bless the people, when ye are come over Jordan; Simeon, and Levi, and Judah, and Issachar, and Joseph, and Benjamin:
 - **33:7** — And this is the blessing of Judah: and he said, Hear, LORD, the voice of Judah, and bring him unto his people: let his hands be sufficient for him; and be thou an help to him from his enemies.
 - **34:2** — And all Naphtali, and the land of Ephraim, and Manasseh, and all the land of Judah, unto the utmost sea,
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **7:1** — But the children of Israel committed a trespass in the accursed thing: for Achan, the son of Carmi, the son of Zabdi, the son of Zerah, of the tribe of Judah, took of the accursed thing: and the anger of the LORD was kindled against the children of Israel.
 - **7:16** — So Joshua rose up early in the morning, and brought Israel by their tribes; and the tribe of Judah was taken:
 - **7:17** — And he brought the family of Judah; and he took the family of the Zarhites: and he brought the family of the Zarhites man by man; and Zabdi was taken:
@@ -133,7 +133,7 @@ metav_id: 1751
 - **21:9** — And they gave out of the tribe of the children of Judah, and out of the tribe of the children of Simeon, these cities which are here mentioned by name,
 - **21:11** — And they gave them the city of Arba the father of Anak, which city is Hebron, in the hill country of Judah, with the suburbs thereof round about it.
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **1:2** — And the LORD said, Judah shall go up: behold, I have delivered the land into his hand.
 - **1:3** — And Judah said unto Simeon his brother, Come up with me into my lot, that we may fight against the Canaanites; and I likewise will go with thee into thy lot. So Simeon went with him.
 - **1:4** — And Judah went up; and the LORD delivered the Canaanites and the Perizzites into their hand: and they slew of them in Bezek ten thousand men.
@@ -152,11 +152,11 @@ metav_id: 1751
 - **18:12** — And they went up, and pitched in Kirjathjearim, in Judah: wherefore they called that place Mahanehdan unto this day: behold, it is behind Kirjathjearim.
 - **20:18** — And the children of Israel arose, and went up to the house of God, and asked counsel of God, and said, Which of us shall go up first to the battle against the children of Benjamin? And the LORD said, Judah shall go up first.
 
-### [[Ruth]]
+### [[books/Ruth|Ruth]]
 - **1:7** — Wherefore she went forth out of the place where she was, and her two daughters in law with her; and they went on the way to return unto the land of Judah.
 - **4:12** — And let thy house be like the house of Pharez, whom Tamar bare unto Judah, of the seed which the LORD shall give thee of this young woman.
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **11:8** — And when he numbered them in Bezek, the children of Israel were three hundred thousand, and the men of Judah thirty thousand.
 - **15:4** — And Saul gathered the people together, and numbered them in Telaim, two hundred thousand footmen, and ten thousand men of Judah.
 - **17:1** — Now the Philistines gathered together their armies to battle, and were gathered together at Shochoh, which belongeth to Judah, and pitched between Shochoh and Azekah, in Ephesdammim.
@@ -171,7 +171,7 @@ metav_id: 1751
 - **30:16** — And when he had brought him down, behold, they were spread abroad upon all the earth, eating and drinking, and dancing, because of all the great spoil that they had taken out of the land of the Philistines, and out of the land of Judah.
 - **30:26** — And when David came to Ziklag, he sent of the spoil unto the elders of Judah, even to his friends, saying, Behold a present for you of the spoil of the enemies of the LORD;
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **1:18** — (Also he bade them teach the children of Judah the use of the bow: behold, it is written in the book of Jasher.)
 - **2:1** — And it came to pass after this, that David enquired of the LORD, saying, Shall I go up into any of the cities of Judah? And the LORD said unto him, Go up. And David said, Whither shall I go up? And he said, Unto Hebron.
 - **2:4** — And the men of Judah came, and there they anointed David king over the house of Judah. And they told David, saying, That the men of Jabeshgilead were they that buried Saul.
@@ -200,7 +200,7 @@ metav_id: 1751
 - **24:7** — And came to the strong hold of Tyre, and to all the cities of the Hivites, and of the Canaanites: and they went out to the south of Judah, even to Beersheba.
 - **24:9** — And Joab gave up the sum of the number of the people unto the king: and there were in Israel eight hundred thousand valiant men that drew the sword; and the men of Judah were five hundred thousand men.
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **1:9** — And Adonijah slew sheep and oxen and fat cattle by the stone of Zoheleth, which is by Enrogel, and called all his brethren the king's sons, and all the men of Judah the king's servants:
 - **1:35** — Then ye shall come up after him, that he may come and sit upon my throne; for he shall be king in my stead: and I have appointed him to be ruler over Israel and over Judah.
 - **2:32** — And the LORD shall return his blood upon his own head, who fell upon two men more righteous and better than he, and slew them with the sword, my father David not knowing thereof, to wit, Abner the son of Ner, captain of the host of Israel, and Amasa the son of Jether, captain of the host of Judah.
@@ -241,7 +241,7 @@ metav_id: 1751
 - **22:45** — Now the rest of the acts of Jehoshaphat, and his might that he shewed, and how he warred, are they not written in the book of the chronicles of the kings of Judah?
 - **22:51** — Ahaziah the son of Ahab began to reign over Israel in Samaria the seventeenth year of Jehoshaphat king of Judah, and reigned two years over Israel.
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **1:17** — So he died according to the word of the LORD which Elijah had spoken. And Jehoram reigned in his stead in the second year of Jehoram the son of Jehoshaphat king of Judah; because he had no son.
 - **3:1** — Now Jehoram the son of Ahab began to reign over Israel in Samaria the eighteenth year of Jehoshaphat king of Judah, and reigned twelve years.
 - **3:7** — And he went and sent to Jehoshaphat the king of Judah, saying, The king of Moab hath rebelled against me: wilt thou go with me against Moab to battle? And he said, I will go up: I am as thou art, my people as thy people, and my horses as thy horses.
@@ -320,7 +320,7 @@ metav_id: 1751
 - **23:22** — Surely there was not holden such a passover from the days of the judges that judged Israel, nor in all the days of the kings of Israel, nor of the kings of Judah;
 - **23:24** — Moreover the workers with familiar spirits, and the wizards, and the images, and the idols, and all the abominations that were spied in the land of Judah and in Jerusalem, did Josiah put away, that he might perform the words of the law which were written in the book that Hilkiah the priest found in the house of the LORD.
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **32:2** — For then the king of Babylon's army besieged Jerusalem: and Jeremiah the prophet was shut up in the court of the prison, which was in the king of Judah's house.
 - **38:22** — And, behold, all the women that are left in the king of Judah's house shall be brought forth to the king of Babylon's princes, and those women shall say, Thy friends have set thee on, and have prevailed against thee: thy feet are sunk in the mire, and they are turned away back.
 

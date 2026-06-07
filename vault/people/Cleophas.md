@@ -45,9 +45,9 @@ metav_id: 950
 
 ## Verse References
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **24:18** — And the one of them, whose name was Cleopas, answering said unto him, Art thou only a stranger in Jerusalem, and hast not known the things which are come to pass there in these days?
 
-### [[John]]
+### [[books/John|John]]
 - **19:25** — Now there stood by the cross of Jesus his mother, and his mother's sister, Mary the wife of Cleophas, and Mary Magdalene.
 

@@ -44,6 +44,6 @@ metav_id: 1883
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **10:20** — Magpiash, Meshullam, Hezir,
 

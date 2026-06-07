@@ -44,9 +44,9 @@ metav_id: 173
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **36:41** — Duke Aholibamah, duke Elah, duke Pinon,
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:52** — Duke Aholibamah, duke Elah, duke Pinon,
 

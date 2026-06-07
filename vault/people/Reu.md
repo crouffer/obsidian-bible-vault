@@ -45,15 +45,15 @@ metav_id: 2428
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **11:18** — And Peleg lived thirty years, and begat Reu:
 - **11:19** — And Peleg lived after he begat Reu two hundred and nine years, and begat sons and daughters.
 - **11:20** — And Reu lived two and thirty years, and begat Serug:
 - **11:21** — And Reu lived after he begat Serug two hundred and seven years, and begat sons and daughters.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:25** — Eber, Peleg, Reu,
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **3:35** — Which was the son of Saruch, which was the son of Ragau, which was the son of Phalec, which was the son of Heber, which was the son of Sala,
 

@@ -44,6 +44,6 @@ metav_id: 1768
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **12:20** — Of Sallai, Kallai; of Amok, Eber;
 

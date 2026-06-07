@@ -50,7 +50,7 @@ metav_id: 1808
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **4:18** — And unto Enoch was born Irad: and Irad begat Mehujael: and Mehujael begat Methusael: and Methusael begat Lamech.
 - **4:19** — And Lamech took unto him two wives: the name of the one was Adah, and the name of the other Zillah.
 - **4:23** — And Lamech said unto his wives, Adah and Zillah, Hear my voice; ye wives of Lamech, hearken unto my speech: for I have slain a man to my wounding, and a young man to my hurt.

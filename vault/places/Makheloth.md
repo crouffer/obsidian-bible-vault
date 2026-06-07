@@ -26,7 +26,7 @@ metav_id: 759
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **33:25** — And they removed from Haradah, and pitched in Makheloth.
 - **33:26** — And they removed from Makheloth, and encamped at Tahath.
 

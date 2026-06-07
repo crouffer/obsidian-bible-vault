@@ -44,9 +44,9 @@ metav_id: 910
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **36:40** — And these are the names of the dukes that came of Esau, according to their families, after their places, by their names; duke Timnah, duke Alvah, duke Jetheth,
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:51** — Hadad died also. And the dukes of Edom were; duke Timnah, duke Aliah, duke Jetheth,
 

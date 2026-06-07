@@ -26,6 +26,6 @@ metav_id: 753
 
 ## Verse References
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **15:39** — And he sent away the multitude, and took ship, and came into the coasts of Magdala.
 

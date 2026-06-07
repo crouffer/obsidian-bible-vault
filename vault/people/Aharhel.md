@@ -44,6 +44,6 @@ metav_id: 115
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **4:8** — And Coz begat Anub, and Zobebah, and the families of Aharhel the son of Harum.
 

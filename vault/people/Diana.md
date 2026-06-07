@@ -44,7 +44,7 @@ metav_id: 1008
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **19:24** — For a certain man named Demetrius, a silversmith, which made silver shrines for Diana, brought no small gain unto the craftsmen;
 - **19:27** — So that not only this our craft is in danger to be set at nought; but also that the temple of the great goddess Diana should be despised, and her magnificence should be destroyed, whom all Asia and the world worshippeth.
 - **19:28** — And when they heard these sayings, they were full of wrath, and cried out, saying, Great is Diana of the Ephesians.

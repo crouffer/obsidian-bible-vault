@@ -44,6 +44,6 @@ metav_id: 681
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **24:17** — The one and twentieth to Jachin, the two and twentieth to Gamul,
 

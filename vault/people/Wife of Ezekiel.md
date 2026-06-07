@@ -45,6 +45,6 @@ metav_id: 2940
 
 ## Verse References
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **24:18** — So I spake unto the people in the morning: and at even my wife died; and I did in the morning as I was commanded.
 

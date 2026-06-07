@@ -44,6 +44,6 @@ metav_id: 2262
 
 ## Verse References
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **23:35** — Hezrai the Carmelite, Paarai the Arbite,
 

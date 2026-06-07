@@ -26,7 +26,7 @@ metav_id: 418
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **15:42** — Libnah, and Ether, and Ashan,
 - **19:7** — Ain, Remmon, and Ether, and Ashan; four cities and their villages:
 

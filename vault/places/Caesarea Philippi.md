@@ -26,9 +26,9 @@ metav_id: 267
 
 ## Verse References
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **16:13** — When Jesus came into the coasts of Caesarea Philippi, he asked his disciples, saying, Whom do men say that I the Son of man am?
 
-### [[Mark]]
+### [[books/Mark|Mark]]
 - **8:27** — And Jesus went out, and his disciples, into the towns of Caesarea Philippi: and by the way he asked his disciples, saying unto them, Whom do men say that I am?
 

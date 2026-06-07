@@ -46,7 +46,7 @@ metav_id: 857
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **23:23** — The sons of Mushi; Mahli, and Eder, and Jeremoth, three.
 - **24:30** — The sons also of Mushi; Mahli, and Eder, and Jerimoth. These were the sons of the Levites after the house of their fathers.
 

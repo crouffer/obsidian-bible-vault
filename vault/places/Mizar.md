@@ -26,6 +26,6 @@ metav_id: 847
 
 ## Verse References
 
-### [[Psalms]]
+### [[books/Psalms|Psalms]]
 - **42:6** — O my God, my soul is cast down within me: therefore will I remember thee from the land of Jordan, and of the Hermonites, from the hill Mizar.
 

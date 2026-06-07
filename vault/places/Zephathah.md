@@ -26,6 +26,6 @@ metav_id: 1223
 
 ## Verse References
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **14:10** — Then Asa went out against him, and they set the battle in array in the valley of Zephathah at Mareshah.
 

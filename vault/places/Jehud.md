@@ -26,6 +26,6 @@ metav_id: 632
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **19:45** — And Jehud, and Beneberak, and Gathrimmon,
 

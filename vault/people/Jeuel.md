@@ -44,6 +44,6 @@ metav_id: 912
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **9:6** — And of the sons of Zerah; Jeuel, and their brethren, six hundred and ninety.
 

@@ -44,6 +44,6 @@ metav_id: 182
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **2:45** — The children of Lebanah, the children of Hagabah, the children of Akkub,
 

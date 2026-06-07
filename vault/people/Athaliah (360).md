@@ -49,6 +49,6 @@ metav_id: 360
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **8:26** — And Shamsherai, and Shehariah, and Athaliah,
 

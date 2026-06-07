@@ -26,6 +26,6 @@ metav_id: 740
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **27:5** — And when we had sailed over the sea of Cilicia and Pamphylia, we came to Myra, a city of Lycia.
 

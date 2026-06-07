@@ -48,18 +48,18 @@ metav_id: 1189
 
 ## Verse References
 
-### [[Exodus]]
+### [[books/Exodus|Exodus]]
 - **6:22** — And the sons of Uzziel; Mishael, and Elzaphan, and Zithri.
 
-### [[Leviticus]]
+### [[books/Leviticus|Leviticus]]
 - **10:4** — And Moses called Mishael and Elzaphan, the sons of Uzziel the uncle of Aaron, and said unto them, Come near, carry your brethren from before the sanctuary out of the camp.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **3:30** — And the chief of the house of the father of the families of the Kohathites shall be Elizaphan the son of Uzziel.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **15:8** — Of the sons of Elizaphan; Shemaiah the chief, and his brethren two hundred:
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **29:13** — And of the sons of Elizaphan; Shimri, and Jeiel: and of the sons of Asaph; Zechariah, and Mattaniah:
 

@@ -45,7 +45,7 @@ metav_id: 1868
 
 ## Verse References
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **32:12** — And I gave the evidence of the purchase unto Baruch the son of Neriah, the son of Maaseiah, in the sight of Hanameel mine uncle's son, and in the presence of the witnesses that subscribed the book of the purchase, before all the Jews that sat in the court of the prison.
 - **51:59** — The word which Jeremiah the prophet commanded Seraiah the son of Neriah, the son of Maaseiah, when he went with Zedekiah the king of Judah into Babylon in the fourth year of his reign. And this Seraiah was a quiet prince.
 

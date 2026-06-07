@@ -26,12 +26,12 @@ metav_id: 661
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **14:7** — And they returned, and came to Enmishpat, which is Kadesh, and smote all the country of the Amalekites, and also the Amorites, that dwelt in Hazezontamar.
 - **16:14** — Wherefore the well was called Beerlahairoi; behold, it is between Kadesh and Bered.
 - **20:1** — And Abraham journeyed from thence toward the south country, and dwelled between Kadesh and Shur, and sojourned in Gerar.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **13:26** — And they went and came to Moses, and to Aaron, and to all the congregation of the children of Israel, unto the wilderness of Paran, to Kadesh; and brought back word unto them, and unto all the congregation, and shewed them the fruit of the land.
 - **20:1** — Then came the children of Israel, even the whole congregation, into the desert of Zin in the first month: and the people abode in Kadesh; and Miriam died there, and was buried there.
 - **20:14** — And Moses sent messengers from Kadesh unto the king of Edom, Thus saith thy brother Israel, Thou knowest all the travail that hath befallen us:
@@ -41,13 +41,13 @@ metav_id: 661
 - **33:36** — And they removed from Eziongaber, and pitched in the wilderness of Zin, which is Kadesh.
 - **33:37** — And they removed from Kadesh, and pitched in mount Hor, in the edge of the land of Edom.
 
-### [[Deuteronomy]]
+### [[books/Deuteronomy|Deuteronomy]]
 - **1:46** — So ye abode in Kadesh many days, according unto the days that ye abode there.
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **11:16** — But when Israel came up from Egypt, and walked through the wilderness unto the Red sea, and came to Kadesh;
 - **11:17** — Then Israel sent messengers unto the king of Edom, saying, Let me, I pray thee, pass through thy land: but the king of Edom would not hearken thereto. And in like manner they sent unto the king of Moab: but he would not consent: and Israel abode in Kadesh.
 
-### [[Psalms]]
+### [[books/Psalms|Psalms]]
 - **29:8** — The voice of the LORD shaketh the wilderness; the LORD shaketh the wilderness of Kadesh.
 

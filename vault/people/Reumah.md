@@ -45,6 +45,6 @@ metav_id: 2433
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **22:24** — And his concubine, whose name was Reumah, she bare also Tebah, and Gaham, and Thahash, and Maachah.
 

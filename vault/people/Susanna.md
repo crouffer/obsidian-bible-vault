@@ -44,6 +44,6 @@ metav_id: 2804
 
 ## Verse References
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **8:3** — And Joanna the wife of Chuza Herod's steward, and Susanna, and many others, which ministered unto him of their substance.
 

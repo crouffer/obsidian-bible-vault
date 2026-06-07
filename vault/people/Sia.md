@@ -44,9 +44,9 @@ metav_id: 2736
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **2:44** — The children of Keros, the children of Siaha, the children of Padon,
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **7:47** — The children of Keros, the children of Sia, the children of Padon,
 

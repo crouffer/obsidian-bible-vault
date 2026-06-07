@@ -44,6 +44,6 @@ metav_id: 2096
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **12:10** — Mishmannah the fourth, Jeremiah the fifth,
 

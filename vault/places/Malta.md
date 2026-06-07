@@ -26,6 +26,6 @@ metav_id: 761
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **28:1** — And when they were escaped, then they knew that the island was called Melita.
 

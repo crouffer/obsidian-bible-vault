@@ -45,7 +45,7 @@ metav_id: 2500
 
 ## Verse References
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **51:59** — The word which Jeremiah the prophet commanded Seraiah the son of Neriah, the son of Maaseiah, when he went with Zedekiah the king of Judah into Babylon in the fourth year of his reign. And this Seraiah was a quiet prince.
 - **51:61** — And Jeremiah said to Seraiah, When thou comest to Babylon, and shalt see, and shalt read all these words;
 

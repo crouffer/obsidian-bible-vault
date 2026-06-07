@@ -26,7 +26,7 @@ metav_id: 873
 
 ## Verse References
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **19:18** — So David fled, and escaped, and came to Samuel to Ramah, and told him all that Saul had done to him. And he and Samuel went and dwelt in Naioth.
 - **19:19** — And it was told Saul, saying, Behold, David is at Naioth in Ramah.
 - **19:22** — Then went he also to Ramah, and came to a great well that is in Sechu: and he asked and said, Where are Samuel and David? And one said, Behold, they be at Naioth in Ramah.

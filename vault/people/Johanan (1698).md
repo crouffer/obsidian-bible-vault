@@ -46,7 +46,7 @@ metav_id: 1698
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **12:11** — And Joiada begat Jonathan, and Jonathan begat Jaddua.
 - **12:22** — The Levites in the days of Eliashib, Joiada, and Johanan, and Jaddua, were recorded chief of the fathers: also the priests, to the reign of Darius the Persian.
 - **12:23** — The sons of Levi, the chief of the fathers, were written in the book of the chronicles, even until the days of Johanan the son of Eliashib.

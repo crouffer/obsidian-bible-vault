@@ -44,6 +44,6 @@ metav_id: 457
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **10:13** — Hodijah, Bani, Beninu.
 

@@ -26,6 +26,6 @@ metav_id: 376
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **14:6** — And the Horites in their mount Seir, unto Elparan, which is by the wilderness.
 

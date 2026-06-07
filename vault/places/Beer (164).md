@@ -26,6 +26,6 @@ metav_id: 164
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **21:16** — And from thence they went to Beer: that is the well whereof the LORD spake unto Moses, Gather the people together, and I will give them water.
 

@@ -48,7 +48,7 @@ metav_id: 1476
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **2:42** — Now the sons of Caleb the brother of Jerahmeel were, Mesha his firstborn, which was the father of Ziph; and the sons of Mareshah the father of Hebron.
 - **2:43** — And the sons of Hebron; Korah, and Tappuah, and Rekem, and Shema.
 

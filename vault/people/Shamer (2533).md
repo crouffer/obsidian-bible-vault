@@ -45,6 +45,6 @@ metav_id: 2533
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:46** — The son of Amzi, the son of Bani, the son of Shamer,
 

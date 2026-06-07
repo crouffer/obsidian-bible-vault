@@ -44,6 +44,6 @@ metav_id: 1265
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **13:10** — Of the tribe of Zebulun, Gaddiel the son of Sodi.
 

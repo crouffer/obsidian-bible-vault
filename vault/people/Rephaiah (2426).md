@@ -44,6 +44,6 @@ metav_id: 2426
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **3:9** — And next unto them repaired Rephaiah the son of Hur, the ruler of the half part of Jerusalem.
 

@@ -44,6 +44,6 @@ metav_id: 2907
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **8:14** — Of the sons also of Bigvai; Uthai, and Zabbud, and with them seventy males.
 

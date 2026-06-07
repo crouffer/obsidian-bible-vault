@@ -45,7 +45,7 @@ metav_id: 502
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **29:29** — And Laban gave to Rachel his daughter Bilhah his handmaid to be her maid.
 - **30:3** — And she said, Behold my maid Bilhah, go in unto her; and she shall bear upon my knees, that I may also have children by her.
 - **30:4** — And she gave him Bilhah her handmaid to wife: and Jacob went in unto her.
@@ -56,6 +56,6 @@ metav_id: 502
 - **37:2** — These are the generations of Jacob. Joseph, being seventeen years old, was feeding the flock with his brethren; and the lad was with the sons of Bilhah, and with the sons of Zilpah, his father's wives: and Joseph brought unto his father their evil report.
 - **46:25** — These are the sons of Bilhah, which Laban gave unto Rachel his daughter, and she bare these unto Jacob: all the souls were seven.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **7:13** — The sons of Naphtali; Jahziel, and Guni, and Jezer, and Shallum, the sons of Bilhah.
 

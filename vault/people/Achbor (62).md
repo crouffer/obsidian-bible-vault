@@ -45,10 +45,10 @@ metav_id: 62
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **36:38** — And Saul died, and Baalhanan the son of Achbor reigned in his stead.
 - **36:39** — And Baalhanan the son of Achbor died, and Hadar reigned in his stead: and the name of his city was Pau; and his wife's name was Mehetabel, the daughter of Matred, the daughter of Mezahab.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:49** — And when Shaul was dead, Baalhanan the son of Achbor reigned in his stead.
 

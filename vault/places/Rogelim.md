@@ -26,7 +26,7 @@ metav_id: 1012
 
 ## Verse References
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **17:27** — And it came to pass, when David was come to Mahanaim, that Shobi the son of Nahash of Rabbah of the children of Ammon, and Machir the son of Ammiel of Lodebar, and Barzillai the Gileadite of Rogelim,
 - **19:31** — And Barzillai the Gileadite came down from Rogelim, and went over Jordan with the king, to conduct him over Jordan.
 

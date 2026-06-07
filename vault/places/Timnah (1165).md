@@ -26,6 +26,6 @@ metav_id: 1165
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **15:57** — Cain, Gibeah, and Timnah; ten cities with their villages:
 

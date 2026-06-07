@@ -44,9 +44,9 @@ metav_id: 1284
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **2:48** — The children of Rezin, the children of Nekoda, the children of Gazzam,
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **7:51** — The children of Gazzam, the children of Uzza, the children of Phaseah,
 

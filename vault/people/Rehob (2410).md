@@ -45,7 +45,7 @@ metav_id: 2410
 
 ## Verse References
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **8:3** — David smote also Hadadezer, the son of Rehob, king of Zobah, as he went to recover his border at the river Euphrates.
 - **8:12** — Of Syria, and of Moab, and of the children of Ammon, and of the Philistines, and of Amalek, and of the spoil of Hadadezer, son of Rehob, king of Zobah.
 

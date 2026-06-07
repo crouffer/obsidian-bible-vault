@@ -26,6 +26,6 @@ metav_id: 134
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **15:29** — Baalah, and Iim, and Azem,
 

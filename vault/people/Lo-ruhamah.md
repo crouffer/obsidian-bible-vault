@@ -46,7 +46,7 @@ metav_id: 1829
 
 ## Verse References
 
-### [[Hosea]]
+### [[books/Hosea|Hosea]]
 - **1:6** — And she conceived again, and bare a daughter. And God said unto him, Call her name Loruhamah: for I will no more have mercy upon the house of Israel; but I will utterly take them away.
 - **1:8** — Now when she had weaned Loruhamah, she conceived, and bare a son.
 

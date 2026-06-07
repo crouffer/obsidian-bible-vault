@@ -45,7 +45,7 @@ metav_id: 2147
 
 ## Verse References
 
-### [[Ruth]]
+### [[books/Ruth|Ruth]]
 - **1:2** — And the name of the man was Elimelech, and the name of his wife Naomi, and the name of his two sons Mahlon and Chilion, Ephrathites of Bethlehemjudah. And they came into the country of Moab, and continued there.
 - **1:3** — And Elimelech Naomi's husband died; and she was left, and her two sons.
 - **1:8** — And Naomi said unto her two daughters in law, Go, return each to her mother's house: the LORD deal kindly with you, as ye have dealt with the dead, and with me.

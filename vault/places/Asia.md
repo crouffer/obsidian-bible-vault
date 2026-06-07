@@ -26,7 +26,7 @@ metav_id: 108
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **2:9** — Parthians, and Medes, and Elamites, and the dwellers in Mesopotamia, and in Judaea, and Cappadocia, in Pontus, and Asia,
 - **6:9** — Then there arose certain of the synagogue, which is called the synagogue of the Libertines, and Cyrenians, and Alexandrians, and of them of Cilicia and of Asia, disputing with Stephen.
 - **16:6** — Now when they had gone throughout Phrygia and the region of Galatia, and were forbidden of the Holy Ghost to preach the word in Asia,
@@ -40,21 +40,21 @@ metav_id: 108
 - **24:18** — Whereupon certain Jews from Asia found me purified in the temple, neither with multitude, nor with tumult.
 - **27:2** — And entering into a ship of Adramyttium, we launched, meaning to sail by the coasts of Asia; one Aristarchus, a Macedonian of Thessalonica, being with us.
 
-### [[Romans]]
+### [[books/Romans|Romans]]
 - **16:5** — Likewise greet the church that is in their house. Salute my wellbeloved Epaenetus, who is the firstfruits of Achaia unto Christ.
 
-### [[1 Corinthians]]
+### [[books/1 Corinthians|1 Corinthians]]
 - **16:19** — The churches of Asia salute you. Aquila and Priscilla salute you much in the Lord, with the church that is in their house.
 
-### [[2 Corinthians]]
+### [[books/2 Corinthians|2 Corinthians]]
 - **1:8** — For we would not, brethren, have you ignorant of our trouble which came to us in Asia, that we were pressed out of measure, above strength, insomuch that we despaired even of life:
 
-### [[2 Timothy]]
+### [[books/2 Timothy|2 Timothy]]
 - **1:15** — This thou knowest, that all they which are in Asia be turned away from me; of whom are Phygellus and Hermogenes.
 
-### [[1 Peter]]
+### [[books/1 Peter|1 Peter]]
 - **1:1** — Peter, an apostle of Jesus Christ, to the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia,
 
-### [[Revelation]]
+### [[books/Revelation|Revelation]]
 - **1:4** — John to the seven churches which are in Asia: Grace be unto you, and peace, from him which is, and which was, and which is to come; and from the seven Spirits which are before his throne;
 

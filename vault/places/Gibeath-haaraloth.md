@@ -26,6 +26,6 @@ metav_id: 469
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **5:3** — And Joshua made him sharp knives, and circumcised the children of Israel at the hill of the foreskins.
 

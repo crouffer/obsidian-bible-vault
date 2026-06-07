@@ -44,6 +44,6 @@ metav_id: 327
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **9:5** — And of the Shilonites; Asaiah the firstborn, and his sons.
 

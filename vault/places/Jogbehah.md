@@ -26,9 +26,9 @@ metav_id: 645
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **32:35** — And Atroth, Shophan, and Jaazer, and Jogbehah,
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **8:11** — And Gideon went up by the way of them that dwelt in tents on the east of Nobah and Jogbehah, and smote the host: for the host was secure.
 

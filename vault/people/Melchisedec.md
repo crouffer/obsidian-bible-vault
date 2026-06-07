@@ -44,13 +44,13 @@ metav_id: 1991
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **14:18** — And Melchizedek king of Salem brought forth bread and wine: and he was the priest of the most high God.
 
-### [[Psalms]]
+### [[books/Psalms|Psalms]]
 - **110:4** — The LORD hath sworn, and will not repent, Thou art a priest for ever after the order of Melchizedek.
 
-### [[Hebrews]]
+### [[books/Hebrews|Hebrews]]
 - **5:6** — As he saith also in another place, Thou art a priest for ever after the order of Melchisedec.
 - **5:10** — Called of God an high priest after the order of Melchisedec.
 - **6:20** — Whither the forerunner is for us entered, even Jesus, made an high priest for ever after the order of Melchisedec.

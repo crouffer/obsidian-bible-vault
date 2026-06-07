@@ -44,7 +44,7 @@ metav_id: 3001
 
 ## Verse References
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **9:28** — And Gaal the son of Ebed said, Who is Abimelech, and who is Shechem, that we should serve him? is not he the son of Jerubbaal? and Zebul his officer? serve the men of Hamor the father of Shechem: for why should we serve him?
 - **9:30** — And when Zebul the ruler of the city heard the words of Gaal the son of Ebed, his anger was kindled.
 - **9:36** — And when Gaal saw the people, he said to Zebul, Behold, there come people down from the top of the mountains. And Zebul said unto him, Thou seest the shadow of the mountains as if they were men.

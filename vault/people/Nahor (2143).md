@@ -61,7 +61,7 @@ metav_id: 2143
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **11:26** — And Terah lived seventy years, and begat Abram, Nahor, and Haran.
 - **11:27** — Now these are the generations of Terah: Terah begat Abram, Nahor, and Haran; and Haran begat Lot.
 - **11:29** — And Abram and Nahor took them wives: the name of Abram's wife was Sarai; and the name of Nahor's wife, Milcah, the daughter of Haran, the father of Milcah, and the father of Iscah.

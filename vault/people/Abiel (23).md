@@ -55,11 +55,11 @@ metav_id: 23
 
 ## Verse References
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **9:1** — Now there was a man of Benjamin, whose name was Kish, the son of Abiel, the son of Zeror, the son of Bechorath, the son of Aphiah, a Benjamite, a mighty man of power.
 - **14:51** — And Kish was the father of Saul; and Ner the father of Abner was the son of Abiel.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **8:33** — And Ner begat Kish, and Kish begat Saul, and Saul begat Jonathan, and Malchishua, and Abinadab, and Eshbaal.
 - **9:35** — And in Gibeon dwelt the father of Gibeon, Jehiel, whose wife's name was Maachah:
 - **9:39** — And Ner begat Kish; and Kish begat Saul; and Saul begat Jonathan, and Malchishua, and Abinadab, and Eshbaal.

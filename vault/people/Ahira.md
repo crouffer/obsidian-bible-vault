@@ -44,7 +44,7 @@ metav_id: 157
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **1:15** — Of Naphtali; Ahira the son of Enan.
 - **2:29** — Then the tribe of Naphtali: and the captain of the children of Naphtali shall be Ahira the son of Enan.
 - **7:78** — On the twelfth day Ahira the son of Enan, prince of the children of Naphtali, offered:

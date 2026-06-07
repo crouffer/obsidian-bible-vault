@@ -53,12 +53,12 @@ metav_id: 1831
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **36:20** — These are the sons of Seir the Horite, who inhabited the land; Lotan, and Shobal, and Zibeon, and Anah,
 - **36:22** — And the children of Lotan were Hori and Hemam; and Lotan's sister was Timna.
 - **36:29** — These are the dukes that came of the Horites; duke Lotan, duke Shobal, duke Zibeon, duke Anah,
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:38** — And the sons of Seir; Lotan, and Shobal, and Zibeon, and Anah, and Dishon, and Ezer, and Dishan.
 - **1:39** — And the sons of Lotan; Hori, and Homam: and Timna was Lotan's sister.
 

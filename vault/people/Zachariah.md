@@ -44,7 +44,7 @@ metav_id: 2969
 
 ## Verse References
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **14:29** — And Jeroboam slept with his fathers, even with the kings of Israel; and Zachariah his son reigned in his stead.
 - **15:8** — In the thirty and eighth year of Azariah king of Judah did Zachariah the son of Jeroboam reign over Israel in Samaria six months.
 - **15:11** — And the rest of the acts of Zachariah, behold, they are written in the book of the chronicles of the kings of Israel.

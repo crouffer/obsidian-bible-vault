@@ -45,6 +45,6 @@ metav_id: 1483
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **2:39** — And Azariah begat Helez, and Helez begat Eleasah,
 

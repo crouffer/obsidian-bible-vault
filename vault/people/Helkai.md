@@ -44,6 +44,6 @@ metav_id: 1485
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **12:15** — Of Harim, Adna; of Meraioth, Helkai;
 

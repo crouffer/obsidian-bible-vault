@@ -44,7 +44,7 @@ metav_id: 1994
 
 ## Verse References
 
-### [[Daniel]]
+### [[books/Daniel|Daniel]]
 - **1:11** — Then said Daniel to Melzar, whom the prince of the eunuchs had set over Daniel, Hananiah, Mishael, and Azariah,
 - **1:16** — Thus Melzar took away the portion of their meat, and the wine that they should drink; and gave them pulse.
 

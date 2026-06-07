@@ -26,6 +26,6 @@ metav_id: 1249
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **18:22** — And Betharabah, and Zemaraim, and Bethel,
 

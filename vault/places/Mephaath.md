@@ -26,13 +26,13 @@ metav_id: 780
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **13:18** — And Jahazah, and Kedemoth, and Mephaath,
 - **21:37** — Kedemoth with her suburbs, and Mephaath with her suburbs; four cities.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:79** — Kedemoth also with her suburbs, and Mephaath with her suburbs:
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **48:21** — And judgment is come upon the plain country; upon Holon, and upon Jahazah, and upon Mephaath,
 

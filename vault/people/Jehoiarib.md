@@ -44,6 +44,6 @@ metav_id: 798
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **24:7** — Now the first lot came forth to Jehoiarib, the second to Jedaiah,
 

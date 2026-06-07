@@ -26,6 +26,6 @@ metav_id: 719
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **12:18** — The king of Aphek, one; the king of Lasharon, one;
 

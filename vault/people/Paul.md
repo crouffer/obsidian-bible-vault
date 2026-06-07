@@ -44,7 +44,7 @@ metav_id: 2479
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **7:58** — And cast him out of the city, and stoned him: and the witnesses laid down their clothes at a young man's feet, whose name was Saul.
 - **8:1** — And Saul was consenting unto his death. And at that time there was a great persecution against the church which was at Jerusalem; and they were all scattered abroad throughout the regions of Judaea and Samaria, except the apostles.
 - **8:3** — As for Saul, he made havock of the church, entering into every house, and haling men and women committed them to prison.
@@ -196,10 +196,10 @@ metav_id: 2479
 - **28:25** — And when they agreed not among themselves, they departed, after that Paul had spoken one word, Well spake the Holy Ghost by Esaias the prophet unto our fathers,
 - **28:30** — And Paul dwelt two whole years in his own hired house, and received all that came in unto him,
 
-### [[Romans]]
+### [[books/Romans|Romans]]
 - **1:1** — Paul, a servant of Jesus Christ, called to be an apostle, separated unto the gospel of God,
 
-### [[1 Corinthians]]
+### [[books/1 Corinthians|1 Corinthians]]
 - **1:1** — Paul, called to be an apostle of Jesus Christ through the will of God, and Sosthenes our brother,
 - **1:12** — Now this I say, that every one of you saith, I am of Paul; and I of Apollos; and I of Cephas; and I of Christ.
 - **1:13** — Is Christ divided? was Paul crucified for you? or were ye baptized in the name of Paul?
@@ -208,48 +208,48 @@ metav_id: 2479
 - **3:22** — Whether Paul, or Apollos, or Cephas, or the world, or life, or death, or things present, or things to come; all are yours;
 - **16:21** — The salutation of me Paul with mine own hand.
 
-### [[2 Corinthians]]
+### [[books/2 Corinthians|2 Corinthians]]
 - **1:1** — Paul, an apostle of Jesus Christ by the will of God, and Timothy our brother, unto the church of God which is at Corinth, with all the saints which are in all Achaia:
 - **10:1** — Now I Paul myself beseech you by the meekness and gentleness of Christ, who in presence am base among you, but being absent am bold toward you:
 
-### [[Galatians]]
+### [[books/Galatians|Galatians]]
 - **1:1** — Paul, an apostle, (not of men, neither by man, but by Jesus Christ, and God the Father, who raised him from the dead;)
 - **5:2** — Behold, I Paul say unto you, that if ye be circumcised, Christ shall profit you nothing.
 
-### [[Ephesians]]
+### [[books/Ephesians|Ephesians]]
 - **1:1** — Paul, an apostle of Jesus Christ by the will of God, to the saints which are at Ephesus, and to the faithful in Christ Jesus:
 - **3:1** — For this cause I Paul, the prisoner of Jesus Christ for you Gentiles,
 
-### [[Philippians]]
+### [[books/Philippians|Philippians]]
 - **1:1** — Paul and Timotheus, the servants of Jesus Christ, to all the saints in Christ Jesus which are at Philippi, with the bishops and deacons:
 
-### [[Colossians]]
+### [[books/Colossians|Colossians]]
 - **1:1** — Paul, an apostle of Jesus Christ by the will of God, and Timotheus our brother,
 - **1:23** — If ye continue in the faith grounded and settled, and be not moved away from the hope of the gospel, which ye have heard, and which was preached to every creature which is under heaven; whereof I Paul am made a minister;
 - **4:18** — The salutation by the hand of me Paul. Remember my bonds. Grace be with you. Amen.
 
-### [[1 Thessalonians]]
+### [[books/1 Thessalonians|1 Thessalonians]]
 - **1:1** — Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians which is in God the Father and in the Lord Jesus Christ: Grace be unto you, and peace, from God our Father, and the Lord Jesus Christ.
 - **2:18** — Wherefore we would have come unto you, even I Paul, once and again; but Satan hindered us.
 
-### [[2 Thessalonians]]
+### [[books/2 Thessalonians|2 Thessalonians]]
 - **1:1** — Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians in God our Father and the Lord Jesus Christ:
 - **3:17** — The salutation of Paul with mine own hand, which is the token in every epistle: so I write.
 
-### [[1 Timothy]]
+### [[books/1 Timothy|1 Timothy]]
 - **1:1** — Paul, an apostle of Jesus Christ by the commandment of God our Saviour, and Lord Jesus Christ, which is our hope;
 
-### [[2 Timothy]]
+### [[books/2 Timothy|2 Timothy]]
 - **1:1** — Paul, an apostle of Jesus Christ by the will of God, according to the promise of life which is in Christ Jesus,
 
-### [[Titus]]
+### [[books/Titus|Titus]]
 - **1:1** — Paul, a servant of God, and an apostle of Jesus Christ, according to the faith of God's elect, and the acknowledging of the truth which is after godliness;
 
-### [[Philemon]]
+### [[books/Philemon|Philemon]]
 - **1:1** — Paul, a prisoner of Jesus Christ, and Timothy our brother, unto Philemon our dearly beloved, and fellowlabourer,
 - **1:9** — Yet for love's sake I rather beseech thee, being such an one as Paul the aged, and now also a prisoner of Jesus Christ.
 - **1:19** — I Paul have written it with mine own hand, I will repay it: albeit I do not say to thee how thou owest unto me even thine own self besides.
 
-### [[2 Peter]]
+### [[books/2 Peter|2 Peter]]
 - **3:15** — And account that the longsuffering of our Lord is salvation; even as our beloved brother Paul also according to the wisdom given unto him hath written unto you;
 

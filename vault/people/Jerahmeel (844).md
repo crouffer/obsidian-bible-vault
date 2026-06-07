@@ -44,6 +44,6 @@ metav_id: 844
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **24:29** — Concerning Kish: the son of Kish was Jerahmeel.
 

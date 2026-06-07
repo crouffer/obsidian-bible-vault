@@ -44,7 +44,7 @@ metav_id: 40
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **20:2** — And Abraham said of Sarah his wife, She is my sister: and Abimelech king of Gerar sent, and took Sarah.
 - **20:3** — But God came to Abimelech in a dream by night, and said to him, Behold, thou art but a dead man, for the woman which thou hast taken; for she is a man's wife.
 - **20:4** — But Abimelech had not come near her: and he said, Lord, wilt thou slay also a righteous nation?
@@ -69,6 +69,6 @@ metav_id: 40
 - **26:16** — And Abimelech said unto Isaac, Go from us; for thou art much mightier than we.
 - **26:26** — Then Abimelech went to him from Gerar, and Ahuzzath one of his friends, and Phichol the chief captain of his army.
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **9:53** — And a certain woman cast a piece of a millstone upon Abimelech's head, and all to brake his skull.
 

@@ -45,6 +45,6 @@ metav_id: 1575
 
 ## Verse References
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **2:13** — And now I have sent a cunning man, endued with understanding, of Huram my father's,
 

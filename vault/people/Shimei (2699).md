@@ -49,18 +49,18 @@ metav_id: 2699
 
 ## Verse References
 
-### [[Exodus]]
+### [[books/Exodus|Exodus]]
 - **6:17** — The sons of Gershon; Libni, and Shimi, according to their families.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **3:18** — And these are the names of the sons of Gershon by their families; Libni, and Shimei.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:17** — And these be the names of the sons of Gershom; Libni, and Shimei.
 - **23:7** — Of the Gershonites were, Laadan, and Shimei.
 - **23:9** — The sons of Shimei; Shelomith, and Haziel, and Haran, three. These were the chief of the fathers of Laadan.
 - **23:10** — And the sons of Shimei were, Jahath, Zina, and Jeush, and Beriah. These four were the sons of Shimei.
 
-### [[Zechariah]]
+### [[books/Zechariah|Zechariah]]
 - **12:13** — The family of the house of Levi apart, and their wives apart; the family of Shimei apart, and their wives apart;
 

@@ -47,6 +47,6 @@ metav_id: 2427
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **7:25** — And Rephah was his son, also Resheph, and Telah his son, and Tahan his son,
 

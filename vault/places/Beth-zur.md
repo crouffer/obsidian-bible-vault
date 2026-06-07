@@ -26,12 +26,12 @@ metav_id: 242
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **15:58** — Halhul, Bethzur, and Gedor,
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **11:7** — And Bethzur, and Shoco, and Adullam,
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **3:16** — After him repaired Nehemiah the son of Azbuk, the ruler of the half part of Bethzur, unto the place over against the sepulchres of David, and to the pool that was made, and unto the house of the mighty.
 

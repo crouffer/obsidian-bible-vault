@@ -26,9 +26,9 @@ metav_id: 683
 
 ## Verse References
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **48:24** — And upon Kerioth, and upon Bozrah, and upon all the cities of the land of Moab, far or near.
 
-### [[Amos]]
+### [[books/Amos|Amos]]
 - **2:2** — But I will send a fire upon Moab, and it shall devour the palaces of Kerioth: and Moab shall die with tumult, with shouting, and with the sound of the trumpet:
 

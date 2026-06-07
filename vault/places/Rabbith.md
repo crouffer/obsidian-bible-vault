@@ -26,6 +26,6 @@ metav_id: 967
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **19:20** — And Rabbith, and Kishion, and Abez,
 

@@ -56,9 +56,9 @@ metav_id: 1341
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **25:15** — Hadar, and Tema, Jetur, Naphish, and Kedemah:
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:30** — Mishma, and Dumah, Massa, Hadad, and Tema,
 

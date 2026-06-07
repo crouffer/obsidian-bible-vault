@@ -45,10 +45,10 @@ metav_id: 164
 
 ## Verse References
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **8:17** — And Zadok the son of Ahitub, and Ahimelech the son of Abiathar, were the priests; and Seraiah was the scribe;
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:7** — Meraioth begat Amariah, and Amariah begat Ahitub,
 - **6:8** — And Ahitub begat Zadok, and Zadok begat Ahimaaz,
 - **6:52** — Meraioth his son, Amariah his son, Ahitub his son,

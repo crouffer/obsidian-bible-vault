@@ -45,13 +45,13 @@ metav_id: 2975
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:12** — And Ahitub begat Zadok, and Zadok begat Shallum,
 - **9:11** — And Azariah the son of Hilkiah, the son of Meshullam, the son of Zadok, the son of Meraioth, the son of Ahitub, the ruler of the house of God;
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **7:2** — The son of Shallum, the son of Zadok, the son of Ahitub,
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **11:11** — Seraiah the son of Hilkiah, the son of Meshullam, the son of Zadok, the son of Meraioth, the son of Ahitub, was the ruler of the house of God.
 

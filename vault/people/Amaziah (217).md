@@ -44,7 +44,7 @@ metav_id: 217
 
 ## Verse References
 
-### [[Amos]]
+### [[books/Amos|Amos]]
 - **7:10** — Then Amaziah the priest of Bethel sent to Jeroboam king of Israel, saying, Amos hath conspired against thee in the midst of the house of Israel: the land is not able to bear all his words.
 - **7:12** — Also Amaziah said unto Amos, O thou seer, go, flee thee away into the land of Judah, and there eat bread, and prophesy there:
 - **7:14** — Then answered Amos, and said to Amaziah, I was no prophet, neither was I a prophet's son; but I was an herdman, and a gatherer of sycomore fruit:

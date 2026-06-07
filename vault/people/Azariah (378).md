@@ -45,10 +45,10 @@ metav_id: 378
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:10** — And Johanan begat Azariah, (he it is that executed the priest's office in the temple that Solomon built in Jerusalem:)
 - **6:11** — And Azariah begat Amariah, and Amariah begat Ahitub,
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **7:3** — The son of Amariah, the son of Azariah, the son of Meraioth,
 

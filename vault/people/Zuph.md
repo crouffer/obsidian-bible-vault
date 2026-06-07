@@ -45,10 +45,10 @@ metav_id: 3108
 
 ## Verse References
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **1:1** — Now there was a certain man of Ramathaimzophim, of mount Ephraim, and his name was Elkanah, the son of Jeroham, the son of Elihu, the son of Tohu, the son of Zuph, an Ephrathite:
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:26** — As for Elkanah: the sons of Elkanah; Zophai his son, and Nahath his son,
 - **6:35** — The son of Zuph, the son of Elkanah, the son of Mahath, the son of Amasai,
 

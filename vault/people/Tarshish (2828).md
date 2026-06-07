@@ -47,9 +47,9 @@ metav_id: 2828
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **10:4** — And the sons of Javan; Elishah, and Tarshish, Kittim, and Dodanim.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:7** — And the sons of Javan; Elishah, and Tarshish, Kittim, and Dodanim.
 

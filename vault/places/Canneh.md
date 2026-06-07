@@ -26,6 +26,6 @@ metav_id: 273
 
 ## Verse References
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **27:23** — Haran, and Canneh, and Eden, the merchants of Sheba, Asshur, and Chilmad, were thy merchants.
 

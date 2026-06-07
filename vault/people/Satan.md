@@ -44,10 +44,10 @@ metav_id: 2476
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **21:1** — And Satan stood up against Israel, and provoked David to number Israel.
 
-### [[Job]]
+### [[books/Job|Job]]
 - **1:6** — Now there was a day when the sons of God came to present themselves before the LORD, and Satan came also among them.
 - **1:7** — And the LORD said unto Satan, Whence comest thou? Then Satan answered the LORD, and said, From going to and fro in the earth, and from walking up and down in it.
 - **1:8** — And the LORD said unto Satan, Hast thou considered my servant Job, that there is none like him in the earth, a perfect and an upright man, one that feareth God, and escheweth evil?
@@ -60,14 +60,14 @@ metav_id: 2476
 - **2:6** — And the LORD said unto Satan, Behold, he is in thine hand; but save his life.
 - **2:7** — So went Satan forth from the presence of the LORD, and smote Job with sore boils from the sole of his foot unto his crown.
 
-### [[Psalms]]
+### [[books/Psalms|Psalms]]
 - **109:6** — Set thou a wicked man over him: and let Satan stand at his right hand.
 
-### [[Zechariah]]
+### [[books/Zechariah|Zechariah]]
 - **3:1** — And he shewed me Joshua the high priest standing before the angel of the LORD, and Satan standing at his right hand to resist him.
 - **3:2** — And the LORD said unto Satan, The LORD rebuke thee, O Satan; even the LORD that hath chosen Jerusalem rebuke thee: is not this a brand plucked out of the fire?
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **4:10** — Then saith Jesus unto him, Get thee hence, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve.
 - **10:25** — It is enough for the disciple that he be as his master, and the servant as his lord. If they have called the master of the house Beelzebub, how much more shall they call them of his household?
 - **12:24** — But when the Pharisees heard it, they said, This fellow doth not cast out devils, but by Beelzebub the prince of the devils.
@@ -75,7 +75,7 @@ metav_id: 2476
 - **12:27** — And if I by Beelzebub cast out devils, by whom do your children cast them out? therefore they shall be your judges.
 - **16:23** — But he turned, and said unto Peter, Get thee behind me, Satan: thou art an offence unto me: for thou savourest not the things that be of God, but those that be of men.
 
-### [[Mark]]
+### [[books/Mark|Mark]]
 - **1:13** — And he was there in the wilderness forty days, tempted of Satan; and was with the wild beasts; and the angels ministered unto him.
 - **3:22** — And the scribes which came down from Jerusalem said, He hath Beelzebub, and by the prince of the devils casteth he out devils.
 - **3:23** — And he called them unto him, and said unto them in parables, How can Satan cast out Satan?
@@ -83,7 +83,7 @@ metav_id: 2476
 - **4:15** — And these are they by the way side, where the word is sown; but when they have heard, Satan cometh immediately, and taketh away the word that was sown in their hearts.
 - **8:33** — But when he had turned about and looked on his disciples, he rebuked Peter, saying, Get thee behind me, Satan: for thou savourest not the things that be of God, but the things that be of men.
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **4:8** — And Jesus answered and said unto him, Get thee behind me, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve.
 - **10:18** — And he said unto them, I beheld Satan as lightning fall from heaven.
 - **11:15** — But some of them said, He casteth out devils through Beelzebub the chief of the devils.
@@ -93,36 +93,36 @@ metav_id: 2476
 - **22:3** — Then entered Satan into Judas surnamed Iscariot, being of the number of the twelve.
 - **22:31** — And the Lord said, Simon, Simon, behold, Satan hath desired to have you, that he may sift you as wheat:
 
-### [[John]]
+### [[books/John|John]]
 - **13:27** — And after the sop Satan entered into him. Then said Jesus unto him, That thou doest, do quickly.
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **5:3** — But Peter said, Ananias, why hath Satan filled thine heart to lie to the Holy Ghost, and to keep back part of the price of the land?
 - **26:18** — To open their eyes, and to turn them from darkness to light, and from the power of Satan unto God, that they may receive forgiveness of sins, and inheritance among them which are sanctified by faith that is in me.
 
-### [[Romans]]
+### [[books/Romans|Romans]]
 - **16:20** — And the God of peace shall bruise Satan under your feet shortly. The grace of our Lord Jesus Christ be with you. Amen.
 
-### [[1 Corinthians]]
+### [[books/1 Corinthians|1 Corinthians]]
 - **5:5** — To deliver such an one unto Satan for the destruction of the flesh, that the spirit may be saved in the day of the Lord Jesus.
 - **7:5** — Defraud ye not one the other, except it be with consent for a time, that ye may give yourselves to fasting and prayer; and come together again, that Satan tempt you not for your incontinency.
 
-### [[2 Corinthians]]
+### [[books/2 Corinthians|2 Corinthians]]
 - **2:11** — Lest Satan should get an advantage of us: for we are not ignorant of his devices.
 - **11:14** — And no marvel; for Satan himself is transformed into an angel of light.
 - **12:7** — And lest I should be exalted above measure through the abundance of the revelations, there was given to me a thorn in the flesh, the messenger of Satan to buffet me, lest I should be exalted above measure.
 
-### [[1 Thessalonians]]
+### [[books/1 Thessalonians|1 Thessalonians]]
 - **2:18** — Wherefore we would have come unto you, even I Paul, once and again; but Satan hindered us.
 
-### [[2 Thessalonians]]
+### [[books/2 Thessalonians|2 Thessalonians]]
 - **2:9** — Even him, whose coming is after the working of Satan with all power and signs and lying wonders,
 
-### [[1 Timothy]]
+### [[books/1 Timothy|1 Timothy]]
 - **1:20** — Of whom is Hymenaeus and Alexander; whom I have delivered unto Satan, that they may learn not to blaspheme.
 - **5:15** — For some are already turned aside after Satan.
 
-### [[Revelation]]
+### [[books/Revelation|Revelation]]
 - **2:9** — I know thy works, and tribulation, and poverty, (but thou art rich) and I know the blasphemy of them which say they are Jews, and are not, but are the synagogue of Satan.
 - **2:13** — I know thy works, and where thou dwellest, even where Satan's seat is: and thou holdest fast my name, and hast not denied my faith, even in those days wherein Antipas was my faithful martyr, who was slain among you, where Satan dwelleth.
 - **2:24** — But unto you I say, and unto the rest in Thyatira, as many as have not this doctrine, and which have not known the depths of Satan, as they speak; I will put upon you none other burden.

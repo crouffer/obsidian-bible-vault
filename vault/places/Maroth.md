@@ -26,6 +26,6 @@ metav_id: 768
 
 ## Verse References
 
-### [[Micah]]
+### [[books/Micah|Micah]]
 - **1:12** — For the inhabitant of Maroth waited carefully for good: but evil came down from the LORD unto the gate of Jerusalem.
 

@@ -26,9 +26,9 @@ metav_id: 792
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **2:27** — The men of Michmas, an hundred twenty and two.
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **7:31** — The men of Michmas, an hundred and twenty and two.
 

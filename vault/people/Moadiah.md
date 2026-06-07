@@ -44,7 +44,7 @@ metav_id: 1874
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **10:8** — Maaziah, Bilgai, Shemaiah: these were the priests.
 - **12:5** — Miamin, Maadiah, Bilgah,
 - **12:17** — Of Abijah, Zichri; of Miniamin, of Moadiah, Piltai;

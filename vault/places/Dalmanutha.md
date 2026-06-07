@@ -26,6 +26,6 @@ metav_id: 320
 
 ## Verse References
 
-### [[Mark]]
+### [[books/Mark|Mark]]
 - **8:10** — And straightway he entered into a ship with his disciples, and came into the parts of Dalmanutha.
 

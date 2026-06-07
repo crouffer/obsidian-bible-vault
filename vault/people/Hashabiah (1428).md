@@ -45,6 +45,6 @@ metav_id: 1428
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:45** — The son of Hashabiah, the son of Amaziah, the son of Hilkiah,
 

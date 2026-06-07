@@ -44,6 +44,6 @@ metav_id: 255
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **10:26** — And Ahijah, Hanan, Anan,
 

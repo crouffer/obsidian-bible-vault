@@ -26,6 +26,6 @@ metav_id: 178
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **16:14** — Wherefore the well was called Beerlahairoi; behold, it is between Kadesh and Bered.
 

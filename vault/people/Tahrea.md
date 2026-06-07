@@ -47,7 +47,7 @@ metav_id: 2827
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **8:35** — And the sons of Micah were, Pithon, and Melech, and Tarea, and Ahaz.
 - **9:41** — And the sons of Micah were, Pithon, and Melech, and Tahrea, and Ahaz.
 

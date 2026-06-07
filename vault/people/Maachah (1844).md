@@ -45,7 +45,7 @@ metav_id: 1844
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **8:29** — And at Gibeon dwelt the father of Gibeon; whose wife's name was Maachah:
 - **9:35** — And in Gibeon dwelt the father of Gibeon, Jehiel, whose wife's name was Maachah:
 

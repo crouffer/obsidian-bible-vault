@@ -44,7 +44,7 @@ metav_id: 259
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **9:10** — And there was a certain disciple at Damascus, named Ananias; and to him said the Lord in a vision, Ananias. And he said, Behold, I am here, Lord.
 - **9:12** — And hath seen in a vision a man named Ananias coming in, and putting his hand on him, that he might receive his sight.
 - **9:13** — Then Ananias answered, Lord, I have heard by many of this man, how much evil he hath done to thy saints at Jerusalem:

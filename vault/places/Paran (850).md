@@ -26,9 +26,9 @@ metav_id: 850
 
 ## Verse References
 
-### [[Deuteronomy]]
+### [[books/Deuteronomy|Deuteronomy]]
 - **33:2** — And he said, The LORD came from Sinai, and rose up from Seir unto them; he shined forth from mount Paran, and he came with ten thousands of saints: from his right hand went a fiery law for them.
 
-### [[Habakkuk]]
+### [[books/Habakkuk|Habakkuk]]
 - **3:3** — God came from Teman, and the Holy One from mount Paran. Selah. His glory covered the heavens, and the earth was full of his praise.
 

@@ -26,7 +26,7 @@ metav_id: 728
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **10:29** — Then Joshua passed from Makkedah, and all Israel with him, unto Libnah, and fought against Libnah:
 - **10:31** — And Joshua passed from Libnah, and all Israel with him, unto Lachish, and encamped against it, and fought against it:
 - **10:32** — And the LORD delivered Lachish into the hand of Israel, which took it on the second day, and smote it with the edge of the sword, and all the souls that were therein, according to all that he had done to Libnah.
@@ -35,21 +35,21 @@ metav_id: 728
 - **15:42** — Libnah, and Ether, and Ashan,
 - **21:13** — Thus they gave to the children of Aaron the priest Hebron with her suburbs, to be a city of refuge for the slayer; and Libnah with her suburbs,
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **8:22** — Yet Edom revolted from under the hand of Judah unto this day. Then Libnah revolted at the same time.
 - **19:8** — So Rabshakeh returned, and found the king of Assyria warring against Libnah: for he had heard that he was departed from Lachish.
 - **23:31** — Jehoahaz was twenty and three years old when he began to reign; and he reigned three months in Jerusalem. And his mother's name was Hamutal, the daughter of Jeremiah of Libnah.
 - **24:18** — Zedekiah was twenty and one years old when he began to reign, and he reigned eleven years in Jerusalem. And his mother's name was Hamutal, the daughter of Jeremiah of Libnah.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:57** — And to the sons of Aaron they gave the cities of Judah, namely, Hebron, the city of refuge, and Libnah with her suburbs, and Jattir, and Eshtemoa, with their suburbs,
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **21:10** — So the Edomites revolted from under the hand of Judah unto this day. The same time also did Libnah revolt from under his hand; because he had forsaken the LORD God of his fathers.
 
-### [[Isaiah]]
+### [[books/Isaiah|Isaiah]]
 - **37:8** — So Rabshakeh returned, and found the king of Assyria warring against Libnah: for he had heard that he was departed from Lachish.
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **52:1** — Zedekiah was one and twenty years old when he began to reign, and he reigned eleven years in Jerusalem. And his mother's name was Hamutal the daughter of Jeremiah of Libnah.
 

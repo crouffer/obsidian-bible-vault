@@ -46,11 +46,11 @@ metav_id: 2265
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **2:6** — The children of Pahathmoab, of the children of Jeshua and Joab, two thousand eight hundred and twelve.
 - **8:4** — Of the sons of Pahathmoab; Elihoenai the son of Zerahiah, and with him two hundred males.
 - **10:30** — And of the sons of Pahathmoab; Adna, and Chelal, Benaiah, Maaseiah, Mattaniah, Bezaleel, and Binnui, and Manasseh.
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **7:11** — The children of Pahathmoab, of the children of Jeshua and Joab, two thousand and eight hundred and eighteen.
 

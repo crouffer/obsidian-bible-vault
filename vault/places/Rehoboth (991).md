@@ -26,9 +26,9 @@ metav_id: 991
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **36:37** — And Samlah died, and Saul of Rehoboth by the river reigned in his stead.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:48** — And when Samlah was dead, Shaul of Rehoboth by the river reigned in his stead.
 

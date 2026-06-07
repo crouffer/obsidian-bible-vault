@@ -44,9 +44,9 @@ metav_id: 2281
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **2:49** — The children of Uzza, the children of Paseah, the children of Besai,
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **7:51** — The children of Gazzam, the children of Uzza, the children of Phaseah,
 

@@ -44,7 +44,7 @@ metav_id: 2077
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **10:7** — Meshullam, Abijah, Mijamin,
 - **12:5** — Miamin, Maadiah, Bilgah,
 - **12:17** — Of Abijah, Zichri; of Miniamin, of Moadiah, Piltai;

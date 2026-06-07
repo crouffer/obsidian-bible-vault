@@ -46,14 +46,14 @@ metav_id: 142
 
 ## Verse References
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **8:16** — And Joab the son of Zeruiah was over the host; and Jehoshaphat the son of Ahilud was recorder;
 - **20:24** — And Adoram was over the tribute: and Jehoshaphat the son of Ahilud was recorder:
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **4:3** — Elihoreph and Ahiah, the sons of Shisha, scribes; Jehoshaphat the son of Ahilud, the recorder.
 - **4:12** — Baana the son of Ahilud; to him pertained Taanach and Megiddo, and all Bethshean, which is by Zartanah beneath Jezreel, from Bethshean to Abelmeholah, even unto the place that is beyond Jokneam:
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **18:15** — And Joab the son of Zeruiah was over the host; and Jehoshaphat the son of Ahilud, recorder.
 

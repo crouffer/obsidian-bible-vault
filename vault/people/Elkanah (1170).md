@@ -45,7 +45,7 @@ metav_id: 1170
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:26** — As for Elkanah: the sons of Elkanah; Zophai his son, and Nahath his son,
 - **6:35** — The son of Zuph, the son of Elkanah, the son of Mahath, the son of Amasai,
 

@@ -45,7 +45,7 @@ metav_id: 1933
 
 ## Verse References
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **13:2** — And there was a certain man of Zorah, of the family of the Danites, whose name was Manoah; and his wife was barren, and bare not.
 - **13:8** — Then Manoah intreated the LORD, and said, O my Lord, let the man of God which thou didst send come again unto us, and teach us what we shall do unto the child that shall be born.
 - **13:9** — And God hearkened to the voice of Manoah; and the angel of God came again unto the woman as she sat in the field: but Manoah her husband was not with her.

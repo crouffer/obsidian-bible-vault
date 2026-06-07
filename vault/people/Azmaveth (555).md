@@ -44,9 +44,9 @@ metav_id: 555
 
 ## Verse References
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **23:31** — Abialbon the Arbathite, Azmaveth the Barhumite,
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **11:33** — Azmaveth the Baharumite, Eliahba the Shaalbonite,
 

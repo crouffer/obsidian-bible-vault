@@ -26,7 +26,7 @@ metav_id: 760
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **10:10** — And the LORD discomfited them before Israel, and slew them with a great slaughter at Gibeon, and chased them along the way that goeth up to Bethhoron, and smote them to Azekah, and unto Makkedah.
 - **10:16** — But these five kings fled, and hid themselves in a cave at Makkedah.
 - **10:17** — And it was told Joshua, saying, The five kings are found hid in a cave at Makkedah.

@@ -44,6 +44,6 @@ metav_id: 1173
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **15:23** — And Berechiah and Elkanah were doorkeepers for the ark.
 

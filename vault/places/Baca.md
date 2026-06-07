@@ -26,6 +26,6 @@ metav_id: 1199
 
 ## Verse References
 
-### [[Psalms]]
+### [[books/Psalms|Psalms]]
 - **84:6** — Who passing through the valley of Baca make it a well; the rain also filleth the pools.
 

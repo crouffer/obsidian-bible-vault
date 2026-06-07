@@ -26,6 +26,6 @@ metav_id: 678
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:72** — And out of the tribe of Issachar; Kedesh with her suburbs, Daberath with her suburbs,
 

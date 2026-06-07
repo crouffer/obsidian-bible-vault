@@ -26,7 +26,7 @@ metav_id: 110
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **20:13** — And we went before to ship, and sailed unto Assos, there intending to take in Paul: for so had he appointed, minding himself to go afoot.
 - **20:14** — And when he met with us at Assos, we took him in, and came to Mitylene.
 

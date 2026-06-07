@@ -53,12 +53,12 @@ metav_id: 2650
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **26:32** — And of Shemida, the family of the Shemidaites: and of Hepher, the family of the Hepherites.
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **17:2** — There was also a lot for the rest of the children of Manasseh by their families; for the children of Abiezer, and for the children of Helek, and for the children of Asriel, and for the children of Shechem, and for the children of Hepher, and for the children of Shemida: these were the male children of Manasseh the son of Joseph by their families.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **7:19** — And the sons of Shemida were, Ahian, and Shechem, and Likhi, and Aniam.
 

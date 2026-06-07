@@ -45,9 +45,9 @@ metav_id: 2974
 
 ## Verse References
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **15:33** — Five and twenty years old was he when he began to reign, and he reigned sixteen years in Jerusalem. And his mother's name was Jerusha, the daughter of Zadok.
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **27:1** — Jotham was twenty and five years old when he began to reign, and he reigned sixteen years in Jerusalem. His mother's name also was Jerushah, the daughter of Zadok.
 

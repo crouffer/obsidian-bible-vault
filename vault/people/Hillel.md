@@ -45,7 +45,7 @@ metav_id: 1530
 
 ## Verse References
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **12:13** — And after him Abdon the son of Hillel, a Pirathonite, judged Israel.
 - **12:15** — And Abdon the son of Hillel the Pirathonite died, and was buried in Pirathon in the land of Ephraim, in the mount of the Amalekites.
 

@@ -44,16 +44,16 @@ metav_id: 2344
 
 ## Verse References
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **10:3** — Philip, and Bartholomew; Thomas, and Matthew the publican; James the son of Alphaeus, and Lebbaeus, whose surname was Thaddaeus;
 
-### [[Mark]]
+### [[books/Mark|Mark]]
 - **3:18** — And Andrew, and Philip, and Bartholomew, and Matthew, and Thomas, and James the son of Alphaeus, and Thaddaeus, and Simon the Canaanite,
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **6:14** — Simon, (whom he also named Peter,) and Andrew his brother, James and John, Philip and Bartholomew,
 
-### [[John]]
+### [[books/John|John]]
 - **1:43** — The day following Jesus would go forth into Galilee, and findeth Philip, and saith unto him, Follow me.
 - **1:44** — Now Philip was of Bethsaida, the city of Andrew and Peter.
 - **1:45** — Philip findeth Nathanael, and saith unto him, We have found him, of whom Moses in the law, and the prophets, did write, Jesus of Nazareth, the son of Joseph.
@@ -66,6 +66,6 @@ metav_id: 2344
 - **14:8** — Philip saith unto him, Lord, shew us the Father, and it sufficeth us.
 - **14:9** — Jesus saith unto him, Have I been so long time with you, and yet hast thou not known me, Philip? he that hath seen me hath seen the Father; and how sayest thou then, Shew us the Father?
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **1:13** — And when they were come in, they went up into an upper room, where abode both Peter, and James, and John, and Andrew, Philip, and Thomas, Bartholomew, and Matthew, James the son of Alphaeus, and Simon Zelotes, and Judas the brother of James.
 

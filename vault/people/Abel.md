@@ -46,20 +46,20 @@ metav_id: 13
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **4:2** — And she again bare his brother Abel. And Abel was a keeper of sheep, but Cain was a tiller of the ground.
 - **4:4** — And Abel, he also brought of the firstlings of his flock and of the fat thereof. And the LORD had respect unto Abel and to his offering:
 - **4:8** — And Cain talked with Abel his brother: and it came to pass, when they were in the field, that Cain rose up against Abel his brother, and slew him.
 - **4:9** — And the LORD said unto Cain, Where is Abel thy brother? And he said, I know not: Am I my brother's keeper?
 - **4:25** — And Adam knew his wife again; and she bare a son, and called his name Seth: For God, said she, hath appointed me another seed instead of Abel, whom Cain slew.
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **23:35** — That upon you may come all the righteous blood shed upon the earth, from the blood of righteous Abel unto the blood of Zacharias son of Barachias, whom ye slew between the temple and the altar.
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **11:51** — From the blood of Abel unto the blood of Zacharias, which perished between the altar and the temple: verily I say unto you, It shall be required of this generation.
 
-### [[Hebrews]]
+### [[books/Hebrews|Hebrews]]
 - **11:4** — By faith Abel offered unto God a more excellent sacrifice than Cain, by which he obtained witness that he was righteous, God testifying of his gifts: and by it he being dead yet speaketh.
 - **12:24** — And to Jesus the mediator of the new covenant, and to the blood of sprinkling, that speaketh better things than that of Abel.
 

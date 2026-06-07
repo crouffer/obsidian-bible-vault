@@ -45,7 +45,7 @@ metav_id: 400
 
 ## Verse References
 
-### [[Job]]
+### [[books/Job|Job]]
 - **32:2** — Then was kindled the wrath of Elihu the son of Barachel the Buzite, of the kindred of Ram: against Job was his wrath kindled, because he justified himself rather than God.
 - **32:6** — And Elihu the son of Barachel the Buzite answered and said, I am young, and ye are very old; wherefore I was afraid, and durst not shew you mine opinion.
 

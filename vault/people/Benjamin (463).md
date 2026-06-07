@@ -17,8 +17,8 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Israel]]"
-mother: "[[Rachel]]"
+father: "[[Rachel]]"
+mother: "[[Israel]]"
 spouse: []
 children: 
   - "[[Ahiram]]"
@@ -57,7 +57,7 @@ metav_id: 463
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **35:18** — And it came to pass, as her soul was in departing, (for she died) that she called his name Benoni: but his father called him Benjamin.
 - **35:24** — The sons of Rachel; Joseph, and Benjamin:
 - **42:4** — But Benjamin, Joseph's brother, Jacob sent not with his brethren; for he said, Lest peradventure mischief befall him.
@@ -75,10 +75,10 @@ metav_id: 463
 - **46:21** — And the sons of Benjamin were Belah, and Becher, and Ashbel, Gera, and Naaman, Ehi, and Rosh, Muppim, and Huppim, and Ard.
 - **49:27** — Benjamin shall ravin as a wolf: in the morning he shall devour the prey, and at night he shall divide the spoil.
 
-### [[Exodus]]
+### [[books/Exodus|Exodus]]
 - **1:3** — Issachar, Zebulun, and Benjamin,
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **1:11** — Of Benjamin; Abidan the son of Gideoni.
 - **1:36** — Of the children of Benjamin, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;
 - **1:37** — Those that were numbered of them, even of the tribe of Benjamin, were thirty and five thousand and four hundred.
@@ -90,11 +90,11 @@ metav_id: 463
 - **26:41** — These are the sons of Benjamin after their families: and they that were numbered of them were forty and five thousand and six hundred.
 - **34:21** — Of the tribe of Benjamin, Elidad the son of Chislon.
 
-### [[Deuteronomy]]
+### [[books/Deuteronomy|Deuteronomy]]
 - **27:12** — These shall stand upon mount Gerizim to bless the people, when ye are come over Jordan; Simeon, and Levi, and Judah, and Issachar, and Joseph, and Benjamin:
 - **33:12** — And of Benjamin he said, The beloved of the LORD shall dwell in safety by him; and the LORD shall cover him all the day long, and he shall dwell between his shoulders.
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **18:11** — And the lot of the tribe of the children of Benjamin came up according to their families: and the coast of their lot came forth between the children of Judah and the children of Joseph.
 - **18:20** — And Jordan was the border of it on the east side. This was the inheritance of the children of Benjamin, by the coasts thereof round about, according to their families.
 - **18:21** — Now the cities of the tribe of the children of Benjamin according to their families were Jericho, and Bethhoglah, and the valley of Keziz,
@@ -102,7 +102,7 @@ metav_id: 463
 - **21:4** — And the lot came out for the families of the Kohathites: and the children of Aaron the priest, which were of the Levites, had by lot out of the tribe of Judah, and out of the tribe of Simeon, and out of the tribe of Benjamin, thirteen cities.
 - **21:17** — And out of the tribe of Benjamin, Gibeon with her suburbs, Geba with her suburbs,
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **1:21** — And the children of Benjamin did not drive out the Jebusites that inhabited Jerusalem; but the Jebusites dwell with the children of Benjamin in Jerusalem unto this day.
 - **5:14** — Out of Ephraim was there a root of them against Amalek; after thee, Benjamin, among thy people; out of Machir came down governors, and out of Zebulun they that handle the pen of the writer.
 - **10:9** — Moreover the children of Ammon passed over Jordan to fight also against Judah, and against Benjamin, and against the house of Ephraim; so that Israel was sore distressed.
@@ -144,7 +144,7 @@ metav_id: 463
 - **21:21** — And see, and, behold, if the daughters of Shiloh come out to dance in dances, then come ye out of the vineyards, and catch you every man his wife of the daughters of Shiloh, and go to the land of Benjamin.
 - **21:23** — And the children of Benjamin did so, and took them wives, according to their number, of them that danced, whom they caught: and they went and returned unto their inheritance, and repaired the cities, and dwelt in them.
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **4:12** — And there ran a man of Benjamin out of the army, and came to Shiloh the same day with his clothes rent, and with earth upon his head.
 - **9:1** — Now there was a man of Benjamin, whose name was Kish, the son of Abiel, the son of Zeror, the son of Bechorath, the son of Aphiah, a Benjamite, a mighty man of power.
 - **9:16** — To morrow about this time I will send thee a man out of the land of Benjamin, and thou shalt anoint him to be captain over my people Israel, that he may save my people out of the hand of the Philistines: for I have looked upon my people, because their cry is come unto me.
@@ -157,7 +157,7 @@ metav_id: 463
 - **13:16** — And Saul, and Jonathan his son, and the people that were present with them, abode in Gibeah of Benjamin: but the Philistines encamped in Michmash.
 - **14:16** — And the watchmen of Saul in Gibeah of Benjamin looked; and, behold, the multitude melted away, and they went on beating down one another.
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **2:9** — And made him king over Gilead, and over the Ashurites, and over Jezreel, and over Ephraim, and over Benjamin, and over all Israel.
 - **2:15** — Then there arose and went over by number twelve of Benjamin, which pertained to Ishbosheth the son of Saul, and twelve of the servants of David.
 - **2:25** — And the children of Benjamin gathered themselves together after Abner, and became one troop, and stood on the top of an hill.
@@ -168,13 +168,13 @@ metav_id: 463
 - **21:14** — And the bones of Saul and Jonathan his son buried they in the country of Benjamin in Zelah, in the sepulchre of Kish his father: and they performed all that the king commanded. And after that God was intreated for the land.
 - **23:29** — Heleb the son of Baanah, a Netophathite, Ittai the son of Ribai out of Gibeah of the children of Benjamin,
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **4:18** — Shimei the son of Elah, in Benjamin:
 - **12:21** — And when Rehoboam was come to Jerusalem, he assembled all the house of Judah, with the tribe of Benjamin, an hundred and fourscore thousand chosen men, which were warriors, to fight against the house of Israel, to bring the kingdom again to Rehoboam the son of Solomon.
 - **12:23** — Speak unto Rehoboam, the son of Solomon, king of Judah, and unto all the house of Judah and Benjamin, and to the remnant of the people, saying,
 - **15:22** — Then king Asa made a proclamation throughout all Judah; none was exempted: and they took away the stones of Ramah, and the timber thereof, wherewith Baasha had builded; and king Asa built with them Geba of Benjamin, and Mizpah.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **2:2** — Dan, Joseph, and Benjamin, Naphtali, Gad, and Asher.
 - **6:60** — And out of the tribe of Benjamin; Geba with her suburbs, and Alemeth with her suburbs, and Anathoth with her suburbs. All their cities throughout their families were thirteen cities.
 - **6:65** — And they gave by lot out of the tribe of the children of Judah, and out of the tribe of the children of Simeon, and out of the tribe of the children of Benjamin, these cities, which are called by their names.
@@ -190,7 +190,7 @@ metav_id: 463
 - **21:6** — But Levi and Benjamin counted he not among them: for the king's word was abominable to Joab.
 - **27:21** — Of the half tribe of Manasseh in Gilead, Iddo the son of Zechariah: of Benjamin, Jaasiel the son of Abner:
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **11:1** — And when Rehoboam was come to Jerusalem, he gathered of the house of Judah and Benjamin an hundred and fourscore thousand chosen men, which were warriors, to fight against Israel, that he might bring the kingdom again to Rehoboam.
 - **11:3** — Speak unto Rehoboam the son of Solomon, king of Judah, and to all Israel in Judah and Benjamin, saying,
 - **11:10** — And Zorah, and Aijalon, and Hebron, which are in Judah and in Benjamin fenced cities.
@@ -206,22 +206,22 @@ metav_id: 463
 - **34:9** — And when they came to Hilkiah the high priest, they delivered the money that was brought into the house of God, which the Levites that kept the doors had gathered of the hand of Manasseh and Ephraim, and of all the remnant of Israel, and of all Judah and Benjamin; and they returned to Jerusalem.
 - **34:32** — And he caused all that were present in Jerusalem and Benjamin to stand to it. And the inhabitants of Jerusalem did according to the covenant of God, the God of their fathers.
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **1:5** — Then rose up the chief of the fathers of Judah and Benjamin, and the priests, and the Levites, with all them whose spirit God had raised, to go up to build the house of the LORD which is in Jerusalem.
 - **4:1** — Now when the adversaries of Judah and Benjamin heard that the children of the captivity builded the temple unto the LORD God of Israel;
 - **10:9** — Then all the men of Judah and Benjamin gathered themselves together unto Jerusalem within three days. It was the ninth month, on the twentieth day of the month; and all the people sat in the street of the house of God, trembling because of this matter, and for the great rain.
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **11:4** — And at Jerusalem dwelt certain of the children of Judah, and of the children of Benjamin. Of the children of Judah; Athaiah the son of Uzziah, the son of Zechariah, the son of Amariah, the son of Shephatiah, the son of Mahalaleel, of the children of Perez;
 - **11:7** — And these are the sons of Benjamin; Sallu the son of Meshullam, the son of Joed, the son of Pedaiah, the son of Kolaiah, the son of Maaseiah, the son of Ithiel, the son of Jesaiah.
 - **11:31** — The children also of Benjamin from Geba dwelt at Michmash, and Aija, and Bethel, and in their villages,
 - **11:36** — And of the Levites were divisions in Judah, and in Benjamin.
 
-### [[Psalms]]
+### [[books/Psalms|Psalms]]
 - **68:27** — There is little Benjamin with their ruler, the princes of Judah and their council, the princes of Zebulun, and the princes of Naphtali.
 - **80:2** — Before Ephraim and Benjamin and Manasseh stir up thy strength, and come and save us.
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **1:1** — The words of Jeremiah the son of Hilkiah, of the priests that were in Anathoth in the land of Benjamin:
 - **6:1** — O ye children of Benjamin, gather yourselves to flee out of the midst of Jerusalem, and blow the trumpet in Tekoa, and set up a sign of fire in Bethhaccerem: for evil appeareth out of the north, and great destruction.
 - **17:26** — And they shall come from the cities of Judah, and from the places about Jerusalem, and from the land of Benjamin, and from the plain, and from the mountains, and from the south, bringing burnt offerings, and sacrifices, and meat offerings, and incense, and bringing sacrifices of praise, unto the house of the LORD.
@@ -233,30 +233,30 @@ metav_id: 463
 - **37:13** — And when he was in the gate of Benjamin, a captain of the ward was there, whose name was Irijah, the son of Shelemiah, the son of Hananiah; and he took Jeremiah the prophet, saying, Thou fallest away to the Chaldeans.
 - **38:7** — Now when Ebedmelech the Ethiopian, one of the eunuchs which was in the king's house, heard that they had put Jeremiah in the dungeon; the king then sitting in the gate of Benjamin;
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **48:22** — Moreover from the possession of the Levites, and from the possession of the city, being in the midst of that which is the prince's, between the border of Judah and the border of Benjamin, shall be for the prince.
 - **48:23** — As for the rest of the tribes, from the east side unto the west side, Benjamin shall have a portion.
 - **48:24** — And by the border of Benjamin, from the east side unto the west side, Simeon shall have a portion.
 - **48:32** — And at the east side four thousand and five hundred: and three gates; and one gate of Joseph, one gate of Benjamin, one gate of Dan.
 
-### [[Hosea]]
+### [[books/Hosea|Hosea]]
 - **5:8** — Blow ye the cornet in Gibeah, and the trumpet in Ramah: cry aloud at Bethaven, after thee, O Benjamin.
 
-### [[Obadiah]]
+### [[books/Obadiah|Obadiah]]
 - **1:19** — And they of the south shall possess the mount of Esau; and they of the plain the Philistines: and they shall possess the fields of Ephraim, and the fields of Samaria: and Benjamin shall possess Gilead.
 
-### [[Zechariah]]
+### [[books/Zechariah|Zechariah]]
 - **14:10** — All the land shall be turned as a plain from Geba to Rimmon south of Jerusalem: and it shall be lifted up, and inhabited in her place, from Benjamin's gate unto the place of the first gate, unto the corner gate, and from the tower of Hananeel unto the king's winepresses.
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **13:21** — And afterward they desired a king: and God gave unto them Saul the son of Cis, a man of the tribe of Benjamin, by the space of forty years.
 
-### [[Romans]]
+### [[books/Romans|Romans]]
 - **11:1** — I say then, Hath God cast away his people? God forbid. For I also am an Israelite, of the seed of Abraham, of the tribe of Benjamin.
 
-### [[Philippians]]
+### [[books/Philippians|Philippians]]
 - **3:5** — Circumcised the eighth day, of the stock of Israel, of the tribe of Benjamin, an Hebrew of the Hebrews; as touching the law, a Pharisee;
 
-### [[Revelation]]
+### [[books/Revelation|Revelation]]
 - **7:8** — Of the tribe of Zabulon were sealed twelve thousand. Of the tribe of Joseph were sealed twelve thousand. Of the tribe of Benjamin were sealed twelve thousand.
 

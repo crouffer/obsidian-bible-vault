@@ -45,6 +45,6 @@ metav_id: 1589
 
 ## Verse References
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **14:3** — And Ahiah, the son of Ahitub, Ichabod's brother, the son of Phinehas, the son of Eli, the LORD'S priest in Shiloh, wearing an ephod. And the people knew not that Jonathan was gone.
 

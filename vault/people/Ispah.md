@@ -52,6 +52,6 @@ metav_id: 644
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **8:16** — And Michael, and Ispah, and Joha, the sons of Beriah;
 

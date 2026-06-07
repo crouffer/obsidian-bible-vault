@@ -45,6 +45,6 @@ metav_id: 1901
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:40** — The son of Michael, the son of Baaseiah, the son of Malchiah,
 

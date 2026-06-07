@@ -26,7 +26,7 @@ metav_id: 50
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **33:46** — And they removed from Dibongad, and encamped in Almondiblathaim.
 - **33:47** — And they removed from Almondiblathaim, and pitched in the mountains of Abarim, before Nebo.
 

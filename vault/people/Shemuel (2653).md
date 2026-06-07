@@ -44,6 +44,6 @@ metav_id: 2653
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **34:20** — And of the tribe of the children of Simeon, Shemuel the son of Ammihud.
 

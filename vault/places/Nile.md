@@ -26,14 +26,14 @@ metav_id: 895
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **41:1** — And it came to pass at the end of two full years, that Pharaoh dreamed: and, behold, he stood by the river.
 - **41:2** — And, behold, there came up out of the river seven well favoured kine and fatfleshed; and they fed in a meadow.
 - **41:3** — And, behold, seven other kine came up after them out of the river, ill favoured and leanfleshed; and stood by the other kine upon the brink of the river.
 - **41:17** — And Pharaoh said unto Joseph, In my dream, behold, I stood upon the bank of the river:
 - **41:18** — And, behold, there came up out of the river seven kine, fatfleshed and well favoured; and they fed in a meadow:
 
-### [[Exodus]]
+### [[books/Exodus|Exodus]]
 - **1:22** — And Pharaoh charged all his people, saying, Every son that is born ye shall cast into the river, and every daughter ye shall save alive.
 - **4:9** — And it shall come to pass, if they will not believe also these two signs, neither hearken unto thy voice, that thou shalt take of the water of the river, and pour it upon the dry land: and the water which thou takest out of the river shall become blood upon the dry land.
 - **7:15** — Get thee unto Pharaoh in the morning; lo, he goeth out unto the water; and thou shalt stand by the river's brink against he come; and the rod which was turned to a serpent shalt thou take in thine hand.
@@ -48,27 +48,27 @@ metav_id: 895
 - **8:11** — And the frogs shall depart from thee, and from thy houses, and from thy servants, and from thy people; they shall remain in the river only.
 - **17:5** — And the LORD said unto Moses, Go on before the people, and take with thee of the elders of Israel; and thy rod, wherewith thou smotest the river, take in thine hand, and go.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **13:5** — So David gathered all Israel together, from Shihor of Egypt even unto the entering of Hemath, to bring the ark of God from Kirjathjearim.
 
-### [[Isaiah]]
+### [[books/Isaiah|Isaiah]]
 - **19:7** — The paper reeds by the brooks, by the mouth of the brooks, and every thing sown by the brooks, shall wither, be driven away, and be no more.
 - **23:3** — And by great waters the seed of Sihor, the harvest of the river, is her revenue; and she is a mart of nations.
 - **23:10** — Pass through thy land as a river, O daughter of Tarshish: there is no more strength.
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **2:18** — And now what hast thou to do in the way of Egypt, to drink the waters of Sihor? or what hast thou to do in the way of Assyria, to drink the waters of the river?
 - **46:7** — Who is this that cometh up as a flood, whose waters are moved as the rivers?
 - **46:8** — Egypt riseth up like a flood, and his waters are moved like the rivers; and he saith, I will go up, and will cover the earth; I will destroy the city and the inhabitants thereof.
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **29:3** — Speak, and say, Thus saith the Lord GOD; Behold, I am against thee, Pharaoh king of Egypt, the great dragon that lieth in the midst of his rivers, which hath said, My river is mine own, and I have made it for myself.
 - **29:9** — And the land of Egypt shall be desolate and waste; and they shall know that I am the LORD: because he hath said, The river is mine, and I have made it.
 - **30:12** — And I will make the rivers dry, and sell the land into the hand of the wicked: and I will make the land waste, and all that is therein, by the hand of strangers: I the LORD have spoken it.
 
-### [[Nahum]]
+### [[books/Nahum|Nahum]]
 - **3:8** — Art thou better than populous No, that was situate among the rivers, that had the waters round about it, whose rampart was the sea, and her wall was from the sea?
 
-### [[Zechariah]]
+### [[books/Zechariah|Zechariah]]
 - **10:11** — And he shall pass through the sea with affliction, and shall smite the waves in the sea, and all the deeps of the river shall dry up: and the pride of Assyria shall be brought down, and the sceptre of Egypt shall depart away.
 

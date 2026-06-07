@@ -45,9 +45,9 @@ metav_id: 373
 
 ## Verse References
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **4:2** — And these were the princes which he had; Azariah the son of Zadok the priest,
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:9** — And Ahimaaz begat Azariah, and Azariah begat Johanan,
 

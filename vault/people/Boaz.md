@@ -17,8 +17,8 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Rachab]]"
-mother: "[[Salmon]]"
+father: "[[Salmon]]"
+mother: "[[Rachab]]"
 spouse: 
   - "[[Ruth]]"
 children: 
@@ -46,7 +46,7 @@ metav_id: 519
 
 ## Verse References
 
-### [[Ruth]]
+### [[books/Ruth|Ruth]]
 - **2:1** — And Naomi had a kinsman of her husband's, a mighty man of wealth, of the family of Elimelech; and his name was Boaz.
 - **2:3** — And she went, and came, and gleaned in the field after the reapers: and her hap was to light on a part of the field belonging unto Boaz, who was of the kindred of Elimelech.
 - **2:4** — And, behold, Boaz came from Bethlehem, and said unto the reapers, The LORD be with you. And they answered him, The LORD bless thee.
@@ -66,19 +66,19 @@ metav_id: 519
 - **4:13** — So Boaz took Ruth, and she was his wife: and when he went in unto her, the LORD gave her conception, and she bare a son.
 - **4:21** — And Salmon begat Boaz, and Boaz begat Obed,
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **7:21** — And he set up the pillars in the porch of the temple: and he set up the right pillar, and called the name thereof Jachin: and he set up the left pillar, and called the name thereof Boaz.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **2:11** — And Nahshon begat Salma, and Salma begat Boaz,
 - **2:12** — And Boaz begat Obed, and Obed begat Jesse,
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **3:17** — And he reared up the pillars before the temple, one on the right hand, and the other on the left; and called the name of that on the right hand Jachin, and the name of that on the left Boaz.
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **1:5** — And Salmon begat Booz of Rachab; and Booz begat Obed of Ruth; and Obed begat Jesse;
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **3:32** — Which was the son of Jesse, which was the son of Obed, which was the son of Booz, which was the son of Salmon, which was the son of Naasson,
 

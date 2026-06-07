@@ -44,9 +44,9 @@ metav_id: 488
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **2:17** — The children of Bezai, three hundred twenty and three.
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **7:23** — The children of Bezai, three hundred twenty and four.
 

@@ -52,6 +52,6 @@ metav_id: 713
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **8:19** — And Jakim, and Zichri, and Zabdi,
 

@@ -52,6 +52,6 @@ metav_id: 1426
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **3:20** — And Hashubah, and Ohel, and Berechiah, and Hasadiah, Jushabhesed, five.
 

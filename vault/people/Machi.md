@@ -45,6 +45,6 @@ metav_id: 1876
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **13:15** — Of the tribe of Gad, Geuel the son of Machi.
 

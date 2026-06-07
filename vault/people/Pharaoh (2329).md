@@ -44,7 +44,7 @@ metav_id: 2329
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **39:1** — And Joseph was brought down to Egypt; and Potiphar, an officer of Pharaoh, captain of the guard, an Egyptian, bought him of the hands of the Ishmeelites, which had brought him down thither.
 - **40:2** — And Pharaoh was wroth against two of his officers, against the chief of the butlers, and against the chief of the bakers.
 - **40:13** — Yet within three days shall Pharaoh lift up thine head, and restore thee unto thy place: and thou shalt deliver Pharaoh's cup into his hand, after the former manner when thou wast his butler.
@@ -107,7 +107,7 @@ metav_id: 2329
 - **50:6** — And Pharaoh said, Go up, and bury thy father, according as he made thee swear.
 - **50:7** — And Joseph went up to bury his father: and with him went up all the servants of Pharaoh, the elders of his house, and all the elders of the land of Egypt,
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **7:10** — And delivered him out of all his afflictions, and gave him favour and wisdom in the sight of Pharaoh king of Egypt; and he made him governor over Egypt and all his house.
 - **7:13** — And at the second time Joseph was made known to his brethren; and Joseph's kindred was made known unto Pharaoh.
 

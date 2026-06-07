@@ -26,6 +26,6 @@ metav_id: 947
 
 ## Verse References
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **30:17** — The young men of Aven and of Pibeseth shall fall by the sword: and these cities shall go into captivity.
 

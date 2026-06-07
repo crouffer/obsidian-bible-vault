@@ -44,9 +44,9 @@ metav_id: 2865
 
 ## Verse References
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **19:9** — And when he heard say of Tirhakah king of Ethiopia, Behold, he is come out to fight against thee: he sent messengers again unto Hezekiah, saying,
 
-### [[Isaiah]]
+### [[books/Isaiah|Isaiah]]
 - **37:9** — And he heard say concerning Tirhakah king of Ethiopia, He is come forth to make war with thee. And when he heard it, he sent messengers to Hezekiah, saying,
 

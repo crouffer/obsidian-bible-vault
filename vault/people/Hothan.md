@@ -46,6 +46,6 @@ metav_id: 1563
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **11:44** — Uzzia the Ashterathite, Shama and Jehiel the sons of Hothan the Aroerite,
 

@@ -44,9 +44,9 @@ metav_id: 2251
 
 ## Verse References
 
-### [[Colossians]]
+### [[books/Colossians|Colossians]]
 - **4:9** — With Onesimus, a faithful and beloved brother, who is one of you. They shall make known unto you all things which are done here.
 
-### [[Philemon]]
+### [[books/Philemon|Philemon]]
 - **1:10** — I beseech thee for my son Onesimus, whom I have begotten in my bonds:
 

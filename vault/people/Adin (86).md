@@ -44,10 +44,10 @@ metav_id: 86
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **2:15** — The children of Adin, four hundred fifty and four.
 - **8:6** — Of the sons also of Adin; Ebed the son of Jonathan, and with him fifty males.
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **7:20** — The children of Adin, six hundred fifty and five.
 

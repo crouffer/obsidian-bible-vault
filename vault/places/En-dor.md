@@ -26,12 +26,12 @@ metav_id: 385
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **17:11** — And Manasseh had in Issachar and in Asher Bethshean and her towns, and Ibleam and her towns, and the inhabitants of Dor and her towns, and the inhabitants of Endor and her towns, and the inhabitants of Taanach and her towns, and the inhabitants of Megiddo and her towns, even three countries.
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **28:7** — Then said Saul unto his servants, Seek me a woman that hath a familiar spirit, that I may go to her, and enquire of her. And his servants said to him, Behold, there is a woman that hath a familiar spirit at Endor.
 
-### [[Psalms]]
+### [[books/Psalms|Psalms]]
 - **83:10** — Which perished at Endor: they became as dung for the earth.
 

@@ -44,7 +44,7 @@ metav_id: 2752
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **8:9** — But there was a certain man, called Simon, which beforetime in the same city used sorcery, and bewitched the people of Samaria, giving out that himself was some great one:
 - **8:18** — And when Simon saw that through laying on of the apostles' hands the Holy Ghost was given, he offered them money,
 - **8:24** — Then answered Simon, and said, Pray ye to the Lord for me, that none of these things which ye have spoken come upon me.

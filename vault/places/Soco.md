@@ -26,6 +26,6 @@ metav_id: 1104
 
 ## Verse References
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **11:7** — And Bethzur, and Shoco, and Adullam,
 

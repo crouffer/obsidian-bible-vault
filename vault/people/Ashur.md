@@ -17,8 +17,8 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Hezron (1520)]]"
-mother: "[[Abiah (16)]]"
+father: "[[Abiah (16)]]"
+mother: "[[Hezron (1520)]]"
 spouse: 
   - "[[Helah]]"
   - "[[Naarah]]"
@@ -57,7 +57,7 @@ metav_id: 342
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **2:24** — And after that Hezron was dead in Calebephratah, then Abiah Hezron's wife bare him Ashur the father of Tekoa.
 - **4:5** — And Ashur the father of Tekoa had two wives, Helah and Naarah.
 

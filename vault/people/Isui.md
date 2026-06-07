@@ -48,12 +48,12 @@ metav_id: 648
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **46:17** — And the sons of Asher; Jimnah, and Ishuah, and Isui, and Beriah, and Serah their sister: and the sons of Beriah; Heber, and Malchiel.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **26:44** — Of the children of Asher after their families: of Jimna, the family of the Jimnites: of Jesui, the family of the Jesuites: of Beriah, the family of the Beriites.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **7:30** — The sons of Asher; Imnah, and Isuah, and Ishuai, and Beriah, and Serah their sister.
 

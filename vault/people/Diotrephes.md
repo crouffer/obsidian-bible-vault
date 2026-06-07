@@ -44,6 +44,6 @@ metav_id: 1014
 
 ## Verse References
 
-### [[3 John]]
+### [[books/3 John|3 John]]
 - **1:9** — I wrote unto the church: but Diotrephes, who loveth to have the preeminence among them, receiveth us not.
 

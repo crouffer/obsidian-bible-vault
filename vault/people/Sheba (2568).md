@@ -56,9 +56,9 @@ metav_id: 2568
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **10:28** — And Obal, and Abimael, and Sheba,
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:22** — And Ebal, and Abimael, and Sheba,
 

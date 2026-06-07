@@ -45,6 +45,6 @@ metav_id: 1810
 
 ## Verse References
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **4:4** — And Deborah, a prophetess, the wife of Lapidoth, she judged Israel at that time.
 

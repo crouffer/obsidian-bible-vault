@@ -26,13 +26,13 @@ metav_id: 539
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **15:28** — And Hazarshual, and Beersheba, and Bizjothjah,
 - **19:3** — And Hazarshual, and Balah, and Azem,
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **4:28** — And they dwelt at Beersheba, and Moladah, and Hazarshual,
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **11:27** — And at Hazarshual, and at Beersheba, and in the villages thereof,
 

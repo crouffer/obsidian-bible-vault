@@ -44,9 +44,9 @@ metav_id: 1415
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **2:51** — The children of Bakbuk, the children of Hakupha, the children of Harhur,
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **7:53** — The children of Bakbuk, the children of Hakupha, the children of Harhur,
 

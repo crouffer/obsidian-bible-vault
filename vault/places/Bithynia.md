@@ -26,9 +26,9 @@ metav_id: 250
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **16:7** — After they were come to Mysia, they assayed to go into Bithynia: but the Spirit suffered them not.
 
-### [[1 Peter]]
+### [[books/1 Peter|1 Peter]]
 - **1:1** — Peter, an apostle of Jesus Christ, to the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia,
 

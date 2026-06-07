@@ -46,13 +46,13 @@ metav_id: 50
 
 ## Verse References
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **26:6** — Then answered David and said to Ahimelech the Hittite, and to Abishai the son of Zeruiah, brother to Joab, saying, Who will go down with me to Saul to the camp? And Abishai said, I will go down with thee.
 - **26:7** — So David and Abishai came to the people by night: and, behold, Saul lay sleeping within the trench, and his spear stuck in the ground at his bolster: but Abner and the people lay round about him.
 - **26:8** — Then said Abishai to David, God hath delivered thine enemy into thine hand this day: now therefore let me smite him, I pray thee, with the spear even to the earth at once, and I will not smite him the second time.
 - **26:9** — And David said to Abishai, Destroy him not: for who can stretch forth his hand against the LORD'S anointed, and be guiltless?
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **2:18** — And there were three sons of Zeruiah there, Joab, and Abishai, and Asahel: and Asahel was as light of foot as a wild roe.
 - **2:24** — Joab also and Abishai pursued after Abner: and the sun went down when they were come to the hill of Ammah, that lieth before Giah by the way of the wilderness of Gibeon.
 - **3:30** — So Joab and Abishai his brother slew Abner, because he had slain their brother Asahel at Gibeon in the battle.
@@ -69,7 +69,7 @@ metav_id: 50
 - **21:17** — But Abishai the son of Zeruiah succoured him, and smote the Philistine, and killed him. Then the men of David sware unto him, saying, Thou shalt go no more out with us to battle, that thou quench not the light of Israel.
 - **23:18** — And Abishai, the brother of Joab, the son of Zeruiah, was chief among three. And he lifted up his spear against three hundred, and slew them, and had the name among three.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **2:16** — Whose sisters were Zeruiah, and Abigail. And the sons of Zeruiah; Abishai, and Joab, and Asahel, three.
 - **11:20** — And Abishai the brother of Joab, he was chief of the three: for lifting up his spear against three hundred, he slew them, and had a name among the three.
 - **18:12** — Moreover Abishai the son of Zeruiah slew of the Edomites in the valley of salt eighteen thousand.

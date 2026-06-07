@@ -44,6 +44,6 @@ metav_id: 2491
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **24:8** — The third to Harim, the fourth to Seorim,
 

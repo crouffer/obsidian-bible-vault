@@ -26,6 +26,6 @@ metav_id: 257
 
 ## Verse References
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **48:24** — And upon Kerioth, and upon Bozrah, and upon all the cities of the land of Moab, far or near.
 

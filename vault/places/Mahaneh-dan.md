@@ -26,7 +26,7 @@ metav_id: 757
 
 ## Verse References
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **13:25** — And the Spirit of the LORD began to move him at times in the camp of Dan between Zorah and Eshtaol.
 - **18:12** — And they went up, and pitched in Kirjathjearim, in Judah: wherefore they called that place Mahanehdan unto this day: behold, it is behind Kirjathjearim.
 

@@ -44,6 +44,6 @@ metav_id: 2555
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **5:12** — Joel the chief, and Shapham the next, and Jaanai, and Shaphat in Bashan.
 

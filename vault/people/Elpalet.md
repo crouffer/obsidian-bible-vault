@@ -64,7 +64,7 @@ metav_id: 1148
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **3:6** — Ibhar also, and Elishama, and Eliphelet,
 - **14:5** — And Ibhar, and Elishua, and Elpalet,
 

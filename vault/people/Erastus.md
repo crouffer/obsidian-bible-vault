@@ -44,12 +44,12 @@ metav_id: 1213
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **19:22** — So he sent into Macedonia two of them that ministered unto him, Timotheus and Erastus; but he himself stayed in Asia for a season.
 
-### [[Romans]]
+### [[books/Romans|Romans]]
 - **16:23** — Gaius mine host, and of the whole church, saluteth you. Erastus the chamberlain of the city saluteth you, and Quartus a brother.
 
-### [[2 Timothy]]
+### [[books/2 Timothy|2 Timothy]]
 - **4:20** — Erastus abode at Corinth: but Trophimus have I left at Miletum sick.
 

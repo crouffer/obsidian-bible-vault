@@ -26,6 +26,6 @@ metav_id: 795
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **15:61** — In the wilderness, Betharabah, Middin, and Secacah,
 

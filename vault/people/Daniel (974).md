@@ -44,9 +44,9 @@ metav_id: 974
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **8:2** — Of the sons of Phinehas; Gershom: of the sons of Ithamar; Daniel: of the sons of David; Hattush.
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **10:6** — Daniel, Ginnethon, Baruch,
 

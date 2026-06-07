@@ -45,7 +45,7 @@ metav_id: 3084
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:20** — Of Gershom; Libni his son, Jahath his son, Zimmah his son,
 - **6:42** — The son of Ethan, the son of Zimmah, the son of Shimei,
 

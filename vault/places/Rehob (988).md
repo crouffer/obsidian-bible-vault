@@ -26,6 +26,6 @@ metav_id: 988
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **19:28** — And Hebron, and Rehob, and Hammon, and Kanah, even unto great Zidon;
 

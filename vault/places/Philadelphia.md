@@ -26,7 +26,7 @@ metav_id: 941
 
 ## Verse References
 
-### [[Revelation]]
+### [[books/Revelation|Revelation]]
 - **1:11** — Saying, I am Alpha and Omega, the first and the last: and, What thou seest, write in a book, and send it unto the seven churches which are in Asia; unto Ephesus, and unto Smyrna, and unto Pergamos, and unto Thyatira, and unto Sardis, and unto Philadelphia, and unto Laodicea.
 - **3:7** — And to the angel of the church in Philadelphia write; These things saith he that is holy, he that is true, he that hath the key of David, he that openeth, and no man shutteth; and shutteth, and no man openeth;
 

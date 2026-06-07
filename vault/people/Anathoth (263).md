@@ -44,6 +44,6 @@ metav_id: 263
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **10:19** — Hariph, Anathoth, Nebai,
 

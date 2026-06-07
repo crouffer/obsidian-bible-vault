@@ -26,6 +26,6 @@ metav_id: 930
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **32:30** — And Jacob called the name of the place Peniel: for I have seen God face to face, and my life is preserved.
 

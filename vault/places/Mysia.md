@@ -26,7 +26,7 @@ metav_id: 865
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **16:7** — After they were come to Mysia, they assayed to go into Bithynia: but the Spirit suffered them not.
 - **16:8** — And they passing by Mysia came down to Troas.
 

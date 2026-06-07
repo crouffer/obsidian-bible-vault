@@ -44,6 +44,6 @@ metav_id: 220
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **13:12** — Of the tribe of Dan, Ammiel the son of Gemalli.
 

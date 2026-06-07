@@ -44,7 +44,7 @@ metav_id: 1763
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **27:1** — And when it was determined that we should sail into Italy, they delivered Paul and certain other prisoners unto one named Julius, a centurion of Augustus' band.
 - **27:3** — And the next day we touched at Sidon. And Julius courteously entreated Paul, and gave him liberty to go unto his friends to refresh himself.
 

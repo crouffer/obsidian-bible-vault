@@ -46,7 +46,7 @@ metav_id: 2450
 
 ## Verse References
 
-### [[Ruth]]
+### [[books/Ruth|Ruth]]
 - **1:4** — And they took them wives of the women of Moab; the name of the one was Orpah, and the name of the other Ruth: and they dwelled there about ten years.
 - **1:14** — And they lifted up their voice, and wept again: and Orpah kissed her mother in law; but Ruth clave unto her.
 - **1:16** — And Ruth said, Intreat me not to leave thee, or to return from following after thee: for whither thou goest, I will go; and where thou lodgest, I will lodge: thy people shall be my people, and thy God my God:
@@ -60,6 +60,6 @@ metav_id: 2450
 - **4:10** — Moreover Ruth the Moabitess, the wife of Mahlon, have I purchased to be my wife, to raise up the name of the dead upon his inheritance, that the name of the dead be not cut off from among his brethren, and from the gate of his place: ye are witnesses this day.
 - **4:13** — So Boaz took Ruth, and she was his wife: and when he went in unto her, the LORD gave her conception, and she bare a son.
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **1:5** — And Salmon begat Booz of Rachab; and Booz begat Obed of Ruth; and Obed begat Jesse;
 

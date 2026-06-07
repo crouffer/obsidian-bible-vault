@@ -26,6 +26,6 @@ metav_id: 1060
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **15:48** — And in the mountains, Shamir, and Jattir, and Socoh,
 

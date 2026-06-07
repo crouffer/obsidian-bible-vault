@@ -44,7 +44,7 @@ metav_id: 1293
 
 ## Verse References
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **4:12** — And he said to Gehazi his servant, Call this Shunammite. And when he had called her, she stood before him.
 - **4:14** — And he said, What then is to be done for her? And Gehazi answered, Verily she hath no child, and her husband is old.
 - **4:25** — So she went and came unto the man of God to mount Carmel. And it came to pass, when the man of God saw her afar off, that he said to Gehazi his servant, Behold, yonder is that Shunammite:

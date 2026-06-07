@@ -46,17 +46,17 @@ metav_id: 2308
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **10:25** — And unto Eber were born two sons: the name of one was Peleg; for in his days was the earth divided; and his brother's name was Joktan.
 - **11:16** — And Eber lived four and thirty years, and begat Peleg:
 - **11:17** — And Eber lived after he begat Peleg four hundred and thirty years, and begat sons and daughters.
 - **11:18** — And Peleg lived thirty years, and begat Reu:
 - **11:19** — And Peleg lived after he begat Reu two hundred and nine years, and begat sons and daughters.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:19** — And unto Eber were born two sons: the name of the one was Peleg; because in his days the earth was divided: and his brother's name was Joktan.
 - **1:25** — Eber, Peleg, Reu,
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **3:35** — Which was the son of Saruch, which was the son of Ragau, which was the son of Phalec, which was the son of Heber, which was the son of Sala,
 

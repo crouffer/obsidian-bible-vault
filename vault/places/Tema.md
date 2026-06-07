@@ -26,12 +26,12 @@ metav_id: 1149
 
 ## Verse References
 
-### [[Job]]
+### [[books/Job|Job]]
 - **6:19** — The troops of Tema looked, the companies of Sheba waited for them.
 
-### [[Isaiah]]
+### [[books/Isaiah|Isaiah]]
 - **21:14** — The inhabitants of the land of Tema brought water to him that was thirsty, they prevented with their bread him that fled.
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **25:23** — Dedan, and Tema, and Buz, and all that are in the utmost corners,
 

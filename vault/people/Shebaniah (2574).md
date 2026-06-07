@@ -44,7 +44,7 @@ metav_id: 2574
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **10:4** — Hattush, Shebaniah, Malluch,
 - **12:3** — Shechaniah, Rehum, Meremoth,
 - **12:14** — Of Melicu, Jonathan; of Shebaniah, Joseph;

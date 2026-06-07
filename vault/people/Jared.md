@@ -45,16 +45,16 @@ metav_id: 730
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **5:15** — And Mahalaleel lived sixty and five years, and begat Jared:
 - **5:16** — And Mahalaleel lived after he begat Jared eight hundred and thirty years, and begat sons and daughters:
 - **5:18** — And Jared lived an hundred sixty and two years, and he begat Enoch:
 - **5:19** — And Jared lived after he begat Enoch eight hundred years, and begat sons and daughters:
 - **5:20** — And all the days of Jared were nine hundred sixty and two years: and he died.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:2** — Kenan, Mahalaleel, Jered,
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **3:37** — Which was the son of Mathusala, which was the son of Enoch, which was the son of Jared, which was the son of Maleleel, which was the son of Cainan,
 

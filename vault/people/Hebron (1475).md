@@ -51,13 +51,13 @@ metav_id: 1475
 
 ## Verse References
 
-### [[Exodus]]
+### [[books/Exodus|Exodus]]
 - **6:18** — And the sons of Kohath; Amram, and Izhar, and Hebron, and Uzziel: and the years of the life of Kohath were an hundred thirty and three years.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **3:19** — And the sons of Kohath by their families; Amram, and Izehar, Hebron, and Uzziel.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:2** — And the sons of Kohath; Amram, Izhar, and Hebron, and Uzziel.
 - **6:18** — And the sons of Kohath were, Amram, and Izhar, and Hebron, and Uzziel.
 - **15:9** — Of the sons of Hebron; Eliel the chief, and his brethren fourscore:

@@ -26,6 +26,6 @@ metav_id: 199
 
 ## Verse References
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **48:22** — And upon Dibon, and upon Nebo, and upon Bethdiblathaim,
 

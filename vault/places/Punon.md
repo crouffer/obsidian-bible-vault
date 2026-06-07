@@ -26,7 +26,7 @@ metav_id: 961
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **33:42** — And they departed from Zalmonah, and pitched in Punon.
 - **33:43** — And they departed from Punon, and pitched in Oboth.
 

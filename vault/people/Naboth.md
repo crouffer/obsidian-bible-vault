@@ -44,7 +44,7 @@ metav_id: 2127
 
 ## Verse References
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **21:1** — And it came to pass after these things, that Naboth the Jezreelite had a vineyard, which was in Jezreel, hard by the palace of Ahab king of Samaria.
 - **21:2** — And Ahab spake unto Naboth, saying, Give me thy vineyard, that I may have it for a garden of herbs, because it is near unto my house: and I will give thee for it a better vineyard than it; or, if it seem good to thee, I will give thee the worth of it in money.
 - **21:3** — And Naboth said to Ahab, The LORD forbid it me, that I should give the inheritance of my fathers unto thee.
@@ -61,7 +61,7 @@ metav_id: 2127
 - **21:18** — Arise, go down to meet Ahab king of Israel, which is in Samaria: behold, he is in the vineyard of Naboth, whither he is gone down to possess it.
 - **21:19** — And thou shalt speak unto him, saying, Thus saith the LORD, Hast thou killed, and also taken possession? And thou shalt speak unto him, saying, Thus saith the LORD, In the place where dogs licked the blood of Naboth shall dogs lick thy blood, even thine.
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **9:21** — And Joram said, Make ready. And his chariot was made ready. And Joram king of Israel and Ahaziah king of Judah went out, each in his chariot, and they went out against Jehu, and met him in the portion of Naboth the Jezreelite.
 - **9:25** — Then said Jehu to Bidkar his captain, Take up, and cast him in the portion of the field of Naboth the Jezreelite: for remember how that, when I and thou rode together after Ahab his father, the LORD laid this burden upon him;
 - **9:26** — Surely I have seen yesterday the blood of Naboth, and the blood of his sons, saith the LORD; and I will requite thee in this plat, saith the LORD. Now therefore take and cast him into the plat of ground, according to the word of the LORD.

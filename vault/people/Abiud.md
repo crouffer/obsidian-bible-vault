@@ -53,6 +53,6 @@ metav_id: 56
 
 ## Verse References
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **1:13** — And Zorobabel begat Abiud; and Abiud begat Eliakim; and Eliakim begat Azor;
 

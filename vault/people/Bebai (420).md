@@ -44,10 +44,10 @@ metav_id: 420
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **2:11** — The children of Bebai, six hundred twenty and three.
 - **10:28** — Of the sons also of Bebai; Jehohanan, Hananiah, Zabbai, and Athlai.
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **7:16** — The children of Bebai, six hundred twenty and eight.
 

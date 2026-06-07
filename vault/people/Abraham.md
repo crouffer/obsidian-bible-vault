@@ -57,7 +57,7 @@ metav_id: 58
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **11:26** — And Terah lived seventy years, and begat Abram, Nahor, and Haran.
 - **11:27** — Now these are the generations of Terah: Terah begat Abram, Nahor, and Haran; and Haran begat Lot.
 - **11:29** — And Abram and Nahor took them wives: the name of Abram's wife was Sarai; and the name of Nahor's wife, Milcah, the daughter of Haran, the father of Milcah, and the father of Iscah.
@@ -224,7 +224,7 @@ metav_id: 58
 - **50:13** — For his sons carried him into the land of Canaan, and buried him in the cave of the field of Machpelah, which Abraham bought with the field for a possession of a buryingplace of Ephron the Hittite, before Mamre.
 - **50:24** — And Joseph said unto his brethren, I die: and God will surely visit you, and bring you out of this land unto the land which he sware to Abraham, to Isaac, and to Jacob.
 
-### [[Exodus]]
+### [[books/Exodus|Exodus]]
 - **2:24** — And God heard their groaning, and God remembered his covenant with Abraham, with Isaac, and with Jacob.
 - **3:6** — Moreover he said, I am the God of thy father, the God of Abraham, the God of Isaac, and the God of Jacob. And Moses hid his face; for he was afraid to look upon God.
 - **3:15** — And God said moreover unto Moses, Thus shalt thou say unto the children of Israel, The LORD God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, hath sent me unto you: this is my name for ever, and this is my memorial unto all generations.
@@ -235,13 +235,13 @@ metav_id: 58
 - **32:13** — Remember Abraham, Isaac, and Israel, thy servants, to whom thou swarest by thine own self, and saidst unto them, I will multiply your seed as the stars of heaven, and all this land that I have spoken of will I give unto your seed, and they shall inherit it for ever.
 - **33:1** — And the LORD said unto Moses, Depart, and go up hence, thou and the people which thou hast brought up out of the land of Egypt, unto the land which I sware unto Abraham, to Isaac, and to Jacob, saying, Unto thy seed will I give it:
 
-### [[Leviticus]]
+### [[books/Leviticus|Leviticus]]
 - **26:42** — Then will I remember my covenant with Jacob, and also my covenant with Isaac, and also my covenant with Abraham will I remember; and I will remember the land.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **32:11** — Surely none of the men that came up out of Egypt, from twenty years old and upward, shall see the land which I sware unto Abraham, unto Isaac, and unto Jacob; because they have not wholly followed me:
 
-### [[Deuteronomy]]
+### [[books/Deuteronomy|Deuteronomy]]
 - **1:8** — Behold, I have set the land before you: go in and possess the land which the LORD sware unto your fathers, Abraham, Isaac, and Jacob, to give unto them and to their seed after them.
 - **6:10** — And it shall be, when the LORD thy God shall have brought thee into the land which he sware unto thy fathers, to Abraham, to Isaac, and to Jacob, to give thee great and goodly cities, which thou buildedst not,
 - **9:5** — Not for thy righteousness, or for the uprightness of thine heart, dost thou go to possess their land: but for the wickedness of these nations the LORD thy God doth drive them out from before thee, and that he may perform the word which the LORD sware unto thy fathers, Abraham, Isaac, and Jacob.
@@ -250,17 +250,17 @@ metav_id: 58
 - **30:20** — That thou mayest love the LORD thy God, and that thou mayest obey his voice, and that thou mayest cleave unto him: for he is thy life, and the length of thy days: that thou mayest dwell in the land which the LORD sware unto thy fathers, to Abraham, to Isaac, and to Jacob, to give them.
 - **34:4** — And the LORD said unto him, This is the land which I sware unto Abraham, unto Isaac, and unto Jacob, saying, I will give it unto thy seed: I have caused thee to see it with thine eyes, but thou shalt not go over thither.
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **24:2** — And Joshua said unto all the people, Thus saith the LORD God of Israel, Your fathers dwelt on the other side of the flood in old time, even Terah, the father of Abraham, and the father of Nachor: and they served other gods.
 - **24:3** — And I took your father Abraham from the other side of the flood, and led him throughout all the land of Canaan, and multiplied his seed, and gave him Isaac.
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **18:36** — And it came to pass at the time of the offering of the evening sacrifice, that Elijah the prophet came near, and said, LORD God of Abraham, Isaac, and of Israel, let it be known this day that thou art God in Israel, and that I am thy servant, and that I have done all these things at thy word.
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **13:23** — And the LORD was gracious unto them, and had compassion on them, and had respect unto them, because of his covenant with Abraham, Isaac, and Jacob, and would not destroy them, neither cast he them from his presence as yet.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:27** — Abram; the same is Abraham.
 - **1:28** — The sons of Abraham; Isaac, and Ishmael.
 - **1:32** — Now the sons of Keturah, Abraham's concubine: she bare Zimran, and Jokshan, and Medan, and Midian, and Ishbak, and Shuah. And the sons of Jokshan; Sheba, and Dedan.
@@ -268,35 +268,35 @@ metav_id: 58
 - **16:16** — Even of the covenant which he made with Abraham, and of his oath unto Isaac;
 - **29:18** — O LORD God of Abraham, Isaac, and of Israel, our fathers, keep this for ever in the imagination of the thoughts of the heart of thy people, and prepare their heart unto thee:
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **20:7** — Art not thou our God, who didst drive out the inhabitants of this land before thy people Israel, and gavest it to the seed of Abraham thy friend for ever?
 - **30:6** — So the posts went with the letters from the king and his princes throughout all Israel and Judah, and according to the commandment of the king, saying, Ye children of Israel, turn again unto the LORD God of Abraham, Isaac, and Israel, and he will return to the remnant of you, that are escaped out of the hand of the kings of Assyria.
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **9:7** — Thou art the LORD the God, who didst choose Abram, and broughtest him forth out of Ur of the Chaldees, and gavest him the name of Abraham;
 
-### [[Psalms]]
+### [[books/Psalms|Psalms]]
 - **47:9** — The princes of the people are gathered together, even the people of the God of Abraham: for the shields of the earth belong unto God: he is greatly exalted.
 - **105:6** — O ye seed of Abraham his servant, ye children of Jacob his chosen.
 - **105:9** — Which covenant he made with Abraham, and his oath unto Isaac;
 - **105:42** — For he remembered his holy promise, and Abraham his servant.
 
-### [[Isaiah]]
+### [[books/Isaiah|Isaiah]]
 - **29:22** — Therefore thus saith the LORD, who redeemed Abraham, concerning the house of Jacob, Jacob shall not now be ashamed, neither shall his face now wax pale.
 - **41:8** — But thou, Israel, art my servant, Jacob whom I have chosen, the seed of Abraham my friend.
 - **51:2** — Look unto Abraham your father, and unto Sarah that bare you: for I called him alone, and blessed him, and increased him.
 - **63:16** — Doubtless thou art our father, though Abraham be ignorant of us, and Israel acknowledge us not: thou, O LORD, art our father, our redeemer; thy name is from everlasting.
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **33:26** — Then will I cast away the seed of Jacob, and David my servant, so that I will not take any of his seed to be rulers over the seed of Abraham, Isaac, and Jacob: for I will cause their captivity to return, and have mercy on them.
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **33:24** — Son of man, they that inhabit those wastes of the land of Israel speak, saying, Abraham was one, and he inherited the land: but we are many; the land is given us for inheritance.
 
-### [[Micah]]
+### [[books/Micah|Micah]]
 - **7:20** — Thou wilt perform the truth to Jacob, and the mercy to Abraham, which thou hast sworn unto our fathers from the days of old.
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **1:1** — The book of the generation of Jesus Christ, the son of David, the son of Abraham.
 - **1:2** — Abraham begat Isaac; and Isaac begat Jacob; and Jacob begat Judas and his brethren;
 - **1:17** — So all the generations from Abraham to David are fourteen generations; and from David until the carrying away into Babylon are fourteen generations; and from the carrying away into Babylon unto Christ are fourteen generations.
@@ -304,10 +304,10 @@ metav_id: 58
 - **8:11** — And I say unto you, That many shall come from the east and west, and shall sit down with Abraham, and Isaac, and Jacob, in the kingdom of heaven.
 - **22:32** — I am the God of Abraham, and the God of Isaac, and the God of Jacob? God is not the God of the dead, but of the living.
 
-### [[Mark]]
+### [[books/Mark|Mark]]
 - **12:26** — And as touching the dead, that they rise: have ye not read in the book of Moses, how in the bush God spake unto him, saying, I am the God of Abraham, and the God of Isaac, and the God of Jacob?
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **1:55** — As he spake to our fathers, to Abraham, and to his seed for ever.
 - **1:73** — The oath which he sware to our father Abraham,
 - **3:8** — Bring forth therefore fruits worthy of repentance, and begin not to say within yourselves, We have Abraham to our father: for I say unto you, That God is able of these stones to raise up children unto Abraham.
@@ -323,7 +323,7 @@ metav_id: 58
 - **19:9** — And Jesus said unto him, This day is salvation come to this house, forsomuch as he also is a son of Abraham.
 - **20:37** — Now that the dead are raised, even Moses shewed at the bush, when he calleth the Lord the God of Abraham, and the God of Isaac, and the God of Jacob.
 
-### [[John]]
+### [[books/John|John]]
 - **8:33** — They answered him, We be Abraham's seed, and were never in bondage to any man: how sayest thou, Ye shall be made free?
 - **8:37** — I know that ye are Abraham's seed; but ye seek to kill me, because my word hath no place in you.
 - **8:39** — They answered and said unto him, Abraham is our father. Jesus saith unto them, If ye were Abraham's children, ye would do the works of Abraham.
@@ -334,7 +334,7 @@ metav_id: 58
 - **8:57** — Then said the Jews unto him, Thou art not yet fifty years old, and hast thou seen Abraham?
 - **8:58** — Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am.
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **3:13** — The God of Abraham, and of Isaac, and of Jacob, the God of our fathers, hath glorified his Son Jesus; whom ye delivered up, and denied him in the presence of Pilate, when he was determined to let him go.
 - **3:25** — Ye are the children of the prophets, and of the covenant which God made with our fathers, saying unto Abraham, And in thy seed shall all the kindreds of the earth be blessed.
 - **7:2** — And he said, Men, brethren, and fathers, hearken; The God of glory appeared unto our father Abraham, when he was in Mesopotamia, before he dwelt in Charran,
@@ -344,7 +344,7 @@ metav_id: 58
 - **7:32** — Saying, I am the God of thy fathers, the God of Abraham, and the God of Isaac, and the God of Jacob. Then Moses trembled, and durst not behold.
 - **13:26** — Men and brethren, children of the stock of Abraham, and whosoever among you feareth God, to you is the word of this salvation sent.
 
-### [[Romans]]
+### [[books/Romans|Romans]]
 - **4:1** — What shall we say then that Abraham our father, as pertaining to the flesh, hath found?
 - **4:2** — For if Abraham were justified by works, he hath whereof to glory; but not before God.
 - **4:3** — For what saith the scripture? Abraham believed God, and it was counted unto him for righteousness.
@@ -355,10 +355,10 @@ metav_id: 58
 - **9:7** — Neither, because they are the seed of Abraham, are they all children: but, In Isaac shall thy seed be called.
 - **11:1** — I say then, Hath God cast away his people? God forbid. For I also am an Israelite, of the seed of Abraham, of the tribe of Benjamin.
 
-### [[2 Corinthians]]
+### [[books/2 Corinthians|2 Corinthians]]
 - **11:22** — Are they Hebrews? so am I. Are they Israelites? so am I. Are they the seed of Abraham? so am I.
 
-### [[Galatians]]
+### [[books/Galatians|Galatians]]
 - **3:6** — Even as Abraham believed God, and it was accounted to him for righteousness.
 - **3:7** — Know ye therefore that they which are of faith, the same are the children of Abraham.
 - **3:8** — And the scripture, foreseeing that God would justify the heathen through faith, preached before the gospel unto Abraham, saying, In thee shall all nations be blessed.
@@ -369,7 +369,7 @@ metav_id: 58
 - **3:29** — And if ye be Christ's, then are ye Abraham's seed, and heirs according to the promise.
 - **4:22** — For it is written, that Abraham had two sons, the one by a bondmaid, the other by a freewoman.
 
-### [[Hebrews]]
+### [[books/Hebrews|Hebrews]]
 - **2:16** — For verily he took not on him the nature of angels; but he took on him the seed of Abraham.
 - **6:13** — For when God made promise to Abraham, because he could swear by no greater, he sware by himself,
 - **7:1** — For this Melchisedec, king of Salem, priest of the most high God, who met Abraham returning from the slaughter of the kings, and blessed him;
@@ -381,10 +381,10 @@ metav_id: 58
 - **11:8** — By faith Abraham, when he was called to go out into a place which he should after receive for an inheritance, obeyed; and he went out, not knowing whither he went.
 - **11:17** — By faith Abraham, when he was tried, offered up Isaac: and he that had received the promises offered up his only begotten son,
 
-### [[James]]
+### [[books/James|James]]
 - **2:21** — Was not Abraham our father justified by works, when he had offered Isaac his son upon the altar?
 - **2:23** — And the scripture was fulfilled which saith, Abraham believed God, and it was imputed unto him for righteousness: and he was called the Friend of God.
 
-### [[1 Peter]]
+### [[books/1 Peter|1 Peter]]
 - **3:6** — Even as Sara obeyed Abraham, calling him lord: whose daughters ye are, as long as ye do well, and are not afraid with any amazement.
 

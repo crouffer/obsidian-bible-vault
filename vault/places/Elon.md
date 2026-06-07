@@ -26,6 +26,6 @@ metav_id: 373
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **19:43** — And Elon, and Thimnathah, and Ekron,
 

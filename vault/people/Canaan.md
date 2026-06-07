@@ -58,7 +58,7 @@ metav_id: 914
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **9:18** — And the sons of Noah, that went forth of the ark, were Shem, and Ham, and Japheth: and Ham is the father of Canaan.
 - **9:22** — And Ham, the father of Canaan, saw the nakedness of his father, and told his two brethren without.
 - **9:25** — And he said, Cursed be Canaan; a servant of servants shall he be unto his brethren.
@@ -105,17 +105,17 @@ metav_id: 914
 - **50:5** — My father made me swear, saying, Lo, I die: in my grave which I have digged for me in the land of Canaan, there shalt thou bury me. Now therefore let me go up, I pray thee, and bury my father, and I will come again.
 - **50:13** — For his sons carried him into the land of Canaan, and buried him in the cave of the field of Machpelah, which Abraham bought with the field for a possession of a buryingplace of Ephron the Hittite, before Mamre.
 
-### [[Exodus]]
+### [[books/Exodus|Exodus]]
 - **6:4** — And I have also established my covenant with them, to give them the land of Canaan, the land of their pilgrimage, wherein they were strangers.
 - **15:15** — Then the dukes of Edom shall be amazed; the mighty men of Moab, trembling shall take hold upon them; all the inhabitants of Canaan shall melt away.
 - **16:35** — And the children of Israel did eat manna forty years, until they came to a land inhabited; they did eat manna, until they came unto the borders of the land of Canaan.
 
-### [[Leviticus]]
+### [[books/Leviticus|Leviticus]]
 - **14:34** — When ye be come into the land of Canaan, which I give to you for a possession, and I put the plague of leprosy in a house of the land of your possession;
 - **18:3** — After the doings of the land of Egypt, wherein ye dwelt, shall ye not do: and after the doings of the land of Canaan, whither I bring you, shall ye not do: neither shall ye walk in their ordinances.
 - **25:38** — I am the LORD your God, which brought you forth out of the land of Egypt, to give you the land of Canaan, and to be your God.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **13:2** — Send thou men, that they may search the land of Canaan, which I give unto the children of Israel: of every tribe of their fathers shall ye send a man, every one a ruler among them.
 - **13:17** — And Moses sent them to spy out the land of Canaan, and said unto them, Get you up this way southward, and go up into the mountain:
 - **26:19** — The sons of Judah were Er and Onan: and Er and Onan died in the land of Canaan.
@@ -128,10 +128,10 @@ metav_id: 914
 - **35:10** — Speak unto the children of Israel, and say unto them, When ye be come over Jordan into the land of Canaan;
 - **35:14** — Ye shall give three cities on this side Jordan, and three cities shall ye give in the land of Canaan, which shall be cities of refuge.
 
-### [[Deuteronomy]]
+### [[books/Deuteronomy|Deuteronomy]]
 - **32:49** — Get thee up into this mountain Abarim, unto mount Nebo, which is in the land of Moab, that is over against Jericho; and behold the land of Canaan, which I give unto the children of Israel for a possession:
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **5:1** — And it came to pass, when all the kings of the Amorites, which were on the side of Jordan westward, and all the kings of the Canaanites, which were by the sea, heard that the LORD had dried up the waters of Jordan from before the children of Israel, until we were passed over, that their heart melted, neither was there spirit in them any more, because of the children of Israel.
 - **5:12** — And the manna ceased on the morrow after they had eaten of the old corn of the land; neither had the children of Israel manna any more; but they did eat of the fruit of the land of Canaan that year.
 - **14:1** — And these are the countries which the children of Israel inherited in the land of Canaan, which Eleazar the priest, and Joshua the son of Nun, and the heads of the fathers of the tribes of the children of Israel, distributed for inheritance to them.
@@ -142,7 +142,7 @@ metav_id: 914
 - **22:32** — And Phinehas the son of Eleazar the priest, and the princes, returned from the children of Reuben, and from the children of Gad, out of the land of Gilead, unto the land of Canaan, to the children of Israel, and brought them word again.
 - **24:3** — And I took your father Abraham from the other side of the flood, and led him throughout all the land of Canaan, and multiplied his seed, and gave him Isaac.
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **3:1** — Now these are the nations which the LORD left, to prove Israel by them, even as many of Israel as had not known all the wars of Canaan;
 - **4:2** — And the LORD sold them into the hand of Jabin king of Canaan, that reigned in Hazor; the captain of whose host was Sisera, which dwelt in Harosheth of the Gentiles.
 - **4:23** — So God subdued on that day Jabin the king of Canaan before the children of Israel.
@@ -150,26 +150,26 @@ metav_id: 914
 - **5:19** — The kings came and fought, then fought the kings of Canaan in Taanach by the waters of Megiddo; they took no gain of money.
 - **21:12** — And they found among the inhabitants of Jabeshgilead four hundred young virgins, that had known no man by lying with any male: and they brought them unto the camp to Shiloh, which is in the land of Canaan.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:8** — The sons of Ham; Cush, and Mizraim, Put, and Canaan.
 - **1:13** — And Canaan begat Zidon his firstborn, and Heth,
 - **16:18** — Saying, Unto thee will I give the land of Canaan, the lot of your inheritance;
 
-### [[Psalms]]
+### [[books/Psalms|Psalms]]
 - **105:11** — Saying, Unto thee will I give the land of Canaan, the lot of your inheritance:
 - **106:38** — And shed innocent blood, even the blood of their sons and of their daughters, whom they sacrificed unto the idols of Canaan: and the land was polluted with blood.
 - **135:11** — Sihon king of the Amorites, and Og king of Bashan, and all the kingdoms of Canaan:
 
-### [[Isaiah]]
+### [[books/Isaiah|Isaiah]]
 - **19:18** — In that day shall five cities in the land of Egypt speak the language of Canaan, and swear to the LORD of hosts; one shall be called, The city of destruction.
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **16:3** — And say, Thus saith the Lord GOD unto Jerusalem; Thy birth and thy nativity is of the land of Canaan; thy father was an Amorite, and thy mother an Hittite.
 - **16:29** — Thou hast moreover multiplied thy fornication in the land of Canaan unto Chaldea; and yet thou wast not satisfied herewith.
 
-### [[Zephaniah]]
+### [[books/Zephaniah|Zephaniah]]
 - **2:5** — Woe unto the inhabitants of the sea coast, the nation of the Cherethites! the word of the LORD is against you; O Canaan, the land of the Philistines, I will even destroy thee, that there shall be no inhabitant.
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **15:22** — And, behold, a woman of Canaan came out of the same coasts, and cried unto him, saying, Have mercy on me, O Lord, thou Son of David; my daughter is grievously vexed with a devil.
 

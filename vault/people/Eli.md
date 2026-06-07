@@ -46,7 +46,7 @@ metav_id: 1072
 
 ## Verse References
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **1:3** — And this man went up out of his city yearly to worship and to sacrifice unto the LORD of hosts in Shiloh. And the two sons of Eli, Hophni and Phinehas, the priests of the LORD, were there.
 - **1:9** — So Hannah rose up after they had eaten in Shiloh, and after they had drunk. Now Eli the priest sat upon a seat by a post of the temple of the LORD.
 - **1:12** — And it came to pass, as she continued praying before the LORD, that Eli marked her mouth.
@@ -77,6 +77,6 @@ metav_id: 1072
 - **4:16** — And the man said unto Eli, I am he that came out of the army, and I fled to day out of the army. And he said, What is there done, my son?
 - **14:3** — And Ahiah, the son of Ahitub, Ichabod's brother, the son of Phinehas, the son of Eli, the LORD'S priest in Shiloh, wearing an ephod. And the people knew not that Jonathan was gone.
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **2:27** — So Solomon thrust out Abiathar from being priest unto the LORD; that he might fulfil the word of the LORD, which he spake concerning the house of Eli in Shiloh.
 

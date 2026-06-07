@@ -26,6 +26,6 @@ metav_id: 1173
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **4:32** — And their villages were, Etam, and Ain, Rimmon, and Tochen, and Ashan, five cities:
 

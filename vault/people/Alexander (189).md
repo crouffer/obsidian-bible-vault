@@ -44,9 +44,9 @@ metav_id: 189
 
 ## Verse References
 
-### [[1 Timothy]]
+### [[books/1 Timothy|1 Timothy]]
 - **1:20** — Of whom is Hymenaeus and Alexander; whom I have delivered unto Satan, that they may learn not to blaspheme.
 
-### [[2 Timothy]]
+### [[books/2 Timothy|2 Timothy]]
 - **4:14** — Alexander the coppersmith did me much evil: the Lord reward him according to his works:
 

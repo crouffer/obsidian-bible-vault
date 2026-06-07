@@ -44,6 +44,6 @@ metav_id: 2552
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **13:5** — Of the tribe of Simeon, Shaphat the son of Hori.
 

@@ -53,6 +53,6 @@ metav_id: 971
 
 ## Verse References
 
-### [[Esther]]
+### [[books/Esther|Esther]]
 - **9:7** — And Parshandatha, and Dalphon, and Aspatha,
 

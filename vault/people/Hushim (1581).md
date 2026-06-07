@@ -45,7 +45,7 @@ metav_id: 1581
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **8:8** — And Shaharaim begat children in the country of Moab, after he had sent them away; Hushim and Baara were his wives.
 - **8:11** — And of Hushim he begat Abitub, and Elpaal.
 

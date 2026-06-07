@@ -45,6 +45,6 @@ metav_id: 226
 
 ## Verse References
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **13:37** — But Absalom fled, and went to Talmai, the son of Ammihud, king of Geshur. And David mourned for his son every day.
 

@@ -44,6 +44,6 @@ metav_id: 1346
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **2:46** — The children of Hagab, the children of Shalmai, the children of Hanan,
 

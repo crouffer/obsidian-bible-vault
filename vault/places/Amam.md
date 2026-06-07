@@ -26,6 +26,6 @@ metav_id: 54
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **15:26** — Amam, and Shema, and Moladah,
 

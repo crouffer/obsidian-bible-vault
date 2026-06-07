@@ -26,6 +26,6 @@ metav_id: 183
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **19:25** — And their border was Helkath, and Hali, and Beten, and Achshaph,
 

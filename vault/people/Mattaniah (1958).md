@@ -44,6 +44,6 @@ metav_id: 1958
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **10:37** — Mattaniah, Mattenai, and Jaasau,
 

@@ -44,6 +44,6 @@ metav_id: 461
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **12:34** — Judah, and Benjamin, and Shemaiah, and Jeremiah,
 

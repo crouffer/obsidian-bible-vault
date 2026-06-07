@@ -26,7 +26,7 @@ metav_id: 152
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **1:11** — All the vessels of gold and of silver were five thousand and four hundred. All these did Sheshbazzar bring up with them of the captivity that were brought up from Babylon unto Jerusalem.
 - **6:1** — Then Darius the king made a decree, and search was made in the house of the rolls, where the treasures were laid up in Babylon.
 - **7:6** — This Ezra went up from Babylon; and he was a ready scribe in the law of Moses, which the LORD God of Israel had given: and the king granted him all his request, according to the hand of the LORD his God upon him.

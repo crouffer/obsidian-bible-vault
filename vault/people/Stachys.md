@@ -44,6 +44,6 @@ metav_id: 2774
 
 ## Verse References
 
-### [[Romans]]
+### [[books/Romans|Romans]]
 - **16:9** — Salute Urbane, our helper in Christ, and Stachys my beloved.
 

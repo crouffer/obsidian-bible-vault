@@ -44,6 +44,6 @@ metav_id: 826
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **5:7** — And his brethren by their families, when the genealogy of their generations was reckoned, were the chief, Jeiel, and Zechariah,
 

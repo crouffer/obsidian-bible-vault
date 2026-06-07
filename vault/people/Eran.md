@@ -45,6 +45,6 @@ metav_id: 1212
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **26:36** — And these are the sons of Shuthelah: of Eran, the family of the Eranites.
 

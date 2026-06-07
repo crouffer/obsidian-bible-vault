@@ -45,9 +45,9 @@ metav_id: 1934
 
 ## Verse References
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **27:2** — And David arose, and he passed over with the six hundred men that were with him unto Achish, the son of Maoch, king of Gath.
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **2:39** — And it came to pass at the end of three years, that two of the servants of Shimei ran away unto Achish son of Maachah king of Gath. And they told Shimei, saying, Behold, thy servants be in Gath.
 

@@ -26,16 +26,16 @@ metav_id: 551
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **13:18** — Then Abram removed his tent, and came and dwelt in the plain of Mamre, which is in Hebron, and built there an altar unto the LORD.
 - **23:2** — And Sarah died in Kirjatharba; the same is Hebron in the land of Canaan: and Abraham came to mourn for Sarah, and to weep for her.
 - **23:19** — And after this, Abraham buried Sarah his wife in the cave of the field of Machpelah before Mamre: the same is Hebron in the land of Canaan.
 - **35:27** — And Jacob came unto Isaac his father unto Mamre, unto the city of Arbah, which is Hebron, where Abraham and Isaac sojourned.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **13:22** — And they ascended by the south, and came unto Hebron; where Ahiman, Sheshai, and Talmai, the children of Anak, were. (Now Hebron was built seven years before Zoan in Egypt.)
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **10:3** — Wherefore Adonizedek king of Jerusalem sent unto Hoham king of Hebron, and unto Piram king of Jarmuth, and unto Japhia king of Lachish, and unto Debir king of Eglon, saying,
 - **10:5** — Therefore the five kings of the Amorites, the king of Jerusalem, the king of Hebron, the king of Jarmuth, the king of Lachish, the king of Eglon, gathered themselves together, and went up, they and all their hosts, and encamped before Gibeon, and made war against it.
 - **10:23** — And they did so, and brought forth those five kings unto him out of the cave, the king of Jerusalem, the king of Hebron, the king of Jarmuth, the king of Lachish, and the king of Eglon.
@@ -52,15 +52,15 @@ metav_id: 551
 - **21:11** — And they gave them the city of Arba the father of Anak, which city is Hebron, in the hill country of Judah, with the suburbs thereof round about it.
 - **21:13** — Thus they gave to the children of Aaron the priest Hebron with her suburbs, to be a city of refuge for the slayer; and Libnah with her suburbs,
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **1:10** — And Judah went against the Canaanites that dwelt in Hebron: (now the name of Hebron before was Kirjatharba:) and they slew Sheshai, and Ahiman, and Talmai.
 - **1:20** — And they gave Hebron unto Caleb, as Moses said: and he expelled thence the three sons of Anak.
 - **16:3** — And Samson lay till midnight, and arose at midnight, and took the doors of the gate of the city, and the two posts, and went away with them, bar and all, and put them upon his shoulders, and carried them up to the top of an hill that is before Hebron.
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **30:31** — And to them which were in Hebron, and to all the places where David himself and his men were wont to haunt.
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **2:1** — And it came to pass after this, that David enquired of the LORD, saying, Shall I go up into any of the cities of Judah? And the LORD said unto him, Go up. And David said, Whither shall I go up? And he said, Unto Hebron.
 - **2:3** — And his men that were with him did David bring up, every man with his household: and they dwelt in the cities of Hebron.
 - **2:11** — And the time that David was king in Hebron over the house of Judah was seven years and six months.
@@ -83,10 +83,10 @@ metav_id: 551
 - **15:9** — And the king said unto him, Go in peace. So he arose, and went to Hebron.
 - **15:10** — But Absalom sent spies throughout all the tribes of Israel, saying, As soon as ye hear the sound of the trumpet, then ye shall say, Absalom reigneth in Hebron.
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **2:11** — And the days that David reigned over Israel were forty years: seven years reigned he in Hebron, and thirty and three years reigned he in Jerusalem.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **3:1** — Now these were the sons of David, which were born unto him in Hebron; the firstborn Amnon, of Ahinoam the Jezreelitess; the second Daniel, of Abigail the Carmelitess:
 - **3:4** — These six were born unto him in Hebron; and there he reigned seven years and six months: and in Jerusalem he reigned thirty and three years.
 - **6:55** — And they gave them Hebron in the land of Judah, and the suburbs thereof round about it.
@@ -97,6 +97,6 @@ metav_id: 551
 - **12:38** — All these men of war, that could keep rank, came with a perfect heart to Hebron, to make David king over all Israel: and all the rest also of Israel were of one heart to make David king.
 - **29:27** — And the time that he reigned over Israel was forty years; seven years reigned he in Hebron, and thirty and three years reigned he in Jerusalem.
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **11:10** — And Zorah, and Aijalon, and Hebron, which are in Judah and in Benjamin fenced cities.
 

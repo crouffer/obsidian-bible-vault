@@ -55,6 +55,6 @@ metav_id: 1609
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **8:18** — Ishmerai also, and Jezliah, and Jobab, the sons of Elpaal;
 

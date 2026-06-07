@@ -44,7 +44,7 @@ metav_id: 1460
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **10:4** — Hattush, Shebaniah, Malluch,
 - **12:2** — Amariah, Malluch, Hattush,
 

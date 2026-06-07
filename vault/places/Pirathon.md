@@ -26,13 +26,13 @@ metav_id: 949
 
 ## Verse References
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **12:15** — And Abdon the son of Hillel the Pirathonite died, and was buried in Pirathon in the land of Ephraim, in the mount of the Amalekites.
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **23:30** — Benaiah the Pirathonite, Hiddai of the brooks of Gaash,
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **11:31** — Ithai the son of Ribai of Gibeah, that pertained to the children of Benjamin, Benaiah the Pirathonite,
 - **27:14** — The eleventh captain for the eleventh month was Benaiah the Pirathonite, of the children of Ephraim: and in his course were twenty and four thousand.
 

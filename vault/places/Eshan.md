@@ -26,6 +26,6 @@ metav_id: 410
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **15:52** — Arab, and Dumah, and Eshean,
 

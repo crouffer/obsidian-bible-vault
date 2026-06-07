@@ -46,7 +46,7 @@ metav_id: 2396
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **8:37** — And Moza begat Binea: Rapha was his son, Eleasah his son, Azel his son:
 - **9:43** — And Moza begat Binea; and Rephaiah his son, Eleasah his son, Azel his son.
 

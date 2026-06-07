@@ -45,7 +45,7 @@ metav_id: 1193
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **4:26** — And to Seth, to him also there was born a son; and he called his name Enos: then began men to call upon the name of the LORD.
 - **5:6** — And Seth lived an hundred and five years, and begat Enos:
 - **5:7** — And Seth lived after he begat Enos eight hundred and seven years, and begat sons and daughters:
@@ -53,9 +53,9 @@ metav_id: 1193
 - **5:10** — And Enos lived after he begat Cainan eight hundred and fifteen years, and begat sons and daughters:
 - **5:11** — And all the days of Enos were nine hundred and five years: and he died.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:1** — Adam, Sheth, Enosh,
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **3:38** — Which was the son of Enos, which was the son of Seth, which was the son of Adam, which was the son of God.
 

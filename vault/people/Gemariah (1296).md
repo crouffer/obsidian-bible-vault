@@ -47,7 +47,7 @@ metav_id: 1296
 
 ## Verse References
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **36:10** — Then read Baruch in the book the words of Jeremiah in the house of the LORD, in the chamber of Gemariah the son of Shaphan the scribe, in the higher court, at the entry of the new gate of the LORD'S house, in the ears of all the people.
 - **36:11** — When Michaiah the son of Gemariah, the son of Shaphan, had heard out of the book all the words of the LORD,
 - **36:12** — Then he went down into the king's house, into the scribe's chamber: and, lo, all the princes sat there, even Elishama the scribe, and Delaiah the son of Shemaiah, and Elnathan the son of Achbor, and Gemariah the son of Shaphan, and Zedekiah the son of Hananiah, and all the princes.

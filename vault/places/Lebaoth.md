@@ -26,6 +26,6 @@ metav_id: 721
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **15:32** — And Lebaoth, and Shilhim, and Ain, and Rimmon: all the cities are twenty and nine, with their villages:
 

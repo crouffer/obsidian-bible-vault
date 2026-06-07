@@ -44,7 +44,7 @@ metav_id: 111
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **25:13** — And after certain days king Agrippa and Bernice came unto Caesarea to salute Festus.
 - **25:22** — Then Agrippa said unto Festus, I would also hear the man myself. To morrow, said he, thou shalt hear him.
 - **25:23** — And on the morrow, when Agrippa was come, and Bernice, with great pomp, and was entered into the place of hearing, with the chief captains, and principal men of the city, at Festus' commandment Paul was brought forth.

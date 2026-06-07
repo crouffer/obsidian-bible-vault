@@ -54,6 +54,6 @@ metav_id: 639
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **8:22** — And Ishpan, and Heber, and Eliel,
 

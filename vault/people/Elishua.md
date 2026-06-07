@@ -64,10 +64,10 @@ metav_id: 1163
 
 ## Verse References
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **5:15** — Ibhar also, and Elishua, and Nepheg, and Japhia,
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **3:6** — Ibhar also, and Elishama, and Eliphelet,
 - **14:5** — And Ibhar, and Elishua, and Elpalet,
 

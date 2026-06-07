@@ -48,7 +48,7 @@ metav_id: 53
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **2:28** — And the sons of Onam were, Shammai, and Jada. And the sons of Shammai; Nadab, and Abishur.
 - **2:29** — And the name of the wife of Abishur was Abihail, and she bare him Ahban, and Molid.
 

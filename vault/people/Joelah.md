@@ -45,6 +45,6 @@ metav_id: 1661
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **12:7** — And Joelah, and Zebadiah, the sons of Jeroham of Gedor.
 

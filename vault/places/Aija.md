@@ -26,6 +26,6 @@ metav_id: 39
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **11:31** — The children also of Benjamin from Geba dwelt at Michmash, and Aija, and Bethel, and in their villages,
 

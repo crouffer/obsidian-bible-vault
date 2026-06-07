@@ -49,7 +49,7 @@ metav_id: 537
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **13:6** — Of the tribe of Judah, Caleb the son of Jephunneh.
 - **13:30** — And Caleb stilled the people before Moses, and said, Let us go up at once, and possess it; for we are well able to overcome it.
 - **14:6** — And Joshua the son of Nun, and Caleb the son of Jephunneh, which were of them that searched the land, rent their clothes:
@@ -60,10 +60,10 @@ metav_id: 537
 - **32:12** — Save Caleb the son of Jephunneh the Kenezite, and Joshua the son of Nun: for they have wholly followed the LORD.
 - **34:19** — And the names of the men are these: Of the tribe of Judah, Caleb the son of Jephunneh.
 
-### [[Deuteronomy]]
+### [[books/Deuteronomy|Deuteronomy]]
 - **1:36** — Save Caleb the son of Jephunneh; he shall see it, and to him will I give the land that he hath trodden upon, and to his children, because he hath wholly followed the LORD.
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **14:6** — Then the children of Judah came unto Joshua in Gilgal: and Caleb the son of Jephunneh the Kenezite said unto him, Thou knowest the thing that the LORD said unto Moses the man of God concerning me and thee in Kadeshbarnea.
 - **14:13** — And Joshua blessed him, and gave unto Caleb the son of Jephunneh Hebron for an inheritance.
 - **14:14** — Hebron therefore became the inheritance of Caleb the son of Jephunneh the Kenezite unto this day, because that he wholly followed the LORD God of Israel.
@@ -74,7 +74,7 @@ metav_id: 537
 - **15:18** — And it came to pass, as she came unto him, that she moved him to ask of her father a field: and she lighted off her ass; and Caleb said unto her, What wouldest thou?
 - **21:12** — But the fields of the city, and the villages thereof, gave they to Caleb the son of Jephunneh for his possession.
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **1:12** — And Caleb said, He that smiteth Kirjathsepher, and taketh it, to him will I give Achsah my daughter to wife.
 - **1:13** — And Othniel the son of Kenaz, Caleb's younger brother, took it: and he gave him Achsah his daughter to wife.
 - **1:14** — And it came to pass, when she came to him, that she moved him to ask of her father a field: and she lighted from off her ass; and Caleb said unto her, What wilt thou?
@@ -82,10 +82,10 @@ metav_id: 537
 - **1:20** — And they gave Hebron unto Caleb, as Moses said: and he expelled thence the three sons of Anak.
 - **3:9** — And when the children of Israel cried unto the LORD, the LORD raised up a deliverer to the children of Israel, who delivered them, even Othniel the son of Kenaz, Caleb's younger brother.
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **25:3** — Now the name of the man was Nabal; and the name of his wife Abigail: and she was a woman of good understanding, and of a beautiful countenance: but the man was churlish and evil in his doings; and he was of the house of Caleb.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **2:46** — And Ephah, Caleb's concubine, bare Haran, and Moza, and Gazez: and Haran begat Gazez.
 - **2:48** — Maachah, Caleb's concubine, bare Sheber, and Tirhanah.
 - **4:15** — And the sons of Caleb the son of Jephunneh; Iru, Elah, and Naam: and the sons of Elah, even Kenaz.

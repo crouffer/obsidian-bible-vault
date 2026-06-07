@@ -26,6 +26,6 @@ metav_id: 698
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **2:25** — The children of Kirjatharim, Chephirah, and Beeroth, seven hundred and forty and three.
 

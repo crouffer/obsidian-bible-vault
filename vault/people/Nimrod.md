@@ -49,13 +49,13 @@ metav_id: 2206
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **10:8** — And Cush begat Nimrod: he began to be a mighty one in the earth.
 - **10:9** — He was a mighty hunter before the LORD: wherefore it is said, Even as Nimrod the mighty hunter before the LORD.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:10** — And Cush begat Nimrod: he began to be mighty upon the earth.
 
-### [[Micah]]
+### [[books/Micah|Micah]]
 - **5:6** — And they shall waste the land of Assyria with the sword, and the land of Nimrod in the entrances thereof: thus shall he deliver us from the Assyrian, when he cometh into our land, and when he treadeth within our borders.
 

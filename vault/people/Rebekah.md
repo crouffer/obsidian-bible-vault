@@ -46,7 +46,7 @@ metav_id: 2401
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **22:23** — And Bethuel begat Rebekah: these eight Milcah did bear to Nahor, Abraham's brother.
 - **24:15** — And it came to pass, before he had done speaking, that, behold, Rebekah came out, who was born to Bethuel, son of Milcah, the wife of Nahor, Abraham's brother, with her pitcher upon her shoulder.
 - **24:29** — And Rebekah had a brother, and his name was Laban: and Laban ran out unto the man, unto the well.

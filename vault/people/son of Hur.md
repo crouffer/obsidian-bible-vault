@@ -44,6 +44,6 @@ metav_id: 2767
 
 ## Verse References
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **4:8** — And these are their names: The son of Hur, in mount Ephraim:
 

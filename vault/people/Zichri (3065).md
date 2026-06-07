@@ -47,6 +47,6 @@ metav_id: 3065
 
 ## Verse References
 
-### [[Exodus]]
+### [[books/Exodus|Exodus]]
 - **6:21** — And the sons of Izhar; Korah, and Nepheg, and Zichri.
 

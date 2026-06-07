@@ -44,9 +44,9 @@ metav_id: 2839
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **36:42** — Duke Kenaz, duke Teman, duke Mibzar,
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:53** — Duke Kenaz, duke Teman, duke Mibzar,
 

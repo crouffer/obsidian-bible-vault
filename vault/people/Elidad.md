@@ -44,6 +44,6 @@ metav_id: 1103
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **34:21** — Of the tribe of Benjamin, Elidad the son of Chislon.
 

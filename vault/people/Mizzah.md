@@ -47,10 +47,10 @@ metav_id: 2101
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **36:13** — And these are the sons of Reuel; Nahath, and Zerah, Shammah, and Mizzah: these were the sons of Bashemath Esau's wife.
 - **36:17** — And these are the sons of Reuel Esau's son; duke Nahath, duke Zerah, duke Shammah, duke Mizzah: these are the dukes that came of Reuel in the land of Edom; these are the sons of Bashemath Esau's wife.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:37** — The sons of Reuel; Nahath, Zerah, Shammah, and Mizzah.
 

@@ -26,7 +26,7 @@ metav_id: 388
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **19:21** — And Remeth, and Engannim, and Enhaddah, and Bethpazzez;
 - **21:29** — Jarmuth with her suburbs, Engannim with her suburbs; four cities.
 

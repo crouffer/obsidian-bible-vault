@@ -44,6 +44,6 @@ metav_id: 1098
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **10:36** — Vaniah, Meremoth, Eliashib,
 

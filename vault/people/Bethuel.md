@@ -17,8 +17,8 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Nahor (2143)]]"
-mother: "[[Milcah (2082)]]"
+father: "[[Milcah (2082)]]"
+mother: "[[Nahor (2143)]]"
 spouse: []
 children: 
   - "[[Laban]]"
@@ -53,7 +53,7 @@ metav_id: 487
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **22:22** — And Chesed, and Hazo, and Pildash, and Jidlaph, and Bethuel.
 - **22:23** — And Bethuel begat Rebekah: these eight Milcah did bear to Nahor, Abraham's brother.
 - **24:15** — And it came to pass, before he had done speaking, that, behold, Rebekah came out, who was born to Bethuel, son of Milcah, the wife of Nahor, Abraham's brother, with her pitcher upon her shoulder.

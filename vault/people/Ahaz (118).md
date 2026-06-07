@@ -47,7 +47,7 @@ metav_id: 118
 
 ## Verse References
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **15:38** — And Jotham slept with his fathers, and was buried with his fathers in the city of David his father: and Ahaz his son reigned in his stead.
 - **16:1** — In the seventeenth year of Pekah the son of Remaliah Ahaz the son of Jotham king of Judah began to reign.
 - **16:2** — Twenty years old was Ahaz when he began to reign, and reigned sixteen years in Jerusalem, and did not that which was right in the sight of the LORD his God, like David his father.
@@ -66,10 +66,10 @@ metav_id: 118
 - **20:11** — And Isaiah the prophet cried unto the LORD: and he brought the shadow ten degrees backward, by which it had gone down in the dial of Ahaz.
 - **23:12** — And the altars that were on the top of the upper chamber of Ahaz, which the kings of Judah had made, and the altars which Manasseh had made in the two courts of the house of the LORD, did the king beat down, and brake them down from thence, and cast the dust of them into the brook Kidron.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **3:13** — Ahaz his son, Hezekiah his son, Manasseh his son,
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **27:9** — And Jotham slept with his fathers, and they buried him in the city of David: and Ahaz his son reigned in his stead.
 - **28:1** — Ahaz was twenty years old when he began to reign, and he reigned sixteen years in Jerusalem: but he did not that which was right in the sight of the LORD, like David his father:
 - **28:16** — At that time did king Ahaz send unto the kings of Assyria to help him.
@@ -80,7 +80,7 @@ metav_id: 118
 - **28:27** — And Ahaz slept with his fathers, and they buried him in the city, even in Jerusalem: but they brought him not into the sepulchres of the kings of Israel: and Hezekiah his son reigned in his stead.
 - **29:19** — Moreover all the vessels, which king Ahaz in his reign did cast away in his transgression, have we prepared and sanctified, and, behold, they are before the altar of the LORD.
 
-### [[Isaiah]]
+### [[books/Isaiah|Isaiah]]
 - **1:1** — The vision of Isaiah the son of Amoz, which he saw concerning Judah and Jerusalem in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah.
 - **7:1** — And it came to pass in the days of Ahaz the son of Jotham, the son of Uzziah, king of Judah, that Rezin the king of Syria, and Pekah the son of Remaliah, king of Israel, went up toward Jerusalem to war against it, but could not prevail against it.
 - **7:3** — Then said the LORD unto Isaiah, Go forth now to meet Ahaz, thou, and Shearjashub thy son, at the end of the conduit of the upper pool in the highway of the fuller's field;
@@ -89,12 +89,12 @@ metav_id: 118
 - **14:28** — In the year that king Ahaz died was this burden.
 - **38:8** — Behold, I will bring again the shadow of the degrees, which is gone down in the sun dial of Ahaz, ten degrees backward. So the sun returned ten degrees, by which degrees it was gone down.
 
-### [[Hosea]]
+### [[books/Hosea|Hosea]]
 - **1:1** — The word of the LORD that came unto Hosea, the son of Beeri, in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel.
 
-### [[Micah]]
+### [[books/Micah|Micah]]
 - **1:1** — The word of the LORD that came to Micah the Morasthite in the days of Jotham, Ahaz, and Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem.
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **1:9** — And Ozias begat Joatham; and Joatham begat Achaz; and Achaz begat Ezekias;
 

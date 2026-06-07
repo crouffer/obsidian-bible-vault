@@ -45,6 +45,6 @@ metav_id: 571
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **34:26** — And the prince of the tribe of the children of Issachar, Paltiel the son of Azzan.
 

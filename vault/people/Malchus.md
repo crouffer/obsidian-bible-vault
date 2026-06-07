@@ -44,6 +44,6 @@ metav_id: 1916
 
 ## Verse References
 
-### [[John]]
+### [[books/John|John]]
 - **18:10** — Then Simon Peter having a sword drew it, and smote the high priest's servant, and cut off his right ear. The servant's name was Malchus.
 

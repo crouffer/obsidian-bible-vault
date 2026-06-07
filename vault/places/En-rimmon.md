@@ -26,6 +26,6 @@ metav_id: 394
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **11:29** — And at Enrimmon, and at Zareah, and at Jarmuth,
 

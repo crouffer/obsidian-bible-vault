@@ -26,6 +26,6 @@ metav_id: 30
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **27:27** — But when the fourteenth night was come, as we were driven up and down in Adria, about midnight the shipmen deemed that they drew near to some country;
 

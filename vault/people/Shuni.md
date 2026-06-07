@@ -50,9 +50,9 @@ metav_id: 2731
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **46:16** — And the sons of Gad; Ziphion, and Haggi, Shuni, and Ezbon, Eri, and Arodi, and Areli.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **26:15** — The children of Gad after their families: of Zephon, the family of the Zephonites: of Haggi, the family of the Haggites: of Shuni, the family of the Shunites:
 

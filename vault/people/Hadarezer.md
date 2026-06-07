@@ -44,7 +44,7 @@ metav_id: 1340
 
 ## Verse References
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **8:3** — David smote also Hadadezer, the son of Rehob, king of Zobah, as he went to recover his border at the river Euphrates.
 - **8:5** — And when the Syrians of Damascus came to succour Hadadezer king of Zobah, David slew of the Syrians two and twenty thousand men.
 - **8:7** — And David took the shields of gold that were on the servants of Hadadezer, and brought them to Jerusalem.
@@ -55,10 +55,10 @@ metav_id: 1340
 - **10:16** — And Hadarezer sent, and brought out the Syrians that were beyond the river: and they came to Helam; and Shobach the captain of the host of Hadarezer went before them.
 - **10:19** — And when all the kings that were servants to Hadarezer saw that they were smitten before Israel, they made peace with Israel, and served them. So the Syrians feared to help the children of Ammon any more.
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **11:23** — And God stirred him up another adversary, Rezon the son of Eliadah, which fled from his lord Hadadezer king of Zobah:
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **18:3** — And David smote Hadarezer king of Zobah unto Hamath, as he went to stablish his dominion by the river Euphrates.
 - **18:5** — And when the Syrians of Damascus came to help Hadarezer king of Zobah, David slew of the Syrians two and twenty thousand men.
 - **18:7** — And David took the shields of gold that were on the servants of Hadarezer, and brought them to Jerusalem.

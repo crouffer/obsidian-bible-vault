@@ -46,7 +46,7 @@ metav_id: 2745
 
 ## Verse References
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **4:18** — And Jesus, walking by the sea of Galilee, saw two brethren, Simon called Peter, and Andrew his brother, casting a net into the sea: for they were fishers.
 - **8:14** — And when Jesus was come into Peter's house, he saw his wife's mother laid, and sick of a fever.
 - **10:2** — Now the names of the twelve apostles are these; The first, Simon, who is called Peter, and Andrew his brother; James the son of Zebedee, and John his brother;
@@ -74,7 +74,7 @@ metav_id: 2745
 - **26:73** — And after a while came unto him they that stood by, and said to Peter, Surely thou also art one of them; for thy speech bewrayeth thee.
 - **26:75** — And Peter remembered the word of Jesus, which said unto him, Before the cock crow, thou shalt deny me thrice. And he went out, and wept bitterly.
 
-### [[Mark]]
+### [[books/Mark|Mark]]
 - **1:16** — Now as he walked by the sea of Galilee, he saw Simon and Andrew his brother casting a net into the sea: for they were fishers.
 - **1:29** — And forthwith, when they were come out of the synagogue, they entered into the house of Simon and Andrew, with James and John.
 - **1:36** — And Simon and they that were with him followed after him.
@@ -98,7 +98,7 @@ metav_id: 2745
 - **14:72** — And the second time the cock crew. And Peter called to mind the word that Jesus said unto him, Before the cock crow twice, thou shalt deny me thrice. And when he thought thereon, he wept.
 - **16:7** — But go your way, tell his disciples and Peter that he goeth before you into Galilee: there shall ye see him, as he said unto you.
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **5:4** — Now when he had left speaking, he said unto Simon, Launch out into the deep, and let down your nets for a draught.
 - **5:5** — And Simon answering said unto him, Master, we have toiled all the night, and have taken nothing: nevertheless at thy word I will let down the net.
 - **5:8** — When Simon Peter saw it, he fell down at Jesus' knees, saying, Depart from me; for I am a sinful man, O Lord.
@@ -124,7 +124,7 @@ metav_id: 2745
 - **24:12** — Then arose Peter, and ran unto the sepulchre; and stooping down, he beheld the linen clothes laid by themselves, and departed, wondering in himself at that which was come to pass.
 - **24:34** — Saying, The Lord is risen indeed, and hath appeared to Simon.
 
-### [[John]]
+### [[books/John|John]]
 - **1:40** — One of the two which heard John speak, and followed him, was Andrew, Simon Peter's brother.
 - **1:41** — He first findeth his own brother Simon, and saith unto him, We have found the Messias, which is, being interpreted, the Christ.
 - **1:42** — And he brought him to Jesus. And when Jesus beheld him, he said, Thou art Simon the son of Jona: thou shalt be called Cephas, which is by interpretation, A stone.
@@ -160,7 +160,7 @@ metav_id: 2745
 - **21:20** — Then Peter, turning about, seeth the disciple whom Jesus loved following; which also leaned on his breast at supper, and said, Lord, which is he that betrayeth thee?
 - **21:21** — Peter seeing him saith to Jesus, Lord, and what shall this man do?
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **1:13** — And when they were come in, they went up into an upper room, where abode both Peter, and James, and John, and Andrew, Philip, and Thomas, Bartholomew, and Matthew, James the son of Alphaeus, and Simon Zelotes, and Judas the brother of James.
 - **1:15** — And in those days Peter stood up in the midst of the disciples, and said, (the number of names together were about an hundred and twenty,)
 - **2:14** — But Peter, standing up with the eleven, lifted up his voice, and said unto them, Ye men of Judaea, and all ye that dwell at Jerusalem, be this known unto you, and hearken to my words:
@@ -219,13 +219,13 @@ metav_id: 2745
 - **15:7** — And when there had been much disputing, Peter rose up, and said unto them, Men and brethren, ye know how that a good while ago God made choice among us, that the Gentiles by my mouth should hear the word of the gospel, and believe.
 - **15:14** — Simeon hath declared how God at the first did visit the Gentiles, to take out of them a people for his name.
 
-### [[1 Corinthians]]
+### [[books/1 Corinthians|1 Corinthians]]
 - **1:12** — Now this I say, that every one of you saith, I am of Paul; and I of Apollos; and I of Cephas; and I of Christ.
 - **3:22** — Whether Paul, or Apollos, or Cephas, or the world, or life, or death, or things present, or things to come; all are yours;
 - **9:5** — Have we not power to lead about a sister, a wife, as well as other apostles, and as the brethren of the Lord, and Cephas?
 - **15:5** — And that he was seen of Cephas, then of the twelve:
 
-### [[Galatians]]
+### [[books/Galatians|Galatians]]
 - **1:18** — Then after three years I went up to Jerusalem to see Peter, and abode with him fifteen days.
 - **2:7** — But contrariwise, when they saw that the gospel of the uncircumcision was committed unto me, as the gospel of the circumcision was unto Peter;
 - **2:8** — For he that wrought effectually in Peter to the apostleship of the circumcision, the same was mighty in me toward the Gentiles:)
@@ -233,9 +233,9 @@ metav_id: 2745
 - **2:11** — But when Peter was come to Antioch, I withstood him to the face, because he was to be blamed.
 - **2:14** — But when I saw that they walked not uprightly according to the truth of the gospel, I said unto Peter before them all, If thou, being a Jew, livest after the manner of Gentiles, and not as do the Jews, why compellest thou the Gentiles to live as do the Jews?
 
-### [[1 Peter]]
+### [[books/1 Peter|1 Peter]]
 - **1:1** — Peter, an apostle of Jesus Christ, to the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia,
 
-### [[2 Peter]]
+### [[books/2 Peter|2 Peter]]
 - **1:1** — Simon Peter, a servant and an apostle of Jesus Christ, to them that have obtained like precious faith with us through the righteousness of God and our Saviour Jesus Christ:
 

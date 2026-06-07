@@ -45,9 +45,9 @@ metav_id: 3044
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **36:33** — And Bela died, and Jobab the son of Zerah of Bozrah reigned in his stead.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:44** — And when Bela was dead, Jobab the son of Zerah of Bozrah reigned in his stead.
 

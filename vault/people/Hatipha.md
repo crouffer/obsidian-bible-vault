@@ -44,9 +44,9 @@ metav_id: 1454
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **2:54** — The children of Neziah, the children of Hatipha.
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **7:56** — The children of Neziah, the children of Hatipha.
 

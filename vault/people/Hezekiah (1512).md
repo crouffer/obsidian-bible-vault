@@ -47,7 +47,7 @@ metav_id: 1512
 
 ## Verse References
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **16:20** — And Ahaz slept with his fathers, and was buried with his fathers in the city of David: and Hezekiah his son reigned in his stead.
 - **18:1** — Now it came to pass in the third year of Hoshea son of Elah king of Israel, that Hezekiah the son of Ahaz king of Judah began to reign.
 - **18:9** — And it came to pass in the fourth year of king Hezekiah, which was the seventh year of Hoshea son of Elah king of Israel, that Shalmaneser king of Assyria came up against Samaria, and besieged it.
@@ -87,11 +87,11 @@ metav_id: 1512
 - **20:21** — And Hezekiah slept with his fathers: and Manasseh his son reigned in his stead.
 - **21:3** — For he built up again the high places which Hezekiah his father had destroyed; and he reared up altars for Baal, and made a grove, as did Ahab king of Israel; and worshipped all the host of heaven, and served them.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **3:13** — Ahaz his son, Hezekiah his son, Manasseh his son,
 - **4:41** — And these written by name came in the days of Hezekiah king of Judah, and smote their tents, and the habitations that were found there, and destroyed them utterly unto this day, and dwelt in their rooms: because there was pasture there for their flocks.
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **28:27** — And Ahaz slept with his fathers, and they buried him in the city, even in Jerusalem: but they brought him not into the sepulchres of the kings of Israel: and Hezekiah his son reigned in his stead.
 - **29:1** — Hezekiah began to reign when he was five and twenty years old, and he reigned nine and twenty years in Jerusalem. And his mother's name was Abijah, the daughter of Zechariah.
 - **29:18** — Then they went in to Hezekiah the king, and said, We have cleansed all the house of the LORD, and the altar of burnt offering, with all the vessels thereof, and the shewbread table, with all the vessels thereof.
@@ -131,10 +131,10 @@ metav_id: 1512
 - **32:33** — And Hezekiah slept with his fathers, and they buried him in the chiefest of the sepulchres of the sons of David: and all Judah and the inhabitants of Jerusalem did him honour at his death. And Manasseh his son reigned in his stead.
 - **33:3** — For he built again the high places which Hezekiah his father had broken down, and he reared up altars for Baalim, and made groves, and worshipped all the host of heaven, and served them.
 
-### [[Proverbs]]
+### [[books/Proverbs|Proverbs]]
 - **25:1** — These are also proverbs of Solomon, which the men of Hezekiah king of Judah copied out.
 
-### [[Isaiah]]
+### [[books/Isaiah|Isaiah]]
 - **1:1** — The vision of Isaiah the son of Amoz, which he saw concerning Judah and Jerusalem in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah.
 - **36:1** — Now it came to pass in the fourteenth year of king Hezekiah, that Sennacherib king of Assyria came up against all the defenced cities of Judah, and took them.
 - **36:2** — And the king of Assyria sent Rabshakeh from Lachish to Jerusalem unto king Hezekiah with a great army. And he stood by the conduit of the upper pool in the highway of the fuller's field.
@@ -166,18 +166,18 @@ metav_id: 1512
 - **39:5** — Then said Isaiah to Hezekiah, Hear the word of the LORD of hosts:
 - **39:8** — Then said Hezekiah to Isaiah, Good is the word of the LORD which thou hast spoken. He said moreover, For there shall be peace and truth in my days.
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **15:4** — And I will cause them to be removed into all kingdoms of the earth, because of Manasseh the son of Hezekiah king of Judah, for that which he did in Jerusalem.
 - **26:18** — Micah the Morasthite prophesied in the days of Hezekiah king of Judah, and spake to all the people of Judah, saying, Thus saith the LORD of hosts; Zion shall be plowed like a field, and Jerusalem shall become heaps, and the mountain of the house as the high places of a forest.
 - **26:19** — Did Hezekiah king of Judah and all Judah put him at all to death? did he not fear the LORD, and besought the LORD, and the LORD repented him of the evil which he had pronounced against them? Thus might we procure great evil against our souls.
 
-### [[Hosea]]
+### [[books/Hosea|Hosea]]
 - **1:1** — The word of the LORD that came unto Hosea, the son of Beeri, in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel.
 
-### [[Micah]]
+### [[books/Micah|Micah]]
 - **1:1** — The word of the LORD that came to Micah the Morasthite in the days of Jotham, Ahaz, and Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem.
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **1:9** — And Ozias begat Joatham; and Joatham begat Achaz; and Achaz begat Ezekias;
 - **1:10** — And Ezekias begat Manasses; and Manasses begat Amon; and Amon begat Josias;
 

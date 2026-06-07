@@ -44,7 +44,7 @@ metav_id: 452
 
 ## Verse References
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **15:18** — Then Asa took all the silver and the gold that were left in the treasures of the house of the LORD, and the treasures of the king's house, and delivered them into the hand of his servants: and king Asa sent them to Benhadad, the son of Tabrimon, the son of Hezion, king of Syria, that dwelt at Damascus, saying,
 - **15:20** — So Benhadad hearkened unto king Asa, and sent the captains of the hosts which he had against the cities of Israel, and smote Ijon, and Dan, and Abelbethmaachah, and all Cinneroth, with all the land of Naphtali.
 - **20:1** — And Benhadad the king of Syria gathered all his host together: and there were thirty and two kings with him, and horses, and chariots: and he went up and besieged Samaria, and warred against it.
@@ -61,10 +61,10 @@ metav_id: 452
 - **20:33** — Now the men did diligently observe whether any thing would come from him, and did hastily catch it: and they said, Thy brother Benhadad. Then he said, Go ye, bring him. Then Benhadad came forth to him; and he caused him to come up into the chariot.
 - **20:34** — And Benhadad said unto him, The cities, which my father took from thy father, I will restore; and thou shalt make streets for thee in Damascus, as my father made in Samaria. Then said Ahab, I will send thee away with this covenant. So he made a covenant with him, and sent him away.
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **16:2** — Then Asa brought out silver and gold out of the treasures of the house of the LORD and of the king's house, and sent to Benhadad king of Syria, that dwelt at Damascus, saying,
 - **16:4** — And Benhadad hearkened unto king Asa, and sent the captains of his armies against the cities of Israel; and they smote Ijon, and Dan, and Abelmaim, and all the store cities of Naphtali.
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **49:27** — And I will kindle a fire in the wall of Damascus, and it shall consume the palaces of Benhadad.
 

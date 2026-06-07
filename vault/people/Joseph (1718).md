@@ -45,6 +45,6 @@ metav_id: 1718
 
 ## Verse References
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **3:26** — Which was the son of Maath, which was the son of Mattathias, which was the son of Semei, which was the son of Joseph, which was the son of Juda,
 

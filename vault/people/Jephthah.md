@@ -44,7 +44,7 @@ metav_id: 839
 
 ## Verse References
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **11:1** — Now Jephthah the Gileadite was a mighty man of valour, and he was the son of an harlot: and Gilead begat Jephthah.
 - **11:2** — And Gilead's wife bare him sons; and his wife's sons grew up, and they thrust out Jephthah, and said unto him, Thou shalt not inherit in our father's house; for thou art the son of a strange woman.
 - **11:3** — Then Jephthah fled from his brethren, and dwelt in the land of Tob: and there were gathered vain men to Jephthah, and went out with him.
@@ -70,9 +70,9 @@ metav_id: 839
 - **12:4** — Then Jephthah gathered together all the men of Gilead, and fought with Ephraim: and the men of Gilead smote Ephraim, because they said, Ye Gileadites are fugitives of Ephraim among the Ephraimites, and among the Manassites.
 - **12:7** — And Jephthah judged Israel six years. Then died Jephthah the Gileadite, and was buried in one of the cities of Gilead.
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **12:11** — And the LORD sent Jerubbaal, and Bedan, and Jephthah, and Samuel, and delivered you out of the hand of your enemies on every side, and ye dwelled safe.
 
-### [[Hebrews]]
+### [[books/Hebrews|Hebrews]]
 - **11:32** — And what shall I more say? for the time would fail me to tell of Gedeon, and of Barak, and of Samson, and of Jephthae; of David also, and Samuel, and of the prophets:
 

@@ -26,9 +26,9 @@ metav_id: 529
 
 ## Verse References
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **7:1** — Then Jerubbaal, who is Gideon, and all the people that were with him, rose up early, and pitched beside the well of Harod: so that the host of the Midianites were on the north side of them, by the hill of Moreh, in the valley.
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **23:25** — Shammah the Harodite, Elika the Harodite,
 

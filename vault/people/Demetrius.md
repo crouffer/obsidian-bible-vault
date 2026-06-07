@@ -44,10 +44,10 @@ metav_id: 1007
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **19:24** — For a certain man named Demetrius, a silversmith, which made silver shrines for Diana, brought no small gain unto the craftsmen;
 - **19:38** — Wherefore if Demetrius, and the craftsmen which are with him, have a matter against any man, the law is open, and there are deputies: let them implead one another.
 
-### [[3 John]]
+### [[books/3 John|3 John]]
 - **1:12** — Demetrius hath good report of all men, and of the truth itself: yea, and we also bear record; and ye know that our record is true.
 

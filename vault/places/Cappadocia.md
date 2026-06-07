@@ -26,9 +26,9 @@ metav_id: 276
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **2:9** — Parthians, and Medes, and Elamites, and the dwellers in Mesopotamia, and in Judaea, and Cappadocia, in Pontus, and Asia,
 
-### [[1 Peter]]
+### [[books/1 Peter|1 Peter]]
 - **1:1** — Peter, an apostle of Jesus Christ, to the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia,
 

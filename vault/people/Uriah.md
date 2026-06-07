@@ -45,7 +45,7 @@ metav_id: 2898
 
 ## Verse References
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **11:3** — And David sent and enquired after the woman. And one said, Is not this Bathsheba, the daughter of Eliam, the wife of Uriah the Hittite?
 - **11:6** — And David sent to Joab, saying, Send me Uriah the Hittite. And Joab sent Uriah to David.
 - **11:7** — And when Uriah was come unto him, David demanded of him how Joab did, and how the people did, and how the war prospered.
@@ -66,12 +66,12 @@ metav_id: 2898
 - **12:15** — And Nathan departed unto his house. And the LORD struck the child that Uriah's wife bare unto David, and it was very sick.
 - **23:39** — Uriah the Hittite: thirty and seven in all.
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **15:5** — Because David did that which was right in the eyes of the LORD, and turned not aside from any thing that he commanded him all the days of his life, save only in the matter of Uriah the Hittite.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **11:41** — Uriah the Hittite, Zabad the son of Ahlai,
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **1:6** — And Jesse begat David the king; and David the king begat Solomon of her that had been the wife of Urias;
 

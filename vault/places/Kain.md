@@ -26,9 +26,9 @@ metav_id: 664
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **24:22** — Nevertheless the Kenite shall be wasted, until Asshur shall carry thee away captive.
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **15:57** — Cain, Gibeah, and Timnah; ten cities with their villages:
 

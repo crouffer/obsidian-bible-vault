@@ -26,15 +26,15 @@ metav_id: 282
 
 ## Verse References
 
-### [[Isaiah]]
+### [[books/Isaiah|Isaiah]]
 - **48:20** — Go ye forth of Babylon, flee ye from the Chaldeans, with a voice of singing declare ye, tell this, utter it even to the end of the earth; say ye, The LORD hath redeemed his servant Jacob.
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **50:10** — And Chaldea shall be a spoil: all that spoil her shall be satisfied, saith the LORD.
 - **51:24** — And I will render unto Babylon and to all the inhabitants of Chaldea all their evil that they have done in Zion in your sight, saith the LORD.
 - **51:35** — The violence done to me and to my flesh be upon Babylon, shall the inhabitant of Zion say; and my blood upon the inhabitants of Chaldea, shall Jerusalem say.
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **11:24** — Afterwards the spirit took me up, and brought me in a vision by the Spirit of God into Chaldea, to them of the captivity. So the vision that I had seen went up from me.
 - **16:29** — Thou hast moreover multiplied thy fornication in the land of Canaan unto Chaldea; and yet thou wast not satisfied herewith.
 - **23:15** — Girded with girdles upon their loins, exceeding in dyed attire upon their heads, all of them princes to look to, after the manner of the Babylonians of Chaldea, the land of their nativity:

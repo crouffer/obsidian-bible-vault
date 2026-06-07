@@ -55,6 +55,6 @@ metav_id: 1473
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **8:17** — And Zebadiah, and Meshullam, and Hezeki, and Heber,
 

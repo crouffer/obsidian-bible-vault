@@ -26,6 +26,6 @@ metav_id: 153
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **11:33** — Azmaveth the Baharumite, Eliahba the Shaalbonite,
 

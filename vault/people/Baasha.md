@@ -45,7 +45,7 @@ metav_id: 589
 
 ## Verse References
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **15:16** — And there was war between Asa and Baasha king of Israel all their days.
 - **15:17** — And Baasha king of Israel went up against Judah, and built Ramah, that he might not suffer any to go out or come in to Asa king of Judah.
 - **15:19** — There is a league between me and thee, and between my father and thy father: behold, I have sent unto thee a present of silver and gold; come and break thy league with Baasha king of Israel, that he may depart from me.
@@ -67,15 +67,15 @@ metav_id: 589
 - **16:13** — For all the sins of Baasha, and the sins of Elah his son, by which they sinned, and by which they made Israel to sin, in provoking the LORD God of Israel to anger with their vanities.
 - **21:22** — And will make thine house like the house of Jeroboam the son of Nebat, and like the house of Baasha the son of Ahijah, for the provocation wherewith thou hast provoked me to anger, and made Israel to sin.
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **9:9** — And I will make the house of Ahab like the house of Jeroboam the son of Nebat, and like the house of Baasha the son of Ahijah:
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **16:1** — In the six and thirtieth year of the reign of Asa Baasha king of Israel came up against Judah, and built Ramah, to the intent that he might let none go out or come in to Asa king of Judah.
 - **16:3** — There is a league between me and thee, as there was between my father and thy father: behold, I have sent thee silver and gold; go, break thy league with Baasha king of Israel, that he may depart from me.
 - **16:5** — And it came to pass, when Baasha heard it, that he left off building of Ramah, and let his work cease.
 - **16:6** — Then Asa the king took all Judah; and they carried away the stones of Ramah, and the timber thereof, wherewith Baasha was building; and he built therewith Geba and Mizpah.
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **41:9** — Now the pit wherein Ishmael had cast all the dead bodies of the men, whom he had slain because of Gedaliah, was it which Asa the king had made for fear of Baasha king of Israel: and Ishmael the son of Nethaniah filled it with them that were slain.
 

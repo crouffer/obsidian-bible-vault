@@ -26,7 +26,7 @@ metav_id: 60
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **11:21** — And at that time came Joshua, and cut off the Anakims from the mountains, from Hebron, from Debir, from Anab, and from all the mountains of Judah, and from all the mountains of Israel: Joshua destroyed them utterly with their cities.
 - **15:50** — And Anab, and Eshtemoh, and Anim,
 

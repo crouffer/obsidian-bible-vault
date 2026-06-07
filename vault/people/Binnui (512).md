@@ -44,7 +44,7 @@ metav_id: 512
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **10:9** — And the Levites: both Jeshua the son of Azaniah, Binnui of the sons of Henadad, Kadmiel;
 - **12:8** — Moreover the Levites: Jeshua, Binnui, Kadmiel, Sherebiah, Judah, and Mattaniah, which was over the thanksgiving, he and his brethren.
 

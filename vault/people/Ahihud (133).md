@@ -44,6 +44,6 @@ metav_id: 133
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **34:27** — And the prince of the tribe of the children of Asher, Ahihud the son of Shelomi.
 

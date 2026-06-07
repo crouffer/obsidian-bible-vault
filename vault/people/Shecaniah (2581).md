@@ -44,6 +44,6 @@ metav_id: 2581
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **24:11** — The ninth to Jeshua, the tenth to Shecaniah,
 

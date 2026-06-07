@@ -44,9 +44,9 @@ metav_id: 1703
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **2:18** — The children of Jorah, an hundred and twelve.
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **7:24** — The children of Hariph, an hundred and twelve.
 

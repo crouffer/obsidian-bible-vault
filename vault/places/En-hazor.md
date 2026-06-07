@@ -26,6 +26,6 @@ metav_id: 392
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **19:37** — And Kedesh, and Edrei, and Enhazor,
 

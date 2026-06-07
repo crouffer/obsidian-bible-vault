@@ -26,10 +26,10 @@ metav_id: 801
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **20:15** — And we sailed thence, and came the next day over against Chios; and the next day we arrived at Samos, and tarried at Trogyllium; and the next day we came to Miletus.
 - **20:17** — And from Miletus he sent to Ephesus, and called the elders of the church.
 
-### [[2 Timothy]]
+### [[books/2 Timothy|2 Timothy]]
 - **4:20** — Erastus abode at Corinth: but Trophimus have I left at Miletum sick.
 

@@ -45,7 +45,7 @@ metav_id: 1164
 
 ## Verse References
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **1:14** — And Azor begat Sadoc; and Sadoc begat Achim; and Achim begat Eliud;
 - **1:15** — And Eliud begat Eleazar; and Eleazar begat Matthan; and Matthan begat Jacob;
 

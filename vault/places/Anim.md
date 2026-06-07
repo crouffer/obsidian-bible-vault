@@ -26,6 +26,6 @@ metav_id: 67
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **15:50** — And Anab, and Eshtemoh, and Anim,
 

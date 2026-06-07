@@ -46,13 +46,13 @@ metav_id: 2493
 
 ## Verse References
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **8:17** — And Zadok the son of Ahitub, and Ahimelech the son of Abiathar, were the priests; and Seraiah was the scribe;
 - **20:25** — And Sheva was scribe: and Zadok and Abiathar were the priests:
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **4:3** — Elihoreph and Ahiah, the sons of Shisha, scribes; Jehoshaphat the son of Ahilud, the recorder.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **18:16** — And Zadok the son of Ahitub, and Abimelech the son of Abiathar, were the priests; and Shavsha was scribe;
 

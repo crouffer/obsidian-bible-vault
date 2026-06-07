@@ -44,6 +44,6 @@ metav_id: 1501
 
 ## Verse References
 
-### [[Romans]]
+### [[books/Romans|Romans]]
 - **16:14** — Salute Asyncritus, Phlegon, Hermas, Patrobas, Hermes, and the brethren which are with them.
 

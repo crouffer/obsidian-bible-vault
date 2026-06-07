@@ -26,7 +26,7 @@ metav_id: 151
 
 ## Verse References
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **17:24** — And the king of Assyria brought men from Babylon, and from Cuthah, and from Ava, and from Hamath, and from Sepharvaim, and placed them in the cities of Samaria instead of the children of Israel: and they possessed Samaria, and dwelt in the cities thereof.
 - **17:30** — And the men of Babylon made Succothbenoth, and the men of Cuth made Nergal, and the men of Hamath made Ashima,
 - **20:12** — At that time Berodachbaladan, the son of Baladan, king of Babylon, sent letters and a present unto Hezekiah: for he had heard that Hezekiah had been sick.
@@ -56,10 +56,10 @@ metav_id: 151
 - **25:27** — And it came to pass in the seven and thirtieth year of the captivity of Jehoiachin king of Judah, in the twelfth month, on the seven and twentieth day of the month, that Evilmerodach king of Babylon in the year that he began to reign did lift up the head of Jehoiachin king of Judah out of prison;
 - **25:28** — And he spake kindly to him, and set his throne above the throne of the kings that were with him in Babylon;
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **9:1** — So all Israel were reckoned by genealogies; and, behold, they were written in the book of the kings of Israel and Judah, who were carried away to Babylon for their transgression.
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **32:31** — Howbeit in the business of the ambassadors of the princes of Babylon, who sent unto him to enquire of the wonder that was done in the land, God left him, to try him, that he might know all that was in his heart.
 - **33:11** — Wherefore the LORD brought upon them the captains of the host of the king of Assyria, which took Manasseh among the thorns, and bound him with fetters, and carried him to Babylon.
 - **36:6** — Against him came up Nebuchadnezzar king of Babylon, and bound him in fetters, to carry him to Babylon.
@@ -68,7 +68,7 @@ metav_id: 151
 - **36:18** — And all the vessels of the house of God, great and small, and the treasures of the house of the LORD, and the treasures of the king, and of his princes; all these he brought to Babylon.
 - **36:20** — And them that had escaped from the sword carried he away to Babylon; where they were servants to him and his sons until the reign of the kingdom of Persia:
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **2:1** — Now these are the children of the province that went up out of the captivity, of those which had been carried away, whom Nebuchadnezzar the king of Babylon had carried away unto Babylon, and came again unto Jerusalem and Judah, every one unto his city;
 - **5:12** — But after that our fathers had provoked the God of heaven unto wrath, he gave them into the hand of Nebuchadnezzar the king of Babylon, the Chaldean, who destroyed this house, and carried the people away into Babylon.
 - **5:13** — But in the first year of Cyrus the king of Babylon the same king Cyrus made a decree to build this house of God.
@@ -76,19 +76,19 @@ metav_id: 151
 - **5:17** — Now therefore, if it seem good to the king, let there be search made in the king's treasure house, which is there at Babylon, whether it be so, that a decree was made of Cyrus the king to build this house of God at Jerusalem, and let the king send his pleasure to us concerning this matter.
 - **6:5** — And also let the golden and silver vessels of the house of God, which Nebuchadnezzar took forth out of the temple which is at Jerusalem, and brought unto Babylon, be restored, and brought again unto the temple which is at Jerusalem, every one to his place, and place them in the house of God.
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **7:6** — These are the children of the province, that went up out of the captivity, of those that had been carried away, whom Nebuchadnezzar the king of Babylon had carried away, and came again to Jerusalem and to Judah, every one unto his city;
 - **13:6** — But in all this time was not I at Jerusalem: for in the two and thirtieth year of Artaxerxes king of Babylon came I unto the king, and after certain days obtained I leave of the king:
 
-### [[Esther]]
+### [[books/Esther|Esther]]
 - **2:6** — Who had been carried away from Jerusalem with the captivity which had been carried away with Jeconiah king of Judah, whom Nebuchadnezzar the king of Babylon had carried away.
 
-### [[Psalms]]
+### [[books/Psalms|Psalms]]
 - **87:4** — I will make mention of Rahab and Babylon to them that know me: behold Philistia, and Tyre, with Ethiopia; this man was born there.
 - **137:1** — By the rivers of Babylon, there we sat down, yea, we wept, when we remembered Zion.
 - **137:8** — O daughter of Babylon, who art to be destroyed; happy shall he be, that rewardeth thee as thou hast served us.
 
-### [[Isaiah]]
+### [[books/Isaiah|Isaiah]]
 - **13:1** — The burden of Babylon, which Isaiah the son of Amoz did see.
 - **13:19** — And Babylon, the glory of kingdoms, the beauty of the Chaldees' excellency, shall be as when God overthrew Sodom and Gomorrah.
 - **14:4** — That thou shalt take up this proverb against the king of Babylon, and say, How hath the oppressor ceased! the golden city ceased!
@@ -103,7 +103,7 @@ metav_id: 151
 - **48:14** — All ye, assemble yourselves, and hear; which among them hath declared these things? The LORD hath loved him: he will do his pleasure on Babylon, and his arm shall be on the Chaldeans.
 - **48:20** — Go ye forth of Babylon, flee ye from the Chaldeans, with a voice of singing declare ye, tell this, utter it even to the end of the earth; say ye, The LORD hath redeemed his servant Jacob.
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **20:4** — For thus saith the LORD, Behold, I will make thee a terror to thyself, and to all thy friends: and they shall fall by the sword of their enemies, and thine eyes shall behold it: and I will give all Judah into the hand of the king of Babylon, and he shall carry them captive into Babylon, and shall slay them with the sword.
 - **20:5** — Moreover I will deliver all the strength of this city, and all the labours thereof, and all the precious things thereof, and all the treasures of the kings of Judah will I give into the hand of their enemies, which shall spoil them, and take them, and carry them to Babylon.
 - **20:6** — And thou, Pashur, and all that dwell in thine house shall go into captivity: and thou shalt come to Babylon, and there thou shalt die, and shalt be buried there, thou, and all thy friends, to whom thou hast prophesied lies.
@@ -255,7 +255,7 @@ metav_id: 151
 - **52:32** — And spake kindly unto him, and set his throne above the throne of the kings that were with him in Babylon,
 - **52:34** — And for his diet, there was a continual diet given him of the king of Babylon, every day a portion until the day of his death, all the days of his life.
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **12:13** — My net also will I spread upon him, and he shall be taken in my snare: and I will bring him to Babylon to the land of the Chaldeans; yet shall he not see it, though he shall die there.
 - **17:12** — Say now to the rebellious house, Know ye not what these things mean? tell them, Behold, the king of Babylon is come to Jerusalem, and hath taken the king thereof, and the princes thereof, and led them with him to Babylon;
 - **17:16** — As I live, saith the Lord GOD, surely in the place where the king dwelleth that made him king, whose oath he despised, and whose covenant he brake, even with him in the midst of Babylon he shall die.
@@ -272,7 +272,7 @@ metav_id: 151
 - **30:25** — But I will strengthen the arms of the king of Babylon, and the arms of Pharaoh shall fall down; and they shall know that I am the LORD, when I shall put my sword into the hand of the king of Babylon, and he shall stretch it out upon the land of Egypt.
 - **32:11** — For thus saith the Lord GOD; The sword of the king of Babylon shall come upon thee.
 
-### [[Daniel]]
+### [[books/Daniel|Daniel]]
 - **1:1** — In the third year of the reign of Jehoiakim king of Judah came Nebuchadnezzar king of Babylon unto Jerusalem, and besieged it.
 - **2:12** — For this cause the king was angry and very furious, and commanded to destroy all the wise men of Babylon.
 - **2:14** — Then Daniel answered with counsel and wisdom to Arioch the captain of the king's guard, which was gone forth to slay the wise men of Babylon:
@@ -289,25 +289,25 @@ metav_id: 151
 - **5:7** — The king cried aloud to bring in the astrologers, the Chaldeans, and the soothsayers. And the king spake, and said to the wise men of Babylon, Whosoever shall read this writing, and shew me the interpretation thereof, shall be clothed with scarlet, and have a chain of gold about his neck, and shall be the third ruler in the kingdom.
 - **7:1** — In the first year of Belshazzar king of Babylon Daniel had a dream and visions of his head upon his bed: then he wrote the dream, and told the sum of the matters.
 
-### [[Micah]]
+### [[books/Micah|Micah]]
 - **4:10** — Be in pain, and labour to bring forth, O daughter of Zion, like a woman in travail: for now shalt thou go forth out of the city, and thou shalt dwell in the field, and thou shalt go even to Babylon; there shalt thou be delivered; there the LORD shall redeem thee from the hand of thine enemies.
 
-### [[Zechariah]]
+### [[books/Zechariah|Zechariah]]
 - **2:7** — Deliver thyself, O Zion, that dwellest with the daughter of Babylon.
 - **6:10** — Take of them of the captivity, even of Heldai, of Tobijah, and of Jedaiah, which are come from Babylon, and come thou the same day, and go into the house of Josiah the son of Zephaniah;
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **1:11** — And Josias begat Jechonias and his brethren, about the time they were carried away to Babylon:
 - **1:12** — And after they were brought to Babylon, Jechonias begat Salathiel; and Salathiel begat Zorobabel;
 - **1:17** — So all the generations from Abraham to David are fourteen generations; and from David until the carrying away into Babylon are fourteen generations; and from the carrying away into Babylon unto Christ are fourteen generations.
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **7:43** — Yea, ye took up the tabernacle of Moloch, and the star of your god Remphan, figures which ye made to worship them: and I will carry you away beyond Babylon.
 
-### [[1 Peter]]
+### [[books/1 Peter|1 Peter]]
 - **5:13** — The church that is at Babylon, elected together with you, saluteth you; and so doth Marcus my son.
 
-### [[Revelation]]
+### [[books/Revelation|Revelation]]
 - **14:8** — And there followed another angel, saying, Babylon is fallen, is fallen, that great city, because she made all nations drink of the wine of the wrath of her fornication.
 - **16:19** — And the great city was divided into three parts, and the cities of the nations fell: and great Babylon came in remembrance before God, to give unto her the cup of the wine of the fierceness of his wrath.
 - **17:5** — And upon her forehead was a name written, MYSTERY, BABYLON THE GREAT, THE MOTHER OF HARLOTS AND ABOMINATIONS OF THE EARTH.

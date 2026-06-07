@@ -1,6 +1,6 @@
 ---
 type: place
-name: On
+name: "On"
 also_known_as: ["Aven"]
 
 name_hebrew: ""
@@ -26,11 +26,11 @@ metav_id: 908
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **41:45** — And Pharaoh called Joseph's name Zaphnathpaaneah; and he gave him to wife Asenath the daughter of Potipherah priest of On. And Joseph went out over all the land of Egypt.
 - **41:50** — And unto Joseph were born two sons before the years of famine came, which Asenath the daughter of Potipherah priest of On bare unto him.
 - **46:20** — And unto Joseph in the land of Egypt were born Manasseh and Ephraim, which Asenath the daughter of Potipherah priest of On bare unto him.
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **30:17** — The young men of Aven and of Pibeseth shall fall by the sword: and these cities shall go into captivity.
 

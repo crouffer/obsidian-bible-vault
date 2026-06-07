@@ -26,7 +26,7 @@ metav_id: 869
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **19:15** — And Kattath, and Nahallal, and Shimron, and Idalah, and Bethlehem: twelve cities with their villages.
 - **21:35** — Dimnah with her suburbs, Nahalal with her suburbs; four cities.
 

@@ -17,8 +17,8 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Haggith]]"
-mother: "[[David]]"
+father: "[[David]]"
+mother: "[[Haggith]]"
 spouse: []
 children: []
 siblings: 
@@ -55,10 +55,10 @@ metav_id: 97
 
 ## Verse References
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **3:4** — And the fourth, Adonijah the son of Haggith; and the fifth, Shephatiah the son of Abital;
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **1:5** — Then Adonijah the son of Haggith exalted himself, saying, I will be king: and he prepared him chariots and horsemen, and fifty men to run before him.
 - **1:7** — And he conferred with Joab the son of Zeruiah, and with Abiathar the priest: and they following Adonijah helped him.
 - **1:8** — But Zadok the priest, and Benaiah the son of Jehoiada, and Nathan the prophet, and Shimei, and Rei, and the mighty men which belonged to David, were not with Adonijah.
@@ -82,6 +82,6 @@ metav_id: 97
 - **2:24** — Now therefore, as the LORD liveth, which hath established me, and set me on the throne of David my father, and who hath made me an house, as he promised, Adonijah shall be put to death this day.
 - **2:28** — Then tidings came to Joab: for Joab had turned after Adonijah, though he turned not after Absalom. And Joab fled unto the tabernacle of the LORD, and caught hold on the horns of the altar.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **3:2** — The third, Absalom the son of Maachah the daughter of Talmai king of Geshur: the fourth, Adonijah the son of Haggith:
 

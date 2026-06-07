@@ -45,6 +45,6 @@ metav_id: 2155
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **2:36** — And Attai begat Nathan, and Nathan begat Zabad,
 

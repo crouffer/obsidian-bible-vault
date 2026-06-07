@@ -44,7 +44,7 @@ metav_id: 385
 
 ## Verse References
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **26:17** — And Azariah the priest went in after him, and with him fourscore priests of the LORD, that were valiant men:
 - **26:20** — And Azariah the chief priest, and all the priests, looked upon him, and, behold, he was leprous in his forehead, and they thrust him out from thence; yea, himself hasted also to go out, because the LORD had smitten him.
 

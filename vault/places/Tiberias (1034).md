@@ -26,7 +26,7 @@ metav_id: 1034
 
 ## Verse References
 
-### [[John]]
+### [[books/John|John]]
 - **6:1** — After these things Jesus went over the sea of Galilee, which is the sea of Tiberias.
 - **21:1** — After these things Jesus shewed himself again to the disciples at the sea of Tiberias; and on this wise shewed he himself.
 

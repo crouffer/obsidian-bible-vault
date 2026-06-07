@@ -26,6 +26,6 @@ metav_id: 1257
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **13:19** — And Kirjathaim, and Sibmah, and Zarethshahar in the mount of the valley,
 

@@ -26,6 +26,6 @@ metav_id: 812
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **18:26** — And Mizpeh, and Chephirah, and Mozah,
 

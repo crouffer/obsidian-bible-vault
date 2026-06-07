@@ -26,6 +26,6 @@ metav_id: 1051
 
 ## Verse References
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **1:9** — And Adonijah slew sheep and oxen and fat cattle by the stone of Zoheleth, which is by Enrogel, and called all his brethren the king's sons, and all the men of Judah the king's servants:
 

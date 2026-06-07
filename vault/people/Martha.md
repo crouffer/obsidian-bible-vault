@@ -46,12 +46,12 @@ metav_id: 1937
 
 ## Verse References
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **10:38** — Now it came to pass, as they went, that he entered into a certain village: and a certain woman named Martha received him into her house.
 - **10:40** — But Martha was cumbered about much serving, and came to him, and said, Lord, dost thou not care that my sister hath left me to serve alone? bid her therefore that she help me.
 - **10:41** — And Jesus answered and said unto her, Martha, Martha, thou art careful and troubled about many things:
 
-### [[John]]
+### [[books/John|John]]
 - **11:1** — Now a certain man was sick, named Lazarus, of Bethany, the town of Mary and her sister Martha.
 - **11:5** — Now Jesus loved Martha, and her sister, and Lazarus.
 - **11:19** — And many of the Jews came to Martha and Mary, to comfort them concerning their brother.

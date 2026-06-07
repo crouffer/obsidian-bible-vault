@@ -26,9 +26,9 @@ metav_id: 1157
 
 ## Verse References
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **9:50** — Then went Abimelech to Thebez, and encamped against Thebez, and took it.
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **11:21** — Who smote Abimelech the son of Jerubbesheth? did not a woman cast a piece of a millstone upon him from the wall, that he died in Thebez? why went ye nigh the wall? then say thou, Thy servant Uriah the Hittite is dead also.
 

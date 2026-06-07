@@ -44,7 +44,7 @@ metav_id: 2367
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **24:27** — But after two years Porcius Festus came into Felix' room: and Felix, willing to shew the Jews a pleasure, left Paul bound.
 - **25:1** — Now when Festus was come into the province, after three days he ascended from Caesarea to Jerusalem.
 - **25:4** — But Festus answered, that Paul should be kept at Caesarea, and that he himself would depart shortly thither.

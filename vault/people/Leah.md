@@ -46,7 +46,7 @@ metav_id: 1813
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **29:16** — And Laban had two daughters: the name of the elder was Leah, and the name of the younger was Rachel.
 - **29:17** — Leah was tender eyed; but Rachel was beautiful and well favoured.
 - **29:23** — And it came to pass in the evening, that he took Leah his daughter, and brought her to him; and he went in unto her.
@@ -79,6 +79,6 @@ metav_id: 1813
 - **46:18** — These are the sons of Zilpah, whom Laban gave to Leah his daughter, and these she bare unto Jacob, even sixteen souls.
 - **49:31** — There they buried Abraham and Sarah his wife; there they buried Isaac and Rebekah his wife; and there I buried Leah.
 
-### [[Ruth]]
+### [[books/Ruth|Ruth]]
 - **4:11** — And all the people that were in the gate, and the elders, said, We are witnesses. The LORD make the woman that is come into thine house like Rachel and like Leah, which two did build the house of Israel: and do thou worthily in Ephratah, and be famous in Bethlehem:
 

@@ -26,6 +26,6 @@ metav_id: 912
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **18:24** — And Chepharhaammonai, and Ophni, and Gaba; twelve cities with their villages:
 

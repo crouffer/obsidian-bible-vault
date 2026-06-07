@@ -17,8 +17,8 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Bathsheba]]"
-mother: "[[David]]"
+father: "[[David]]"
+mother: "[[Bathsheba]]"
 spouse: 
   - "[[Daughter of Pharaoh (989)]]"
   - "[[Naamah (2119)]]"
@@ -63,12 +63,12 @@ metav_id: 2762
 
 ## Verse References
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **5:14** — And these be the names of those that were born unto him in Jerusalem; Shammua, and Shobab, and Nathan, and Solomon,
 - **12:24** — And David comforted Bathsheba his wife, and went in unto her, and lay with her: and she bare a son, and he called his name Solomon: and the LORD loved him.
 - **12:25** — And he sent by the hand of Nathan the prophet; and he called his name Jedidiah, because of the LORD.
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **1:10** — But Nathan the prophet, and Benaiah, and the mighty men, and Solomon his brother, he called not.
 - **1:11** — Wherefore Nathan spake unto Bathsheba the mother of Solomon, saying, Hast thou not heard that Adonijah the son of Haggith doth reign, and David our lord knoweth it not?
 - **1:12** — Now therefore come, let me, I pray thee, give thee counsel, that thou mayest save thine own life, and the life of thy son Solomon.
@@ -210,13 +210,13 @@ metav_id: 2762
 - **14:21** — And Rehoboam the son of Solomon reigned in Judah. Rehoboam was forty and one years old when he began to reign, and he reigned seventeen years in Jerusalem, the city which the LORD did choose out of all the tribes of Israel, to put his name there. And his mother's name was Naamah an Ammonitess.
 - **14:26** — And he took away the treasures of the house of the LORD, and the treasures of the king's house; he even took away all: and he took away all the shields of gold which Solomon had made.
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **21:7** — And he set a graven image of the grove that he had made in the house, of which the LORD said to David, and to Solomon his son, In this house, and in Jerusalem, which I have chosen out of all tribes of Israel, will I put my name for ever:
 - **23:13** — And the high places that were before Jerusalem, which were on the right hand of the mount of corruption, which Solomon the king of Israel had builded for Ashtoreth the abomination of the Zidonians, and for Chemosh the abomination of the Moabites, and for Milcom the abomination of the children of Ammon, did the king defile.
 - **24:13** — And he carried out thence all the treasures of the house of the LORD, and the treasures of the king's house, and cut in pieces all the vessels of gold which Solomon king of Israel had made in the temple of the LORD, as the LORD had said.
 - **25:16** — The two pillars, one sea, and the bases which Solomon had made for the house of the LORD; the brass of all these vessels was without weight.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **3:5** — And these were born unto him in Jerusalem; Shimea, and Shobab, and Nathan, and Solomon, four, of Bathshua the daughter of Ammiel:
 - **3:10** — And Solomon's son was Rehoboam, Abia his son, Asa his son, Jehoshaphat his son,
 - **6:10** — And Johanan begat Azariah, (he it is that executed the priest's office in the temple that Solomon built in Jerusalem:)
@@ -242,7 +242,7 @@ metav_id: 2762
 - **29:25** — And the LORD magnified Solomon exceedingly in the sight of all Israel, and bestowed upon him such royal majesty as had not been on any king before him in Israel.
 - **29:28** — And he died in a good old age, full of days, riches, and honour: and Solomon his son reigned in his stead.
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **1:1** — And Solomon the son of David was strengthened in his kingdom, and the LORD his God was with him, and magnified him exceedingly.
 - **1:2** — Then Solomon spake unto all Israel, to the captains of thousands and of hundreds, and to the judges, and to every governor in all Israel, the chief of the fathers.
 - **1:3** — So Solomon, and all the congregation with him, went to the high place that was at Gibeon; for there was the tabernacle of the congregation of God, which Moses the servant of the LORD had made in the wilderness.
@@ -318,27 +318,27 @@ metav_id: 2762
 - **35:3** — And said unto the Levites that taught all Israel, which were holy unto the LORD, Put the holy ark in the house which Solomon the son of David king of Israel did build; it shall not be a burden upon your shoulders: serve now the LORD your God, and his people Israel,
 - **35:4** — And prepare yourselves by the houses of your fathers, after your courses, according to the writing of David king of Israel, and according to the writing of Solomon his son.
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **2:55** — The children of Solomon's servants: the children of Sotai, the children of Sophereth, the children of Peruda,
 - **2:58** — All the Nethinims, and the children of Solomon's servants, were three hundred ninety and two.
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **7:57** — The children of Solomon's servants: the children of Sotai, the children of Sophereth, the children of Perida,
 - **7:60** — All the Nethinims, and the children of Solomon's servants, were three hundred ninety and two.
 - **11:3** — Now these are the chief of the province that dwelt in Jerusalem: but in the cities of Judah dwelt every one in his possession in their cities, to wit, Israel, the priests, and the Levites, and the Nethinims, and the children of Solomon's servants.
 - **12:45** — And both the singers and the porters kept the ward of their God, and the ward of the purification, according to the commandment of David, and of Solomon his son.
 - **13:26** — Did not Solomon king of Israel sin by these things? yet among many nations was there no king like him, who was beloved of his God, and God made him king over all Israel: nevertheless even him did outlandish women cause to sin.
 
-### [[Psalms]]
+### [[books/Psalms|Psalms]]
 - **72:1** — Give the king thy judgments, O God, and thy righteousness unto the king's son.
 - **127:1** — Except the LORD build the house, they labour in vain that build it: except the LORD keep the city, the watchman waketh but in vain.
 
-### [[Proverbs]]
+### [[books/Proverbs|Proverbs]]
 - **1:1** — The proverbs of Solomon the son of David, king of Israel;
 - **10:1** — The proverbs of Solomon. A wise son maketh a glad father: but a foolish son is the heaviness of his mother.
 - **25:1** — These are also proverbs of Solomon, which the men of Hezekiah king of Judah copied out.
 
-### [[Song of Solomon]]
+### [[books/Song of Solomon|Song of Solomon]]
 - **1:1** — The song of songs, which is Solomon's.
 - **1:5** — I am black, but comely, O ye daughters of Jerusalem, as the tents of Kedar, as the curtains of Solomon.
 - **3:7** — Behold his bed, which is Solomon's; threescore valiant men are about it, of the valiant of Israel.
@@ -347,23 +347,23 @@ metav_id: 2762
 - **8:11** — Solomon had a vineyard at Baalhamon; he let out the vineyard unto keepers; every one for the fruit thereof was to bring a thousand pieces of silver.
 - **8:12** — My vineyard, which is mine, is before me: thou, O Solomon, must have a thousand, and those that keep the fruit thereof two hundred.
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **52:20** — The two pillars, one sea, and twelve brasen bulls that were under the bases, which king Solomon had made in the house of the LORD: the brass of all these vessels was without weight.
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **1:6** — And Jesse begat David the king; and David the king begat Solomon of her that had been the wife of Urias;
 - **1:7** — And Solomon begat Roboam; and Roboam begat Abia; and Abia begat Asa;
 - **6:29** — And yet I say unto you, That even Solomon in all his glory was not arrayed like one of these.
 - **12:42** — The queen of the south shall rise up in the judgment with this generation, and shall condemn it: for she came from the uttermost parts of the earth to hear the wisdom of Solomon; and, behold, a greater than Solomon is here.
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **11:31** — The queen of the south shall rise up in the judgment with the men of this generation, and condemn them: for she came from the utmost parts of the earth to hear the wisdom of Solomon; and, behold, a greater than Solomon is here.
 - **12:27** — Consider the lilies how they grow: they toil not, they spin not; and yet I say unto you, that Solomon in all his glory was not arrayed like one of these.
 
-### [[John]]
+### [[books/John|John]]
 - **10:23** — And Jesus walked in the temple in Solomon's porch.
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **3:11** — And as the lame man which was healed held Peter and John, all the people ran together unto them in the porch that is called Solomon's, greatly wondering.
 - **5:12** — And by the hands of the apostles were many signs and wonders wrought among the people; (and they were all with one accord in Solomon's porch.
 - **7:47** — But Solomon built him an house.

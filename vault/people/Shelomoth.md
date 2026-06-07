@@ -48,7 +48,7 @@ metav_id: 2608
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **23:18** — Of the sons of Izhar; Shelomith the chief.
 - **24:22** — Of the Izharites; Shelomoth: of the sons of Shelomoth; Jahath.
 

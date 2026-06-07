@@ -17,8 +17,8 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Maachah (1841)]]"
-mother: "[[Rehoboam]]"
+father: "[[Rehoboam]]"
+mother: "[[Maachah (1841)]]"
 spouse: []
 children: 
   - "[[Asa (318)]]"
@@ -48,16 +48,16 @@ metav_id: 38
 
 ## Verse References
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **14:31** — And Rehoboam slept with his fathers, and was buried with his fathers in the city of David. And his mother's name was Naamah an Ammonitess. And Abijam his son reigned in his stead.
 - **15:1** — Now in the eighteenth year of king Jeroboam the son of Nebat reigned Abijam over Judah.
 - **15:7** — Now the rest of the acts of Abijam, and all that he did, are they not written in the book of the chronicles of the kings of Judah? And there was war between Abijam and Jeroboam.
 - **15:8** — And Abijam slept with his fathers; and they buried him in the city of David: and Asa his son reigned in his stead.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **3:10** — And Solomon's son was Rehoboam, Abia his son, Asa his son, Jehoshaphat his son,
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **11:20** — And after her he took Maachah the daughter of Absalom; which bare him Abijah, and Attai, and Ziza, and Shelomith.
 - **11:22** — And Rehoboam made Abijah the son of Maachah the chief, to be ruler among his brethren: for he thought to make him king.
 - **12:16** — And Rehoboam slept with his fathers, and was buried in the city of David: and Abijah his son reigned in his stead.
@@ -73,6 +73,6 @@ metav_id: 38
 - **13:22** — And the rest of the acts of Abijah, and his ways, and his sayings, are written in the story of the prophet Iddo.
 - **14:1** — So Abijah slept with his fathers, and they buried him in the city of David: and Asa his son reigned in his stead. In his days the land was quiet ten years.
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **1:7** — And Solomon begat Roboam; and Roboam begat Abia; and Abia begat Asa;
 

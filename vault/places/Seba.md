@@ -26,9 +26,9 @@ metav_id: 1037
 
 ## Verse References
 
-### [[Psalms]]
+### [[books/Psalms|Psalms]]
 - **72:10** — The kings of Tarshish and of the isles shall bring presents: the kings of Sheba and Seba shall offer gifts.
 
-### [[Isaiah]]
+### [[books/Isaiah|Isaiah]]
 - **43:3** — For I am the LORD thy God, the Holy One of Israel, thy Saviour: I gave Egypt for thy ransom, Ethiopia and Seba for thee.
 

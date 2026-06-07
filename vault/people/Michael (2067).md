@@ -45,6 +45,6 @@ metav_id: 2067
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **8:8** — And of the sons of Shephatiah; Zebadiah the son of Michael, and with him fourscore males.
 

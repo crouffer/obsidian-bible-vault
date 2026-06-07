@@ -45,6 +45,6 @@ metav_id: 2278
 
 ## Verse References
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **4:17** — Jehoshaphat the son of Paruah, in Issachar:
 

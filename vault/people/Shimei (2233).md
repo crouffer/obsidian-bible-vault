@@ -57,6 +57,6 @@ metav_id: 2233
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **25:17** — The tenth to Shimei, he, his sons, and his brethren, were twelve:
 

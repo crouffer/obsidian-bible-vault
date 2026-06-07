@@ -49,14 +49,14 @@ metav_id: 1305
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **46:11** — And the sons of Levi; Gershon, Kohath, and Merari.
 
-### [[Exodus]]
+### [[books/Exodus|Exodus]]
 - **6:16** — And these are the names of the sons of Levi according to their generations; Gershon, and Kohath, and Merari: and the years of the life of Levi were an hundred thirty and seven years.
 - **6:17** — The sons of Gershon; Libni, and Shimi, according to their families.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **3:17** — And these were the sons of Levi by their names; Gershon, and Kohath, and Merari.
 - **3:18** — And these are the names of the sons of Gershon by their families; Libni, and Shimei.
 - **3:21** — Of Gershon was the family of the Libnites, and the family of the Shimites: these are the families of the Gershonites.
@@ -69,11 +69,11 @@ metav_id: 1305
 - **10:17** — And the tabernacle was taken down; and the sons of Gershon and the sons of Merari set forward, bearing the tabernacle.
 - **26:57** — And these are they that were numbered of the Levites after their families: of Gershon, the family of the Gershonites: of Kohath, the family of the Kohathites: of Merari, the family of the Merarites.
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **21:6** — And the children of Gershon had by lot out of the families of the tribe of Issachar, and out of the tribe of Asher, and out of the tribe of Naphtali, and out of the half tribe of Manasseh in Bashan, thirteen cities.
 - **21:27** — And unto the children of Gershon, of the families of the Levites, out of the other half tribe of Manasseh they gave Golan in Bashan with her suburbs, to be a city of refuge for the slayer; and Beeshterah with her suburbs; two cities.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:1** — The sons of Levi; Gershon, Kohath, and Merari.
 - **6:16** — The sons of Levi; Gershom, Kohath, and Merari.
 - **6:17** — And these be the names of the sons of Gershom; Libni, and Shimei.

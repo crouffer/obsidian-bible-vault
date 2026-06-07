@@ -44,9 +44,9 @@ metav_id: 129
 
 ## Verse References
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **23:33** — Shammah the Hararite, Ahiam the son of Sharar the Hararite,
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **11:35** — Ahiam the son of Sacar the Hararite, Eliphal the son of Ur,
 

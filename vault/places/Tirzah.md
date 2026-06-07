@@ -26,10 +26,10 @@ metav_id: 1170
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **12:24** — The king of Tirzah, one: all the kings thirty and one.
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **14:17** — And Jeroboam's wife arose, and departed, and came to Tirzah: and when she came to the threshold of the door, the child died;
 - **15:21** — And it came to pass, when Baasha heard thereof, that he left off building of Ramah, and dwelt in Tirzah.
 - **15:33** — In the third year of Asa king of Judah began Baasha the son of Ahijah to reign over all Israel in Tirzah, twenty and four years.
@@ -40,10 +40,10 @@ metav_id: 1170
 - **16:17** — And Omri went up from Gibbethon, and all Israel with him, and they besieged Tirzah.
 - **16:23** — In the thirty and first year of Asa king of Judah began Omri to reign over Israel, twelve years: six years reigned he in Tirzah.
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **15:14** — For Menahem the son of Gadi went up from Tirzah, and came to Samaria, and smote Shallum the son of Jabesh in Samaria, and slew him, and reigned in his stead.
 - **15:16** — Then Menahem smote Tiphsah, and all that were therein, and the coasts thereof from Tirzah: because they opened not to him, therefore he smote it; and all the women therein that were with child he ripped up.
 
-### [[Song of Solomon]]
+### [[books/Song of Solomon|Song of Solomon]]
 - **6:4** — Thou art beautiful, O my love, as Tirzah, comely as Jerusalem, terrible as an army with banners.
 

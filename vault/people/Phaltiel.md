@@ -45,9 +45,9 @@ metav_id: 2326
 
 ## Verse References
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **25:44** — But Saul had given Michal his daughter, David's wife, to Phalti the son of Laish, which was of Gallim.
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **3:15** — And Ishbosheth sent, and took her from her husband, even from Phaltiel the son of Laish.
 

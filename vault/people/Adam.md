@@ -48,7 +48,7 @@ metav_id: 78
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **2:19** — And out of the ground the LORD God formed every beast of the field, and every fowl of the air; and brought them unto Adam to see what he would call them: and whatsoever Adam called every living creature, that was the name thereof.
 - **2:20** — And Adam gave names to all cattle, and to the fowl of the air, and to every beast of the field; but for Adam there was not found an help meet for him.
 - **2:21** — And the LORD God caused a deep sleep to fall upon Adam, and he slept: and he took one of his ribs, and closed up the flesh instead thereof;
@@ -66,29 +66,29 @@ metav_id: 78
 - **5:4** — And the days of Adam after he had begotten Seth were eight hundred years: and he begat sons and daughters:
 - **5:5** — And all the days that Adam lived were nine hundred and thirty years: and he died.
 
-### [[Deuteronomy]]
+### [[books/Deuteronomy|Deuteronomy]]
 - **32:8** — When the most High divided to the nations their inheritance, when he separated the sons of Adam, he set the bounds of the people according to the number of the children of Israel.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:1** — Adam, Sheth, Enosh,
 
-### [[Job]]
+### [[books/Job|Job]]
 - **31:33** — If I covered my transgressions as Adam, by hiding mine iniquity in my bosom:
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **3:38** — Which was the son of Enos, which was the son of Seth, which was the son of Adam, which was the son of God.
 
-### [[Romans]]
+### [[books/Romans|Romans]]
 - **5:14** — Nevertheless death reigned from Adam to Moses, even over them that had not sinned after the similitude of Adam's transgression, who is the figure of him that was to come.
 
-### [[1 Corinthians]]
+### [[books/1 Corinthians|1 Corinthians]]
 - **15:22** — For as in Adam all die, even so in Christ shall all be made alive.
 - **15:45** — And so it is written, The first man Adam was made a living soul; the last Adam was made a quickening spirit.
 
-### [[1 Timothy]]
+### [[books/1 Timothy|1 Timothy]]
 - **2:13** — For Adam was first formed, then Eve.
 - **2:14** — And Adam was not deceived, but the woman being deceived was in the transgression.
 
-### [[Jude]]
+### [[books/Jude|Jude]]
 - **1:14** — And Enoch also, the seventh from Adam, prophesied of these, saying, Behold, the Lord cometh with ten thousands of his saints,
 

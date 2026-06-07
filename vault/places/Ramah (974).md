@@ -26,6 +26,6 @@ metav_id: 974
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **19:36** — And Adamah, and Ramah, and Hazor,
 

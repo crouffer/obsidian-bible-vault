@@ -46,7 +46,7 @@ metav_id: 1336
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **1:1** — The words of Nehemiah the son of Hachaliah. And it came to pass in the month Chisleu, in the twentieth year, as I was in Shushan the palace,
 - **10:1** — Now those that sealed were, Nehemiah, the Tirshatha, the son of Hachaliah, and Zidkijah,
 

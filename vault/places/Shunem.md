@@ -26,12 +26,12 @@ metav_id: 1089
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **19:18** — And their border was toward Jezreel, and Chesulloth, and Shunem,
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **28:4** — And the Philistines gathered themselves together, and came and pitched in Shunem: and Saul gathered all Israel together, and they pitched in Gilboa.
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **4:8** — And it fell on a day, that Elisha passed to Shunem, where was a great woman; and she constrained him to eat bread. And so it was, that as oft as he passed by, he turned in thither to eat bread.
 

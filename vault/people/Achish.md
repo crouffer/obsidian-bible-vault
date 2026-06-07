@@ -44,7 +44,7 @@ metav_id: 66
 
 ## Verse References
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **21:10** — And David arose, and fled that day for fear of Saul, and went to Achish the king of Gath.
 - **21:11** — And the servants of Achish said unto him, Is not this David the king of the land? did they not sing one to another of him in dances, saying, Saul hath slain his thousands, and David his ten thousands?
 - **21:12** — And David laid up these words in his heart, and was sore afraid of Achish the king of Gath.
@@ -64,10 +64,10 @@ metav_id: 66
 - **29:8** — And David said unto Achish, But what have I done? and what hast thou found in thy servant so long as I have been with thee unto this day, that I may not go fight against the enemies of my lord the king?
 - **29:9** — And Achish answered and said to David, I know that thou art good in my sight, as an angel of God: notwithstanding the princes of the Philistines have said, He shall not go up with us to the battle.
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **2:39** — And it came to pass at the end of three years, that two of the servants of Shimei ran away unto Achish son of Maachah king of Gath. And they told Shimei, saying, Behold, thy servants be in Gath.
 - **2:40** — And Shimei arose, and saddled his ass, and went to Gath to Achish to seek his servants: and Shimei went, and brought his servants from Gath.
 
-### [[Psalms]]
+### [[books/Psalms|Psalms]]
 - **34:1** — I will bless the LORD at all times: his praise shall continually be in my mouth.
 

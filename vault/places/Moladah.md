@@ -26,13 +26,13 @@ metav_id: 816
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **15:26** — Amam, and Shema, and Moladah,
 - **19:2** — And they had in their inheritance Beersheba, or Sheba, and Moladah,
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **4:28** — And they dwelt at Beersheba, and Moladah, and Hazarshual,
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **11:26** — And at Jeshua, and at Moladah, and at Bethphelet,
 

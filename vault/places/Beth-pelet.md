@@ -26,9 +26,9 @@ metav_id: 227
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **15:27** — And Hazargaddah, and Heshmon, and Bethpalet,
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **11:26** — And at Jeshua, and at Moladah, and at Bethphelet,
 

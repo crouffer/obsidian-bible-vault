@@ -45,7 +45,7 @@ metav_id: 258
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **5:1** — But a certain man named Ananias, with Sapphira his wife, sold a possession,
 - **5:3** — But Peter said, Ananias, why hath Satan filled thine heart to lie to the Holy Ghost, and to keep back part of the price of the land?
 - **5:5** — And Ananias hearing these words fell down, and gave up the ghost: and great fear came on all them that heard these things.

@@ -26,7 +26,7 @@ metav_id: 244
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **4:10** — And the rest of the nations whom the great and noble Asnappar brought over, and set in the cities of Samaria, and the rest that are on this side the river, and at such a time.
 - **4:11** — This is the copy of the letter that they sent unto him, even unto Artaxerxes the king; Thy servants the men on this side the river, and at such a time.
 - **4:16** — We certify the king that, if this city be builded again, and the walls thereof set up, by this means thou shalt have no portion on this side the river.
@@ -41,7 +41,7 @@ metav_id: 244
 - **7:25** — And thou, Ezra, after the wisdom of thy God, that is in thine hand, set magistrates and judges, which may judge all the people that are beyond the river, all such as know the laws of thy God; and teach ye them that know them not.
 - **8:36** — And they delivered the king's commissions unto the king's lieutenants, and to the governors on this side the river: and they furthered the people, and the house of God.
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **2:7** — Moreover I said unto the king, If it please the king, let letters be given me to the governors beyond the river, that they may convey me over till I come into Judah;
 - **2:9** — Then I came to the governors beyond the river, and gave them the king's letters. Now the king had sent captains of the army and horsemen with me.
 - **3:7** — And next unto them repaired Melatiah the Gibeonite, and Jadon the Meronothite, the men of Gibeon, and of Mizpah, unto the throne of the governor on this side the river.

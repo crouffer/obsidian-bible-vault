@@ -44,7 +44,7 @@ metav_id: 1196
 
 ## Verse References
 
-### [[Philippians]]
+### [[books/Philippians|Philippians]]
 - **2:25** — Yet I supposed it necessary to send to you Epaphroditus, my brother, and companion in labour, and fellowsoldier, but your messenger, and he that ministered to my wants.
 - **4:18** — But I have all, and abound: I am full, having received of Epaphroditus the things which were sent from you, an odour of a sweet smell, a sacrifice acceptable, wellpleasing to God.
 

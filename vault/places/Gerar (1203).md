@@ -26,6 +26,6 @@ metav_id: 1203
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **26:17** — And Isaac departed thence, and pitched his tent in the valley of Gerar, and dwelt there.
 

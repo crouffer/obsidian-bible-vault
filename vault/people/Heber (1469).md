@@ -49,19 +49,19 @@ metav_id: 1469
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **46:17** — And the sons of Asher; Jimnah, and Ishuah, and Isui, and Beriah, and Serah their sister: and the sons of Beriah; Heber, and Malchiel.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **26:45** — Of the sons of Beriah: of Heber, the family of the Heberites: of Malchiel, the family of the Malchielites.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **7:31** — And the sons of Beriah; Heber, and Malchiel, who is the father of Birzavith.
 - **7:32** — And Heber begat Japhlet, and Shomer, and Hotham, and Shua their sister.
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **8:3** — And Joanna the wife of Chuza Herod's steward, and Susanna, and many others, which ministered unto him of their substance.
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **23:35** — I will hear thee, said he, when thine accusers are also come. And he commanded him to be kept in Herod's judgment hall.
 

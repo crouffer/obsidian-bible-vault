@@ -17,8 +17,8 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Wife of Jesse]]"
-mother: "[[Nahash (2138)]]"
+father: "[[Nahash (2138)]]"
+mother: "[[Wife of Jesse]]"
 spouse: []
 children: []
 siblings: 
@@ -45,10 +45,10 @@ metav_id: 3055
 
 ## Verse References
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **26:6** — Then answered David and said to Ahimelech the Hittite, and to Abishai the son of Zeruiah, brother to Joab, saying, Who will go down with me to Saul to the camp? And Abishai said, I will go down with thee.
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **2:13** — And Joab the son of Zeruiah, and the servants of David, went out, and met together by the pool of Gibeon: and they sat down, the one on the one side of the pool, and the other on the other side of the pool.
 - **2:18** — And there were three sons of Zeruiah there, Joab, and Abishai, and Asahel: and Asahel was as light of foot as a wild roe.
 - **3:39** — And I am this day weak, though anointed king; and these men the sons of Zeruiah be too hard for me: the LORD shall reward the doer of evil according to his wickedness.
@@ -64,12 +64,12 @@ metav_id: 3055
 - **23:18** — And Abishai, the brother of Joab, the son of Zeruiah, was chief among three. And he lifted up his spear against three hundred, and slew them, and had the name among three.
 - **23:37** — Zelek the Ammonite, Naharai the Beerothite, armourbearer to Joab the son of Zeruiah,
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **1:7** — And he conferred with Joab the son of Zeruiah, and with Abiathar the priest: and they following Adonijah helped him.
 - **2:5** — Moreover thou knowest also what Joab the son of Zeruiah did to me, and what he did to the two captains of the hosts of Israel, unto Abner the son of Ner, and unto Amasa the son of Jether, whom he slew, and shed the blood of war in peace, and put the blood of war upon his girdle that was about his loins, and in his shoes that were on his feet.
 - **2:22** — And king Solomon answered and said unto his mother, And why dost thou ask Abishag the Shunammite for Adonijah? ask for him the kingdom also; for he is mine elder brother; even for him, and for Abiathar the priest, and for Joab the son of Zeruiah.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **2:16** — Whose sisters were Zeruiah, and Abigail. And the sons of Zeruiah; Abishai, and Joab, and Asahel, three.
 - **11:6** — And David said, Whosoever smiteth the Jebusites first shall be chief and captain. So Joab the son of Zeruiah went first up, and was chief.
 - **11:39** — Zelek the Ammonite, Naharai the Berothite, the armourbearer of Joab the son of Zeruiah,

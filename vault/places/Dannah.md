@@ -26,6 +26,6 @@ metav_id: 324
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **15:49** — And Dannah, and Kirjathsannah, which is Debir,
 

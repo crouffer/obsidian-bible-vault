@@ -44,7 +44,7 @@ metav_id: 204
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **10:3** — Pashur, Amariah, Malchijah,
 - **12:2** — Amariah, Malluch, Hattush,
 - **12:13** — Of Ezra, Meshullam; of Amariah, Jehohanan;

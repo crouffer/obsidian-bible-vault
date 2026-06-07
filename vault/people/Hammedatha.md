@@ -45,7 +45,7 @@ metav_id: 1362
 
 ## Verse References
 
-### [[Esther]]
+### [[books/Esther|Esther]]
 - **3:1** — After these things did king Ahasuerus promote Haman the son of Hammedatha the Agagite, and advanced him, and set his seat above all the princes that were with him.
 - **3:10** — And the king took his ring from his hand, and gave it unto Haman the son of Hammedatha the Agagite, the Jews' enemy.
 - **8:5** — And said, If it please the king, and if I have found favour in his sight, and the thing seem right before the king, and I be pleasing in his eyes, let it be written to reverse the letters devised by Haman the son of Hammedatha the Agagite, which he wrote to destroy the Jews which are in all the king's provinces:

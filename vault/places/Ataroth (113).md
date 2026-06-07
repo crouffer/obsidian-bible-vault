@@ -26,7 +26,7 @@ metav_id: 113
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **32:3** — Ataroth, and Dibon, and Jazer, and Nimrah, and Heshbon, and Elealeh, and Shebam, and Nebo, and Beon,
 - **32:34** — And the children of Gad built Dibon, and Ataroth, and Aroer,
 

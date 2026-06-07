@@ -45,7 +45,7 @@ metav_id: 2579
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **23:16** — Of the sons of Gershom, Shebuel was the chief.
 - **24:20** — And the rest of the sons of Levi were these: Of the sons of Amram; Shubael: of the sons of Shubael; Jehdeiah.
 - **26:24** — And Shebuel the son of Gershom, the son of Moses, was ruler of the treasures.

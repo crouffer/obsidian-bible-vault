@@ -26,7 +26,7 @@ metav_id: 268
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **10:11** — Out of that land went forth Asshur, and builded Nineveh, and the city Rehoboth, and Calah,
 - **10:12** — And Resen between Nineveh and Calah: the same is a great city.
 

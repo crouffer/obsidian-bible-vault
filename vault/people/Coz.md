@@ -17,8 +17,8 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Helah]]"
-mother: "[[Ashur]]"
+father: "[[Ashur]]"
+mother: "[[Helah]]"
 spouse: []
 children: 
   - "[[Anub]]"
@@ -50,6 +50,6 @@ metav_id: 958
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **4:8** — And Coz begat Anub, and Zobebah, and the families of Aharhel the son of Harum.
 

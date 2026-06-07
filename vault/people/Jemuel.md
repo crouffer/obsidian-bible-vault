@@ -49,15 +49,15 @@ metav_id: 838
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **46:10** — And the sons of Simeon; Jemuel, and Jamin, and Ohad, and Jachin, and Zohar, and Shaul the son of a Canaanitish woman.
 
-### [[Exodus]]
+### [[books/Exodus|Exodus]]
 - **6:15** — And the sons of Simeon; Jemuel, and Jamin, and Ohad, and Jachin, and Zohar, and Shaul the son of a Canaanitish woman: these are the families of Simeon.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **26:12** — The sons of Simeon after their families: of Nemuel, the family of the Nemuelites: of Jamin, the family of the Jaminites: of Jachin, the family of the Jachinites:
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **4:24** — The sons of Simeon were, Nemuel, and Jamin, Jarib, Zerah, and Shaul:
 

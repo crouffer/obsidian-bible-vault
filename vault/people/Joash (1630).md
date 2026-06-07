@@ -45,7 +45,7 @@ metav_id: 1630
 
 ## Verse References
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **6:11** — And there came an angel of the LORD, and sat under an oak which was in Ophrah, that pertained unto Joash the Abiezrite: and his son Gideon threshed wheat by the winepress, to hide it from the Midianites.
 - **6:29** — And they said one to another, Who hath done this thing? And when they enquired and asked, they said, Gideon the son of Joash hath done this thing.
 - **6:30** — Then the men of the city said unto Joash, Bring out thy son, that he may die: because he hath cast down the altar of Baal, and because he hath cut down the grove that was by it.

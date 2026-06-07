@@ -44,7 +44,7 @@ metav_id: 2753
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **8:13** — Then Simon himself believed also: and when he was baptized, he continued with Philip, and wondered, beholding the miracles and signs which were done.
 - **9:43** — And it came to pass, that he tarried many days in Joppa with one Simon a tanner.
 - **10:6** — He lodgeth with one Simon a tanner, whose house is by the sea side: he shall tell thee what thou oughtest to do.

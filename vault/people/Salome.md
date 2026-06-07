@@ -44,7 +44,7 @@ metav_id: 2464
 
 ## Verse References
 
-### [[Mark]]
+### [[books/Mark|Mark]]
 - **15:40** — There were also women looking on afar off: among whom was Mary Magdalene, and Mary the mother of James the less and of Joses, and Salome;
 - **16:1** — And when the sabbath was past, Mary Magdalene, and Mary the mother of James, and Salome, had bought sweet spices, that they might come and anoint him.
 

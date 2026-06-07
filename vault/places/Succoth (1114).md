@@ -26,11 +26,11 @@ metav_id: 1114
 
 ## Verse References
 
-### [[Exodus]]
+### [[books/Exodus|Exodus]]
 - **12:37** — And the children of Israel journeyed from Rameses to Succoth, about six hundred thousand on foot that were men, beside children.
 - **13:20** — And they took their journey from Succoth, and encamped in Etham, in the edge of the wilderness.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **33:5** — And the children of Israel removed from Rameses, and pitched in Succoth.
 - **33:6** — And they departed from Succoth, and pitched in Etham, which is in the edge of the wilderness.
 

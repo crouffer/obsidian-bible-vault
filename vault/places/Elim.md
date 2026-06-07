@@ -26,11 +26,11 @@ metav_id: 369
 
 ## Verse References
 
-### [[Exodus]]
+### [[books/Exodus|Exodus]]
 - **15:27** — And they came to Elim, where were twelve wells of water, and threescore and ten palm trees: and they encamped there by the waters.
 - **16:1** — And they took their journey from Elim, and all the congregation of the children of Israel came unto the wilderness of Sin, which is between Elim and Sinai, on the fifteenth day of the second month after their departing out of the land of Egypt.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **33:9** — And they removed from Marah, and came unto Elim: and in Elim were twelve fountains of water, and threescore and ten palm trees; and they pitched there.
 - **33:10** — And they removed from Elim, and encamped by the Red sea.
 

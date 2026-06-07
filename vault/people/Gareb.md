@@ -44,12 +44,12 @@ metav_id: 1279
 
 ## Verse References
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **23:38** — Ira an Ithrite, Gareb an Ithrite,
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **11:40** — Ira the Ithrite, Gareb the Ithrite,
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **31:39** — And the measuring line shall yet go forth over against it upon the hill Gareb, and shall compass about to Goath.
 

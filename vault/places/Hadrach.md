@@ -26,6 +26,6 @@ metav_id: 504
 
 ## Verse References
 
-### [[Zechariah]]
+### [[books/Zechariah|Zechariah]]
 - **9:1** — The burden of the word of the LORD in the land of Hadrach, and Damascus shall be the rest thereof: when the eyes of man, as of all the tribes of Israel, shall be toward the LORD.
 

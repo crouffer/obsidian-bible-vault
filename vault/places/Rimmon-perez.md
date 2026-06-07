@@ -26,7 +26,7 @@ metav_id: 1007
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **33:19** — And they departed from Rithmah, and pitched at Rimmonparez.
 - **33:20** — And they departed from Rimmonparez, and pitched in Libnah.
 

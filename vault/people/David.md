@@ -80,11 +80,11 @@ metav_id: 994
 
 ## Verse References
 
-### [[Ruth]]
+### [[books/Ruth|Ruth]]
 - **4:17** — And the women her neighbours gave it a name, saying, There is a son born to Naomi; and they called his name Obed: he is the father of Jesse, the father of David.
 - **4:22** — And Obed begat Jesse, and Jesse begat David.
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **16:13** — Then Samuel took the horn of oil, and anointed him in the midst of his brethren: and the Spirit of the LORD came upon David from that day forward. So Samuel rose up, and went to Ramah.
 - **16:19** — Wherefore Saul sent messengers unto Jesse, and said, Send me David thy son, which is with the sheep.
 - **16:20** — And Jesse took an ass laden with bread, and a bottle of wine, and a kid, and sent them by David his son unto Saul.
@@ -319,7 +319,7 @@ metav_id: 994
 - **30:26** — And when David came to Ziklag, he sent of the spoil unto the elders of Judah, even to his friends, saying, Behold a present for you of the spoil of the enemies of the LORD;
 - **30:31** — And to them which were in Hebron, and to all the places where David himself and his men were wont to haunt.
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **1:1** — Now it came to pass after the death of Saul, when David was returned from the slaughter of the Amalekites, and David had abode two days in Ziklag;
 - **1:2** — It came even to pass on the third day, that, behold, a man came out of the camp from Saul with his clothes rent, and earth upon his head: and so it was, when he came to David, that he fell to the earth, and did obeisance.
 - **1:3** — And David said unto him, From whence comest thou? And he said unto him, Out of the camp of Israel am I escaped.
@@ -547,7 +547,7 @@ metav_id: 994
 - **24:24** — And the king said unto Araunah, Nay; but I will surely buy it of thee at a price: neither will I offer burnt offerings unto the LORD my God of that which doth cost me nothing. So David bought the threshingfloor and the oxen for fifty shekels of silver.
 - **24:25** — And David built there an altar unto the LORD, and offered burnt offerings and peace offerings. So the LORD was intreated for the land, and the plague was stayed from Israel.
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **1:1** — Now king David was old and stricken in years; and they covered him with clothes, but he gat no heat.
 - **1:8** — But Zadok the priest, and Benaiah the son of Jehoiada, and Nathan the prophet, and Shimei, and Rei, and the mighty men which belonged to David, were not with Adonijah.
 - **1:11** — Wherefore Nathan spake unto Bathsheba the mother of Solomon, saying, Hast thou not heard that Adonijah the son of Haggith doth reign, and David our lord knoweth it not?
@@ -623,7 +623,7 @@ metav_id: 994
 - **15:24** — And Asa slept with his fathers, and was buried with his fathers in the city of David his father: and Jehoshaphat his son reigned in his stead.
 - **22:50** — And Jehoshaphat slept with his fathers, and was buried with his fathers in the city of David his father: and Jehoram his son reigned in his stead.
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **8:19** — Yet the LORD would not destroy Judah for David his servant's sake, as he promised him to give him alway a light, and to his children.
 - **8:24** — And Joram slept with his fathers, and was buried with his fathers in the city of David: and Ahaziah his son reigned in his stead.
 - **9:28** — And his servants carried him in a chariot to Jerusalem, and buried him in his sepulchre with his fathers in the city of David.
@@ -643,7 +643,7 @@ metav_id: 994
 - **21:7** — And he set a graven image of the grove that he had made in the house, of which the LORD said to David, and to Solomon his son, In this house, and in Jerusalem, which I have chosen out of all tribes of Israel, will I put my name for ever:
 - **22:2** — And he did that which was right in the sight of the LORD, and walked in all the way of David his father, and turned not aside to the right hand or to the left.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **2:15** — Ozem the sixth, David the seventh:
 - **3:1** — Now these were the sons of David, which were born unto him in Hebron; the firstborn Amnon, of Ahinoam the Jezreelitess; the second Daniel, of Abigail the Carmelitess:
 - **3:9** — These were all the sons of David, beside the sons of the concubines, and Tamar their sister.
@@ -804,7 +804,7 @@ metav_id: 994
 - **29:26** — Thus David the son of Jesse reigned over all Israel.
 - **29:29** — Now the acts of David the king, first and last, behold, they are written in the book of Samuel the seer, and in the book of Nathan the prophet, and in the book of Gad the seer,
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **1:1** — And Solomon the son of David was strengthened in his kingdom, and the LORD his God was with him, and magnified him exceedingly.
 - **1:4** — But the ark of God had David brought up from Kirjathjearim to the place which David had prepared for it: for he had pitched a tent for it at Jerusalem.
 - **1:8** — And Solomon said unto God, Thou hast shewed great mercy unto David my father, and hast made me to reign in his stead.
@@ -872,12 +872,12 @@ metav_id: 994
 - **35:4** — And prepare yourselves by the houses of your fathers, after your courses, according to the writing of David king of Israel, and according to the writing of Solomon his son.
 - **35:15** — And the singers the sons of Asaph were in their place, according to the commandment of David, and Asaph, and Heman, and Jeduthun the king's seer; and the porters waited at every gate; they might not depart from their service; for their brethren the Levites prepared for them.
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **3:10** — And when the builders laid the foundation of the temple of the LORD, they set the priests in their apparel with trumpets, and the Levites the sons of Asaph with cymbals, to praise the LORD, after the ordinance of David king of Israel.
 - **8:2** — Of the sons of Phinehas; Gershom: of the sons of Ithamar; Daniel: of the sons of David; Hattush.
 - **8:20** — Also of the Nethinims, whom David and the princes had appointed for the service of the Levites, two hundred and twenty Nethinims: all of them were expressed by name.
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **3:15** — But the gate of the fountain repaired Shallun the son of Colhozeh, the ruler of part of Mizpah; he built it, and covered it, and set up the doors thereof, the locks thereof, and the bars thereof, and the wall of the pool of Siloah by the king's garden, and unto the stairs that go down from the city of David.
 - **3:16** — After him repaired Nehemiah the son of Azbuk, the ruler of the half part of Bethzur, unto the place over against the sepulchres of David, and to the pool that was made, and unto the house of the mighty.
 - **12:24** — And the chief of the Levites: Hashabiah, Sherebiah, and Jeshua the son of Kadmiel, with their brethren over against them, to praise and to give thanks, according to the commandment of David the man of God, ward over against ward.
@@ -886,7 +886,7 @@ metav_id: 994
 - **12:45** — And both the singers and the porters kept the ward of their God, and the ward of the purification, according to the commandment of David, and of Solomon his son.
 - **12:46** — For in the days of David and Asaph of old there were chief of the singers, and songs of praise and thanksgiving unto God.
 
-### [[Psalms]]
+### [[books/Psalms|Psalms]]
 - **3:1** — LORD, how are they increased that trouble me! many are they that rise up against me.
 - **4:1** — Hear me when I call, O God of my righteousness: thou hast enlarged me when I was in distress; have mercy upon me, and hear my prayer.
 - **5:1** — Give ear to my words, O LORD, consider my meditation.
@@ -974,16 +974,16 @@ metav_id: 994
 - **144:10** — It is he that giveth salvation unto kings: who delivereth David his servant from the hurtful sword.
 - **145:1** — I will extol thee, my God, O king; and I will bless thy name for ever and ever.
 
-### [[Proverbs]]
+### [[books/Proverbs|Proverbs]]
 - **1:1** — The proverbs of Solomon the son of David, king of Israel;
 
-### [[Ecclesiastes]]
+### [[books/Ecclesiastes|Ecclesiastes]]
 - **1:1** — The words of the Preacher, the son of David, king in Jerusalem.
 
-### [[Song of Solomon]]
+### [[books/Song of Solomon|Song of Solomon]]
 - **4:4** — Thy neck is like the tower of David builded for an armoury, whereon there hang a thousand bucklers, all shields of mighty men.
 
-### [[Isaiah]]
+### [[books/Isaiah|Isaiah]]
 - **7:2** — And it was told the house of David, saying, Syria is confederate with Ephraim. And his heart was moved, and the heart of his people, as the trees of the wood are moved with the wind.
 - **7:13** — And he said, Hear ye now, O house of David; Is it a small thing for you to weary men, but will ye weary my God also?
 - **9:7** — Of the increase of his government and peace there shall be no end, upon the throne of David, and upon his kingdom, to order it, and to establish it with judgment and with justice from henceforth even for ever. The zeal of the LORD of hosts will perform this.
@@ -995,7 +995,7 @@ metav_id: 994
 - **38:5** — Go, and say to Hezekiah, Thus saith the LORD, the God of David thy father, I have heard thy prayer, I have seen thy tears: behold, I will add unto thy days fifteen years.
 - **55:3** — Incline your ear, and come unto me: hear, and your soul shall live; and I will make an everlasting covenant with you, even the sure mercies of David.
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **13:13** — Then shalt thou say unto them, Thus saith the LORD, Behold, I will fill all the inhabitants of this land, even the kings that sit upon David's throne, and the priests, and the prophets, and all the inhabitants of Jerusalem, with drunkenness.
 - **17:25** — Then shall there enter into the gates of this city kings and princes sitting upon the throne of David, riding in chariots and on horses, they, and their princes, the men of Judah, and the inhabitants of Jerusalem: and this city shall remain for ever.
 - **21:12** — O house of David, thus saith the LORD; Execute judgment in the morning, and deliver him that is spoiled out of the hand of the oppressor, lest my fury go out like fire, and burn that none can quench it, because of the evil of your doings.
@@ -1012,27 +1012,27 @@ metav_id: 994
 - **33:26** — Then will I cast away the seed of Jacob, and David my servant, so that I will not take any of his seed to be rulers over the seed of Abraham, Isaac, and Jacob: for I will cause their captivity to return, and have mercy on them.
 - **36:30** — Therefore thus saith the LORD of Jehoiakim king of Judah; He shall have none to sit upon the throne of David: and his dead body shall be cast out in the day to the heat, and in the night to the frost.
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **34:23** — And I will set up one shepherd over them, and he shall feed them, even my servant David; he shall feed them, and he shall be their shepherd.
 - **34:24** — And I the LORD will be their God, and my servant David a prince among them; I the LORD have spoken it.
 - **37:24** — And David my servant shall be king over them; and they all shall have one shepherd: they shall also walk in my judgments, and observe my statutes, and do them.
 - **37:25** — And they shall dwell in the land that I have given unto Jacob my servant, wherein your fathers have dwelt; and they shall dwell therein, even they, and their children, and their children's children for ever: and my servant David shall be their prince for ever.
 
-### [[Hosea]]
+### [[books/Hosea|Hosea]]
 - **3:5** — Afterward shall the children of Israel return, and seek the LORD their God, and David their king; and shall fear the LORD and his goodness in the latter days.
 
-### [[Amos]]
+### [[books/Amos|Amos]]
 - **6:5** — That chant to the sound of the viol, and invent to themselves instruments of musick, like David;
 - **9:11** — In that day will I raise up the tabernacle of David that is fallen, and close up the breaches thereof; and I will raise up his ruins, and I will build it as in the days of old:
 
-### [[Zechariah]]
+### [[books/Zechariah|Zechariah]]
 - **12:7** — The LORD also shall save the tents of Judah first, that the glory of the house of David and the glory of the inhabitants of Jerusalem do not magnify themselves against Judah.
 - **12:8** — In that day shall the LORD defend the inhabitants of Jerusalem; and he that is feeble among them at that day shall be as David; and the house of David shall be as God, as the angel of the LORD before them.
 - **12:10** — And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and of supplications: and they shall look upon me whom they have pierced, and they shall mourn for him, as one mourneth for his only son, and shall be in bitterness for him, as one that is in bitterness for his firstborn.
 - **12:12** — And the land shall mourn, every family apart; the family of the house of David apart, and their wives apart; the family of the house of Nathan apart, and their wives apart;
 - **13:1** — In that day there shall be a fountain opened to the house of David and to the inhabitants of Jerusalem for sin and for uncleanness.
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **1:1** — The book of the generation of Jesus Christ, the son of David, the son of Abraham.
 - **1:6** — And Jesse begat David the king; and David the king begat Solomon of her that had been the wife of Urias;
 - **1:17** — So all the generations from Abraham to David are fourteen generations; and from David until the carrying away into Babylon are fourteen generations; and from the carrying away into Babylon unto Christ are fourteen generations.
@@ -1049,7 +1049,7 @@ metav_id: 994
 - **22:43** — He saith unto them, How then doth David in spirit call him Lord, saying,
 - **22:45** — If David then call him Lord, how is he his son?
 
-### [[Mark]]
+### [[books/Mark|Mark]]
 - **2:25** — And he said unto them, Have ye never read what David did, when he had need, and was an hungred, he, and they that were with him?
 - **10:47** — And when he heard that it was Jesus of Nazareth, he began to cry out, and say, Jesus, thou Son of David, have mercy on me.
 - **10:48** — And many charged him that he should hold his peace: but he cried the more a great deal, Thou Son of David, have mercy on me.
@@ -1058,7 +1058,7 @@ metav_id: 994
 - **12:36** — For David himself said by the Holy Ghost, The LORD said to my Lord, Sit thou on my right hand, till I make thine enemies thy footstool.
 - **12:37** — David therefore himself calleth him Lord; and whence is he then his son? And the common people heard him gladly.
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **1:27** — To a virgin espoused to a man whose name was Joseph, of the house of David; and the virgin's name was Mary.
 - **1:32** — He shall be great, and shall be called the Son of the Highest: and the Lord God shall give unto him the throne of his father David:
 - **1:69** — And hath raised up an horn of salvation for us in the house of his servant David;
@@ -1072,10 +1072,10 @@ metav_id: 994
 - **20:42** — And David himself saith in the book of Psalms, The LORD said unto my Lord, Sit thou on my right hand,
 - **20:44** — David therefore calleth him Lord, how is he then his son?
 
-### [[John]]
+### [[books/John|John]]
 - **7:42** — Hath not the scripture said, That Christ cometh of the seed of David, and out of the town of Bethlehem, where David was?
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **1:16** — Men and brethren, this scripture must needs have been fulfilled, which the Holy Ghost by the mouth of David spake before concerning Judas, which was guide to them that took Jesus.
 - **2:25** — For David speaketh concerning him, I foresaw the Lord always before my face, for he is on my right hand, that I should not be moved:
 - **2:29** — Men and brethren, let me freely speak unto you of the patriarch David, that he is both dead and buried, and his sepulchre is with us unto this day.
@@ -1087,19 +1087,19 @@ metav_id: 994
 - **13:36** — For David, after he had served his own generation by the will of God, fell on sleep, and was laid unto his fathers, and saw corruption:
 - **15:16** — After this I will return, and will build again the tabernacle of David, which is fallen down; and I will build again the ruins thereof, and I will set it up:
 
-### [[Romans]]
+### [[books/Romans|Romans]]
 - **1:3** — Concerning his Son Jesus Christ our Lord, which was made of the seed of David according to the flesh;
 - **4:6** — Even as David also describeth the blessedness of the man, unto whom God imputeth righteousness without works,
 - **11:9** — And David saith, Let their table be made a snare, and a trap, and a stumblingblock, and a recompence unto them:
 
-### [[2 Timothy]]
+### [[books/2 Timothy|2 Timothy]]
 - **2:8** — Remember that Jesus Christ of the seed of David was raised from the dead according to my gospel:
 
-### [[Hebrews]]
+### [[books/Hebrews|Hebrews]]
 - **4:7** — Again, he limiteth a certain day, saying in David, To day, after so long a time; as it is said, To day if ye will hear his voice, harden not your hearts.
 - **11:32** — And what shall I more say? for the time would fail me to tell of Gedeon, and of Barak, and of Samson, and of Jephthae; of David also, and Samuel, and of the prophets:
 
-### [[Revelation]]
+### [[books/Revelation|Revelation]]
 - **3:7** — And to the angel of the church in Philadelphia write; These things saith he that is holy, he that is true, he that hath the key of David, he that openeth, and no man shutteth; and shutteth, and no man openeth;
 - **5:5** — And one of the elders saith unto me, Weep not: behold, the Lion of the tribe of Juda, the Root of David, hath prevailed to open the book, and to loose the seven seals thereof.
 - **22:16** — I Jesus have sent mine angel to testify unto you these things in the churches. I am the root and the offspring of David, and the bright and morning star.

@@ -44,7 +44,7 @@ metav_id: 1166
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **1:5** — And these are the names of the men that shall stand with you: of the tribe of Reuben; Elizur the son of Shedeur.
 - **2:10** — On the south side shall be the standard of the camp of Reuben according to their armies: and the captain of the children of Reuben shall be Elizur the son of Shedeur.
 - **7:30** — On the fourth day Elizur the son of Shedeur, prince of the children of Reuben, did offer:

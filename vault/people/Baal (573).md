@@ -44,15 +44,15 @@ metav_id: 573
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **22:41** — And it came to pass on the morrow, that Balak took Balaam, and brought him up into the high places of Baal, that thence he might see the utmost part of the people.
 - **25:3** — And Israel joined himself unto Baalpeor: and the anger of the LORD was kindled against Israel.
 - **25:5** — And Moses said unto the judges of Israel, Slay ye every one his men that were joined unto Baalpeor.
 
-### [[Deuteronomy]]
+### [[books/Deuteronomy|Deuteronomy]]
 - **4:3** — Your eyes have seen what the LORD did because of Baalpeor: for all the men that followed Baalpeor, the LORD thy God hath destroyed them from among you.
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **2:13** — And they forsook the LORD, and served Baal and Ashtaroth.
 - **6:25** — And it came to pass the same night, that the LORD said unto him, Take thy father's young bullock, even the second bullock of seven years old, and throw down the altar of Baal that thy father hath, and cut down the grove that is by it:
 - **6:28** — And when the men of the city arose early in the morning, behold, the altar of Baal was cast down, and the grove was cut down that was by it, and the second bullock was offered upon the altar that was built.
@@ -60,7 +60,7 @@ metav_id: 573
 - **6:31** — And Joash said unto all that stood against him, Will ye plead for Baal? will ye save him? he that will plead for him, let him be put to death whilst it is yet morning: if he be a god, let him plead for himself, because one hath cast down his altar.
 - **6:32** — Therefore on that day he called him Jerubbaal, saying, Let Baal plead against him, because he hath thrown down his altar.
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **16:31** — And it came to pass, as if it had been a light thing for him to walk in the sins of Jeroboam the son of Nebat, that he took to wife Jezebel the daughter of Ethbaal king of the Zidonians, and went and served Baal, and worshipped him.
 - **16:32** — And he reared up an altar for Baal in the house of Baal, which he had built in Samaria.
 - **18:19** — Now therefore send, and gather to me all Israel unto mount Carmel, and the prophets of Baal four hundred and fifty, and the prophets of the groves four hundred, which eat at Jezebel's table.
@@ -72,7 +72,7 @@ metav_id: 573
 - **19:18** — Yet I have left me seven thousand in Israel, all the knees which have not bowed unto Baal, and every mouth which hath not kissed him.
 - **22:53** — For he served Baal, and worshipped him, and provoked to anger the LORD God of Israel, according to all that his father had done.
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **3:2** — And he wrought evil in the sight of the LORD; but not like his father, and like his mother: for he put away the image of Baal that his father had made.
 - **10:18** — And Jehu gathered all the people together, and said unto them, Ahab served Baal a little; but Jehu shall serve him much.
 - **10:19** — Now therefore call unto me all the prophets of Baal, all his servants, and all his priests; let none be wanting: for I have a great sacrifice to do to Baal; whosoever shall be wanting, he shall not live. But Jehu did it in subtilty, to the intent that he might destroy the worshippers of Baal.
@@ -90,13 +90,13 @@ metav_id: 573
 - **23:4** — And the king commanded Hilkiah the high priest, and the priests of the second order, and the keepers of the door, to bring forth out of the temple of the LORD all the vessels that were made for Baal, and for the grove, and for all the host of heaven: and he burned them without Jerusalem in the fields of Kidron, and carried the ashes of them unto Bethel.
 - **23:5** — And he put down the idolatrous priests, whom the kings of Judah had ordained to burn incense in the high places in the cities of Judah, and in the places round about Jerusalem; them also that burned incense unto Baal, to the sun, and to the moon, and to the planets, and to all the host of heaven.
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **23:17** — Then all the people went to the house of Baal, and brake it down, and brake his altars and his images in pieces, and slew Mattan the priest of Baal before the altars.
 
-### [[Psalms]]
+### [[books/Psalms|Psalms]]
 - **106:28** — They joined themselves also unto Baalpeor, and ate the sacrifices of the dead.
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **2:8** — The priests said not, Where is the LORD? and they that handle the law knew me not: the pastors also transgressed against me, and the prophets prophesied by Baal, and walked after things that do not profit.
 - **7:9** — Will ye steal, murder, and commit adultery, and swear falsely, and burn incense unto Baal, and walk after other gods whom ye know not;
 - **11:13** — For according to the number of thy cities were thy gods, O Judah; and according to the number of the streets of Jerusalem have ye set up altars to that shameful thing, even altars to burn incense unto Baal.
@@ -108,14 +108,14 @@ metav_id: 573
 - **32:29** — And the Chaldeans, that fight against this city, shall come and set fire on this city, and burn it with the houses, upon whose roofs they have offered incense unto Baal, and poured out drink offerings unto other gods, to provoke me to anger.
 - **32:35** — And they built the high places of Baal, which are in the valley of the son of Hinnom, to cause their sons and their daughters to pass through the fire unto Molech; which I commanded them not, neither came it into my mind, that they should do this abomination, to cause Judah to sin.
 
-### [[Hosea]]
+### [[books/Hosea|Hosea]]
 - **2:8** — For she did not know that I gave her corn, and wine, and oil, and multiplied her silver and gold, which they prepared for Baal.
 - **9:10** — I found Israel like grapes in the wilderness; I saw your fathers as the firstripe in the fig tree at her first time: but they went to Baalpeor, and separated themselves unto that shame; and their abominations were according as they loved.
 - **13:1** — When Ephraim spake trembling, he exalted himself in Israel; but when he offended in Baal, he died.
 
-### [[Zephaniah]]
+### [[books/Zephaniah|Zephaniah]]
 - **1:4** — I will also stretch out mine hand upon Judah, and upon all the inhabitants of Jerusalem; and I will cut off the remnant of Baal from this place, and the name of the Chemarims with the priests;
 
-### [[Romans]]
+### [[books/Romans|Romans]]
 - **11:4** — But what saith the answer of God unto him? I have reserved to myself seven thousand men, who have not bowed the knee to the image of Baal.
 

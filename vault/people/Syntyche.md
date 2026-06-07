@@ -44,6 +44,6 @@ metav_id: 2806
 
 ## Verse References
 
-### [[Philippians]]
+### [[books/Philippians|Philippians]]
 - **4:2** — I beseech Euodias, and beseech Syntyche, that they be of the same mind in the Lord.
 

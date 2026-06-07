@@ -26,9 +26,9 @@ metav_id: 222
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **19:5** — And Ziklag, and Bethmarcaboth, and Hazarsusah,
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **4:31** — And at Bethmarcaboth, and Hazarsusim, and at Bethbirei, and at Shaaraim. These were their cities unto the reign of David.
 

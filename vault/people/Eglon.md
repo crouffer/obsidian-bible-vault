@@ -44,7 +44,7 @@ metav_id: 1037
 
 ## Verse References
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **3:12** — And the children of Israel did evil again in the sight of the LORD: and the LORD strengthened Eglon the king of Moab against Israel, because they had done evil in the sight of the LORD.
 - **3:14** — So the children of Israel served Eglon the king of Moab eighteen years.
 - **3:15** — But when the children of Israel cried unto the LORD, the LORD raised them up a deliverer, Ehud the son of Gera, a Benjamite, a man lefthanded: and by him the children of Israel sent a present unto Eglon the king of Moab.

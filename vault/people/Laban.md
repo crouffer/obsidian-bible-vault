@@ -47,7 +47,7 @@ metav_id: 1803
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **24:29** — And Rebekah had a brother, and his name was Laban: and Laban ran out unto the man, unto the well.
 - **24:50** — Then Laban and Bethuel answered and said, The thing proceedeth from the LORD: we cannot speak unto thee bad or good.
 - **25:20** — And Isaac was forty years old when he took Rebekah to wife, the daughter of Bethuel the Syrian of Padanaram, the sister to Laban the Syrian.

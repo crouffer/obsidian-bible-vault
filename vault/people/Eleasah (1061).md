@@ -49,7 +49,7 @@ metav_id: 1061
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **8:37** — And Moza begat Binea: Rapha was his son, Eleasah his son, Azel his son:
 - **8:39** — And the sons of Eshek his brother were, Ulam his firstborn, Jehush the second, and Eliphelet the third.
 - **9:43** — And Moza begat Binea; and Rephaiah his son, Eleasah his son, Azel his son.

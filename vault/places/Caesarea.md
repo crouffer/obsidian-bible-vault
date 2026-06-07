@@ -26,7 +26,7 @@ metav_id: 266
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **8:40** — But Philip was found at Azotus: and passing through he preached in all the cities, till he came to Caesarea.
 - **9:30** — Which when the brethren knew, they brought him down to Caesarea, and sent him forth to Tarsus.
 - **10:1** — There was a certain man in Caesarea called Cornelius, a centurion of the band called the Italian band,

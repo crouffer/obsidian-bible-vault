@@ -50,6 +50,6 @@ metav_id: 785
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **26:3** — Elam the fifth, Jehohanan the sixth, Elioenai the seventh.
 

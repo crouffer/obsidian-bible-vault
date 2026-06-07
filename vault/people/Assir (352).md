@@ -46,7 +46,7 @@ metav_id: 352
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:23** — Elkanah his son, and Ebiasaph his son, and Assir his son,
 - **6:37** — The son of Tahath, the son of Assir, the son of Ebiasaph, the son of Korah,
 

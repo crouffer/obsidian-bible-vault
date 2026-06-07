@@ -44,6 +44,6 @@ metav_id: 2416
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **10:25** — Rehum, Hashabnah, Maaseiah,
 

@@ -44,6 +44,6 @@ metav_id: 967
 
 ## Verse References
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **2:2** — And this taxing was first made when Cyrenius was governor of Syria.)
 

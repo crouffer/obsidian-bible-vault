@@ -44,10 +44,10 @@ metav_id: 24
 
 ## Verse References
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **23:27** — Abiezer the Anethothite, Mebunnai the Hushathite,
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **11:28** — Ira the son of Ikkesh the Tekoite, Abiezer the Antothite,
 - **27:12** — The ninth captain for the ninth month was Abiezer the Anetothite, of the Benjamites: and in his course were twenty and four thousand.
 

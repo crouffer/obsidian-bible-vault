@@ -26,9 +26,9 @@ metav_id: 694
 
 ## Verse References
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **3:25** — And they beat down the cities, and on every good piece of land cast every man his stone, and filled it; and they stopped all the wells of water, and felled all the good trees: only in Kirharaseth left they the stones thereof; howbeit the slingers went about it, and smote it.
 
-### [[Isaiah]]
+### [[books/Isaiah|Isaiah]]
 - **16:7** — Therefore shall Moab howl for Moab, every one shall howl: for the foundations of Kirhareseth shall ye mourn; surely they are stricken.
 

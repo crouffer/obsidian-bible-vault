@@ -44,7 +44,7 @@ metav_id: 2054
 
 ## Verse References
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **22:8** — And the king of Israel said unto Jehoshaphat, There is yet one man, Micaiah the son of Imlah, by whom we may enquire of the LORD: but I hate him; for he doth not prophesy good concerning me, but evil. And Jehoshaphat said, Let not the king say so.
 - **22:9** — Then the king of Israel called an officer, and said, Hasten hither Micaiah the son of Imlah.
 - **22:13** — And the messenger that was gone to call Micaiah spake unto him, saying, Behold now, the words of the prophets declare good unto the king with one mouth: let thy word, I pray thee, be like the word of one of them, and speak that which is good.
@@ -55,7 +55,7 @@ metav_id: 2054
 - **22:26** — And the king of Israel said, Take Micaiah, and carry him back unto Amon the governor of the city, and to Joash the king's son;
 - **22:28** — And Micaiah said, If thou return at all in peace, the LORD hath not spoken by me. And he said, Hearken, O people, every one of you.
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **18:7** — And the king of Israel said unto Jehoshaphat, There is yet one man, by whom we may enquire of the LORD: but I hate him; for he never prophesied good unto me, but always evil: the same is Micaiah the son of Imla. And Jehoshaphat said, Let not the king say so.
 - **18:8** — And the king of Israel called for one of his officers, and said, Fetch quickly Micaiah the son of Imla.
 - **18:12** — And the messenger that went to call Micaiah spake to him, saying, Behold, the words of the prophets declare good to the king with one assent; let thy word therefore, I pray thee, be like one of theirs, and speak thou good.

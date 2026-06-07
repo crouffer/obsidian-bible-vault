@@ -44,7 +44,7 @@ metav_id: 2328
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **12:15** — The princes also of Pharaoh saw her, and commended her before Pharaoh: and the woman was taken into Pharaoh's house.
 - **12:17** — And the LORD plagued Pharaoh and his house with great plagues because of Sarai Abram's wife.
 - **12:18** — And Pharaoh called Abram, and said, What is this that thou hast done unto me? why didst thou not tell me that she was thy wife?

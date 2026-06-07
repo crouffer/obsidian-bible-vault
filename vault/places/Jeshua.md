@@ -26,6 +26,6 @@ metav_id: 640
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **11:26** — And at Jeshua, and at Moladah, and at Bethphelet,
 

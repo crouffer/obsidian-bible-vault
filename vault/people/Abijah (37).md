@@ -44,7 +44,7 @@ metav_id: 37
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **10:7** — Meshullam, Abijah, Mijamin,
 - **12:4** — Iddo, Ginnetho, Abijah,
 - **12:17** — Of Abijah, Zichri; of Miniamin, of Moadiah, Piltai;

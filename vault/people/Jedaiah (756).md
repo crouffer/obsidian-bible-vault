@@ -44,7 +44,7 @@ metav_id: 756
 
 ## Verse References
 
-### [[Zechariah]]
+### [[books/Zechariah|Zechariah]]
 - **6:10** — Take of them of the captivity, even of Heldai, of Tobijah, and of Jedaiah, which are come from Babylon, and come thou the same day, and go into the house of Josiah the son of Zephaniah;
 - **6:14** — And the crowns shall be to Helem, and to Tobijah, and to Jedaiah, and to Hen the son of Zephaniah, for a memorial in the temple of the LORD.
 

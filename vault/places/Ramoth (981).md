@@ -26,7 +26,7 @@ metav_id: 981
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:73** — And Ramoth with her suburbs, and Anem with her suburbs:
 - **6:80** — And out of the tribe of Gad; Ramoth in Gilead with her suburbs, and Mahanaim with her suburbs,
 

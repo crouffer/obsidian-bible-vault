@@ -7,7 +7,7 @@ name_hebrew: ""
 name_greek_lxx: ""
 name_meaning: ""
 modern_name: region
-root_name: On
+root_name: "On"
 
 place_type: unknown
 testament: OT
@@ -26,7 +26,7 @@ metav_id: 362
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **12:10** — And there was a famine in the land: and Abram went down into Egypt to sojourn there; for the famine was grievous in the land.
 - **12:11** — And it came to pass, when he was come near to enter into Egypt, that he said unto Sarai his wife, Behold now, I know that thou art a fair woman to look upon:
 - **12:12** — Therefore it shall come to pass, when the Egyptians shall see thee, that they shall say, This is his wife: and they will kill me, but they will save thee alive.
@@ -104,7 +104,7 @@ metav_id: 362
 - **50:22** — And Joseph dwelt in Egypt, he, and his father's house: and Joseph lived an hundred and ten years.
 - **50:26** — So Joseph died, being an hundred and ten years old: and they embalmed him, and he was put in a coffin in Egypt.
 
-### [[Exodus]]
+### [[books/Exodus|Exodus]]
 - **1:1** — Now these are the names of the children of Israel, which came into Egypt; every man and his household came with Jacob.
 - **1:5** — And all the souls that came out of the loins of Jacob were seventy souls: for Joseph was in Egypt already.
 - **1:8** — Now there arose up a new king over Egypt, which knew not Joseph.
@@ -223,7 +223,7 @@ metav_id: 362
 - **33:1** — And the LORD said unto Moses, Depart, and go up hence, thou and the people which thou hast brought up out of the land of Egypt, unto the land which I sware unto Abraham, to Isaac, and to Jacob, saying, Unto thy seed will I give it:
 - **34:18** — The feast of unleavened bread shalt thou keep. Seven days thou shalt eat unleavened bread, as I commanded thee, in the time of the month Abib: for in the month Abib thou camest out from Egypt.
 
-### [[Leviticus]]
+### [[books/Leviticus|Leviticus]]
 - **11:45** — For I am the LORD that bringeth you up out of the land of Egypt, to be your God: ye shall therefore be holy, for I am holy.
 - **18:3** — After the doings of the land of Egypt, wherein ye dwelt, shall ye not do: and after the doings of the land of Canaan, whither I bring you, shall ye not do: neither shall ye walk in their ordinances.
 - **19:34** — But the stranger that dwelleth with you shall be unto you as one born among you, and thou shalt love him as thyself; for ye were strangers in the land of Egypt: I am the LORD your God.
@@ -236,7 +236,7 @@ metav_id: 362
 - **26:13** — I am the LORD your God, which brought you forth out of the land of Egypt, that ye should not be their bondmen; and I have broken the bands of your yoke, and made you go upright.
 - **26:45** — But I will for their sakes remember the covenant of their ancestors, whom I brought forth out of the land of Egypt in the sight of the heathen, that I might be their God: I am the LORD.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **1:1** — And the LORD spake unto Moses in the wilderness of Sinai, in the tabernacle of the congregation, on the first day of the second month, in the second year after they were come out of the land of Egypt, saying,
 - **3:13** — Because all the firstborn are mine; for on the day that I smote all the firstborn in the land of Egypt I hallowed unto me all the firstborn in Israel, both man and beast: mine shall they be: I am the LORD.
 - **8:17** — For all the firstborn of the children of Israel are mine, both man and beast: on the day that I smote every firstborn in the land of Egypt I sanctified them for myself.
@@ -265,7 +265,7 @@ metav_id: 362
 - **33:1** — These are the journeys of the children of Israel, which went forth out of the land of Egypt with their armies under the hand of Moses and Aaron.
 - **33:38** — And Aaron the priest went up into mount Hor at the commandment of the LORD, and died there, in the fortieth year after the children of Israel were come out of the land of Egypt, in the first day of the fifth month.
 
-### [[Deuteronomy]]
+### [[books/Deuteronomy|Deuteronomy]]
 - **1:27** — And ye murmured in your tents, and said, Because the LORD hated us, he hath brought us forth out of the land of Egypt, to deliver us into the hand of the Amorites, to destroy us.
 - **1:30** — The LORD your God which goeth before you, he shall fight for you, according to all that he did for you in Egypt before your eyes;
 - **4:20** — But the LORD hath taken you, and brought you forth out of the iron furnace, even out of Egypt, to be unto him a people of inheritance, as ye are this day.
@@ -314,7 +314,7 @@ metav_id: 362
 - **29:25** — Then men shall say, Because they have forsaken the covenant of the LORD God of their fathers, which he made with them when he brought them forth out of the land of Egypt:
 - **34:11** — In all the signs and the wonders, which the LORD sent him to do in the land of Egypt to Pharaoh, and to all his servants, and to all his land,
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **2:10** — For we have heard how the LORD dried up the water of the Red sea for you, when ye came out of Egypt; and what ye did unto the two kings of the Amorites, that were on the other side Jordan, Sihon and Og, whom ye utterly destroyed.
 - **5:4** — And this is the cause why Joshua did circumcise: All the people that came out of Egypt, that were males, even all the men of war, died in the wilderness by the way, after they came out of Egypt.
 - **5:5** — Now all the people that came out were circumcised: but all the people that were born in the wilderness by the way as they came forth out of Egypt, them they had not circumcised.
@@ -330,7 +330,7 @@ metav_id: 362
 - **24:17** — For the LORD our God, he it is that brought us up and our fathers out of the land of Egypt, from the house of bondage, and which did those great signs in our sight, and preserved us in all the way wherein we went, and among all the people through whom we passed:
 - **24:32** — And the bones of Joseph, which the children of Israel brought up out of Egypt, buried they in Shechem, in a parcel of ground which Jacob bought of the sons of Hamor the father of Shechem for an hundred pieces of silver: and it became the inheritance of the children of Joseph.
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **2:1** — And an angel of the LORD came up from Gilgal to Bochim, and said, I made you to go up out of Egypt, and have brought you unto the land which I sware unto your fathers; and I said, I will never break my covenant with you.
 - **2:12** — And they forsook the LORD God of their fathers, which brought them out of the land of Egypt, and followed other gods, of the gods of the people that were round about them, and bowed themselves unto them, and provoked the LORD to anger.
 - **6:8** — That the LORD sent a prophet unto the children of Israel, which said unto them, Thus saith the LORD God of Israel, I brought you up from Egypt, and brought you forth out of the house of bondage;
@@ -339,7 +339,7 @@ metav_id: 362
 - **11:16** — But when Israel came up from Egypt, and walked through the wilderness unto the Red sea, and came to Kadesh;
 - **19:30** — And it was so, that all that saw it said, There was no such deed done nor seen from the day that the children of Israel came up out of the land of Egypt unto this day: consider of it, take advice, and speak your minds.
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **2:27** — And there came a man of God unto Eli, and said unto him, Thus saith the LORD, Did I plainly appear unto the house of thy father, when they were in Egypt in Pharaoh's house?
 - **8:8** — According to all the works which they have done since the day that I brought them up out of Egypt even unto this day, wherewith they have forsaken me, and served other gods, so do they also unto thee.
 - **10:18** — And said unto the children of Israel, Thus saith the LORD God of Israel, I brought up Israel out of Egypt, and delivered you out of the hand of the Egyptians, and out of the hand of all kingdoms, and of them that oppressed you:
@@ -351,11 +351,11 @@ metav_id: 362
 - **27:8** — And David and his men went up, and invaded the Geshurites, and the Gezrites, and the Amalekites: for those nations were of old the inhabitants of the land, as thou goest to Shur, even unto the land of Egypt.
 - **30:13** — And David said unto him, To whom belongest thou? and whence art thou? And he said, I am a young man of Egypt, servant to an Amalekite; and my master left me, because three days agone I fell sick.
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **7:6** — Whereas I have not dwelt in any house since the time that I brought up the children of Israel out of Egypt, even to this day, but have walked in a tent and in a tabernacle.
 - **7:23** — And what one nation in the earth is like thy people, even like Israel, whom God went to redeem for a people to himself, and to make him a name, and to do for you great things and terrible, for thy land, before thy people, which thou redeemedst to thee from Egypt, from the nations and their gods?
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **3:1** — And Solomon made affinity with Pharaoh king of Egypt, and took Pharaoh's daughter, and brought her into the city of David, until he had made an end of building his own house, and the house of the LORD, and the wall of Jerusalem round about.
 - **4:21** — And Solomon reigned over all kingdoms from the river unto the land of the Philistines, and unto the border of Egypt: they brought presents, and served Solomon all the days of his life.
 - **4:30** — And Solomon's wisdom excelled the wisdom of all the children of the east country, and all the wisdom of Egypt.
@@ -377,7 +377,7 @@ metav_id: 362
 - **12:28** — Whereupon the king took counsel, and made two calves of gold, and said unto them, It is too much for you to go up to Jerusalem: behold thy gods, O Israel, which brought thee up out of the land of Egypt.
 - **14:25** — And it came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem:
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **7:6** — For the Lord had made the host of the Syrians to hear a noise of chariots, and a noise of horses, even the noise of a great host: and they said one to another, Lo, the king of Israel hath hired against us the kings of the Hittites, and the kings of the Egyptians, to come upon us.
 - **17:4** — And the king of Assyria found conspiracy in Hoshea: for he had sent messengers to So king of Egypt, and brought no present to the king of Assyria, as he had done year by year: therefore the king of Assyria shut him up, and bound him in prison.
 - **17:7** — For so it was, that the children of Israel had sinned against the LORD their God, which had brought them up out of the land of Egypt, from under the hand of Pharaoh king of Egypt, and had feared other gods,
@@ -389,11 +389,11 @@ metav_id: 362
 - **23:34** — And Pharaohnechoh made Eliakim the son of Josiah king in the room of Josiah his father, and turned his name to Jehoiakim, and took Jehoahaz away: and he came to Egypt, and died there.
 - **25:26** — And all the people, both small and great, and the captains of the armies, arose, and came to Egypt: for they were afraid of the Chaldees.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **13:5** — So David gathered all Israel together, from Shihor of Egypt even unto the entering of Hemath, to bring the ark of God from Kirjathjearim.
 - **17:21** — And what one nation in the earth is like thy people Israel, whom God went to redeem to be his own people, to make thee a name of greatness and terribleness, by driving out nations from before thy people, whom thou hast redeemed out of Egypt?
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **1:16** — And Solomon had horses brought out of Egypt, and linen yarn: the king's merchants received the linen yarn at a price.
 - **1:17** — And they fetched up, and brought forth out of Egypt a chariot for six hundred shekels of silver, and an horse for an hundred and fifty: and so brought they out horses for all the kings of the Hittites, and for the kings of Syria, by their means.
 - **5:10** — There was nothing in the ark save the two tables which Moses put therein at Horeb, when the LORD made a covenant with the children of Israel, when they came out of Egypt.
@@ -411,11 +411,11 @@ metav_id: 362
 - **36:3** — And the king of Egypt put him down at Jerusalem, and condemned the land in an hundred talents of silver and a talent of gold.
 - **36:4** — And the king of Egypt made Eliakim his brother king over Judah and Jerusalem, and turned his name to Jehoiakim. And Necho took Jehoahaz his brother, and carried him to Egypt.
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **9:9** — And didst see the affliction of our fathers in Egypt, and heardest their cry by the Red sea;
 - **9:18** — Yea, when they had made them a molten calf, and said, This is thy God that brought thee up out of Egypt, and had wrought great provocations;
 
-### [[Psalms]]
+### [[books/Psalms|Psalms]]
 - **68:31** — Princes shall come out of Egypt; Ethiopia shall soon stretch out her hands unto God.
 - **78:12** — Marvellous things did he in the sight of their fathers, in the land of Egypt, in the field of Zoan.
 - **78:43** — How he had wrought his signs in Egypt, and his wonders in the field of Zoan:
@@ -432,7 +432,7 @@ metav_id: 362
 - **135:9** — Who sent tokens and wonders into the midst of thee, O Egypt, upon Pharaoh, and upon all his servants.
 - **136:10** — To him that smote Egypt in their firstborn: for his mercy endureth for ever:
 
-### [[Isaiah]]
+### [[books/Isaiah|Isaiah]]
 - **7:18** — And it shall come to pass in that day, that the LORD shall hiss for the fly that is in the uttermost part of the rivers of Egypt, and for the bee that is in the land of Assyria.
 - **10:26** — And the LORD of hosts shall stir up a scourge for him according to the slaughter of Midian at the rock of Oreb: and as his rod was upon the sea, so shall he lift it up after the manner of Egypt.
 - **11:11** — And it shall come to pass in that day, that the Lord shall set his hand again the second time to recover the remnant of his people, which shall be left, from Assyria, and from Egypt, and from Pathros, and from Cush, and from Elam, and from Shinar, and from Hamath, and from the islands of the sea.
@@ -464,7 +464,7 @@ metav_id: 362
 - **45:14** — Thus saith the LORD, The labour of Egypt, and merchandise of Ethiopia and of the Sabeans, men of stature, shall come over unto thee, and they shall be thine: they shall come after thee; in chains they shall come over, and they shall fall down unto thee, they shall make supplication unto thee, saying, Surely God is in thee; and there is none else, there is no God.
 - **52:4** — For thus saith the Lord GOD, My people went down aforetime into Egypt to sojourn there; and the Assyrian oppressed them without cause.
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **2:6** — Neither said they, Where is the LORD that brought us up out of the land of Egypt, that led us through the wilderness, through a land of deserts and of pits, through a land of drought, and of the shadow of death, through a land that no man passed through, and where no man dwelt?
 - **2:18** — And now what hast thou to do in the way of Egypt, to drink the waters of Sihor? or what hast thou to do in the way of Assyria, to drink the waters of the river?
 - **2:36** — Why gaddest thou about so much to change thy way? thou also shalt be ashamed of Egypt, as thou wast ashamed of Assyria.
@@ -520,10 +520,10 @@ metav_id: 362
 - **46:24** — The daughter of Egypt shall be confounded; she shall be delivered into the hand of the people of the north.
 - **46:25** — The LORD of hosts, the God of Israel, saith; Behold, I will punish the multitude of No, and Pharaoh, and Egypt, with their gods, and their kings; even Pharaoh, and all them that trust in him:
 
-### [[Lamentations]]
+### [[books/Lamentations|Lamentations]]
 - **5:6** — We have given the hand to the Egyptians, and to the Assyrians, to be satisfied with bread.
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **17:15** — But he rebelled against him in sending his ambassadors into Egypt, that they might give him horses and much people. Shall he prosper? shall he escape that doeth such things? or shall he break the covenant, and be delivered?
 - **19:4** — The nations also heard of him; he was taken in their pit, and they brought him with chains unto the land of Egypt.
 - **20:5** — And say unto them, Thus saith the Lord GOD; In the day when I chose Israel, and lifted up mine hand unto the seed of the house of Jacob, and made myself known unto them in the land of Egypt, when I lifted up mine hand unto them, saying, I am the LORD your God;
@@ -569,13 +569,13 @@ metav_id: 362
 - **32:16** — This is the lamentation wherewith they shall lament her: the daughters of the nations shall lament her: they shall lament for her, even for Egypt, and for all her multitude, saith the Lord GOD.
 - **32:18** — Son of man, wail for the multitude of Egypt, and cast them down, even her, and the daughters of the famous nations, unto the nether parts of the earth, with them that go down into the pit.
 
-### [[Daniel]]
+### [[books/Daniel|Daniel]]
 - **9:15** — And now, O Lord our God, that hast brought thy people forth out of the land of Egypt with a mighty hand, and hast gotten thee renown, as at this day; we have sinned, we have done wickedly.
 - **11:8** — And shall also carry captives into Egypt their gods, with their princes, and with their precious vessels of silver and of gold; and he shall continue more years than the king of the north.
 - **11:42** — He shall stretch forth his hand also upon the countries: and the land of Egypt shall not escape.
 - **11:43** — But he shall have power over the treasures of gold and of silver, and over all the precious things of Egypt: and the Libyans and the Ethiopians shall be at his steps.
 
-### [[Hosea]]
+### [[books/Hosea|Hosea]]
 - **2:15** — And I will give her her vineyards from thence, and the valley of Achor for a door of hope: and she shall sing there, as in the days of her youth, and as in the day when she came up out of the land of Egypt.
 - **7:11** — Ephraim also is like a silly dove without heart: they call to Egypt, they go to Assyria.
 - **7:16** — They return, but not to the most High: they are like a deceitful bow: their princes shall fall by the sword for the rage of their tongue: this shall be their derision in the land of Egypt.
@@ -590,10 +590,10 @@ metav_id: 362
 - **12:13** — And by a prophet the LORD brought Israel out of Egypt, and by a prophet was he preserved.
 - **13:4** — Yet I am the LORD thy God from the land of Egypt, and thou shalt know no god but me: for there is no saviour beside me.
 
-### [[Joel]]
+### [[books/Joel|Joel]]
 - **3:19** — Egypt shall be a desolation, and Edom shall be a desolate wilderness, for the violence against the children of Judah, because they have shed innocent blood in their land.
 
-### [[Amos]]
+### [[books/Amos|Amos]]
 - **2:10** — Also I brought you up from the land of Egypt, and led you forty years through the wilderness, to possess the land of the Amorite.
 - **3:1** — Hear this word that the LORD hath spoken against you, O children of Israel, against the whole family which I brought up from the land of Egypt, saying,
 - **3:9** — Publish in the palaces at Ashdod, and in the palaces in the land of Egypt, and say, Assemble yourselves upon the mountains of Samaria, and behold the great tumults in the midst thereof, and the oppressed in the midst thereof.
@@ -602,29 +602,29 @@ metav_id: 362
 - **9:5** — And the Lord GOD of hosts is he that toucheth the land, and it shall melt, and all that dwell therein shall mourn: and it shall rise up wholly like a flood; and shall be drowned, as by the flood of Egypt.
 - **9:7** — Are ye not as children of the Ethiopians unto me, O children of Israel? saith the LORD. Have not I brought up Israel out of the land of Egypt? and the Philistines from Caphtor, and the Syrians from Kir?
 
-### [[Micah]]
+### [[books/Micah|Micah]]
 - **6:4** — For I brought thee up out of the land of Egypt, and redeemed thee out of the house of servants; and I sent before thee Moses, Aaron, and Miriam.
 - **7:15** — According to the days of thy coming out of the land of Egypt will I shew unto him marvellous things.
 
-### [[Nahum]]
+### [[books/Nahum|Nahum]]
 - **3:9** — Ethiopia and Egypt were her strength, and it was infinite; Put and Lubim were thy helpers.
 
-### [[Haggai]]
+### [[books/Haggai|Haggai]]
 - **2:5** — According to the word that I covenanted with you when ye came out of Egypt, so my spirit remaineth among you: fear ye not.
 
-### [[Zechariah]]
+### [[books/Zechariah|Zechariah]]
 - **10:10** — I will bring them again also out of the land of Egypt, and gather them out of Assyria; and I will bring them into the land of Gilead and Lebanon; and place shall not be found for them.
 - **10:11** — And he shall pass through the sea with affliction, and shall smite the waves in the sea, and all the deeps of the river shall dry up: and the pride of Assyria shall be brought down, and the sceptre of Egypt shall depart away.
 - **14:18** — And if the family of Egypt go not up, and come not, that have no rain; there shall be the plague, wherewith the LORD will smite the heathen that come not up to keep the feast of tabernacles.
 - **14:19** — This shall be the punishment of Egypt, and the punishment of all nations that come not up to keep the feast of tabernacles.
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **2:13** — And when they were departed, behold, the angel of the Lord appeareth to Joseph in a dream, saying, Arise, and take the young child and his mother, and flee into Egypt, and be thou there until I bring thee word: for Herod will seek the young child to destroy him.
 - **2:14** — When he arose, he took the young child and his mother by night, and departed into Egypt:
 - **2:15** — And was there until the death of Herod: that it might be fulfilled which was spoken of the Lord by the prophet, saying, Out of Egypt have I called my son.
 - **2:19** — But when Herod was dead, behold, an angel of the Lord appeareth in a dream to Joseph in Egypt,
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **2:10** — Phrygia, and Pamphylia, in Egypt, and in the parts of Libya about Cyrene, and strangers of Rome, Jews and proselytes,
 - **7:9** — And the patriarchs, moved with envy, sold Joseph into Egypt: but God was with him,
 - **7:10** — And delivered him out of all his afflictions, and gave him favour and wisdom in the sight of Pharaoh king of Egypt; and he made him governor over Egypt and all his house.
@@ -639,15 +639,15 @@ metav_id: 362
 - **7:40** — Saying unto Aaron, Make us gods to go before us: for as for this Moses, which brought us out of the land of Egypt, we wot not what is become of him.
 - **13:17** — The God of this people of Israel chose our fathers, and exalted the people when they dwelt as strangers in the land of Egypt, and with an high arm brought he them out of it.
 
-### [[Hebrews]]
+### [[books/Hebrews|Hebrews]]
 - **3:16** — For some, when they had heard, did provoke: howbeit not all that came out of Egypt by Moses.
 - **8:9** — Not according to the covenant that I made with their fathers in the day when I took them by the hand to lead them out of the land of Egypt; because they continued not in my covenant, and I regarded them not, saith the Lord.
 - **11:26** — Esteeming the reproach of Christ greater riches than the treasures in Egypt: for he had respect unto the recompence of the reward.
 - **11:27** — By faith he forsook Egypt, not fearing the wrath of the king: for he endured, as seeing him who is invisible.
 
-### [[Jude]]
+### [[books/Jude|Jude]]
 - **1:5** — I will therefore put you in remembrance, though ye once knew this, how that the Lord, having saved the people out of the land of Egypt, afterward destroyed them that believed not.
 
-### [[Revelation]]
+### [[books/Revelation|Revelation]]
 - **11:8** — And their dead bodies shall lie in the street of the great city, which spiritually is called Sodom and Egypt, where also our Lord was crucified.
 

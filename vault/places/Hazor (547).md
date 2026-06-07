@@ -26,6 +26,6 @@ metav_id: 547
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **15:25** — And Hazor, Hadattah, and Kerioth, and Hezron, which is Hazor,
 

@@ -26,9 +26,9 @@ metav_id: 954
 
 ## Verse References
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **27:33** — And when they were come unto a place called Golgotha, that is to say, a place of a skull,
 
-### [[Mark]]
+### [[books/Mark|Mark]]
 - **15:22** — And they bring him unto the place Golgotha, which is, being interpreted, The place of a skull.
 

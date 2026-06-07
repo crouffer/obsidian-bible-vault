@@ -46,7 +46,7 @@ metav_id: 1812
 
 ## Verse References
 
-### [[John]]
+### [[books/John|John]]
 - **11:1** — Now a certain man was sick, named Lazarus, of Bethany, the town of Mary and her sister Martha.
 - **11:2** — It was that Mary which anointed the Lord with ointment, and wiped his feet with her hair, whose brother Lazarus was sick.)
 - **11:5** — Now Jesus loved Martha, and her sister, and Lazarus.

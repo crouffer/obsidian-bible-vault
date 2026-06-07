@@ -55,9 +55,9 @@ metav_id: 655
 
 ## Verse References
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **3:5** — And the sixth, Ithream, by Eglah David's wife. These were born to David in Hebron.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **3:3** — The fifth, Shephatiah of Abital: the sixth, Ithream by Eglah his wife.
 

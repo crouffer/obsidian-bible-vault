@@ -44,6 +44,6 @@ metav_id: 714
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **24:12** — The eleventh to Eliashib, the twelfth to Jakim,
 

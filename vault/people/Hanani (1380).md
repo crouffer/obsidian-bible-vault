@@ -57,7 +57,7 @@ metav_id: 1380
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **25:4** — Of Heman: the sons of Heman; Bukkiah, Mattaniah, Uzziel, Shebuel, and Jerimoth, Hananiah, Hanani, Eliathah, Giddalti, and Romamtiezer, Joshbekashah, Mallothi, Hothir, and Mahazioth:
 - **25:25** — The eighteenth to Hanani, he, his sons, and his brethren, were twelve:
 

@@ -44,10 +44,10 @@ metav_id: 1689
 
 ## Verse References
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **14:25** — He restored the coast of Israel from the entering of Hamath unto the sea of the plain, according to the word of the LORD God of Israel, which he spake by the hand of his servant Jonah, the son of Amittai, the prophet, which was of Gathhepher.
 
-### [[Jonah]]
+### [[books/Jonah|Jonah]]
 - **1:1** — Now the word of the LORD came unto Jonah the son of Amittai, saying,
 - **1:3** — But Jonah rose up to flee unto Tarshish from the presence of the LORD, and went down to Joppa; and he found a ship going to Tarshish: so he paid the fare thereof, and went down into it, to go with them unto Tarshish from the presence of the LORD.
 - **1:5** — Then the mariners were afraid, and cried every man unto his god, and cast forth the wares that were in the ship into the sea, to lighten it of them. But Jonah was gone down into the sides of the ship; and he lay, and was fast asleep.
@@ -65,13 +65,13 @@ metav_id: 1689
 - **4:8** — And it came to pass, when the sun did arise, that God prepared a vehement east wind; and the sun beat upon the head of Jonah, that he fainted, and wished in himself to die, and said, It is better for me to die than to live.
 - **4:9** — And God said to Jonah, Doest thou well to be angry for the gourd? And he said, I do well to be angry, even unto death.
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **12:39** — But he answered and said unto them, An evil and adulterous generation seeketh after a sign; and there shall no sign be given to it, but the sign of the prophet Jonas:
 - **12:40** — For as Jonas was three days and three nights in the whale's belly; so shall the Son of man be three days and three nights in the heart of the earth.
 - **12:41** — The men of Nineveh shall rise in judgment with this generation, and shall condemn it: because they repented at the preaching of Jonas; and, behold, a greater than Jonas is here.
 - **16:4** — A wicked and adulterous generation seeketh after a sign; and there shall no sign be given unto it, but the sign of the prophet Jonas. And he left them, and departed.
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **11:29** — And when the people were gathered thick together, he began to say, This is an evil generation: they seek a sign; and there shall no sign be given it, but the sign of Jonas the prophet.
 - **11:30** — For as Jonas was a sign unto the Ninevites, so shall also the Son of man be to this generation.
 - **11:32** — The men of Nineve shall rise up in the judgment with this generation, and shall condemn it: for they repented at the preaching of Jonas; and, behold, a greater than Jonas is here.

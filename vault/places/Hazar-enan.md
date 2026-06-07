@@ -26,11 +26,11 @@ metav_id: 537
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **34:9** — And the border shall go on to Ziphron, and the goings out of it shall be at Hazarenan: this shall be your north border.
 - **34:10** — And ye shall point out your east border from Hazarenan to Shepham:
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **47:17** — And the border from the sea shall be Hazarenan, the border of Damascus, and the north northward, and the border of Hamath. And this is the north side.
 - **48:1** — Now these are the names of the tribes. From the north end to the coast of the way of Hethlon, as one goeth to Hamath, Hazarenan, the border of Damascus northward, to the coast of Hamath; for these are his sides east and west; a portion for Dan.
 

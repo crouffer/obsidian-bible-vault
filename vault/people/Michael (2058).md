@@ -45,6 +45,6 @@ metav_id: 2058
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **13:13** — Of the tribe of Asher, Sethur the son of Michael.
 

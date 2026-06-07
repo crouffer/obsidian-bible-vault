@@ -44,11 +44,11 @@ metav_id: 454
 
 ## Verse References
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **13:3** — And the anger of the LORD was kindled against Israel, and he delivered them into the hand of Hazael king of Syria, and into the hand of Benhadad the son of Hazael, all their days.
 - **13:24** — So Hazael king of Syria died; and Benhadad his son reigned in his stead.
 - **13:25** — And Jehoash the son of Jehoahaz took again out of the hand of Benhadad the son of Hazael the cities, which he had taken out of the hand of Jehoahaz his father by war. Three times did Joash beat him, and recovered the cities of Israel.
 
-### [[Amos]]
+### [[books/Amos|Amos]]
 - **1:4** — But I will send a fire into the house of Hazael, which shall devour the palaces of Benhadad.
 

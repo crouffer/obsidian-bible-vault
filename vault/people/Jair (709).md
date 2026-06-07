@@ -44,7 +44,7 @@ metav_id: 709
 
 ## Verse References
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **10:3** — And after him arose Jair, a Gileadite, and judged Israel twenty and two years.
 - **10:5** — And Jair died, and was buried in Camon.
 

@@ -26,11 +26,11 @@ metav_id: 601
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **18:2** — And found a certain Jew named Aquila, born in Pontus, lately come from Italy, with his wife Priscilla; (because that Claudius had commanded all Jews to depart from Rome:) and came unto them.
 - **27:1** — And when it was determined that we should sail into Italy, they delivered Paul and certain other prisoners unto one named Julius, a centurion of Augustus' band.
 - **27:6** — And there the centurion found a ship of Alexandria sailing into Italy; and he put us therein.
 
-### [[Hebrews]]
+### [[books/Hebrews|Hebrews]]
 - **13:24** — Salute all them that have the rule over you, and all the saints. They of Italy salute you.
 

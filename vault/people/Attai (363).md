@@ -17,8 +17,8 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Jarha]]"
-mother: "[[Ahlai (166)]]"
+father: "[[Ahlai (166)]]"
+mother: "[[Jarha]]"
 spouse: []
 children: 
   - "[[Nathan (2155)]]"
@@ -45,7 +45,7 @@ metav_id: 363
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **2:35** — And Sheshan gave his daughter to Jarha his servant to wife; and she bare him Attai.
 - **2:36** — And Attai begat Nathan, and Nathan begat Zabad,
 

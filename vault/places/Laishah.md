@@ -26,6 +26,6 @@ metav_id: 714
 
 ## Verse References
 
-### [[Isaiah]]
+### [[books/Isaiah|Isaiah]]
 - **10:30** — Lift up thy voice, O daughter of Gallim: cause it to be heard unto Laish, O poor Anathoth.
 

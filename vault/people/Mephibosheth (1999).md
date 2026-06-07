@@ -45,7 +45,7 @@ metav_id: 1999
 
 ## Verse References
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **4:4** — And Jonathan, Saul's son, had a son that was lame of his feet. He was five years old when the tidings came of Saul and Jonathan out of Jezreel, and his nurse took him up, and fled: and it came to pass, as she made haste to flee, that he fell, and became lame. And his name was Mephibosheth.
 - **9:6** — Now when Mephibosheth, the son of Jonathan, the son of Saul, was come unto David, he fell on his face, and did reverence. And David said, Mephibosheth. And he answered, Behold thy servant!
 - **9:10** — Thou therefore, and thy sons, and thy servants, shall till the land for him, and thou shalt bring in the fruits, that thy master's son may have food to eat: but Mephibosheth thy master's son shall eat bread alway at my table. Now Ziba had fifteen sons and twenty servants.
@@ -59,7 +59,7 @@ metav_id: 1999
 - **19:30** — And Mephibosheth said unto the king, Yea, let him take all, forasmuch as my lord the king is come again in peace unto his own house.
 - **21:7** — But the king spared Mephibosheth, the son of Jonathan the son of Saul, because of the LORD'S oath that was between them, between David and Jonathan the son of Saul.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **8:34** — And the son of Jonathan was Meribbaal; and Meribbaal begat Micah.
 - **9:40** — And the son of Jonathan was Meribbaal: and Meribbaal begat Micah.
 

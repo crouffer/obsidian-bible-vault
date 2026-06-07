@@ -44,7 +44,7 @@ metav_id: 2158
 
 ## Verse References
 
-### [[John]]
+### [[books/John|John]]
 - **1:45** — Philip findeth Nathanael, and saith unto him, We have found him, of whom Moses in the law, and the prophets, did write, Jesus of Nazareth, the son of Joseph.
 - **1:46** — And Nathanael said unto him, Can there any good thing come out of Nazareth? Philip saith unto him, Come and see.
 - **1:47** — Jesus saw Nathanael coming to him, and saith of him, Behold an Israelite indeed, in whom is no guile!

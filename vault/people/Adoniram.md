@@ -44,14 +44,14 @@ metav_id: 102
 
 ## Verse References
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **20:24** — And Adoram was over the tribute: and Jehoshaphat the son of Ahilud was recorder:
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **4:6** — And Ahishar was over the household: and Adoniram the son of Abda was over the tribute.
 - **5:14** — And he sent them to Lebanon, ten thousand a month by courses: a month they were in Lebanon, and two months at home: and Adoniram was over the levy.
 - **12:18** — Then king Rehoboam sent Adoram, who was over the tribute; and all Israel stoned him with stones, that he died. Therefore king Rehoboam made speed to get him up to his chariot, to flee to Jerusalem.
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **10:18** — Then king Rehoboam sent Hadoram that was over the tribute; and the children of Israel stoned him with stones, that he died. But king Rehoboam made speed to get him up to his chariot, to flee to Jerusalem.
 

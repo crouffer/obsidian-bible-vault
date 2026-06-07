@@ -26,6 +26,6 @@ metav_id: 588
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **15:54** — And Humtah, and Kirjatharba, which is Hebron, and Zior; nine cities with their villages:
 

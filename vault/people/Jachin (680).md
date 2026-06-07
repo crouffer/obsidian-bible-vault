@@ -44,9 +44,9 @@ metav_id: 680
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **9:10** — And of the priests; Jedaiah, and Jehoiarib, and Jachin,
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **11:10** — Of the priests: Jedaiah the son of Joiarib, Jachin.
 

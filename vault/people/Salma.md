@@ -53,7 +53,7 @@ metav_id: 2462
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **2:51** — Salma the father of Bethlehem, Hareph the father of Bethgader.
 - **2:54** — The sons of Salma; Bethlehem, and the Netophathites, Ataroth, the house of Joab, and half of the Manahethites, the Zorites.
 

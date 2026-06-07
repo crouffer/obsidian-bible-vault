@@ -45,6 +45,6 @@ metav_id: 1205
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **34:23** — The prince of the children of Joseph, for the tribe of the children of Manasseh, Hanniel the son of Ephod.
 

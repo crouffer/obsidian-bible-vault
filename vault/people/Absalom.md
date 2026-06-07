@@ -17,8 +17,8 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Maacah]]"
-mother: "[[David]]"
+father: "[[David]]"
+mother: "[[Maacah]]"
 spouse: []
 children: 
   - "[[Tamar (2823)]]"
@@ -56,7 +56,7 @@ metav_id: 59
 
 ## Verse References
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **3:3** — And his second, Chileab, of Abigail the wife of Nabal the Carmelite; and the third, Absalom the son of Maacah the daughter of Talmai king of Geshur;
 - **13:1** — And it came to pass after this, that Absalom the son of David had a fair sister, whose name was Tamar; and Amnon the son of David loved her.
 - **13:4** — And he said unto him, Why art thou, being the king's son, lean from day to day? wilt thou not tell me? And Amnon said unto him, I love Tamar, my brother Absalom's sister.
@@ -141,20 +141,20 @@ metav_id: 59
 - **19:10** — And Absalom, whom we anointed over us, is dead in battle. Now therefore why speak ye not a word of bringing the king back?
 - **20:6** — And David said to Abishai, Now shall Sheba the son of Bichri do us more harm than did Absalom: take thou thy lord's servants, and pursue after him, lest he get him fenced cities, and escape us.
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **1:6** — And his father had not displeased him at any time in saying, Why hast thou done so? and he also was a very goodly man; and his mother bare him after Absalom.
 - **2:7** — But shew kindness unto the sons of Barzillai the Gileadite, and let them be of those that eat at thy table: for so they came to me when I fled because of Absalom thy brother.
 - **2:28** — Then tidings came to Joab: for Joab had turned after Adonijah, though he turned not after Absalom. And Joab fled unto the tabernacle of the LORD, and caught hold on the horns of the altar.
 - **15:2** — Three years reigned he in Jerusalem. And his mother's name was Maachah, the daughter of Abishalom.
 - **15:10** — And forty and one years reigned he in Jerusalem. And his mother's name was Maachah, the daughter of Abishalom.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **3:2** — The third, Absalom the son of Maachah the daughter of Talmai king of Geshur: the fourth, Adonijah the son of Haggith:
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **11:20** — And after her he took Maachah the daughter of Absalom; which bare him Abijah, and Attai, and Ziza, and Shelomith.
 - **11:21** — And Rehoboam loved Maachah the daughter of Absalom above all his wives and his concubines: (for he took eighteen wives, and threescore concubines; and begat twenty and eight sons, and threescore daughters.)
 
-### [[Psalms]]
+### [[books/Psalms|Psalms]]
 - **3:1** — LORD, how are they increased that trouble me! many are they that rise up against me.
 

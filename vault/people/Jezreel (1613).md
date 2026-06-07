@@ -46,7 +46,7 @@ metav_id: 1613
 
 ## Verse References
 
-### [[Hosea]]
+### [[books/Hosea|Hosea]]
 - **1:4** — And the LORD said unto him, Call his name Jezreel; for yet a little while, and I will avenge the blood of Jezreel upon the house of Jehu, and will cause to cease the kingdom of the house of Israel.
 - **1:5** — And it shall come to pass at that day, that I will break the bow of Israel in the valley of Jezreel.
 - **1:11** — Then shall the children of Judah and the children of Israel be gathered together, and appoint themselves one head, and they shall come up out of the land: for great shall be the day of Jezreel.

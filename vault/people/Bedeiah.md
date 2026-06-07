@@ -44,6 +44,6 @@ metav_id: 429
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **10:35** — Benaiah, Bedeiah, Chelluh,
 

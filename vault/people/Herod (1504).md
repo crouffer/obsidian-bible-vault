@@ -48,7 +48,7 @@ metav_id: 1504
 
 ## Verse References
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **2:1** — Now when Jesus was born in Bethlehem of Judaea in the days of Herod the king, behold, there came wise men from the east to Jerusalem,
 - **2:3** — When Herod the king had heard these things, he was troubled, and all Jerusalem with him.
 - **2:7** — Then Herod, when he had privily called the wise men, enquired of them diligently what time the star appeared.
@@ -59,6 +59,6 @@ metav_id: 1504
 - **2:19** — But when Herod was dead, behold, an angel of the Lord appeareth in a dream to Joseph in Egypt,
 - **2:22** — But when he heard that Archelaus did reign in Judaea in the room of his father Herod, he was afraid to go thither: notwithstanding, being warned of God in a dream, he turned aside into the parts of Galilee:
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **1:5** — There was in the days of Herod, the king of Judaea, a certain priest named Zacharias, of the course of Abia: and his wife was of the daughters of Aaron, and her name was Elisabeth.
 

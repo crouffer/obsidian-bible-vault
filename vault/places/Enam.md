@@ -26,6 +26,6 @@ metav_id: 384
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **15:34** — And Zanoah, and Engannim, Tappuah, and Enam,
 

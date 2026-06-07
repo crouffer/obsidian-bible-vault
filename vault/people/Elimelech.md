@@ -47,7 +47,7 @@ metav_id: 1134
 
 ## Verse References
 
-### [[Ruth]]
+### [[books/Ruth|Ruth]]
 - **1:2** — And the name of the man was Elimelech, and the name of his wife Naomi, and the name of his two sons Mahlon and Chilion, Ephrathites of Bethlehemjudah. And they came into the country of Moab, and continued there.
 - **1:3** — And Elimelech Naomi's husband died; and she was left, and her two sons.
 - **2:1** — And Naomi had a kinsman of her husband's, a mighty man of wealth, of the family of Elimelech; and his name was Boaz.

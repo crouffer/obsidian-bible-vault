@@ -26,7 +26,7 @@ metav_id: 526
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **33:24** — And they removed from mount Shapher, and encamped in Haradah.
 - **33:25** — And they removed from Haradah, and pitched in Makheloth.
 

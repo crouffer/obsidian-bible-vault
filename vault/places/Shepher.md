@@ -26,7 +26,7 @@ metav_id: 854
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **33:23** — And they went from Kehelathah, and pitched in mount Shapher.
 - **33:24** — And they removed from mount Shapher, and encamped in Haradah.
 

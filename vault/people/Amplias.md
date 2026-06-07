@@ -44,6 +44,6 @@ metav_id: 241
 
 ## Verse References
 
-### [[Romans]]
+### [[books/Romans|Romans]]
 - **16:8** — Greet Amplias my beloved in the Lord.
 

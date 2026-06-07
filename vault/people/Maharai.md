@@ -44,10 +44,10 @@ metav_id: 1890
 
 ## Verse References
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **23:28** — Zalmon the Ahohite, Maharai the Netophathite,
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **11:30** — Maharai the Netophathite, Heled the son of Baanah the Netophathite,
 - **27:13** — The tenth captain for the tenth month was Maharai the Netophathite, of the Zarhites: and in his course were twenty and four thousand.
 

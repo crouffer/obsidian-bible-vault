@@ -44,6 +44,6 @@ metav_id: 2522
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **10:24** — Of the singers also; Eliashib: and of the porters; Shallum, and Telem, and Uri.
 

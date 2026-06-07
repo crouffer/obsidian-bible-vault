@@ -51,7 +51,7 @@ metav_id: 808
 
 ## Verse References
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **15:24** — And Asa slept with his fathers, and was buried with his fathers in the city of David his father: and Jehoshaphat his son reigned in his stead.
 - **22:2** — And it came to pass in the third year, that Jehoshaphat the king of Judah came down to the king of Israel.
 - **22:4** — And he said unto Jehoshaphat, Wilt thou go with me to battle to Ramothgilead? And Jehoshaphat said to the king of Israel, I am as thou art, my people as thy people, my horses as thy horses.
@@ -72,7 +72,7 @@ metav_id: 808
 - **22:50** — And Jehoshaphat slept with his fathers, and was buried with his fathers in the city of David his father: and Jehoram his son reigned in his stead.
 - **22:51** — Ahaziah the son of Ahab began to reign over Israel in Samaria the seventeenth year of Jehoshaphat king of Judah, and reigned two years over Israel.
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **1:17** — So he died according to the word of the LORD which Elijah had spoken. And Jehoram reigned in his stead in the second year of Jehoram the son of Jehoshaphat king of Judah; because he had no son.
 - **3:1** — Now Jehoram the son of Ahab began to reign over Israel in Samaria the eighteenth year of Jehoshaphat king of Judah, and reigned twelve years.
 - **3:7** — And he went and sent to Jehoshaphat the king of Judah, saying, The king of Moab hath rebelled against me: wilt thou go with me against Moab to battle? And he said, I will go up: I am as thou art, my people as thy people, and my horses as thy horses.
@@ -82,10 +82,10 @@ metav_id: 808
 - **8:16** — And in the fifth year of Joram the son of Ahab king of Israel, Jehoshaphat being then king of Judah, Jehoram the son of Jehoshaphat king of Judah began to reign.
 - **12:18** — And Jehoash king of Judah took all the hallowed things that Jehoshaphat, and Jehoram, and Ahaziah, his fathers, kings of Judah, had dedicated, and his own hallowed things, and all the gold that was found in the treasures of the house of the LORD, and in the king's house, and sent it to Hazael king of Syria: and he went away from Jerusalem.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **3:10** — And Solomon's son was Rehoboam, Abia his son, Asa his son, Jehoshaphat his son,
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **17:1** — And Jehoshaphat his son reigned in his stead, and strengthened himself against Israel.
 - **17:3** — And the LORD was with Jehoshaphat, because he walked in the first ways of his father David, and sought not unto Baalim;
 - **17:5** — Therefore the LORD stablished the kingdom in his hand; and all Judah brought to Jehoshaphat presents; and he had riches and honour in abundance.
@@ -125,10 +125,10 @@ metav_id: 808
 - **21:12** — And there came a writing to him from Elijah the prophet, saying, Thus saith the LORD God of David thy father, Because thou hast not walked in the ways of Jehoshaphat thy father, nor in the ways of Asa king of Judah,
 - **22:9** — And he sought Ahaziah: and they caught him, (for he was hid in Samaria,) and brought him to Jehu: and when they had slain him, they buried him: Because, said they, he is the son of Jehoshaphat, who sought the LORD with all his heart. So the house of Ahaziah had no power to keep still the kingdom.
 
-### [[Joel]]
+### [[books/Joel|Joel]]
 - **3:2** — I will also gather all nations, and will bring them down into the valley of Jehoshaphat, and will plead with them there for my people and for my heritage Israel, whom they have scattered among the nations, and parted my land.
 - **3:12** — Let the heathen be wakened, and come up to the valley of Jehoshaphat: for there will I sit to judge all the heathen round about.
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **1:8** — And Asa begat Josaphat; and Josaphat begat Joram; and Joram begat Ozias;
 

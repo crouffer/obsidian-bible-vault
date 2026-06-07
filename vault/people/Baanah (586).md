@@ -44,6 +44,6 @@ metav_id: 586
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **10:27** — Malluch, Harim, Baanah.
 

@@ -17,8 +17,8 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Elkanah (1168)]]"
-mother: "[[Hannah]]"
+father: "[[Hannah]]"
+mother: "[[Elkanah (1168)]]"
 spouse: []
 children: 
   - "[[Abiah (15)]]"
@@ -46,7 +46,7 @@ metav_id: 2469
 
 ## Verse References
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **1:20** — Wherefore it came to pass, when the time was come about after Hannah had conceived, that she bare a son, and called his name Samuel, saying, Because I have asked him of the LORD.
 - **2:18** — But Samuel ministered before the LORD, being a child, girded with a linen ephod.
 - **2:21** — And the LORD visited Hannah, so that she conceived, and bare three sons and two daughters. And the child Samuel grew before the LORD.
@@ -158,7 +158,7 @@ metav_id: 2469
 - **28:16** — Then said Samuel, Wherefore then dost thou ask of me, seeing the LORD is departed from thee, and is become thine enemy?
 - **28:20** — Then Saul fell straightway all along on the earth, and was sore afraid, because of the words of Samuel: and there was no strength in him; for he had eaten no bread all the day, nor all the night.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:28** — And the sons of Samuel; the firstborn Vashni, and Abiah.
 - **6:33** — And these are they that waited with their children. Of the sons of the Kohathites: Heman a singer, the son of Joel, the son of Shemuel,
 - **9:22** — All these which were chosen to be porters in the gates were two hundred and twelve. These were reckoned by their genealogy in their villages, whom David and Samuel the seer did ordain in their set office.
@@ -166,19 +166,19 @@ metav_id: 2469
 - **26:28** — And all that Samuel the seer, and Saul the son of Kish, and Abner the son of Ner, and Joab the son of Zeruiah, had dedicated; and whosoever had dedicated any thing, it was under the hand of Shelomith, and of his brethren.
 - **29:29** — Now the acts of David the king, first and last, behold, they are written in the book of Samuel the seer, and in the book of Nathan the prophet, and in the book of Gad the seer,
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **35:18** — And there was no passover like to that kept in Israel from the days of Samuel the prophet; neither did all the kings of Israel keep such a passover as Josiah kept, and the priests, and the Levites, and all Judah and Israel that were present, and the inhabitants of Jerusalem.
 
-### [[Psalms]]
+### [[books/Psalms|Psalms]]
 - **99:6** — Moses and Aaron among his priests, and Samuel among them that call upon his name; they called upon the LORD, and he answered them.
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **15:1** — Then said the LORD unto me, Though Moses and Samuel stood before me, yet my mind could not be toward this people: cast them out of my sight, and let them go forth.
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **3:24** — Yea, and all the prophets from Samuel and those that follow after, as many as have spoken, have likewise foretold of these days.
 - **13:20** — And after that he gave unto them judges about the space of four hundred and fifty years, until Samuel the prophet.
 
-### [[Hebrews]]
+### [[books/Hebrews|Hebrews]]
 - **11:32** — And what shall I more say? for the time would fail me to tell of Gedeon, and of Barak, and of Samson, and of Jephthae; of David also, and Samuel, and of the prophets:
 

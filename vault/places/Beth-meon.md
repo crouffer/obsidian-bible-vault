@@ -26,6 +26,6 @@ metav_id: 223
 
 ## Verse References
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **48:23** — And upon Kiriathaim, and upon Bethgamul, and upon Bethmeon,
 

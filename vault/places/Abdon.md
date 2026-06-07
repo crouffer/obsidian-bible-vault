@@ -26,9 +26,9 @@ metav_id: 3
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **21:30** — And out of the tribe of Asher, Mishal with her suburbs, Abdon with her suburbs,
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:74** — And out of the tribe of Asher; Mashal with her suburbs, and Abdon with her suburbs,
 

@@ -26,6 +26,6 @@ metav_id: 540
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **19:5** — And Ziklag, and Bethmarcaboth, and Hazarsusah,
 

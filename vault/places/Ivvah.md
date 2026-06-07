@@ -26,10 +26,10 @@ metav_id: 605
 
 ## Verse References
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **18:34** — Where are the gods of Hamath, and of Arpad? where are the gods of Sepharvaim, Hena, and Ivah? have they delivered Samaria out of mine hand?
 - **19:13** — Where is the king of Hamath, and the king of Arpad, and the king of the city of Sepharvaim, of Hena, and Ivah?
 
-### [[Isaiah]]
+### [[books/Isaiah|Isaiah]]
 - **37:13** — Where is the king of Hamath, and the king of Arphad, and the king of the city of Sepharvaim, Hena, and Ivah?
 

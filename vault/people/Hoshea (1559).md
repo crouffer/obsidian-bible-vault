@@ -44,7 +44,7 @@ metav_id: 1559
 
 ## Verse References
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **15:30** — And Hoshea the son of Elah made a conspiracy against Pekah the son of Remaliah, and smote him, and slew him, and reigned in his stead, in the twentieth year of Jotham the son of Uzziah.
 - **17:1** — In the twelfth year of Ahaz king of Judah began Hoshea the son of Elah to reign in Samaria over Israel nine years.
 - **17:3** — Against him came up Shalmaneser king of Assyria; and Hoshea became his servant, and gave him presents.

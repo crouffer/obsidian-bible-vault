@@ -44,7 +44,7 @@ metav_id: 2740
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **15:22** — Then pleased it the apostles and elders, with the whole church, to send chosen men of their own company to Antioch with Paul and Barnabas; namely, Judas surnamed Barsabas, and Silas, chief men among the brethren:
 - **15:27** — We have sent therefore Judas and Silas, who shall also tell you the same things by mouth.
 - **15:32** — And Judas and Silas, being prophets also themselves, exhorted the brethren with many words, and confirmed them.
@@ -59,15 +59,15 @@ metav_id: 2740
 - **17:15** — And they that conducted Paul brought him unto Athens: and receiving a commandment unto Silas and Timotheus for to come to him with all speed, they departed.
 - **18:5** — And when Silas and Timotheus were come from Macedonia, Paul was pressed in the spirit, and testified to the Jews that Jesus was Christ.
 
-### [[2 Corinthians]]
+### [[books/2 Corinthians|2 Corinthians]]
 - **1:19** — For the Son of God, Jesus Christ, who was preached among you by us, even by me and Silvanus and Timotheus, was not yea and nay, but in him was yea.
 
-### [[1 Thessalonians]]
+### [[books/1 Thessalonians|1 Thessalonians]]
 - **1:1** — Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians which is in God the Father and in the Lord Jesus Christ: Grace be unto you, and peace, from God our Father, and the Lord Jesus Christ.
 
-### [[2 Thessalonians]]
+### [[books/2 Thessalonians|2 Thessalonians]]
 - **1:1** — Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians in God our Father and the Lord Jesus Christ:
 
-### [[1 Peter]]
+### [[books/1 Peter|1 Peter]]
 - **5:12** — By Silvanus, a faithful brother unto you, as I suppose, I have written briefly, exhorting, and testifying that this is the true grace of God wherein ye stand.
 

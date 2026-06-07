@@ -26,6 +26,6 @@ metav_id: 251
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **15:28** — And Hazarshual, and Beersheba, and Bizjothjah,
 

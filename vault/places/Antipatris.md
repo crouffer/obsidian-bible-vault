@@ -26,6 +26,6 @@ metav_id: 70
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **23:31** — Then the soldiers, as it was commanded them, took Paul, and brought him by night to Antipatris.
 

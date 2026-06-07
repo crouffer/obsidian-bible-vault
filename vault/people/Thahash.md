@@ -17,8 +17,8 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Reumah]]"
-mother: "[[Nahor (2143)]]"
+father: "[[Nahor (2143)]]"
+mother: "[[Reumah]]"
 spouse: []
 children: []
 siblings: 
@@ -47,6 +47,6 @@ metav_id: 2845
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **22:24** — And his concubine, whose name was Reumah, she bare also Tebah, and Gaham, and Thahash, and Maachah.
 

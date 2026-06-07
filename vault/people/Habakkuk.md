@@ -44,7 +44,7 @@ metav_id: 1334
 
 ## Verse References
 
-### [[Habakkuk]]
+### [[books/Habakkuk|Habakkuk]]
 - **1:1** — The burden which Habakkuk the prophet did see.
 - **3:1** — A prayer of Habakkuk the prophet upon Shigionoth.
 

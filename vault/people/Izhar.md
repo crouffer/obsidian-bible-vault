@@ -51,15 +51,15 @@ metav_id: 658
 
 ## Verse References
 
-### [[Exodus]]
+### [[books/Exodus|Exodus]]
 - **6:18** — And the sons of Kohath; Amram, and Izhar, and Hebron, and Uzziel: and the years of the life of Kohath were an hundred thirty and three years.
 - **6:21** — And the sons of Izhar; Korah, and Nepheg, and Zichri.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **3:19** — And the sons of Kohath by their families; Amram, and Izehar, Hebron, and Uzziel.
 - **16:1** — Now Korah, the son of Izhar, the son of Kohath, the son of Levi, and Dathan and Abiram, the sons of Eliab, and On, the son of Peleth, sons of Reuben, took men:
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:2** — And the sons of Kohath; Amram, Izhar, and Hebron, and Uzziel.
 - **6:18** — And the sons of Kohath were, Amram, and Izhar, and Hebron, and Uzziel.
 - **6:22** — The sons of Kohath; Amminadab his son, Korah his son, Assir his son,

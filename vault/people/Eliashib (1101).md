@@ -44,7 +44,7 @@ metav_id: 1101
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **13:4** — And before this, Eliashib the priest, having the oversight of the chamber of the house of our God, was allied unto Tobiah:
 - **13:7** — And I came to Jerusalem, and understood of the evil that Eliashib did for Tobiah, in preparing him a chamber in the courts of the house of God.
 

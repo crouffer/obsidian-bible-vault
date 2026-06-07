@@ -44,12 +44,12 @@ metav_id: 753
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **24:7** — Now the first lot came forth to Jehoiarib, the second to Jedaiah,
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **2:36** — The priests: the children of Jedaiah, of the house of Jeshua, nine hundred seventy and three.
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **7:39** — The priests: the children of Jedaiah, of the house of Jeshua, nine hundred seventy and three.
 

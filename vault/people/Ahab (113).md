@@ -49,7 +49,7 @@ metav_id: 113
 
 ## Verse References
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **16:28** — So Omri slept with his fathers, and was buried in Samaria: and Ahab his son reigned in his stead.
 - **16:29** — And in the thirty and eighth year of Asa king of Judah began Ahab the son of Omri to reign over Israel: and Ahab the son of Omri reigned over Israel in Samaria twenty and two years.
 - **16:30** — And Ahab the son of Omri did evil in the sight of the LORD above all that were before him.
@@ -96,7 +96,7 @@ metav_id: 113
 - **22:49** — Then said Ahaziah the son of Ahab unto Jehoshaphat, Let my servants go with thy servants in the ships. But Jehoshaphat would not.
 - **22:51** — Ahaziah the son of Ahab began to reign over Israel in Samaria the seventeenth year of Jehoshaphat king of Judah, and reigned two years over Israel.
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **1:1** — Then Moab rebelled against Israel after the death of Ahab.
 - **3:1** — Now Jehoram the son of Ahab began to reign over Israel in Samaria the eighteenth year of Jehoshaphat king of Judah, and reigned twelve years.
 - **3:5** — But it came to pass, when Ahab was dead, that the king of Moab rebelled against the king of Israel.
@@ -120,7 +120,7 @@ metav_id: 113
 - **21:3** — For he built up again the high places which Hezekiah his father had destroyed; and he reared up altars for Baal, and made a grove, as did Ahab king of Israel; and worshipped all the host of heaven, and served them.
 - **21:13** — And I will stretch over Jerusalem the line of Samaria, and the plummet of the house of Ahab: and I will wipe Jerusalem as a man wipeth a dish, wiping it, and turning it upside down.
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **18:1** — Now Jehoshaphat had riches and honour in abundance, and joined affinity with Ahab.
 - **18:2** — And after certain years he went down to Ahab to Samaria. And Ahab killed sheep and oxen for him in abundance, and for the people that he had with him, and persuaded him to go up with him to Ramothgilead.
 - **18:3** — And Ahab king of Israel said unto Jehoshaphat king of Judah, Wilt thou go with me to Ramothgilead? And he answered him, I am as thou art, and my people as thy people; and we will be with thee in the war.
@@ -134,6 +134,6 @@ metav_id: 113
 - **22:7** — And the destruction of Ahaziah was of God by coming to Joram: for when he was come, he went out with Jehoram against Jehu the son of Nimshi, whom the LORD had anointed to cut off the house of Ahab.
 - **22:8** — And it came to pass, that, when Jehu was executing judgment upon the house of Ahab, and found the princes of Judah, and the sons of the brethren of Ahaziah, that ministered to Ahaziah, he slew them.
 
-### [[Micah]]
+### [[books/Micah|Micah]]
 - **6:16** — For the statutes of Omri are kept, and all the works of the house of Ahab, and ye walk in their counsels; that I should make thee a desolation, and the inhabitants thereof an hissing: therefore ye shall bear the reproach of my people.
 

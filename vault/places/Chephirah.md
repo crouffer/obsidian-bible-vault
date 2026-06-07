@@ -26,13 +26,13 @@ metav_id: 285
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **9:17** — And the children of Israel journeyed, and came unto their cities on the third day. Now their cities were Gibeon, and Chephirah, and Beeroth, and Kirjathjearim.
 - **18:26** — And Mizpeh, and Chephirah, and Mozah,
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **2:25** — The children of Kirjatharim, Chephirah, and Beeroth, seven hundred and forty and three.
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **7:29** — The men of Kirjathjearim, Chephirah, and Beeroth, seven hundred forty and three.
 

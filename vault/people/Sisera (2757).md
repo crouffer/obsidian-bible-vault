@@ -44,7 +44,7 @@ metav_id: 2757
 
 ## Verse References
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **4:2** — And the LORD sold them into the hand of Jabin king of Canaan, that reigned in Hazor; the captain of whose host was Sisera, which dwelt in Harosheth of the Gentiles.
 - **4:7** — And I will draw unto thee to the river Kishon Sisera, the captain of Jabin's army, with his chariots and his multitude; and I will deliver him into thine hand.
 - **4:9** — And she said, I will surely go with thee: notwithstanding the journey that thou takest shall not be for thine honour; for the LORD shall sell Sisera into the hand of a woman. And Deborah arose, and went with Barak to Kedesh.
@@ -61,9 +61,9 @@ metav_id: 2757
 - **5:28** — The mother of Sisera looked out at a window, and cried through the lattice, Why is his chariot so long in coming? why tarry the wheels of his chariots?
 - **5:30** — Have they not sped? have they not divided the prey; to every man a damsel or two; to Sisera a prey of divers colours, a prey of divers colours of needlework, of divers colours of needlework on both sides, meet for the necks of them that take the spoil?
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **12:9** — And when they forgat the LORD their God, he sold them into the hand of Sisera, captain of the host of Hazor, and into the hand of the Philistines, and into the hand of the king of Moab, and they fought against them.
 
-### [[Psalms]]
+### [[books/Psalms|Psalms]]
 - **83:9** — Do unto them as unto the Midianites; as to Sisera, as to Jabin, at the brook of Kison:
 

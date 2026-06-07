@@ -44,6 +44,6 @@ metav_id: 1272
 
 ## Verse References
 
-### [[3 John]]
+### [[books/3 John|3 John]]
 - **1:1** — The elder unto the wellbeloved Gaius, whom I love in the truth.
 

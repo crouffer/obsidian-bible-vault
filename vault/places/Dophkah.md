@@ -26,7 +26,7 @@ metav_id: 340
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **33:12** — And they took their journey out of the wilderness of Sin, and encamped in Dophkah.
 - **33:13** — And they departed from Dophkah, and encamped in Alush.
 

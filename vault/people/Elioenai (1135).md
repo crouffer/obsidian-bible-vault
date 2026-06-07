@@ -53,7 +53,7 @@ metav_id: 1135
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **3:23** — And the sons of Neariah; Elioenai, and Hezekiah, and Azrikam, three.
 - **3:24** — And the sons of Elioenai were, Hodaiah, and Eliashib, and Pelaiah, and Akkub, and Johanan, and Dalaiah, and Anani, seven.
 

@@ -44,6 +44,6 @@ metav_id: 948
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **23:26** — Claudius Lysias unto the most excellent governor Felix sendeth greeting.
 

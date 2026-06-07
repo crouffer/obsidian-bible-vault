@@ -26,19 +26,19 @@ metav_id: 389
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **15:62** — And Nibshan, and the city of Salt, and Engedi; six cities with their villages.
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **23:29** — And David went up from thence, and dwelt in strong holds at Engedi.
 - **24:1** — And it came to pass, when Saul was returned from following the Philistines, that it was told him, saying, Behold, David is in the wilderness of Engedi.
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **20:2** — Then there came some that told Jehoshaphat, saying, There cometh a great multitude against thee from beyond the sea on this side Syria; and, behold, they be in Hazazontamar, which is Engedi.
 
-### [[Song of Solomon]]
+### [[books/Song of Solomon|Song of Solomon]]
 - **1:14** — My beloved is unto me as a cluster of camphire in the vineyards of Engedi.
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **47:10** — And it shall come to pass, that the fishers shall stand upon it from Engedi even unto Eneglaim; they shall be a place to spread forth nets; their fish shall be according to their kinds, as the fish of the great sea, exceeding many.
 

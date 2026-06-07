@@ -44,6 +44,6 @@ metav_id: 1556
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **12:32** — And after them went Hoshaiah, and half of the princes of Judah,
 

@@ -26,16 +26,16 @@ metav_id: 82
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **23:7** — And he took up his parable, and said, Balak the king of Moab hath brought me from Aram, out of the mountains of the east, saying, Come, curse me Jacob, and come, defy Israel.
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **8:6** — Then David put garrisons in Syria of Damascus: and the Syrians became servants to David, and brought gifts. And the LORD preserved David whithersoever he went.
 - **15:8** — For thy servant vowed a vow while I abode at Geshur in Syria, saying, If the LORD shall bring me again indeed to Jerusalem, then I will serve the LORD.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **2:23** — And he took Geshur, and Aram, with the towns of Jair, from them, with Kenath, and the towns thereof, even threescore cities. All these belonged to the sons of Machir the father of Gilead.
 
-### [[Hosea]]
+### [[books/Hosea|Hosea]]
 - **12:12** — And Jacob fled into the country of Syria, and Israel served for a wife, and for a wife he kept sheep.
 

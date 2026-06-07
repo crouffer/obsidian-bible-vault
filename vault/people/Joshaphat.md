@@ -44,6 +44,6 @@ metav_id: 1724
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **11:43** — Hanan the son of Maachah, and Joshaphat the Mithnite,
 

@@ -17,8 +17,8 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Hezron (1520)]]"
-mother: "[[Daughter of Machir]]"
+father: "[[Daughter of Machir]]"
+mother: "[[Hezron (1520)]]"
 spouse: []
 children: 
   - "[[Jair (708)]]"
@@ -48,7 +48,7 @@ metav_id: 2484
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **2:21** — And afterward Hezron went in to the daughter of Machir the father of Gilead, whom he married when he was threescore years old; and she bare him Segub.
 - **2:22** — And Segub begat Jair, who had three and twenty cities in the land of Gilead.
 

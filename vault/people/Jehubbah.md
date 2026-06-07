@@ -47,6 +47,6 @@ metav_id: 821
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **7:34** — And the sons of Shamer; Ahi, and Rohgah, Jehubbah, and Aram.
 

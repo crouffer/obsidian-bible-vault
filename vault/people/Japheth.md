@@ -53,7 +53,7 @@ metav_id: 726
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **5:32** — And Noah was five hundred years old: and Noah begat Shem, Ham, and Japheth.
 - **6:10** — And Noah begat three sons, Shem, Ham, and Japheth.
 - **7:13** — In the selfsame day entered Noah, and Shem, and Ham, and Japheth, the sons of Noah, and Noah's wife, and the three wives of his sons with them, into the ark;
@@ -64,7 +64,7 @@ metav_id: 726
 - **10:2** — The sons of Japheth; Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras.
 - **10:21** — Unto Shem also, the father of all the children of Eber, the brother of Japheth the elder, even to him were children born.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:4** — Noah, Shem, Ham, and Japheth.
 - **1:5** — The sons of Japheth; Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras.
 

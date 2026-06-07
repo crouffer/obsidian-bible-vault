@@ -49,13 +49,13 @@ metav_id: 2116
 
 ## Verse References
 
-### [[Exodus]]
+### [[books/Exodus|Exodus]]
 - **6:19** — And the sons of Merari; Mahali and Mushi: these are the families of Levi according to their generations.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **3:20** — And the sons of Merari by their families; Mahli, and Mushi. These are the families of the Levites according to the house of their fathers.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:19** — The sons of Merari; Mahli, and Mushi. And these are the families of the Levites according to their fathers.
 - **6:47** — The son of Mahli, the son of Mushi, the son of Merari, the son of Levi.
 - **23:21** — The sons of Merari; Mahli, and Mushi. The sons of Mahli; Eleazar, and Kish.

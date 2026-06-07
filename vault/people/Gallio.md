@@ -44,7 +44,7 @@ metav_id: 1275
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **18:12** — And when Gallio was the deputy of Achaia, the Jews made insurrection with one accord against Paul, and brought him to the judgment seat,
 - **18:14** — And when Paul was now about to open his mouth, Gallio said unto the Jews, If it were a matter of wrong or wicked lewdness, O ye Jews, reason would that I should bear with you:
 - **18:17** — Then all the Greeks took Sosthenes, the chief ruler of the synagogue, and beat him before the judgment seat. And Gallio cared for none of those things.

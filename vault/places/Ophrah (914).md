@@ -26,7 +26,7 @@ metav_id: 914
 
 ## Verse References
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **6:11** — And there came an angel of the LORD, and sat under an oak which was in Ophrah, that pertained unto Joash the Abiezrite: and his son Gideon threshed wheat by the winepress, to hide it from the Midianites.
 - **6:24** — Then Gideon built an altar there unto the LORD, and called it Jehovahshalom: unto this day it is yet in Ophrah of the Abiezrites.
 - **8:27** — And Gideon made an ephod thereof, and put it in his city, even in Ophrah: and all Israel went thither a whoring after it: which thing became a snare unto Gideon, and to his house.

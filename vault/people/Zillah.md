@@ -45,7 +45,7 @@ metav_id: 3080
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **4:19** — And Lamech took unto him two wives: the name of the one was Adah, and the name of the other Zillah.
 - **4:22** — And Zillah, she also bare Tubalcain, an instructer of every artificer in brass and iron: and the sister of Tubalcain was Naamah.
 - **4:23** — And Lamech said unto his wives, Adah and Zillah, Hear my voice; ye wives of Lamech, hearken unto my speech: for I have slain a man to my wounding, and a young man to my hurt.

@@ -51,7 +51,7 @@ metav_id: 2613
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **5:32** — And Noah was five hundred years old: and Noah begat Shem, Ham, and Japheth.
 - **6:10** — And Noah begat three sons, Shem, Ham, and Japheth.
 - **7:13** — In the selfsame day entered Noah, and Shem, and Ham, and Japheth, the sons of Noah, and Noah's wife, and the three wives of his sons with them, into the ark;
@@ -66,11 +66,11 @@ metav_id: 2613
 - **11:10** — These are the generations of Shem: Shem was an hundred years old, and begat Arphaxad two years after the flood:
 - **11:11** — And Shem lived after he begat Arphaxad five hundred years, and begat sons and daughters.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:4** — Noah, Shem, Ham, and Japheth.
 - **1:17** — The sons of Shem; Elam, and Asshur, and Arphaxad, and Lud, and Aram, and Uz, and Hul, and Gether, and Meshech.
 - **1:24** — Shem, Arphaxad, Shelah,
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **3:36** — Which was the son of Cainan, which was the son of Arphaxad, which was the son of Sem, which was the son of Noe, which was the son of Lamech,
 

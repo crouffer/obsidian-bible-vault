@@ -44,10 +44,10 @@ metav_id: 1532
 
 ## Verse References
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **5:11** — And Hiram king of Tyre sent messengers to David, and cedar trees, and carpenters, and masons: and they built David an house.
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **5:1** — And Hiram king of Tyre sent his servants unto Solomon; for he had heard that they had anointed him king in the room of his father: for Hiram was ever a lover of David.
 - **5:2** — And Solomon sent to Hiram, saying,
 - **5:7** — And it came to pass, when Hiram heard the words of Solomon, that he rejoiced greatly, and said, Blessed be the LORD this day, which hath given unto David a wise son over this great people.
@@ -63,10 +63,10 @@ metav_id: 1532
 - **10:11** — And the navy also of Hiram, that brought gold from Ophir, brought in from Ophir great plenty of almug trees, and precious stones.
 - **10:22** — For the king had at sea a navy of Tharshish with the navy of Hiram: once in three years came the navy of Tharshish, bringing gold, and silver, ivory, and apes, and peacocks.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **14:1** — Now Hiram king of Tyre sent messengers to David, and timber of cedars, with masons and carpenters, to build him an house.
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **2:3** — And Solomon sent to Huram the king of Tyre, saying, As thou didst deal with David my father, and didst send him cedars to build him an house to dwell therein, even so deal with me.
 - **2:11** — Then Huram the king of Tyre answered in writing, which he sent to Solomon, Because the LORD hath loved his people, he hath made thee king over them.
 - **2:12** — Huram said moreover, Blessed be the LORD God of Israel, that made heaven and earth, who hath given to David the king a wise son, endued with prudence and understanding, that might build an house for the LORD, and an house for his kingdom.

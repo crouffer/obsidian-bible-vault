@@ -26,6 +26,6 @@ metav_id: 600
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **19:41** — And the coast of their inheritance was Zorah, and Eshtaol, and Irshemesh,
 

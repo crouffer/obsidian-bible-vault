@@ -44,6 +44,6 @@ metav_id: 99
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **10:16** — Adonijah, Bigvai, Adin,
 

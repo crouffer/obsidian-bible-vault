@@ -45,12 +45,12 @@ metav_id: 1367
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **46:12** — And the sons of Judah; Er, and Onan, and Shelah, and Pharez, and Zerah: but Er and Onan died in the land of Canaan. And the sons of Pharez were Hezron and Hamul.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **26:21** — And the sons of Pharez were; of Hezron, the family of the Hezronites: of Hamul, the family of the Hamulites.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **2:5** — The sons of Pharez; Hezron, and Hamul.
 

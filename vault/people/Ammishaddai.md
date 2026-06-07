@@ -45,7 +45,7 @@ metav_id: 230
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **1:12** — Of Dan; Ahiezer the son of Ammishaddai.
 - **2:25** — The standard of the camp of Dan shall be on the north side by their armies: and the captain of the children of Dan shall be Ahiezer the son of Ammishaddai.
 - **7:66** — On the tenth day Ahiezer the son of Ammishaddai, prince of the children of Dan, offered:

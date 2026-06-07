@@ -26,6 +26,6 @@ metav_id: 263
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **15:40** — And Cabbon, and Lahmam, and Kithlish,
 

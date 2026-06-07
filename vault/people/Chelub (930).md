@@ -45,6 +45,6 @@ metav_id: 930
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **27:26** — And over them that did the work of the field for tillage of the ground was Ezri the son of Chelub:
 

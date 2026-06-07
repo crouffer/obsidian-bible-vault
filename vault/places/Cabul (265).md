@@ -26,6 +26,6 @@ metav_id: 265
 
 ## Verse References
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **9:13** — And he said, What cities are these which thou hast given me, my brother? And he called them the land of Cabul unto this day.
 

@@ -26,9 +26,9 @@ metav_id: 534
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **25:18** — And they dwelt from Havilah unto Shur, that is before Egypt, as thou goest toward Assyria: and he died in the presence of all his brethren.
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **15:7** — And Saul smote the Amalekites from Havilah until thou comest to Shur, that is over against Egypt.
 

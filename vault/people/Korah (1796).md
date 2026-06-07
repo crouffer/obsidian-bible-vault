@@ -47,6 +47,6 @@ metav_id: 1796
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **2:43** — And the sons of Hebron; Korah, and Tappuah, and Rekem, and Shema.
 

@@ -44,10 +44,10 @@ metav_id: 2661
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **2:4** — The children of Shephatiah, three hundred seventy and two.
 - **8:8** — And of the sons of Shephatiah; Zebadiah the son of Michael, and with him fourscore males.
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **7:9** — The children of Shephatiah, three hundred seventy and two.
 

@@ -26,6 +26,6 @@ metav_id: 1052
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **19:42** — And Shaalabbin, and Ajalon, and Jethlah,
 

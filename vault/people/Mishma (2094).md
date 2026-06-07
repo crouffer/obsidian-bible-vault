@@ -56,9 +56,9 @@ metav_id: 2094
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **25:14** — And Mishma, and Dumah, and Massa,
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:30** — Mishma, and Dumah, Massa, Hadad, and Tema,
 

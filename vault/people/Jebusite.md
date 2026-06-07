@@ -54,9 +54,9 @@ metav_id: 748
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **10:16** — And the Jebusite, and the Amorite, and the Girgasite,
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:14** — The Jebusite also, and the Amorite, and the Girgashite,
 

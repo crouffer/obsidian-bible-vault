@@ -26,6 +26,6 @@ metav_id: 161
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **15:24** — Ziph, and Telem, and Bealoth,
 

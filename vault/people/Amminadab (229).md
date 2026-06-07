@@ -44,7 +44,7 @@ metav_id: 229
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **15:10** — Of the sons of Uzziel; Amminadab the chief, and his brethren an hundred and twelve.
 - **15:11** — And David called for Zadok and Abiathar the priests, and for the Levites, for Uriel, Asaiah, and Joel, Shemaiah, and Eliel, and Amminadab,
 

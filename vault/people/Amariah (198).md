@@ -45,7 +45,7 @@ metav_id: 198
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:7** — Meraioth begat Amariah, and Amariah begat Ahitub,
 - **6:52** — Meraioth his son, Amariah his son, Ahitub his son,
 

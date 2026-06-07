@@ -44,6 +44,6 @@ metav_id: 1079
 
 ## Verse References
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **17:17** — And of Benjamin; Eliada a mighty man of valour, and with him armed men with bow and shield two hundred thousand.
 

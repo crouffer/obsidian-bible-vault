@@ -44,6 +44,6 @@ metav_id: 1720
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **1:23** — And they appointed two, Joseph called Barsabas, who was surnamed Justus, and Matthias.
 

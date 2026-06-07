@@ -26,6 +26,6 @@ metav_id: 102
 
 ## Verse References
 
-### [[Zephaniah]]
+### [[books/Zephaniah|Zephaniah]]
 - **2:4** — For Gaza shall be forsaken, and Ashkelon a desolation: they shall drive out Ashdod at the noon day, and Ekron shall be rooted up.
 

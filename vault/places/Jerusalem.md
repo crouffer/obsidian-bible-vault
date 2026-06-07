@@ -26,7 +26,7 @@ metav_id: 636
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **10:1** — Now it came to pass, when Adonizedek king of Jerusalem had heard how Joshua had taken Ai, and had utterly destroyed it; as he had done to Jericho and her king, so he had done to Ai and her king; and how the inhabitants of Gibeon had made peace with Israel, and were among them;
 - **10:3** — Wherefore Adonizedek king of Jerusalem sent unto Hoham king of Hebron, and unto Piram king of Jarmuth, and unto Japhia king of Lachish, and unto Debir king of Eglon, saying,
 - **10:5** — Therefore the five kings of the Amorites, the king of Jerusalem, the king of Hebron, the king of Jarmuth, the king of Lachish, the king of Eglon, gathered themselves together, and went up, they and all their hosts, and encamped before Gibeon, and made war against it.
@@ -36,16 +36,16 @@ metav_id: 636
 - **15:63** — As for the Jebusites the inhabitants of Jerusalem, the children of Judah could not drive them out: but the Jebusites dwell with the children of Judah at Jerusalem unto this day.
 - **18:28** — And Zelah, Eleph, and Jebusi, which is Jerusalem, Gibeath, and Kirjath; fourteen cities with their villages. This is the inheritance of the children of Benjamin according to their families.
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **1:7** — And Adonibezek said, Threescore and ten kings, having their thumbs and their great toes cut off, gathered their meat under my table: as I have done, so God hath requited me. And they brought him to Jerusalem, and there he died.
 - **1:8** — Now the children of Judah had fought against Jerusalem, and had taken it, and smitten it with the edge of the sword, and set the city on fire.
 - **1:21** — And the children of Benjamin did not drive out the Jebusites that inhabited Jerusalem; but the Jebusites dwell with the children of Benjamin in Jerusalem unto this day.
 - **19:10** — But the man would not tarry that night, but he rose up and departed, and came over against Jebus, which is Jerusalem; and there were with him two asses saddled, his concubine also was with him.
 
-### [[1 Samuel]]
+### [[books/1 Samuel|1 Samuel]]
 - **17:54** — And David took the head of the Philistine, and brought it to Jerusalem; but he put his armour in his tent.
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **5:5** — In Hebron he reigned over Judah seven years and six months: and in Jerusalem he reigned thirty and three years over all Israel and Judah.
 - **5:6** — And the king and his men went to Jerusalem unto the Jebusites, the inhabitants of the land: which spake unto David, saying, Except thou take away the blind and the lame, thou shalt not come in hither: thinking, David cannot come in hither.
 - **5:13** — And David took him more concubines and wives out of Jerusalem, after he was come from Hebron: and there were yet sons and daughters born to David.
@@ -77,7 +77,7 @@ metav_id: 636
 - **24:8** — So when they had gone through all the land, they came to Jerusalem at the end of nine months and twenty days.
 - **24:16** — And when the angel stretched out his hand upon Jerusalem to destroy it, the LORD repented him of the evil, and said to the angel that destroyed the people, It is enough: stay now thine hand. And the angel of the LORD was by the threshingplace of Araunah the Jebusite.
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **2:11** — And the days that David reigned over Israel were forty years: seven years reigned he in Hebron, and thirty and three years reigned he in Jerusalem.
 - **2:36** — And the king sent and called for Shimei, and said unto him, Build thee an house in Jerusalem, and dwell there, and go not forth thence any whither.
 - **2:38** — And Shimei said unto the king, The saying is good: as my lord the king hath said, so will thy servant do. And Shimei dwelt in Jerusalem many days.
@@ -107,7 +107,7 @@ metav_id: 636
 - **15:10** — And forty and one years reigned he in Jerusalem. And his mother's name was Maachah, the daughter of Abishalom.
 - **22:42** — Jehoshaphat was thirty and five years old when he began to reign; and he reigned twenty and five years in Jerusalem. And his mother's name was Azubah the daughter of Shilhi.
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **8:17** — Thirty and two years old was he when he began to reign; and he reigned eight years in Jerusalem.
 - **8:26** — Two and twenty years old was Ahaziah when he began to reign; and he reigned one year in Jerusalem. And his mother's name was Athaliah, the daughter of Omri king of Israel.
 - **9:28** — And his servants carried him in a chariot to Jerusalem, and buried him in his sepulchre with his fathers in the city of David.
@@ -165,7 +165,7 @@ metav_id: 636
 - **25:9** — And he burnt the house of the LORD, and the king's house, and all the houses of Jerusalem, and every great man's house burnt he with fire.
 - **25:10** — And all the army of the Chaldees, that were with the captain of the guard, brake down the walls of Jerusalem round about.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **3:4** — These six were born unto him in Hebron; and there he reigned seven years and six months: and in Jerusalem he reigned thirty and three years.
 - **3:5** — And these were born unto him in Jerusalem; Shimea, and Shobab, and Nathan, and Solomon, four, of Bathshua the daughter of Ammiel:
 - **6:10** — And Johanan begat Azariah, (he it is that executed the priest's office in the temple that Solomon built in Jerusalem:)
@@ -191,7 +191,7 @@ metav_id: 636
 - **28:1** — And David assembled all the princes of Israel, the princes of the tribes, and the captains of the companies that ministered to the king by course, and the captains over the thousands, and captains over the hundreds, and the stewards over all the substance and possession of the king, and of his sons, with the officers, and with the mighty men, and with all the valiant men, unto Jerusalem.
 - **29:27** — And the time that he reigned over Israel was forty years; seven years reigned he in Hebron, and thirty and three years reigned he in Jerusalem.
 
-### [[2 Chronicles]]
+### [[books/2 Chronicles|2 Chronicles]]
 - **1:4** — But the ark of God had David brought up from Kirjathjearim to the place which David had prepared for it: for he had pitched a tent for it at Jerusalem.
 - **1:13** — Then Solomon came from his journey to the high place that was at Gibeon to Jerusalem, from before the tabernacle of the congregation, and reigned over Israel.
 - **1:14** — And Solomon gathered chariots and horsemen: and he had a thousand and four hundred chariots, and twelve thousand horsemen, which he placed in the chariot cities, and with the king at Jerusalem.
@@ -303,7 +303,7 @@ metav_id: 636
 - **36:19** — And they burnt the house of God, and brake down the wall of Jerusalem, and burnt all the palaces thereof with fire, and destroyed all the goodly vessels thereof.
 - **36:23** — Thus saith Cyrus king of Persia, All the kingdoms of the earth hath the LORD God of heaven given me; and he hath charged me to build him an house in Jerusalem, which is in Judah. Who is there among you of all his people? The LORD his God be with him, and let him go up.
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **1:2** — Thus saith Cyrus king of Persia, The LORD God of heaven hath given me all the kingdoms of the earth; and he hath charged me to build him an house at Jerusalem, which is in Judah.
 - **1:3** — Who is there among you of all his people? his God be with him, and let him go up to Jerusalem, which is in Judah, and build the house of the LORD God of Israel, (he is the God,) which is in Jerusalem.
 - **1:4** — And whosoever remaineth in any place where he sojourneth, let the men of his place help him with silver, and with gold, and with goods, and with beasts, beside the freewill offering for the house of God that is in Jerusalem.
@@ -349,7 +349,7 @@ metav_id: 636
 - **10:7** — And they made proclamation throughout Judah and Jerusalem unto all the children of the captivity, that they should gather themselves together unto Jerusalem;
 - **10:9** — Then all the men of Judah and Benjamin gathered themselves together unto Jerusalem within three days. It was the ninth month, on the twentieth day of the month; and all the people sat in the street of the house of God, trembling because of this matter, and for the great rain.
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **1:2** — That Hanani, one of my brethren, came, he and certain men of Judah; and I asked them concerning the Jews that had escaped, which were left of the captivity, and concerning Jerusalem.
 - **1:3** — And they said unto me, The remnant that are left of the captivity there in the province are in great affliction and reproach: the wall of Jerusalem also is broken down, and the gates thereof are burned with fire.
 - **2:11** — So I came to Jerusalem, and was there three days.
@@ -385,10 +385,10 @@ metav_id: 636
 - **13:19** — And it came to pass, that when the gates of Jerusalem began to be dark before the sabbath, I commanded that the gates should be shut, and charged that they should not be opened till after the sabbath: and some of my servants set I at the gates, that there should no burden be brought in on the sabbath day.
 - **13:20** — So the merchants and sellers of all kind of ware lodged without Jerusalem once or twice.
 
-### [[Esther]]
+### [[books/Esther|Esther]]
 - **2:6** — Who had been carried away from Jerusalem with the captivity which had been carried away with Jeconiah king of Judah, whom Nebuchadnezzar the king of Babylon had carried away.
 
-### [[Psalms]]
+### [[books/Psalms|Psalms]]
 - **51:18** — Do good in thy good pleasure unto Zion: build thou the walls of Jerusalem.
 - **68:29** — Because of thy temple at Jerusalem shall kings bring presents unto thee.
 - **79:1** — O God, the heathen are come into thine inheritance; thy holy temple have they defiled; they have laid Jerusalem on heaps.
@@ -407,14 +407,14 @@ metav_id: 636
 - **147:2** — The LORD doth build up Jerusalem: he gathereth together the outcasts of Israel.
 - **147:12** — Praise the LORD, O Jerusalem; praise thy God, O Zion.
 
-### [[Ecclesiastes]]
+### [[books/Ecclesiastes|Ecclesiastes]]
 - **1:1** — The words of the Preacher, the son of David, king in Jerusalem.
 - **1:12** — I the Preacher was king over Israel in Jerusalem.
 - **1:16** — I communed with mine own heart, saying, Lo, I am come to great estate, and have gotten more wisdom than all they that have been before me in Jerusalem: yea, my heart had great experience of wisdom and knowledge.
 - **2:7** — I got me servants and maidens, and had servants born in my house; also I had great possessions of great and small cattle above all that were in Jerusalem before me:
 - **2:9** — So I was great, and increased more than all that were before me in Jerusalem: also my wisdom remained with me.
 
-### [[Song of Solomon]]
+### [[books/Song of Solomon|Song of Solomon]]
 - **1:5** — I am black, but comely, O ye daughters of Jerusalem, as the tents of Kedar, as the curtains of Solomon.
 - **2:7** — I charge you, O ye daughters of Jerusalem, by the roes, and by the hinds of the field, that ye stir not up, nor awake my love, till he please.
 - **3:5** — I charge you, O ye daughters of Jerusalem, by the roes, and by the hinds of the field, that ye stir not up, nor awake my love, till he please.
@@ -424,7 +424,7 @@ metav_id: 636
 - **6:4** — Thou art beautiful, O my love, as Tirzah, comely as Jerusalem, terrible as an army with banners.
 - **8:4** — I charge you, O daughters of Jerusalem, that ye stir not up, nor awake my love, until he please.
 
-### [[Isaiah]]
+### [[books/Isaiah|Isaiah]]
 - **1:1** — The vision of Isaiah the son of Amoz, which he saw concerning Judah and Jerusalem in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah.
 - **2:1** — The word that Isaiah the son of Amoz saw concerning Judah and Jerusalem.
 - **2:3** — And many people shall go and say, Come ye, and let us go up to the mountain of the LORD, to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths: for out of Zion shall go forth the law, and the word of the LORD from Jerusalem.
@@ -472,7 +472,7 @@ metav_id: 636
 - **66:13** — As one whom his mother comforteth, so will I comfort you; and ye shall be comforted in Jerusalem.
 - **66:20** — And they shall bring all your brethren for an offering unto the LORD out of all nations upon horses, and in chariots, and in litters, and upon mules, and upon swift beasts, to my holy mountain Jerusalem, saith the LORD, as the children of Israel bring an offering in a clean vessel into the house of the LORD.
 
-### [[Jeremiah]]
+### [[books/Jeremiah|Jeremiah]]
 - **1:3** — It came also in the days of Jehoiakim the son of Josiah king of Judah, unto the end of the eleventh year of Zedekiah the son of Josiah king of Judah, unto the carrying away of Jerusalem captive in the fifth month.
 - **1:15** — For, lo, I will call all the families of the kingdoms of the north, saith the LORD; and they shall come, and they shall set every one his throne at the entering of the gates of Jerusalem, and against all the walls thereof round about, and against all the cities of Judah.
 - **2:2** — Go and cry in the ears of Jerusalem, saying, Thus saith the LORD; I remember thee, the kindness of thy youth, the love of thine espousals, when thou wentest after me in the wilderness, in a land that was not sown.
@@ -571,7 +571,7 @@ metav_id: 636
 - **52:14** — And all the army of the Chaldeans, that were with the captain of the guard, brake down all the walls of Jerusalem round about.
 - **52:29** — In the eighteenth year of Nebuchadrezzar he carried away captive from Jerusalem eight hundred thirty and two persons:
 
-### [[Lamentations]]
+### [[books/Lamentations|Lamentations]]
 - **1:7** — Jerusalem remembered in the days of her affliction and of her miseries all her pleasant things that she had in the days of old, when her people fell into the hand of the enemy, and none did help her: the adversaries saw her, and did mock at her sabbaths.
 - **1:8** — Jerusalem hath grievously sinned; therefore she is removed: all that honoured her despise her, because they have seen her nakedness: yea, she sigheth, and turneth backward.
 - **1:17** — Zion spreadeth forth her hands, and there is none to comfort her: the LORD hath commanded concerning Jacob, that his adversaries should be round about him: Jerusalem is as a menstruous woman among them.
@@ -580,7 +580,7 @@ metav_id: 636
 - **2:15** — All that pass by clap their hands at thee; they hiss and wag their head at the daughter of Jerusalem, saying, Is this the city that men call The perfection of beauty, The joy of the whole earth?
 - **4:12** — The kings of the earth, and all the inhabitants of the world, would not have believed that the adversary and the enemy should have entered into the gates of Jerusalem.
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **4:1** — Thou also, son of man, take thee a tile, and lay it before thee, and pourtray upon it the city, even Jerusalem:
 - **4:7** — Therefore thou shalt set thy face toward the siege of Jerusalem, and thine arm shall be uncovered, and thou shalt prophesy against it.
 - **4:16** — Moreover he said unto me, Son of man, behold, I will break the staff of bread in Jerusalem: and they shall eat bread by weight, and with care; and they shall drink water by measure, and with astonishment:
@@ -608,7 +608,7 @@ metav_id: 636
 - **33:21** — And it came to pass in the twelfth year of our captivity, in the tenth month, in the fifth day of the month, that one that had escaped out of Jerusalem came unto me, saying, The city is smitten.
 - **36:38** — As the holy flock, as the flock of Jerusalem in her solemn feasts; so shall the waste cities be filled with flocks of men: and they shall know that I am the LORD.
 
-### [[Daniel]]
+### [[books/Daniel|Daniel]]
 - **1:1** — In the third year of the reign of Jehoiakim king of Judah came Nebuchadnezzar king of Babylon unto Jerusalem, and besieged it.
 - **5:2** — Belshazzar, whiles he tasted the wine, commanded to bring the golden and silver vessels which his father Nebuchadnezzar had taken out of the temple which was in Jerusalem; that the king, and his princes, his wives, and his concubines, might drink therein.
 - **5:3** — Then they brought the golden vessels that were taken out of the temple of the house of God which was at Jerusalem; and the king, and his princes, his wives, and his concubines, drank in them.
@@ -619,7 +619,7 @@ metav_id: 636
 - **9:16** — O Lord, according to all thy righteousness, I beseech thee, let thine anger and thy fury be turned away from thy city Jerusalem, thy holy mountain: because for our sins, and for the iniquities of our fathers, Jerusalem and thy people are become a reproach to all that are about us.
 - **9:25** — Know therefore and understand, that from the going forth of the commandment to restore and to build Jerusalem unto the Messiah the Prince shall be seven weeks, and threescore and two weeks: the street shall be built again, and the wall, even in troublous times.
 
-### [[Joel]]
+### [[books/Joel|Joel]]
 - **2:32** — And it shall come to pass, that whosoever shall call on the name of the LORD shall be delivered: for in mount Zion and in Jerusalem shall be deliverance, as the LORD hath said, and in the remnant whom the LORD shall call.
 - **3:1** — For, behold, in those days, and in that time, when I shall bring again the captivity of Judah and Jerusalem,
 - **3:6** — The children also of Judah and the children of Jerusalem have ye sold unto the Grecians, that ye might remove them far from their border.
@@ -627,15 +627,15 @@ metav_id: 636
 - **3:17** — So shall ye know that I am the LORD your God dwelling in Zion, my holy mountain: then shall Jerusalem be holy, and there shall no strangers pass through her any more.
 - **3:20** — But Judah shall dwell for ever, and Jerusalem from generation to generation.
 
-### [[Amos]]
+### [[books/Amos|Amos]]
 - **1:2** — And he said, The LORD will roar from Zion, and utter his voice from Jerusalem; and the habitations of the shepherds shall mourn, and the top of Carmel shall wither.
 - **2:5** — But I will send a fire upon Judah, and it shall devour the palaces of Jerusalem.
 
-### [[Obadiah]]
+### [[books/Obadiah|Obadiah]]
 - **1:11** — In the day that thou stoodest on the other side, in the day that the strangers carried away captive his forces, and foreigners entered into his gates, and cast lots upon Jerusalem, even thou wast as one of them.
 - **1:20** — And the captivity of this host of the children of Israel shall possess that of the Canaanites, even unto Zarephath; and the captivity of Jerusalem, which is in Sepharad, shall possess the cities of the south.
 
-### [[Micah]]
+### [[books/Micah|Micah]]
 - **1:1** — The word of the LORD that came to Micah the Morasthite in the days of Jotham, Ahaz, and Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem.
 - **1:5** — For the transgression of Jacob is all this, and for the sins of the house of Israel. What is the transgression of Jacob? is it not Samaria? and what are the high places of Judah? are they not Jerusalem?
 - **1:9** — For her wound is incurable; for it is come unto Judah; he is come unto the gate of my people, even to Jerusalem.
@@ -645,13 +645,13 @@ metav_id: 636
 - **4:2** — And many nations shall come, and say, Come, and let us go up to the mountain of the LORD, and to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths: for the law shall go forth of Zion, and the word of the LORD from Jerusalem.
 - **4:8** — And thou, O tower of the flock, the strong hold of the daughter of Zion, unto thee shall it come, even the first dominion; the kingdom shall come to the daughter of Jerusalem.
 
-### [[Zephaniah]]
+### [[books/Zephaniah|Zephaniah]]
 - **1:4** — I will also stretch out mine hand upon Judah, and upon all the inhabitants of Jerusalem; and I will cut off the remnant of Baal from this place, and the name of the Chemarims with the priests;
 - **1:12** — And it shall come to pass at that time, that I will search Jerusalem with candles, and punish the men that are settled on their lees: that say in their heart, The LORD will not do good, neither will he do evil.
 - **3:14** — Sing, O daughter of Zion; shout, O Israel; be glad and rejoice with all the heart, O daughter of Jerusalem.
 - **3:16** — In that day it shall be said to Jerusalem, Fear thou not: and to Zion, Let not thine hands be slack.
 
-### [[Zechariah]]
+### [[books/Zechariah|Zechariah]]
 - **1:12** — Then the angel of the LORD answered and said, O LORD of hosts, how long wilt thou not have mercy on Jerusalem and on the cities of Judah, against which thou hast had indignation these threescore and ten years?
 - **1:14** — So the angel that communed with me said unto me, Cry thou, saying, Thus saith the LORD of hosts; I am jealous for Jerusalem and for Zion with a great jealousy.
 - **1:16** — Therefore thus saith the LORD; I am returned to Jerusalem with mercies: my house shall be built in it, saith the LORD of hosts, and a line shall be stretched forth upon Jerusalem.
@@ -690,11 +690,11 @@ metav_id: 636
 - **14:17** — And it shall be, that whoso will not come up of all the families of the earth unto Jerusalem to worship the King, the LORD of hosts, even upon them shall be no rain.
 - **14:21** — Yea, every pot in Jerusalem and in Judah shall be holiness unto the LORD of hosts: and all they that sacrifice shall come and take of them, and seethe therein: and in that day there shall be no more the Canaanite in the house of the LORD of hosts.
 
-### [[Malachi]]
+### [[books/Malachi|Malachi]]
 - **2:11** — Judah hath dealt treacherously, and an abomination is committed in Israel and in Jerusalem; for Judah hath profaned the holiness of the LORD which he loved, and hath married the daughter of a strange god.
 - **3:4** — Then shall the offering of Judah and Jerusalem be pleasant unto the LORD, as in the days of old, and as in former years.
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **2:1** — Now when Jesus was born in Bethlehem of Judaea in the days of Herod the king, behold, there came wise men from the east to Jerusalem,
 - **2:3** — When Herod the king had heard these things, he was troubled, and all Jerusalem with him.
 - **3:5** — Then went out to him Jerusalem, and all Judaea, and all the region round about Jordan,
@@ -708,7 +708,7 @@ metav_id: 636
 - **21:10** — And when he was come into Jerusalem, all the city was moved, saying, Who is this?
 - **23:37** — O Jerusalem, Jerusalem, thou that killest the prophets, and stonest them which are sent unto thee, how often would I have gathered thy children together, even as a hen gathereth her chickens under her wings, and ye would not!
 
-### [[Mark]]
+### [[books/Mark|Mark]]
 - **1:5** — And there went out unto him all the land of Judaea, and they of Jerusalem, and were all baptized of him in the river of Jordan, confessing their sins.
 - **3:8** — And from Jerusalem, and from Idumaea, and from beyond Jordan; and they about Tyre and Sidon, a great multitude, when they had heard what great things he did, came unto him.
 - **3:22** — And the scribes which came down from Jerusalem said, He hath Beelzebub, and by the prince of the devils casteth he out devils.
@@ -721,7 +721,7 @@ metav_id: 636
 - **11:27** — And they come again to Jerusalem: and as he was walking in the temple, there come to him the chief priests, and the scribes, and the elders,
 - **15:41** — Who also, when he was in Galilee, followed him, and ministered unto him;) and many other women which came up with him unto Jerusalem.
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **2:22** — And when the days of her purification according to the law of Moses were accomplished, they brought him to Jerusalem, to present him to the Lord;
 - **2:25** — And, behold, there was a man in Jerusalem, whose name was Simeon; and the same man was just and devout, waiting for the consolation of Israel: and the Holy Ghost was upon him.
 - **2:38** — And she coming in that instant gave thanks likewise unto the Lord, and spake of him to all them that looked for redemption in Jerusalem.
@@ -753,7 +753,7 @@ metav_id: 636
 - **24:47** — And that repentance and remission of sins should be preached in his name among all nations, beginning at Jerusalem.
 - **24:52** — And they worshipped him, and returned to Jerusalem with great joy:
 
-### [[John]]
+### [[books/John|John]]
 - **1:19** — And this is the record of John, when the Jews sent priests and Levites from Jerusalem to ask him, Who art thou?
 - **2:13** — And the Jews' passover was at hand, and Jesus went up to Jerusalem,
 - **2:23** — Now when he was in Jerusalem at the passover, in the feast day, many believed in his name, when they saw the miracles which he did.
@@ -768,7 +768,7 @@ metav_id: 636
 - **11:55** — And the Jews' passover was nigh at hand: and many went out of the country up to Jerusalem before the passover, to purify themselves.
 - **12:12** — On the next day much people that were come to the feast, when they heard that Jesus was coming to Jerusalem,
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **1:4** — And, being assembled together with them, commanded them that they should not depart from Jerusalem, but wait for the promise of the Father, which, saith he, ye have heard of me.
 - **1:8** — But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judaea, and in Samaria, and unto the uttermost part of the earth.
 - **1:12** — Then returned they unto Jerusalem from the mount called Olivet, which is from Jerusalem a sabbath day's journey.
@@ -827,26 +827,26 @@ metav_id: 636
 - **26:20** — But shewed first unto them of Damascus, and at Jerusalem, and throughout all the coasts of Judaea, and then to the Gentiles, that they should repent and turn to God, and do works meet for repentance.
 - **28:17** — And it came to pass, that after three days Paul called the chief of the Jews together: and when they were come together, he said unto them, Men and brethren, though I have committed nothing against the people, or customs of our fathers, yet was I delivered prisoner from Jerusalem into the hands of the Romans.
 
-### [[Romans]]
+### [[books/Romans|Romans]]
 - **15:19** — Through mighty signs and wonders, by the power of the Spirit of God; so that from Jerusalem, and round about unto Illyricum, I have fully preached the gospel of Christ.
 - **15:25** — But now I go unto Jerusalem to minister unto the saints.
 - **15:26** — For it hath pleased them of Macedonia and Achaia to make a certain contribution for the poor saints which are at Jerusalem.
 - **15:31** — That I may be delivered from them that do not believe in Judaea; and that my service which I have for Jerusalem may be accepted of the saints;
 
-### [[1 Corinthians]]
+### [[books/1 Corinthians|1 Corinthians]]
 - **16:3** — And when I come, whomsoever ye shall approve by your letters, them will I send to bring your liberality unto Jerusalem.
 
-### [[Galatians]]
+### [[books/Galatians|Galatians]]
 - **1:17** — Neither went I up to Jerusalem to them which were apostles before me; but I went into Arabia, and returned again unto Damascus.
 - **1:18** — Then after three years I went up to Jerusalem to see Peter, and abode with him fifteen days.
 - **2:1** — Then fourteen years after I went up again to Jerusalem with Barnabas, and took Titus with me also.
 - **4:25** — For this Agar is mount Sinai in Arabia, and answereth to Jerusalem which now is, and is in bondage with her children.
 - **4:26** — But Jerusalem which is above is free, which is the mother of us all.
 
-### [[Hebrews]]
+### [[books/Hebrews|Hebrews]]
 - **12:22** — But ye are come unto mount Sion, and unto the city of the living God, the heavenly Jerusalem, and to an innumerable company of angels,
 
-### [[Revelation]]
+### [[books/Revelation|Revelation]]
 - **3:12** — Him that overcometh will I make a pillar in the temple of my God, and he shall go no more out: and I will write upon him the name of my God, and the name of the city of my God, which is new Jerusalem, which cometh down out of heaven from my God: and I will write upon him my new name.
 - **21:2** — And I John saw the holy city, new Jerusalem, coming down from God out of heaven, prepared as a bride adorned for her husband.
 - **21:10** — And he carried me away in the spirit to a great and high mountain, and shewed me that great city, the holy Jerusalem, descending out of heaven from God,

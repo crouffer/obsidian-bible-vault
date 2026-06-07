@@ -26,10 +26,10 @@ metav_id: 328
 
 ## Verse References
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **4:25** — And there followed him great multitudes of people from Galilee, and from Decapolis, and from Jerusalem, and from Judaea, and from beyond Jordan.
 
-### [[Mark]]
+### [[books/Mark|Mark]]
 - **5:20** — And he departed, and began to publish in Decapolis how great things Jesus had done for him: and all men did marvel.
 - **7:31** — And again, departing from the coasts of Tyre and Sidon, he came unto the sea of Galilee, through the midst of the coasts of Decapolis.
 

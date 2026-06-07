@@ -26,7 +26,7 @@ metav_id: 51
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **33:13** — And they departed from Dophkah, and encamped in Alush.
 - **33:14** — And they removed from Alush, and encamped at Rephidim, where was no water for the people to drink.
 

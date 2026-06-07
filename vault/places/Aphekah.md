@@ -26,6 +26,6 @@ metav_id: 74
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **15:53** — And Janum, and Bethtappuah, and Aphekah,
 

@@ -44,6 +44,6 @@ metav_id: 2458
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **11:8** — And after him Gabbai, Sallai, nine hundred twenty and eight.
 

@@ -26,7 +26,7 @@ metav_id: 649
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **12:22** — The king of Kedesh, one; the king of Jokneam of Carmel, one;
 - **19:11** — And their border went up toward the sea, and Maralah, and reached to Dabbasheth, and reached to the river that is before Jokneam;
 - **21:34** — And unto the families of the children of Merari, the rest of the Levites, out of the tribe of Zebulun, Jokneam with her suburbs, and Kartah with her suburbs,

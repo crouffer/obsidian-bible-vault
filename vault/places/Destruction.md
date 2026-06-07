@@ -7,7 +7,7 @@ name_hebrew: ""
 name_greek_lxx: ""
 name_meaning: ""
 modern_name: null
-root_name: On
+root_name: "On"
 
 place_type: unknown
 testament: OT
@@ -26,6 +26,6 @@ metav_id: 301
 
 ## Verse References
 
-### [[Isaiah]]
+### [[books/Isaiah|Isaiah]]
 - **19:18** — In that day shall five cities in the land of Egypt speak the language of Canaan, and swear to the LORD of hosts; one shall be called, The city of destruction.
 

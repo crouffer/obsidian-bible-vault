@@ -26,6 +26,6 @@ metav_id: 502
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **15:37** — Zenan, and Hadashah, and Migdalgad,
 

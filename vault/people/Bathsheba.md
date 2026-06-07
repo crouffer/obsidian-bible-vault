@@ -46,11 +46,11 @@ metav_id: 416
 
 ## Verse References
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **11:3** — And David sent and enquired after the woman. And one said, Is not this Bathsheba, the daughter of Eliam, the wife of Uriah the Hittite?
 - **12:24** — And David comforted Bathsheba his wife, and went in unto her, and lay with her: and she bare a son, and he called his name Solomon: and the LORD loved him.
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **1:11** — Wherefore Nathan spake unto Bathsheba the mother of Solomon, saying, Hast thou not heard that Adonijah the son of Haggith doth reign, and David our lord knoweth it not?
 - **1:15** — And Bathsheba went in unto the king into the chamber: and the king was very old; and Abishag the Shunammite ministered unto the king.
 - **1:16** — And Bathsheba bowed, and did obeisance unto the king. And the king said, What wouldest thou?
@@ -60,9 +60,9 @@ metav_id: 416
 - **2:18** — And Bathsheba said, Well; I will speak for thee unto the king.
 - **2:19** — Bathsheba therefore went unto king Solomon, to speak unto him for Adonijah. And the king rose up to meet her, and bowed himself unto her, and sat down on his throne, and caused a seat to be set for the king's mother; and she sat on his right hand.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **3:5** — And these were born unto him in Jerusalem; Shimea, and Shobab, and Nathan, and Solomon, four, of Bathshua the daughter of Ammiel:
 
-### [[Psalms]]
+### [[books/Psalms|Psalms]]
 - **51:1** — Have mercy upon me, O God, according to thy lovingkindness: according unto the multitude of thy tender mercies blot out my transgressions.
 

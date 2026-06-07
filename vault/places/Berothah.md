@@ -26,6 +26,6 @@ metav_id: 179
 
 ## Verse References
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **47:16** — Hamath, Berothah, Sibraim, which is between the border of Damascus and the border of Hamath; Hazarhatticon, which is by the coast of Hauran.
 

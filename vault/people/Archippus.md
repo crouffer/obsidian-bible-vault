@@ -44,9 +44,9 @@ metav_id: 292
 
 ## Verse References
 
-### [[Colossians]]
+### [[books/Colossians|Colossians]]
 - **4:17** — And say to Archippus, Take heed to the ministry which thou hast received in the Lord, that thou fulfil it.
 
-### [[Philemon]]
+### [[books/Philemon|Philemon]]
 - **1:2** — And to our beloved Apphia, and Archippus our fellowsoldier, and to the church in thy house:
 

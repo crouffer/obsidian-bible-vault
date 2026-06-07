@@ -44,6 +44,6 @@ metav_id: 406
 
 ## Verse References
 
-### [[Mark]]
+### [[books/Mark|Mark]]
 - **10:46** — And they came to Jericho: and as he went out of Jericho with his disciples and a great number of people, blind Bartimaeus, the son of Timaeus, sat by the highway side begging.
 

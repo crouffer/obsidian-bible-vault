@@ -45,7 +45,7 @@ metav_id: 2937
 
 ## Verse References
 
-### [[Esther]]
+### [[books/Esther|Esther]]
 - **1:9** — Also Vashti the queen made a feast for the women in the royal house which belonged to king Ahasuerus.
 - **1:11** — To bring Vashti the queen before the king with the crown royal, to shew the people and the princes her beauty: for she was fair to look on.
 - **1:12** — But the queen Vashti refused to come at the king's commandment by his chamberlains: therefore was the king very wroth, and his anger burned in him.

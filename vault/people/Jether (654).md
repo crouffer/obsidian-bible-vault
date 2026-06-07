@@ -57,7 +57,7 @@ metav_id: 654
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **7:37** — Bezer, and Hod, and Shamma, and Shilshah, and Ithran, and Beera.
 - **7:38** — And the sons of Jether; Jephunneh, and Pispah, and Ara.
 

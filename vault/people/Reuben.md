@@ -17,8 +17,8 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Israel]]"
-mother: "[[Leah]]"
+father: "[[Leah]]"
+mother: "[[Israel]]"
 spouse: []
 children: 
   - "[[Carmi (920)]]"
@@ -54,7 +54,7 @@ metav_id: 2429
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **29:32** — And Leah conceived, and bare a son, and she called his name Reuben: for she said, Surely the LORD hath looked upon my affliction; now therefore my husband will love me.
 - **30:14** — And Reuben went in the days of wheat harvest, and found mandrakes in the field, and brought them unto his mother Leah. Then Rachel said to Leah, Give me, I pray thee, of thy son's mandrakes.
 - **35:22** — And it came to pass, when Israel dwelt in that land, that Reuben went and lay with Bilhah his father's concubine: and Israel heard it. Now the sons of Jacob were twelve:
@@ -69,11 +69,11 @@ metav_id: 2429
 - **48:5** — And now thy two sons, Ephraim and Manasseh, which were born unto thee in the land of Egypt before I came unto thee into Egypt, are mine; as Reuben and Simeon, they shall be mine.
 - **49:3** — Reuben, thou art my firstborn, my might, and the beginning of my strength, the excellency of dignity, and the excellency of power:
 
-### [[Exodus]]
+### [[books/Exodus|Exodus]]
 - **1:2** — Reuben, Simeon, Levi, and Judah,
 - **6:14** — These be the heads of their fathers' houses: The sons of Reuben the firstborn of Israel; Hanoch, and Pallu, Hezron, and Carmi: these be the families of Reuben.
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **1:5** — And these are the names of the men that shall stand with you: of the tribe of Reuben; Elizur the son of Shedeur.
 - **1:20** — And the children of Reuben, Israel's eldest son, by their generations, after their families, by the house of their fathers, according to the number of the names, by their polls, every male from twenty years old and upward, all that were able to go forth to war;
 - **1:21** — Those that were numbered of them, even of the tribe of Reuben, were forty and six thousand and five hundred.
@@ -94,12 +94,12 @@ metav_id: 2429
 - **32:37** — And the children of Reuben built Heshbon, and Elealeh, and Kirjathaim,
 - **34:14** — For the tribe of the children of Reuben according to the house of their fathers, and the tribe of the children of Gad according to the house of their fathers, have received their inheritance; and half the tribe of Manasseh have received their inheritance:
 
-### [[Deuteronomy]]
+### [[books/Deuteronomy|Deuteronomy]]
 - **11:6** — And what he did unto Dathan and Abiram, the sons of Eliab, the son of Reuben: how the earth opened her mouth, and swallowed them up, and their households, and their tents, and all the substance that was in their possession, in the midst of all Israel:
 - **27:13** — And these shall stand upon mount Ebal to curse; Reuben, Gad, and Asher, and Zebulun, Dan, and Naphtali.
 - **33:6** — Let Reuben live, and not die; and let not his men be few.
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **4:12** — And the children of Reuben, and the children of Gad, and half the tribe of Manasseh, passed over armed before the children of Israel, as Moses spake unto them:
 - **13:15** — And Moses gave unto the tribe of the children of Reuben inheritance according to their families.
 - **13:23** — And the border of the children of Reuben was Jordan, and the border thereof. This was the inheritance of the children of Reuben after their families, the cities and the villages thereof.
@@ -122,11 +122,11 @@ metav_id: 2429
 - **22:33** — And the thing pleased the children of Israel; and the children of Israel blessed God, and did not intend to go up against them in battle, to destroy the land wherein the children of Reuben and Gad dwelt.
 - **22:34** — And the children of Reuben and the children of Gad called the altar Ed: for it shall be a witness between us that the LORD is God.
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **5:15** — And the princes of Issachar were with Deborah; even Issachar, and also Barak: he was sent on foot into the valley. For the divisions of Reuben there were great thoughts of heart.
 - **5:16** — Why abodest thou among the sheepfolds, to hear the bleatings of the flocks? For the divisions of Reuben there were great searchings of heart.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **2:1** — These are the sons of Israel; Reuben, Simeon, Levi, and Judah, Issachar, and Zebulun,
 - **5:1** — Now the sons of Reuben the firstborn of Israel, (for he was the firstborn; but, forasmuch as he defiled his father's bed, his birthright was given unto the sons of Joseph the son of Israel: and the genealogy is not to be reckoned after the birthright.
 - **5:3** — The sons, I say, of Reuben the firstborn of Israel were, Hanoch, and Pallu, Hezron, and Carmi.
@@ -134,11 +134,11 @@ metav_id: 2429
 - **6:63** — Unto the sons of Merari were given by lot, throughout their families, out of the tribe of Reuben, and out of the tribe of Gad, and out of the tribe of Zebulun, twelve cities.
 - **6:78** — And on the other side Jordan by Jericho, on the east side of Jordan, were given them out of the tribe of Reuben, Bezer in the wilderness with her suburbs, and Jahzah with her suburbs,
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **48:6** — And by the border of Ephraim, from the east side even unto the west side, a portion for Reuben.
 - **48:7** — And by the border of Reuben, from the east side unto the west side, a portion for Judah.
 - **48:31** — And the gates of the city shall be after the names of the tribes of Israel: three gates northward; one gate of Reuben, one gate of Judah, one gate of Levi.
 
-### [[Revelation]]
+### [[books/Revelation|Revelation]]
 - **7:5** — Of the tribe of Juda were sealed twelve thousand. Of the tribe of Reuben were sealed twelve thousand. Of the tribe of Gad were sealed twelve thousand.
 

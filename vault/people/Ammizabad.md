@@ -44,6 +44,6 @@ metav_id: 231
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **27:6** — This is that Benaiah, who was mighty among the thirty, and above the thirty: and in his course was Ammizabad his son.
 

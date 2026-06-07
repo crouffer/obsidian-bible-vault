@@ -26,6 +26,6 @@ metav_id: 1119
 
 ## Verse References
 
-### [[John]]
+### [[books/John|John]]
 - **4:5** — Then cometh he to a city of Samaria, which is called Sychar, near to the parcel of ground that Jacob gave to his son Joseph.
 

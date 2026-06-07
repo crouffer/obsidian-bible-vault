@@ -52,6 +52,6 @@ metav_id: 2988
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **8:15** — And Zebadiah, and Arad, and Ader,
 

@@ -44,7 +44,7 @@ metav_id: 1276
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **1:10** — Of the children of Joseph: of Ephraim; Elishama the son of Ammihud: of Manasseh; Gamaliel the son of Pedahzur.
 - **2:20** — And by him shall be the tribe of Manasseh: and the captain of the children of Manasseh shall be Gamaliel the son of Pedahzur.
 - **7:54** — On the eighth day offered Gamaliel the son of Pedahzur, prince of the children of Manasseh:

@@ -44,7 +44,7 @@ metav_id: 3088
 
 ## Verse References
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **16:9** — And his servant Zimri, captain of half his chariots, conspired against him, as he was in Tirzah, drinking himself drunk in the house of Arza steward of his house in Tirzah.
 - **16:10** — And Zimri went in and smote him, and killed him, in the twenty and seventh year of Asa king of Judah, and reigned in his stead.
 - **16:12** — Thus did Zimri destroy all the house of Baasha, according to the word of the LORD, which he spake against Baasha by Jehu the prophet,
@@ -53,6 +53,6 @@ metav_id: 3088
 - **16:18** — And it came to pass, when Zimri saw that the city was taken, that he went into the palace of the king's house, and burnt the king's house over him with fire, and died,
 - **16:20** — Now the rest of the acts of Zimri, and his treason that he wrought, are they not written in the book of the chronicles of the kings of Israel?
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **9:31** — And as Jehu entered in at the gate, she said, Had Zimri peace, who slew his master?
 

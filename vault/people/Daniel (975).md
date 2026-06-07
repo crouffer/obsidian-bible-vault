@@ -44,12 +44,12 @@ metav_id: 975
 
 ## Verse References
 
-### [[Ezekiel]]
+### [[books/Ezekiel|Ezekiel]]
 - **14:14** — Though these three men, Noah, Daniel, and Job, were in it, they should deliver but their own souls by their righteousness, saith the Lord GOD.
 - **14:20** — Though Noah, Daniel, and Job, were in it, as I live, saith the Lord GOD, they shall deliver neither son nor daughter; they shall but deliver their own souls by their righteousness.
 - **28:3** — Behold, thou art wiser than Daniel; there is no secret that they can hide from thee:
 
-### [[Daniel]]
+### [[books/Daniel|Daniel]]
 - **1:6** — Now among these were of the children of Judah, Daniel, Hananiah, Mishael, and Azariah:
 - **1:7** — Unto whom the prince of the eunuchs gave names: for he gave unto Daniel the name of Belteshazzar; and to Hananiah, of Shadrach; and to Mishael, of Meshach; and to Azariah, of Abednego.
 - **1:8** — But Daniel purposed in his heart that he would not defile himself with the portion of the king's meat, nor with the wine which he drank: therefore he requested of the prince of the eunuchs that he might not defile himself.
@@ -118,9 +118,9 @@ metav_id: 975
 - **12:5** — Then I Daniel looked, and, behold, there stood other two, the one on this side of the bank of the river, and the other on that side of the bank of the river.
 - **12:9** — And he said, Go thy way, Daniel: for the words are closed up and sealed till the time of the end.
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **24:15** — When ye therefore shall see the abomination of desolation, spoken of by Daniel the prophet, stand in the holy place, (whoso readeth, let him understand:)
 
-### [[Mark]]
+### [[books/Mark|Mark]]
 - **13:14** — But when ye shall see the abomination of desolation, spoken of by Daniel the prophet, standing where it ought not, (let him that readeth understand,) then let them that be in Judaea flee to the mountains:
 

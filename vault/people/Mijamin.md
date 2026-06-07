@@ -44,6 +44,6 @@ metav_id: 2076
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **24:9** — The fifth to Malchijah, the sixth to Mijamin,
 

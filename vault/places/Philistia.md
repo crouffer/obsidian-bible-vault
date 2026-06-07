@@ -26,15 +26,15 @@ metav_id: 943
 
 ## Verse References
 
-### [[Exodus]]
+### [[books/Exodus|Exodus]]
 - **15:14** — The people shall hear, and be afraid: sorrow shall take hold on the inhabitants of Palestina.
 
-### [[Psalms]]
+### [[books/Psalms|Psalms]]
 - **60:8** — Moab is my washpot; over Edom will I cast out my shoe: Philistia, triumph thou because of me.
 - **87:4** — I will make mention of Rahab and Babylon to them that know me: behold Philistia, and Tyre, with Ethiopia; this man was born there.
 - **108:9** — Moab is my washpot; over Edom will I cast out my shoe; over Philistia will I triumph.
 
-### [[Isaiah]]
+### [[books/Isaiah|Isaiah]]
 - **14:29** — Rejoice not thou, whole Palestina, because the rod of him that smote thee is broken: for out of the serpent's root shall come forth a cockatrice, and his fruit shall be a fiery flying serpent.
 - **14:31** — Howl, O gate; cry, O city; thou, whole Palestina, art dissolved: for there shall come from the north a smoke, and none shall be alone in his appointed times.
 

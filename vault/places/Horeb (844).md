@@ -26,6 +26,6 @@ metav_id: 844
 
 ## Verse References
 
-### [[Exodus]]
+### [[books/Exodus|Exodus]]
 - **33:6** — And the children of Israel stripped themselves of their ornaments by the mount Horeb.
 

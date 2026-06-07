@@ -26,6 +26,6 @@ metav_id: 808
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **20:14** — And when he met with us at Assos, we took him in, and came to Mitylene.
 

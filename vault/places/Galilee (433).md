@@ -26,24 +26,24 @@ metav_id: 433
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **12:23** — The king of Dor in the coast of Dor, one; the king of the nations of Gilgal, one;
 - **20:7** — And they appointed Kedesh in Galilee in mount Naphtali, and Shechem in mount Ephraim, and Kirjatharba, which is Hebron, in the mountain of Judah.
 - **21:32** — And out of the tribe of Naphtali, Kedesh in Galilee with her suburbs, to be a city of refuge for the slayer; and Hammothdor with her suburbs, and Kartan with her suburbs; three cities.
 
-### [[1 Kings]]
+### [[books/1 Kings|1 Kings]]
 - **9:11** — (Now Hiram the king of Tyre had furnished Solomon with cedar trees and fir trees, and with gold, according to all his desire,) that then king Solomon gave Hiram twenty cities in the land of Galilee.
 
-### [[2 Kings]]
+### [[books/2 Kings|2 Kings]]
 - **15:29** — In the days of Pekah king of Israel came Tiglathpileser king of Assyria, and took Ijon, and Abelbethmaachah, and Janoah, and Kedesh, and Hazor, and Gilead, and Galilee, all the land of Naphtali, and carried them captive to Assyria.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:76** — And out of the tribe of Naphtali; Kedesh in Galilee with her suburbs, and Hammon with her suburbs, and Kirjathaim with her suburbs.
 
-### [[Isaiah]]
+### [[books/Isaiah|Isaiah]]
 - **9:1** — Nevertheless the dimness shall not be such as was in her vexation, when at the first he lightly afflicted the land of Zebulun and the land of Naphtali, and afterward did more grievously afflict her by the way of the sea, beyond Jordan, in Galilee of the nations.
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **2:22** — But when he heard that Archelaus did reign in Judaea in the room of his father Herod, he was afraid to go thither: notwithstanding, being warned of God in a dream, he turned aside into the parts of Galilee:
 - **3:13** — Then cometh Jesus from Galilee to Jordan unto John, to be baptized of him.
 - **4:12** — Now when Jesus had heard that John was cast into prison, he departed into Galilee;
@@ -59,7 +59,7 @@ metav_id: 433
 - **28:10** — Then said Jesus unto them, Be not afraid: go tell my brethren that they go into Galilee, and there shall they see me.
 - **28:16** — Then the eleven disciples went away into Galilee, into a mountain where Jesus had appointed them.
 
-### [[Mark]]
+### [[books/Mark|Mark]]
 - **1:9** — And it came to pass in those days, that Jesus came from Nazareth of Galilee, and was baptized of John in Jordan.
 - **1:14** — Now after that John was put in prison, Jesus came into Galilee, preaching the gospel of the kingdom of God,
 - **1:28** — And immediately his fame spread abroad throughout all the region round about Galilee.
@@ -71,7 +71,7 @@ metav_id: 433
 - **15:41** — Who also, when he was in Galilee, followed him, and ministered unto him;) and many other women which came up with him unto Jerusalem.
 - **16:7** — But go your way, tell his disciples and Peter that he goeth before you into Galilee: there shall ye see him, as he said unto you.
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **1:26** — And in the sixth month the angel Gabriel was sent from God unto a city of Galilee, named Nazareth,
 - **2:4** — And Joseph also went up from Galilee, out of the city of Nazareth, into Judaea, unto the city of David, which is called Bethlehem; (because he was of the house and lineage of David:)
 - **2:39** — And when they had performed all things according to the law of the Lord, they returned into Galilee, to their own city Nazareth.
@@ -86,7 +86,7 @@ metav_id: 433
 - **23:55** — And the women also, which came with him from Galilee, followed after, and beheld the sepulchre, and how his body was laid.
 - **24:6** — He is not here, but is risen: remember how he spake unto you when he was yet in Galilee,
 
-### [[John]]
+### [[books/John|John]]
 - **1:43** — The day following Jesus would go forth into Galilee, and findeth Philip, and saith unto him, Follow me.
 - **2:1** — And the third day there was a marriage in Cana of Galilee; and the mother of Jesus was there:
 - **2:11** — This beginning of miracles did Jesus in Cana of Galilee, and manifested forth his glory; and his disciples believed on him.
@@ -103,7 +103,7 @@ metav_id: 433
 - **12:21** — The same came therefore to Philip, which was of Bethsaida of Galilee, and desired him, saying, Sir, we would see Jesus.
 - **21:2** — There were together Simon Peter, and Thomas called Didymus, and Nathanael of Cana in Galilee, and the sons of Zebedee, and two other of his disciples.
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **1:11** — Which also said, Ye men of Galilee, why stand ye gazing up into heaven? this same Jesus, which is taken up from you into heaven, shall so come in like manner as ye have seen him go into heaven.
 - **9:31** — Then had the churches rest throughout all Judaea and Galilee and Samaria, and were edified; and walking in the fear of the Lord, and in the comfort of the Holy Ghost, were multiplied.
 - **10:37** — That word, I say, ye know, which was published throughout all Judaea, and began from Galilee, after the baptism which John preached;

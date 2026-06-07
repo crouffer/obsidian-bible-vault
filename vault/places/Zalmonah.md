@@ -26,7 +26,7 @@ metav_id: 1238
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **33:41** — And they departed from mount Hor, and pitched in Zalmonah.
 - **33:42** — And they departed from Zalmonah, and pitched in Punon.
 

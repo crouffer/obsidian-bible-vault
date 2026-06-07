@@ -26,6 +26,6 @@ metav_id: 658
 
 ## Verse References
 
-### [[John]]
+### [[books/John|John]]
 - **3:22** — After these things came Jesus and his disciples into the land of Judaea; and there he tarried with them, and baptized.
 

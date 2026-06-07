@@ -44,9 +44,9 @@ metav_id: 1310
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **2:20** — The children of Gibbar, ninety and five.
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **7:25** — The children of Gibeon, ninety and five.
 

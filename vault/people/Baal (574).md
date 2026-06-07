@@ -45,6 +45,6 @@ metav_id: 574
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **5:5** — Micah his son, Reaia his son, Baal his son,
 

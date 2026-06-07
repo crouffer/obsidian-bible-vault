@@ -44,7 +44,7 @@ metav_id: 1878
 
 ## Verse References
 
-### [[2 Samuel]]
+### [[books/2 Samuel|2 Samuel]]
 - **9:4** — And the king said unto him, Where is he? And Ziba said unto the king, Behold, he is in the house of Machir, the son of Ammiel, in Lodebar.
 - **9:5** — Then king David sent, and fetched him out of the house of Machir, the son of Ammiel, from Lodebar.
 - **17:27** — And it came to pass, when David was come to Mahanaim, that Shobi the son of Nahash of Rabbah of the children of Ammon, and Machir the son of Ammiel of Lodebar, and Barzillai the Gileadite of Rogelim,

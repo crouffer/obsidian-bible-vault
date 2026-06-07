@@ -26,6 +26,6 @@ metav_id: 509
 
 ## Verse References
 
-### [[Joshua]]
+### [[books/Joshua|Joshua]]
 - **15:58** — Halhul, Bethzur, and Gedor,
 

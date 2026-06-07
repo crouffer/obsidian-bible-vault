@@ -26,13 +26,13 @@ metav_id: 1118
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **4:9** — Then wrote Rehum the chancellor, and Shimshai the scribe, and the rest of their companions; the Dinaites, the Apharsathchites, the Tarpelites, the Apharsites, the Archevites, the Babylonians, the Susanchites, the Dehavites, and the Elamites,
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **1:1** — The words of Nehemiah the son of Hachaliah. And it came to pass in the month Chisleu, in the twentieth year, as I was in Shushan the palace,
 
-### [[Esther]]
+### [[books/Esther|Esther]]
 - **1:2** — That in those days, when the king Ahasuerus sat on the throne of his kingdom, which was in Shushan the palace,
 - **1:5** — And when these days were expired, the king made a feast unto all the people that were present in Shushan the palace, both unto great and small, seven days, in the court of the garden of the king's palace;
 - **2:3** — And let the king appoint officers in all the provinces of his kingdom, that they may gather together all the fair young virgins unto Shushan the palace, to the house of the women, unto the custody of Hege the king's chamberlain, keeper of the women; and let their things for purification be given them:
@@ -51,6 +51,6 @@ metav_id: 1118
 - **9:15** — For the Jews that were in Shushan gathered themselves together on the fourteenth day also of the month Adar, and slew three hundred men at Shushan; but on the prey they laid not their hand.
 - **9:18** — But the Jews that were at Shushan assembled together on the thirteenth day thereof, and on the fourteenth thereof; and on the fifteenth day of the same they rested, and made it a day of feasting and gladness.
 
-### [[Daniel]]
+### [[books/Daniel|Daniel]]
 - **8:2** — And I saw in a vision; and it came to pass, when I saw, that I was at Shushan in the palace, which is in the province of Elam; and I saw in a vision, and I was by the river of Ulai.
 

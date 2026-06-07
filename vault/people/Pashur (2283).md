@@ -45,14 +45,14 @@ metav_id: 2283
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **9:12** — And Adaiah the son of Jeroham, the son of Pashur, the son of Malchijah, and Maasiai the son of Adiel, the son of Jahzerah, the son of Meshullam, the son of Meshillemith, the son of Immer;
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **2:38** — The children of Pashur, a thousand two hundred forty and seven.
 - **10:22** — And of the sons of Pashur; Elioenai, Maaseiah, Ishmael, Nethaneel, Jozabad, and Elasah.
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **7:41** — The children of Pashur, a thousand two hundred forty and seven.
 - **11:12** — And their brethren that did the work of the house were eight hundred twenty and two: and Adaiah the son of Jeroham, the son of Pelaliah, the son of Amzi, the son of Zechariah, the son of Pashur, the son of Malchiah,
 

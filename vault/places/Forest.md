@@ -26,6 +26,6 @@ metav_id: 584
 
 ## Verse References
 
-### [[Isaiah]]
+### [[books/Isaiah|Isaiah]]
 - **22:8** — And he discovered the covering of Judah, and thou didst look in that day to the armour of the house of the forest.
 

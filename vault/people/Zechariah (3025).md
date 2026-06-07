@@ -44,6 +44,6 @@ metav_id: 3025
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **12:16** — Of Iddo, Zechariah; of Ginnethon, Meshullam;
 

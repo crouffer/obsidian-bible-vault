@@ -26,7 +26,7 @@ metav_id: 1132
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **33:26** — And they removed from Makheloth, and encamped at Tahath.
 - **33:27** — And they departed from Tahath, and pitched at Tarah.
 

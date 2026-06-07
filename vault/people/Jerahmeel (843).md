@@ -55,7 +55,7 @@ metav_id: 843
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **2:9** — The sons also of Hezron, that were born unto him; Jerahmeel, and Ram, and Chelubai.
 - **2:25** — And the sons of Jerahmeel the firstborn of Hezron were, Ram the firstborn, and Bunah, and Oren, and Ozem, and Ahijah.
 - **2:26** — Jerahmeel had also another wife, whose name was Atarah; she was the mother of Onam.

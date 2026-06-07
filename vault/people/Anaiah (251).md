@@ -44,6 +44,6 @@ metav_id: 251
 
 ## Verse References
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **10:22** — Pelatiah, Hanan, Anaiah,
 

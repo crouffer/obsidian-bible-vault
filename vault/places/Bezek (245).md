@@ -26,7 +26,7 @@ metav_id: 245
 
 ## Verse References
 
-### [[Judges]]
+### [[books/Judges|Judges]]
 - **1:4** — And Judah went up; and the LORD delivered the Canaanites and the Perizzites into their hand: and they slew of them in Bezek ten thousand men.
 - **1:5** — And they found Adonibezek in Bezek: and they fought against him, and they slew the Canaanites and the Perizzites.
 

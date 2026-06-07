@@ -26,10 +26,10 @@ metav_id: 884
 
 ## Verse References
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **2:29** — The children of Nebo, fifty and two.
 - **10:43** — Of the sons of Nebo; Jeiel, Mattithiah, Zabad, Zebina, Jadau, and Joel, Benaiah.
 
-### [[Nehemiah]]
+### [[books/Nehemiah|Nehemiah]]
 - **7:33** — The men of the other Nebo, fifty and two.
 

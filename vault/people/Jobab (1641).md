@@ -44,11 +44,11 @@ metav_id: 1641
 
 ## Verse References
 
-### [[Genesis]]
+### [[books/Genesis|Genesis]]
 - **36:33** — And Bela died, and Jobab the son of Zerah of Bozrah reigned in his stead.
 - **36:34** — And Jobab died, and Husham of the land of Temani reigned in his stead.
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **1:44** — And when Bela was dead, Jobab the son of Zerah of Bozrah reigned in his stead.
 - **1:45** — And when Jobab was dead, Husham of the land of the Temanites reigned in his stead.
 

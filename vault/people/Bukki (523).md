@@ -45,10 +45,10 @@ metav_id: 523
 
 ## Verse References
 
-### [[1 Chronicles]]
+### [[books/1 Chronicles|1 Chronicles]]
 - **6:5** — And Abishua begat Bukki, and Bukki begat Uzzi,
 - **6:51** — Bukki his son, Uzzi his son, Zerahiah his son,
 
-### [[Ezra]]
+### [[books/Ezra|Ezra]]
 - **7:4** — The son of Zerahiah, the son of Uzzi, the son of Bukki,
 

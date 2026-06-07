@@ -26,7 +26,7 @@ metav_id: 1151
 
 ## Verse References
 
-### [[Numbers]]
+### [[books/Numbers|Numbers]]
 - **33:27** — And they departed from Tahath, and pitched at Tarah.
 - **33:28** — And they removed from Tarah, and pitched in Mithcah.
 

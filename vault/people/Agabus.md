@@ -44,7 +44,7 @@ metav_id: 107
 
 ## Verse References
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **11:28** — And there stood up one of them named Agabus, and signified by the Spirit that there should be great dearth throughout all the world: which came to pass in the days of Claudius Caesar.
 - **21:10** — And as we tarried there many days, there came down from Judaea a certain prophet, named Agabus.
 

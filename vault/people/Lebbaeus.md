@@ -45,18 +45,18 @@ metav_id: 1815
 
 ## Verse References
 
-### [[Matthew]]
+### [[books/Matthew|Matthew]]
 - **10:3** — Philip, and Bartholomew; Thomas, and Matthew the publican; James the son of Alphaeus, and Lebbaeus, whose surname was Thaddaeus;
 
-### [[Mark]]
+### [[books/Mark|Mark]]
 - **3:18** — And Andrew, and Philip, and Bartholomew, and Matthew, and Thomas, and James the son of Alphaeus, and Thaddaeus, and Simon the Canaanite,
 
-### [[Luke]]
+### [[books/Luke|Luke]]
 - **6:16** — And Judas the brother of James, and Judas Iscariot, which also was the traitor.
 
-### [[John]]
+### [[books/John|John]]
 - **14:22** — Judas saith unto him, not Iscariot, Lord, how is it that thou wilt manifest thyself unto us, and not unto the world?
 
-### [[Acts]]
+### [[books/Acts|Acts]]
 - **1:13** — And when they were come in, they went up into an upper room, where abode both Peter, and James, and John, and Andrew, Philip, and Thomas, Bartholomew, and Matthew, James the son of Alphaeus, and Simon Zelotes, and Judas the brother of James.
 
