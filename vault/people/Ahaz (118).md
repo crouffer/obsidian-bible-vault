@@ -23,7 +23,7 @@ spouse:
   - "[[Abijah (14)]]"
 children: 
   - "[[Hezekiah (1512)]]"
-  - "[[Maaseiah (1852)]]"
+  - "[[Maaseiah (son of Ahaz)]]"
 siblings: []
 
 gender: male

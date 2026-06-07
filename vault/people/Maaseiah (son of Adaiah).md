@@ -1,6 +1,6 @@
 ---
 type: person
-name: Maaseiah (1850)
+name: Maaseiah (son of Adaiah)
 also_known_as: []
 
 name_hebrew: ""

@@ -21,7 +21,7 @@ father: "[[Col-hozeh (952)]]"
 mother: null
 spouse: []
 children: 
-  - "[[Maaseiah (1862)]]"
+  - "[[Maaseiah (son of Baruch)]]"
 siblings: []
 
 gender: male

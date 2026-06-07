@@ -1,6 +1,6 @@
 ---
 type: person
-name: Maaseiah (1859)
+name: Maaseiah (priest with trumpets)
 also_known_as: []
 
 name_hebrew: ""
@@ -33,17 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "Nehemiah 8:4"
+first_appearance: "Nehemiah 12:41"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 1859
+metav_id: 1864
 ---
 
 ## Verse References
 
 ### [[books/Nehemiah|Nehemiah]]
-- **8:4** — And Ezra the scribe stood upon a pulpit of wood, which they had made for the purpose; and beside him stood Mattithiah, and Shema, and Anaiah, and Urijah, and Hilkiah, and Maaseiah, on his right hand; and on his left hand, Pedaiah, and Mishael, and Malchiah, and Hashum, and Hashbadana, Zechariah, and Meshullam.
+- **12:41** — And the priests; Eliakim, Maaseiah, Miniamin, Michaiah, Elioenai, Zechariah, and Hananiah, with trumpets;
 

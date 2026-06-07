@@ -1,6 +1,6 @@
 ---
 type: person
-name: Maaseiah (1869)
+name: Maaseiah (of the sons of Jeshua)
 also_known_as: []
 
 name_hebrew: ""
@@ -17,7 +17,7 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Shallum (2526)]]"
+father: null
 mother: null
 spouse: []
 children: []
@@ -33,17 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "Jeremiah 35:4"
+first_appearance: "Ezra 10:18"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 1869
+metav_id: 1854
 ---
 
 ## Verse References
 
-### [[books/Jeremiah|Jeremiah]]
-- **35:4** — And I brought them into the house of the LORD, into the chamber of the sons of Hanan, the son of Igdaliah, a man of God, which was by the chamber of the princes, which was above the chamber of Maaseiah the son of Shallum, the keeper of the door:
+### [[books/Ezra|Ezra]]
+- **10:18** — And among the sons of the priests there were found that had taken strange wives: namely, of the sons of Jeshua the son of Jozadak, and his brethren; Maaseiah, and Eliezer, and Jarib, and Gedaliah.
 

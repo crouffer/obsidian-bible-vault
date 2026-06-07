@@ -1,6 +1,6 @@
 ---
 type: person
-name: Maaseiah (1865)
+name: Maaseiah (son of Baruch)
 also_known_as: []
 
 name_hebrew: ""
@@ -17,7 +17,7 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: null
+father: "[[Baruch (409)]]"
 mother: null
 spouse: []
 children: []
@@ -33,17 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "Nehemiah 12:42"
+first_appearance: "Nehemiah 11:5"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 1865
+metav_id: 1862
 ---
 
 ## Verse References
 
 ### [[books/Nehemiah|Nehemiah]]
-- **12:42** — And Maaseiah, and Shemaiah, and Eleazar, and Uzzi, and Jehohanan, and Malchijah, and Elam, and Ezer. And the singers sang loud, with Jezrahiah their overseer.
+- **11:5** — And Maaseiah the son of Baruch, the son of Colhozeh, the son of Hazaiah, the son of Adaiah, the son of Joiarib, the son of Zechariah, the son of Shiloni.
 

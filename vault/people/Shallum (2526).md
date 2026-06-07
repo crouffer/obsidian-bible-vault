@@ -21,7 +21,7 @@ father: null
 mother: null
 spouse: []
 children: 
-  - "[[Maaseiah (1869)]]"
+  - "[[Maaseiah (son of Shallum)]]"
 siblings: []
 
 gender: male

@@ -1,6 +1,6 @@
 ---
 type: person
-name: Maaseiah (1852)
+name: Maaseiah (of the sons of Harim)
 also_known_as: []
 
 name_hebrew: ""
@@ -17,12 +17,11 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Ahaz (118)]]"
+father: null
 mother: null
 spouse: []
 children: []
-siblings: 
-  - "[[Hezekiah (1512)]]"
+siblings: []
 
 gender: male
 role: []
@@ -34,17 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "2 Chronicles 28:7"
+first_appearance: "Ezra 10:21"
 places_associated: []
-groups_associated: ["Tribe of Judah"]
+groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 1852
+metav_id: 1855
 ---
 
 ## Verse References
 
-### [[books/2 Chronicles|2 Chronicles]]
-- **28:7** — And Zichri, a mighty man of Ephraim, slew Maaseiah the king's son, and Azrikam the governor of the house, and Elkanah that was next to the king.
+### [[books/Ezra|Ezra]]
+- **10:21** — And of the sons of Harim; Maaseiah, and Elijah, and Shemaiah, and Jehiel, and Uzziah.
 

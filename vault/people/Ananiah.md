@@ -21,7 +21,7 @@ father: null
 mother: null
 spouse: []
 children: 
-  - "[[Maaseiah (1858)]]"
+  - "[[Maaseiah (son of Ananiah)]]"
 siblings: []
 
 gender: male

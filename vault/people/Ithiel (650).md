@@ -21,7 +21,7 @@ father: "[[Jesaiah (884)]]"
 mother: null
 spouse: []
 children: 
-  - "[[Maaseiah (1863)]]"
+  - "[[Maaseiah (son of Ithiel)]]"
 siblings: []
 
 gender: male

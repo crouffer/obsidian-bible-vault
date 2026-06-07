@@ -1,6 +1,6 @@
 ---
 type: person
-name: Maaseiah (1864)
+name: Maaseiah (of the sons of Pahathmoab)
 also_known_as: []
 
 name_hebrew: ""
@@ -33,17 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "Nehemiah 12:41"
+first_appearance: "Ezra 10:30"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 1864
+metav_id: 1857
 ---
 
 ## Verse References
 
-### [[books/Nehemiah|Nehemiah]]
-- **12:41** — And the priests; Eliakim, Maaseiah, Miniamin, Michaiah, Elioenai, Zechariah, and Hananiah, with trumpets;
+### [[books/Ezra|Ezra]]
+- **10:30** — And of the sons of Pahathmoab; Adna, and Chelal, Benaiah, Maaseiah, Mattaniah, Bezaleel, and Binnui, and Manasseh.
 

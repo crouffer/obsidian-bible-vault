@@ -1,6 +1,6 @@
 ---
 type: person
-name: Maaseiah (1866)
+name: Maaseiah (father of Zephaniah)
 also_known_as: []
 
 name_hebrew: ""

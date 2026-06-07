@@ -1,6 +1,6 @@
 ---
 type: person
-name: Maaseiah (1863)
+name: Maaseiah (son of Shallum)
 also_known_as: []
 
 name_hebrew: ""
@@ -17,11 +17,10 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Ithiel (650)]]"
+father: "[[Shallum (2526)]]"
 mother: null
 spouse: []
-children: 
-  - "[[Kolaiah (1791)]]"
+children: []
 siblings: []
 
 gender: male
@@ -34,17 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "Nehemiah 11:7"
+first_appearance: "Jeremiah 35:4"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 1863
+metav_id: 1869
 ---
 
 ## Verse References
 
-### [[books/Nehemiah|Nehemiah]]
-- **11:7** — And these are the sons of Benjamin; Sallu the son of Meshullam, the son of Joed, the son of Pedaiah, the son of Kolaiah, the son of Maaseiah, the son of Ithiel, the son of Jesaiah.
+### [[books/Jeremiah|Jeremiah]]
+- **35:4** — And I brought them into the house of the LORD, into the chamber of the sons of Hanan, the son of Igdaliah, a man of God, which was by the chamber of the princes, which was above the chamber of Maaseiah the son of Shallum, the keeper of the door:
 
