@@ -14,7 +14,7 @@ translation_variants:
   nkjv: ""
 
 strongs:
-  hebrew: ""
+  hebrew: "H1954"
   greek: ""
 
 father: "[[Elah (1046)]]"

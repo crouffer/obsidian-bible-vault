@@ -14,7 +14,7 @@ translation_variants:
   nkjv: ""
 
 strongs:
-  hebrew: ""
+  hebrew: "H2148"
   greek: ""
 
 father: "[[Jeroboam (873)]]"

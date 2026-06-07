@@ -14,7 +14,7 @@ translation_variants:
   nkjv: ""
 
 strongs:
-  hebrew: ""
+  hebrew: "H8402"
   greek: ""
 
 father: "[[Ginath]]"

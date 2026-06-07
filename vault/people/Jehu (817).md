@@ -14,7 +14,7 @@ translation_variants:
   nkjv: ""
 
 strongs:
-  hebrew: ""
+  hebrew: "H3058"
   greek: ""
 
 father: "[[Jehoshaphat (809)]]"
