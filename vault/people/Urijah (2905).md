@@ -17,7 +17,7 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Shemaiah (2642)]]"
+father: "[[Shemaiah (father of Urijah)]]"
 mother: null
 spouse: []
 children: []

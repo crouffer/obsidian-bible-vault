@@ -1,6 +1,6 @@
 ---
 type: person
-name: Shemaiah (2633)
+name: Shemaiah (son of Joel the Reubenite)
 also_known_as: []
 
 name_hebrew: ""
@@ -17,10 +17,11 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: null
+father: "[[Joel (1649)]]"
 mother: null
 spouse: []
-children: []
+children: 
+  - "[[Gog (1325)]]"
 siblings: []
 
 gender: male
@@ -33,17 +34,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "Ezra 8:16"
+first_appearance: "1 Chronicles 5:4"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 2633
+metav_id: 2622
 ---
 
 ## Verse References
 
-### [[books/Ezra|Ezra]]
-- **8:16** — Then sent I for Eliezer, for Ariel, for Shemaiah, and for Elnathan, and for Jarib, and for Elnathan, and for Nathan, and for Zechariah, and for Meshullam, chief men; also for Joiarib, and for Elnathan, men of understanding.
+### [[books/1 Chronicles|1 Chronicles]]
+- **5:4** — The sons of Joel; Shemaiah his son, Gog his son, Shimei his son,
 

@@ -21,7 +21,7 @@ father: null
 mother: null
 spouse: []
 children: 
-  - "[[Shemaiah (2626)]]"
+  - "[[Shemaiah (the Levite scribe)]]"
 siblings: []
 
 gender: male

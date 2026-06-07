@@ -1,6 +1,6 @@
 ---
 type: person
-name: Shemaiah (2627)
+name: Shemaiah (firstborn of Obed-edom)
 also_known_as: []
 
 name_hebrew: ""

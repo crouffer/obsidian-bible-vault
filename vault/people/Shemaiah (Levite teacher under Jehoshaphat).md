@@ -1,6 +1,6 @@
 ---
 type: person
-name: Shemaiah (2626)
+name: Shemaiah (Levite teacher under Jehoshaphat)
 also_known_as: []
 
 name_hebrew: ""
@@ -17,7 +17,7 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Nethaneel (2191)]]"
+father: null
 mother: null
 spouse: []
 children: []
@@ -33,17 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "1 Chronicles 24:6"
+first_appearance: "2 Chronicles 17:8"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 2626
+metav_id: 2628
 ---
 
 ## Verse References
 
-### [[books/1 Chronicles|1 Chronicles]]
-- **24:6** — And Shemaiah the son of Nethaneel the scribe, one of the Levites, wrote them before the king, and the princes, and Zadok the priest, and Ahimelech the son of Abiathar, and before the chief of the fathers of the priests and Levites: one principal household being taken for Eleazar, and one taken for Ithamar.
+### [[books/2 Chronicles|2 Chronicles]]
+- **17:8** — And with them he sent Levites, even Shemaiah, and Nethaniah, and Zebadiah, and Asahel, and Shemiramoth, and Jehonathan, and Adonijah, and Tobijah, and Tobadonijah, Levites; and with them Elishama and Jehoram, priests.
 

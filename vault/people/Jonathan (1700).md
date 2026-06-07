@@ -17,7 +17,7 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Shemaiah (2639)]]"
+father: "[[Shemaiah (son of Mattaniah)]]"
 mother: null
 spouse: []
 children: 
@@ -28,7 +28,7 @@ children:
   - "[[Maai]]"
   - "[[Milalai]]"
   - "[[Nethaneel (2197)]]"
-  - "[[Shemaiah (2640)]]"
+  - "[[Shemaiah (son of Jonathan)]]"
   - "[[Zechariah (son of Jonathan)]]"
 siblings: []
 

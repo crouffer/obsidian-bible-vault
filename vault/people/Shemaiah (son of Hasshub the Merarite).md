@@ -1,6 +1,6 @@
 ---
 type: person
-name: Shemaiah (2623)
+name: Shemaiah (son of Hasshub the Merarite)
 also_known_as: []
 
 name_hebrew: ""

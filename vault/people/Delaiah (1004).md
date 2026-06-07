@@ -17,7 +17,7 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Shemaiah (2644)]]"
+father: "[[Shemaiah (father of Delaiah the prince)]]"
 mother: null
 spouse: []
 children: []

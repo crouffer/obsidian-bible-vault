@@ -17,7 +17,7 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Shemaiah (2621)]]"
+father: "[[Shemaiah (ancestor of Ziza the Simeonite)]]"
 mother: null
 spouse: []
 children: 

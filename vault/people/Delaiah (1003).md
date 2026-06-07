@@ -21,7 +21,7 @@ father: "[[Mehetabeel]]"
 mother: null
 spouse: []
 children: 
-  - "[[Shemaiah (2637)]]"
+  - "[[Shemaiah (son of Delaiah)]]"
 siblings: []
 
 gender: male

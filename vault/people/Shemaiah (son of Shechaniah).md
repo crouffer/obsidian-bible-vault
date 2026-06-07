@@ -1,6 +1,6 @@
 ---
 type: person
-name: Shemaiah (2641)
+name: Shemaiah (son of Shechaniah)
 also_known_as: []
 
 name_hebrew: ""
@@ -17,10 +17,15 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: null
+father: "[[Shechaniah (2583)]]"
 mother: null
 spouse: []
-children: []
+children: 
+  - "[[Bariah]]"
+  - "[[Hattush (1457)]]"
+  - "[[Igeal]]"
+  - "[[Neariah (2161)]]"
+  - "[[Shaphat (2554)]]"
 siblings: []
 
 gender: male
@@ -33,17 +38,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "Nehemiah 12:42"
+first_appearance: "1 Chronicles 3:22"
 places_associated: []
-groups_associated: []
+groups_associated: ["Tribe of Judah"]
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 2641
+metav_id: 2620
 ---
 
 ## Verse References
 
-### [[books/Nehemiah|Nehemiah]]
-- **12:42** — And Maaseiah, and Shemaiah, and Eleazar, and Uzzi, and Jehohanan, and Malchijah, and Elam, and Ezer. And the singers sang loud, with Jezrahiah their overseer.
+### [[books/1 Chronicles|1 Chronicles]]
+- **3:22** — And the sons of Shechaniah; Shemaiah: and the sons of Shemaiah; Hattush, and Igeal, and Bariah, and Neariah, and Shaphat, six.
 

@@ -1,6 +1,6 @@
 ---
 type: person
-name: Shemaiah (2621)
+name: Shemaiah (ancestor of Ziza the Simeonite)
 also_known_as: []
 
 name_hebrew: ""

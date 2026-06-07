@@ -1,6 +1,6 @@
 ---
 type: person
-name: Shemaiah (2619)
+name: Shemaiah (prophet)
 also_known_as: []
 
 name_hebrew: ""

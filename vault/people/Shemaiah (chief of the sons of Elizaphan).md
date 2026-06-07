@@ -1,6 +1,6 @@
 ---
 type: person
-name: Shemaiah (2625)
+name: Shemaiah (chief of the sons of Elizaphan)
 also_known_as: []
 
 name_hebrew: ""

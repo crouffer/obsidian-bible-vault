@@ -1,6 +1,6 @@
 ---
 type: person
-name: Shemaiah (2620)
+name: Shemaiah (of the sons of Adonikam)
 also_known_as: []
 
 name_hebrew: ""
@@ -17,15 +17,10 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Shechaniah (2583)]]"
+father: null
 mother: null
 spouse: []
-children: 
-  - "[[Bariah]]"
-  - "[[Hattush (1457)]]"
-  - "[[Igeal]]"
-  - "[[Neariah (2161)]]"
-  - "[[Shaphat (2554)]]"
+children: []
 siblings: []
 
 gender: male
@@ -38,17 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "1 Chronicles 3:22"
+first_appearance: "Ezra 8:13"
 places_associated: []
-groups_associated: ["Tribe of Judah"]
+groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 2620
+metav_id: 2632
 ---
 
 ## Verse References
 
-### [[books/1 Chronicles|1 Chronicles]]
-- **3:22** — And the sons of Shechaniah; Shemaiah: and the sons of Shemaiah; Hattush, and Igeal, and Bariah, and Neariah, and Shaphat, six.
+### [[books/Ezra|Ezra]]
+- **8:13** — And of the last sons of Adonikam, whose names are these, Eliphelet, Jeiel, and Shemaiah, and with them threescore males.
 

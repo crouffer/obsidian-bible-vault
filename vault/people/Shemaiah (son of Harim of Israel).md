@@ -1,6 +1,6 @@
 ---
 type: person
-name: Shemaiah (2622)
+name: Shemaiah (son of Harim of Israel)
 also_known_as: []
 
 name_hebrew: ""
@@ -17,11 +17,10 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Joel (1649)]]"
+father: null
 mother: null
 spouse: []
-children: 
-  - "[[Gog (1325)]]"
+children: []
 siblings: []
 
 gender: male
@@ -34,17 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "1 Chronicles 5:4"
+first_appearance: "Ezra 10:31"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 2622
+metav_id: 2635
 ---
 
 ## Verse References
 
-### [[books/1 Chronicles|1 Chronicles]]
-- **5:4** — The sons of Joel; Shemaiah his son, Gog his son, Shimei his son,
+### [[books/Ezra|Ezra]]
+- **10:31** — And of the sons of Harim; Eliezer, Ishijah, Malchiah, Shemaiah, Shimeon,
 

@@ -1,6 +1,6 @@
 ---
 type: person
-name: Shemaiah (2628)
+name: Shemaiah (son of Mattaniah)
 also_known_as: []
 
 name_hebrew: ""
@@ -17,11 +17,13 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: null
+father: "[[Mattaniah (1959)]]"
 mother: null
 spouse: []
-children: []
-siblings: []
+children: 
+  - "[[Jonathan (1700)]]"
+siblings: 
+  - "[[Hashabiah (1436)]]"
 
 gender: male
 role: []
@@ -33,17 +35,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "2 Chronicles 17:8"
+first_appearance: "Nehemiah 12:35"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 2628
+metav_id: 2639
 ---
 
 ## Verse References
 
-### [[books/2 Chronicles|2 Chronicles]]
-- **17:8** — And with them he sent Levites, even Shemaiah, and Nethaniah, and Zebadiah, and Asahel, and Shemiramoth, and Jehonathan, and Adonijah, and Tobijah, and Tobadonijah, Levites; and with them Elishama and Jehoram, priests.
+### [[books/Nehemiah|Nehemiah]]
+- **12:35** — And certain of the priests' sons with trumpets; namely, Zechariah the son of Jonathan, the son of Shemaiah, the son of Mattaniah, the son of Michaiah, the son of Zaccur, the son of Asaph:
 
