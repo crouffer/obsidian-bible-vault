@@ -15,7 +15,7 @@ translation_variants:
 
 strongs:
   hebrew: ""
-  greek: ""
+  greek: "G406"
 
 father: "[[Jonas]]"
 mother: null

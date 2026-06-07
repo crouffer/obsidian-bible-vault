@@ -15,7 +15,7 @@ translation_variants:
 
 strongs:
   hebrew: ""
-  greek: ""
+  greek: "G2385"
 
 father: "[[Alphaeus (192)]]"
 mother: null

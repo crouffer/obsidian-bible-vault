@@ -15,7 +15,7 @@ translation_variants:
 
 strongs:
   hebrew: ""
-  greek: ""
+  greek: "G2455"
 
 father: "[[Simon (2751)]]"
 mother: null
