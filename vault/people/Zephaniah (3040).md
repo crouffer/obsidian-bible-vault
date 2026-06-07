@@ -14,7 +14,7 @@ translation_variants:
   nkjv: ""
 
 strongs:
-  hebrew: ""
+  hebrew: "H6846"
   greek: ""
 
 father: "[[Cushi (966)]]"
