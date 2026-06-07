@@ -9,7 +9,7 @@ name_meaning: ""
 modern_name: null
 root_name: Jordan Valley
 
-place_type: unknown
+place_type: river
 testament: OT
 first_mention: "1 Kings 17:3"
 

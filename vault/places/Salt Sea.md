@@ -9,7 +9,7 @@ name_meaning: ""
 modern_name: null
 root_name: null
 
-place_type: unknown
+place_type: sea
 testament: OT
 first_mention: "Genesis 14:3"
 

@@ -9,7 +9,7 @@ name_meaning: ""
 modern_name: "river; from http://en.wikipedia.org/wiki/Ulai"
 root_name: null
 
-place_type: unknown
+place_type: river
 testament: OT
 first_mention: "Daniel 8:2"
 
