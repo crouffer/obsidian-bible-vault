@@ -1,0 +1,12 @@
+metav_csv/
+metav.db
+*.db
+.env
+.DS_Store
+__pycache__/
+*.pyc
+
+# Vault is gitignored by default.
+# When you're ready to publish, remove the line below
+# and ensure ATTRIBUTION.md is present.
+vault/
