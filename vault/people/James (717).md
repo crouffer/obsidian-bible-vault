@@ -15,7 +15,7 @@ translation_variants:
 
 strongs:
   hebrew: ""
-  greek: ""
+  greek: "G2385"
 
 father: "[[Zebedee]]"
 mother: "[[Mother of Zebedees children]]"
