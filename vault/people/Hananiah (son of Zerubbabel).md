@@ -1,6 +1,6 @@
 ---
 type: person
-name: Hananiah (1384)
+name: Hananiah (son of Zerubbabel)
 also_known_as: []
 
 name_hebrew: ""

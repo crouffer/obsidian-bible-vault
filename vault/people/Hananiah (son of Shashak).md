@@ -1,6 +1,6 @@
 ---
 type: person
-name: Hananiah (1393)
+name: Hananiah (son of Shashak)
 also_known_as: []
 
 name_hebrew: ""
@@ -17,11 +17,21 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: null
+father: "[[Shashak]]"
 mother: null
 spouse: []
 children: []
-siblings: []
+siblings: 
+  - "[[Abdon (11)]]"
+  - "[[Antothijah]]"
+  - "[[Elam (1050)]]"
+  - "[[Eliel (1106)]]"
+  - "[[Hanan (1370)]]"
+  - "[[Heber (1474)]]"
+  - "[[Iphedeiah]]"
+  - "[[Ishpan]]"
+  - "[[Penuel (2315)]]"
+  - "[[Zichri (3067)]]"
 
 gender: male
 role: []
@@ -33,17 +43,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "Nehemiah 12:12"
+first_appearance: "1 Chronicles 8:24"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 1393
+metav_id: 1385
 ---
 
 ## Verse References
 
-### [[books/Nehemiah|Nehemiah]]
-- **12:12** — And in the days of Joiakim were priests, the chief of the fathers: of Seraiah, Meraiah; of Jeremiah, Hananiah;
+### [[books/1 Chronicles|1 Chronicles]]
+- **8:24** — And Hananiah, and Elam, and Antothijah,
 

@@ -17,7 +17,7 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Hananiah (1397)]]"
+father: "[[Hananiah (grandfather of Irijah)]]"
 mother: null
 spouse: []
 children: 

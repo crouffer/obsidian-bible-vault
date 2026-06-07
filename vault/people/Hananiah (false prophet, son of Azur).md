@@ -1,6 +1,6 @@
 ---
 type: person
-name: Hananiah (1395)
+name: Hananiah (false prophet, son of Azur)
 also_known_as: []
 
 name_hebrew: ""

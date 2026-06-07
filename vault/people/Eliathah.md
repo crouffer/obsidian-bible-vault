@@ -25,7 +25,7 @@ siblings:
   - "[[Bukkiah]]"
   - "[[Giddalti]]"
   - "[[Hanani (1380)]]"
-  - "[[Hananiah (1386)]]"
+  - "[[Hananiah (Levite musician of the sixteenth course)]]"
   - "[[Hothir]]"
   - "[[Jerimoth (867)]]"
   - "[[Joshbekashah]]"

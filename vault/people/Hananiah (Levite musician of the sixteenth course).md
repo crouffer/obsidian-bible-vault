@@ -1,6 +1,6 @@
 ---
 type: person
-name: Hananiah (1386)
+name: Hananiah (Levite musician of the sixteenth course)
 also_known_as: []
 
 name_hebrew: ""

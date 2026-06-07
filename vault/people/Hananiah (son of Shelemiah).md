@@ -1,6 +1,6 @@
 ---
 type: person
-name: Hananiah (1385)
+name: Hananiah (son of Shelemiah)
 also_known_as: []
 
 name_hebrew: ""
@@ -17,21 +17,11 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Shashak]]"
+father: "[[Shelemiah (2596)]]"
 mother: null
 spouse: []
 children: []
-siblings: 
-  - "[[Abdon (11)]]"
-  - "[[Antothijah]]"
-  - "[[Elam (1050)]]"
-  - "[[Eliel (1106)]]"
-  - "[[Hanan (1370)]]"
-  - "[[Heber (1474)]]"
-  - "[[Iphedeiah]]"
-  - "[[Ishpan]]"
-  - "[[Penuel (2315)]]"
-  - "[[Zichri (3067)]]"
+siblings: []
 
 gender: male
 role: []
@@ -43,17 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "1 Chronicles 8:24"
+first_appearance: "Nehemiah 3:30"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 1385
+metav_id: 1390
 ---
 
 ## Verse References
 
-### [[books/1 Chronicles|1 Chronicles]]
-- **8:24** — And Hananiah, and Elam, and Antothijah,
+### [[books/Nehemiah|Nehemiah]]
+- **3:30** — After him repaired Hananiah the son of Shelemiah, and Hanun the sixth son of Zalaph, another piece. After him repaired Meshullam the son of Berechiah over against his chamber.
 

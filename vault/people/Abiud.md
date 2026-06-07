@@ -24,7 +24,7 @@ children:
   - "[[Eliakim (1087)]]"
 siblings: 
   - "[[Berechiah (471)]]"
-  - "[[Hananiah (1384)]]"
+  - "[[Hananiah (son of Zerubbabel)]]"
   - "[[Hasadiah]]"
   - "[[Hashubah]]"
   - "[[Jushab-hesed]]"

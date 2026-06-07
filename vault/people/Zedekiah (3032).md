@@ -17,7 +17,7 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Hananiah (1396)]]"
+father: "[[Hananiah (father of Zedekiah)]]"
 mother: null
 spouse: []
 children: []

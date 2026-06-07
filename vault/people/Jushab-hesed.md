@@ -24,7 +24,7 @@ children: []
 siblings: 
   - "[[Abiud]]"
   - "[[Berechiah (471)]]"
-  - "[[Hananiah (1384)]]"
+  - "[[Hananiah (son of Zerubbabel)]]"
   - "[[Hasadiah]]"
   - "[[Hashubah]]"
   - "[[Meshullam (son of Zerubbabel)]]"

@@ -21,7 +21,7 @@ father: null
 mother: null
 spouse: []
 children: 
-  - "[[Hananiah (1390)]]"
+  - "[[Hananiah (son of Shelemiah)]]"
 siblings: []
 
 gender: male

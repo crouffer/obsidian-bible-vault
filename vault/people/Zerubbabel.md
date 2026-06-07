@@ -23,7 +23,7 @@ spouse: []
 children: 
   - "[[Abiud]]"
   - "[[Berechiah (471)]]"
-  - "[[Hananiah (1384)]]"
+  - "[[Hananiah (son of Zerubbabel)]]"
   - "[[Hasadiah]]"
   - "[[Hashubah]]"
   - "[[Jushab-hesed]]"
