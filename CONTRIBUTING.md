@@ -77,6 +77,20 @@ in [`scripts/metav_transformer.py`](scripts/metav_transformer.py) instead of edi
 of files by hand, then regenerate. Best for schema changes, new derived fields, or correcting a
 transformation rule.
 
+### Claude Code agents
+
+If you use [Claude Code](https://claude.com/claude-code), this repo ships purpose-built agents in
+`.claude/agents/` that you can invoke for vault work:
+
+- **`vault-validator`** — runs the validator and reviews data integrity (read-only).
+- **`bible-data-analyst`** — answers questions about the data (read-only).
+- **`enrichment-researcher`** — fills placeholder fields with sourced values and renames
+  disambiguation placeholders. It cites a source for every change, runs the validator, and leaves
+  the result in your working tree for you to review and submit — it never commits on its own.
+
+Treat agent output like any other contribution: review the diff, confirm the sources, and run
+the validator before opening a PR.
+
 ## A note on regeneration
 
 Running `python3 scripts/metav_transformer.py` **overwrites every file in `vault/`**. If you've
