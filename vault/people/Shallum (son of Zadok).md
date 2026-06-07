@@ -1,6 +1,6 @@
 ---
 type: person
-name: Shallum (2519)
+name: Shallum (son of Zadok)
 also_known_as: ["Meshullam"]
 
 name_hebrew: ""

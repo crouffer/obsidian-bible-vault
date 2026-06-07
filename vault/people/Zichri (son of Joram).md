@@ -1,6 +1,6 @@
 ---
 type: person
-name: Zichri (3068)
+name: Zichri (son of Joram)
 also_known_as: []
 
 name_hebrew: ""
@@ -17,16 +17,12 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Jeroham (875)]]"
+father: "[[Joram (1706)]]"
 mother: null
 spouse: []
-children: []
-siblings: 
-  - "[[Athaliah (360)]]"
-  - "[[Eliah (1081)]]"
-  - "[[Jaresiah]]"
-  - "[[Shamsherai]]"
-  - "[[Shehariah]]"
+children: 
+  - "[[Shelomith (2609)]]"
+siblings: []
 
 gender: male
 role: []
@@ -38,17 +34,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "1 Chronicles 8:27"
+first_appearance: "1 Chronicles 26:25"
 places_associated: []
-groups_associated: []
+groups_associated: ["Tribe of Levi"]
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 3068
+metav_id: 3070
 ---
 
 ## Verse References
 
 ### [[books/1 Chronicles|1 Chronicles]]
-- **8:27** — And Jaresiah, and Eliah, and Zichri, the sons of Jeroham.
+- **26:25** — And his brethren by Eliezer; Rehabiah his son, and Jeshaiah his son, and Joram his son, and Zichri his son, and Shelomith his son.
 

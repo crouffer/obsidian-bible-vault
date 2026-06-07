@@ -1,6 +1,6 @@
 ---
 type: person
-name: Shallum (2524)
+name: Zichri (son of Shimhi)
 also_known_as: []
 
 name_hebrew: ""
@@ -8,7 +8,7 @@ name_greek_lxx: ""
 name_latin: ""
 name_meaning: ""
 translation_variants:
-  kjv: Shallum
+  kjv: Zichri
   esv: ""
   niv: ""
   nkjv: ""
@@ -17,11 +17,19 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Halohesh]]"
+father: "[[Shimhi]]"
 mother: null
 spouse: []
 children: []
-siblings: []
+siblings: 
+  - "[[Adaiah (71)]]"
+  - "[[Beraiah]]"
+  - "[[Eliel (1105)]]"
+  - "[[Elienai]]"
+  - "[[Jakim (713)]]"
+  - "[[Shimrath]]"
+  - "[[Zabdi (2955)]]"
+  - "[[Zilthai (3082)]]"
 
 gender: male
 role: []
@@ -33,17 +41,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "Nehemiah 3:12"
+first_appearance: "1 Chronicles 8:19"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 2524
+metav_id: 3066
 ---
 
 ## Verse References
 
-### [[books/Nehemiah|Nehemiah]]
-- **3:12** — And next unto him repaired Shallum the son of Halohesh, the ruler of the half part of Jerusalem, he and his daughters.
+### [[books/1 Chronicles|1 Chronicles]]
+- **8:19** — And Jakim, and Zichri, and Zabdi,
 

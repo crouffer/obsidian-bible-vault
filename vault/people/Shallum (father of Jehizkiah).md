@@ -1,6 +1,6 @@
 ---
 type: person
-name: Zichri (3072)
+name: Shallum (father of Jehizkiah)
 also_known_as: []
 
 name_hebrew: ""
@@ -8,7 +8,7 @@ name_greek_lxx: ""
 name_latin: ""
 name_meaning: ""
 translation_variants:
-  kjv: Zichri
+  kjv: Shallum
   esv: ""
   niv: ""
   nkjv: ""
@@ -21,7 +21,7 @@ father: null
 mother: null
 spouse: []
 children: 
-  - "[[Amasiah]]"
+  - "[[Jehizkiah]]"
 siblings: []
 
 gender: male
@@ -34,17 +34,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "2 Chronicles 17:16"
+first_appearance: "2 Chronicles 28:12"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 3072
+metav_id: 2521
 ---
 
 ## Verse References
 
 ### [[books/2 Chronicles|2 Chronicles]]
-- **17:16** — And next him was Amasiah the son of Zichri, who willingly offered himself unto the LORD; and with him two hundred thousand mighty men of valour.
+- **28:12** — Then certain of the heads of the children of Ephraim, Azariah the son of Johanan, Berechiah the son of Meshillemoth, and Jehizkiah the son of Shallum, and Amasa the son of Hadlai, stood up against them that came from the war,
 

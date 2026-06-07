@@ -1,6 +1,6 @@
 ---
 type: person
-name: Shallum (2514)
+name: Shallum (king of Israel)
 also_known_as: []
 
 name_hebrew: ""

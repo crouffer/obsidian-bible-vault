@@ -1,6 +1,6 @@
 ---
 type: person
-name: Shallum (2525)
+name: Zichri (son of Izhar)
 also_known_as: []
 
 name_hebrew: ""
@@ -8,7 +8,7 @@ name_greek_lxx: ""
 name_latin: ""
 name_meaning: ""
 translation_variants:
-  kjv: Shallum
+  kjv: Zichri
   esv: ""
   niv: ""
   nkjv: ""
@@ -17,13 +17,14 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Father of Hilkiah and Shallum]]"
+father: "[[Izhar]]"
 mother: null
 spouse: []
-children: 
-  - "[[Hanameel]]"
+children: []
 siblings: 
-  - "[[Hilkiah (1529)]]"
+  - "[[Korah (1795)]]"
+  - "[[Nepheg (2178)]]"
+  - "[[Shelomoth]]"
 
 gender: male
 role: []
@@ -35,17 +36,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "Jeremiah 32:7"
+first_appearance: "Exodus 6:21"
 places_associated: []
-groups_associated: []
+groups_associated: ["Tribe of Levi"]
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 2525
+metav_id: 3065
 ---
 
 ## Verse References
 
-### [[books/Jeremiah|Jeremiah]]
-- **32:7** — Behold, Hanameel the son of Shallum thine uncle shall come unto thee, saying, Buy thee my field that is in Anathoth: for the right of redemption is thine to buy it.
+### [[books/Exodus|Exodus]]
+- **6:21** — And the sons of Izhar; Korah, and Nepheg, and Zichri.
 

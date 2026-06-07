@@ -23,7 +23,7 @@ spouse: []
 children: 
   - "[[Jeremiah (853)]]"
 siblings: 
-  - "[[Shallum (2525)]]"
+  - "[[Shallum (father of Hanameel)]]"
 
 gender: male
 role: []

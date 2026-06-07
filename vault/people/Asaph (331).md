@@ -21,7 +21,7 @@ father: null
 mother: null
 spouse: []
 children: 
-  - "[[Zichri (3069)]]"
+  - "[[Zichri (son of Asaph)]]"
 siblings: []
 
 gender: male

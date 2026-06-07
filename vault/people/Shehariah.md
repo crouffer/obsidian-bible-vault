@@ -26,7 +26,7 @@ siblings:
   - "[[Eliah (1081)]]"
   - "[[Jaresiah]]"
   - "[[Shamsherai]]"
-  - "[[Zichri (3068)]]"
+  - "[[Zichri (son of Jeroham)]]"
 
 gender: male
 role: []

@@ -17,7 +17,7 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Shallum (2526)]]"
+father: "[[Shallum (father of Maaseiah)]]"
 mother: null
 spouse: []
 children: []

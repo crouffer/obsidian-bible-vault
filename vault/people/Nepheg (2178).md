@@ -24,7 +24,7 @@ children: []
 siblings: 
   - "[[Korah (1795)]]"
   - "[[Shelomoth]]"
-  - "[[Zichri (3065)]]"
+  - "[[Zichri (son of Izhar)]]"
 
 gender: male
 role: []

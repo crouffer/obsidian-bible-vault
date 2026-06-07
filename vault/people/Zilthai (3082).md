@@ -29,7 +29,7 @@ siblings:
   - "[[Jakim (713)]]"
   - "[[Shimrath]]"
   - "[[Zabdi (2955)]]"
-  - "[[Zichri (3066)]]"
+  - "[[Zichri (son of Shimhi)]]"
 
 gender: male
 role: []

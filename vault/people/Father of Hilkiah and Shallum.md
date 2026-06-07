@@ -22,7 +22,7 @@ mother: null
 spouse: []
 children: 
   - "[[Hilkiah (1529)]]"
-  - "[[Shallum (2525)]]"
+  - "[[Shallum (father of Hanameel)]]"
 siblings: []
 
 gender: male

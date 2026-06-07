@@ -1,6 +1,6 @@
 ---
 type: person
-name: Zichri (3073)
+name: Zichri (father of Joel)
 also_known_as: []
 
 name_hebrew: ""
@@ -21,7 +21,7 @@ father: null
 mother: null
 spouse: []
 children: 
-  - "[[Elishaphat]]"
+  - "[[Joel (son of Zichri)]]"
 siblings: []
 
 gender: male
@@ -34,17 +34,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "2 Chronicles 23:1"
+first_appearance: "Nehemiah 11:9"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 3073
+metav_id: 3075
 ---
 
 ## Verse References
 
-### [[books/2 Chronicles|2 Chronicles]]
-- **23:1** — And in the seventh year Jehoiada strengthened himself, and took the captains of hundreds, Azariah the son of Jeroham, and Ishmael the son of Jehohanan, and Azariah the son of Obed, and Maaseiah the son of Adaiah, and Elishaphat the son of Zichri, into covenant with him.
+### [[books/Nehemiah|Nehemiah]]
+- **11:9** — And Joel the son of Zichri was their overseer: and Judah the son of Senuah was second over the city.
 

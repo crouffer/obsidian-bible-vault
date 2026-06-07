@@ -1,6 +1,6 @@
 ---
 type: person
-name: Zichri (3075)
+name: Zichri (son of Jeroham)
 also_known_as: []
 
 name_hebrew: ""
@@ -17,12 +17,16 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: null
+father: "[[Jeroham (875)]]"
 mother: null
 spouse: []
-children: 
-  - "[[Joel (son of Zichri)]]"
-siblings: []
+children: []
+siblings: 
+  - "[[Athaliah (360)]]"
+  - "[[Eliah (1081)]]"
+  - "[[Jaresiah]]"
+  - "[[Shamsherai]]"
+  - "[[Shehariah]]"
 
 gender: male
 role: []
@@ -34,17 +38,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "Nehemiah 11:9"
+first_appearance: "1 Chronicles 8:27"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 3075
+metav_id: 3068
 ---
 
 ## Verse References
 
-### [[books/Nehemiah|Nehemiah]]
-- **11:9** — And Joel the son of Zichri was their overseer: and Judah the son of Senuah was second over the city.
+### [[books/1 Chronicles|1 Chronicles]]
+- **8:27** — And Jaresiah, and Eliah, and Zichri, the sons of Jeroham.
 

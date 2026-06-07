@@ -31,7 +31,7 @@ siblings:
   - "[[Iphedeiah]]"
   - "[[Ishpan]]"
   - "[[Penuel (2315)]]"
-  - "[[Zichri (3067)]]"
+  - "[[Zichri (son of Shashak)]]"
 
 gender: male
 role: []

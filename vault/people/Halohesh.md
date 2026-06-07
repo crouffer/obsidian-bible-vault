@@ -21,7 +21,7 @@ father: null
 mother: null
 spouse: []
 children: 
-  - "[[Shallum (2524)]]"
+  - "[[Shallum (son of Halohesh)]]"
 siblings: []
 
 gender: male

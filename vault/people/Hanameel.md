@@ -17,7 +17,7 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Shallum (2525)]]"
+father: "[[Shallum (father of Hanameel)]]"
 mother: null
 spouse: []
 children: []

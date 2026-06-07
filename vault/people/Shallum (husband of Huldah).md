@@ -1,6 +1,6 @@
 ---
 type: person
-name: Shallum (2515)
+name: Shallum (husband of Huldah)
 also_known_as: []
 
 name_hebrew: ""

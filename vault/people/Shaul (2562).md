@@ -21,7 +21,7 @@ father: "[[Simeon (2741)]]"
 mother: "[[Canaanitish woman]]"
 spouse: []
 children: 
-  - "[[Shallum (2518)]]"
+  - "[[Shallum (son of Shaul)]]"
 siblings: 
   - "[[Jachin (679)]]"
   - "[[Jamin (720)]]"

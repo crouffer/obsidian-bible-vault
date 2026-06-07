@@ -17,7 +17,7 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Zichri (3072)]]"
+father: "[[Zichri (father of Amasiah)]]"
 mother: null
 spouse: []
 children: []

@@ -1,6 +1,6 @@
 ---
 type: person
-name: Zichri (3065)
+name: Zichri (father of Amasiah)
 also_known_as: []
 
 name_hebrew: ""
@@ -17,14 +17,12 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Izhar]]"
+father: null
 mother: null
 spouse: []
-children: []
-siblings: 
-  - "[[Korah (1795)]]"
-  - "[[Nepheg (2178)]]"
-  - "[[Shelomoth]]"
+children: 
+  - "[[Amasiah]]"
+siblings: []
 
 gender: male
 role: []
@@ -36,17 +34,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "Exodus 6:21"
+first_appearance: "2 Chronicles 17:16"
 places_associated: []
-groups_associated: ["Tribe of Levi"]
+groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 3065
+metav_id: 3072
 ---
 
 ## Verse References
 
-### [[books/Exodus|Exodus]]
-- **6:21** — And the sons of Izhar; Korah, and Nepheg, and Zichri.
+### [[books/2 Chronicles|2 Chronicles]]
+- **17:16** — And next him was Amasiah the son of Zichri, who willingly offered himself unto the LORD; and with him two hundred thousand mighty men of valour.
 

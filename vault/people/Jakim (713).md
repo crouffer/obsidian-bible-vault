@@ -28,7 +28,7 @@ siblings:
   - "[[Elienai]]"
   - "[[Shimrath]]"
   - "[[Zabdi (2955)]]"
-  - "[[Zichri (3066)]]"
+  - "[[Zichri (son of Shimhi)]]"
   - "[[Zilthai (3082)]]"
 
 gender: male

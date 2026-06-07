@@ -1,6 +1,6 @@
 ---
 type: person
-name: Zichri (3070)
+name: Zichri (son of Shashak)
 also_known_as: []
 
 name_hebrew: ""
@@ -17,12 +17,21 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Joram (1706)]]"
+father: "[[Shashak]]"
 mother: null
 spouse: []
-children: 
-  - "[[Shelomith (2609)]]"
-siblings: []
+children: []
+siblings: 
+  - "[[Abdon (11)]]"
+  - "[[Antothijah]]"
+  - "[[Elam (1050)]]"
+  - "[[Eliel (1106)]]"
+  - "[[Hanan (1370)]]"
+  - "[[Hananiah (son of Shashak)]]"
+  - "[[Heber (1474)]]"
+  - "[[Iphedeiah]]"
+  - "[[Ishpan]]"
+  - "[[Penuel (2315)]]"
 
 gender: male
 role: []
@@ -34,17 +43,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "1 Chronicles 26:25"
+first_appearance: "1 Chronicles 8:23"
 places_associated: []
-groups_associated: ["Tribe of Levi"]
+groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 3070
+metav_id: 3067
 ---
 
 ## Verse References
 
 ### [[books/1 Chronicles|1 Chronicles]]
-- **26:25** — And his brethren by Eliezer; Rehabiah his son, and Jeshaiah his son, and Joram his son, and Zichri his son, and Shelomith his son.
+- **8:23** — And Abdon, and Zichri, and Hanan,
 

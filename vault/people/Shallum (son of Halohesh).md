@@ -1,6 +1,6 @@
 ---
 type: person
-name: Zichri (3067)
+name: Shallum (son of Halohesh)
 also_known_as: []
 
 name_hebrew: ""
@@ -8,7 +8,7 @@ name_greek_lxx: ""
 name_latin: ""
 name_meaning: ""
 translation_variants:
-  kjv: Zichri
+  kjv: Shallum
   esv: ""
   niv: ""
   nkjv: ""
@@ -17,21 +17,11 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Shashak]]"
+father: "[[Halohesh]]"
 mother: null
 spouse: []
 children: []
-siblings: 
-  - "[[Abdon (11)]]"
-  - "[[Antothijah]]"
-  - "[[Elam (1050)]]"
-  - "[[Eliel (1106)]]"
-  - "[[Hanan (1370)]]"
-  - "[[Hananiah (son of Shashak)]]"
-  - "[[Heber (1474)]]"
-  - "[[Iphedeiah]]"
-  - "[[Ishpan]]"
-  - "[[Penuel (2315)]]"
+siblings: []
 
 gender: male
 role: []
@@ -43,17 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "1 Chronicles 8:23"
+first_appearance: "Nehemiah 3:12"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 3067
+metav_id: 2524
 ---
 
 ## Verse References
 
-### [[books/1 Chronicles|1 Chronicles]]
-- **8:23** — And Abdon, and Zichri, and Hanan,
+### [[books/Nehemiah|Nehemiah]]
+- **3:12** — And next unto him repaired Shallum the son of Halohesh, the ruler of the half part of Jerusalem, he and his daughters.
 
