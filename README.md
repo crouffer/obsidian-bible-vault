@@ -171,8 +171,11 @@ Improvements are welcome and the license encourages sharing them back. The highe
 
 You can edit notes directly in Obsidian or in any text editor. If you regenerate the vault from
 source, note that it overwrites the `vault/` files — so enrichment is best done on the committed
-notes, or by improving the transformer itself. See the enrichment priorities in
-[`CLAUDE.md`](CLAUDE.md).
+notes, or by improving the transformer itself.
+
+**See [`CONTRIBUTING.md`](CONTRIBUTING.md)** for the full enrichment workflow — field
+conventions, how to validate changes, and how to submit a pull request. The field-by-field
+schema is in [`CLAUDE.md`](CLAUDE.md).
 
 ## Regenerating from source
 
