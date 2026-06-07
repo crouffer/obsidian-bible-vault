@@ -1,6 +1,6 @@
 ---
 type: person
-name: Zechariah (3019)
+name: "Zechariah (son of Isshiah)"
 also_known_as: []
 
 name_hebrew: ""
@@ -17,7 +17,7 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: null
+father: "[[Isshiah]]"
 mother: null
 spouse: []
 children: []
@@ -33,17 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "Ezra 8:16"
+first_appearance: "1 Chronicles 24:25"
 places_associated: []
-groups_associated: []
+groups_associated: ["Tribe of Levi"]
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 3019
+metav_id: 3005
 ---
 
 ## Verse References
 
-### [[books/Ezra|Ezra]]
-- **8:16** — Then sent I for Eliezer, for Ariel, for Shemaiah, and for Elnathan, and for Jarib, and for Elnathan, and for Nathan, and for Zechariah, and for Meshullam, chief men; also for Joiarib, and for Elnathan, men of understanding.
+### [[books/1 Chronicles|1 Chronicles]]
+- **24:25** — The brother of Michah was Isshiah: of the sons of Isshiah; Zechariah.
 

@@ -1,6 +1,6 @@
 ---
 type: person
-name: Zechariah (3022)
+name: "Zechariah (trumpeter priest at wall dedication)"
 also_known_as: []
 
 name_hebrew: ""
@@ -17,11 +17,10 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Amariah (205)]]"
+father: null
 mother: null
 spouse: []
-children: 
-  - "[[Uzziah (2928)]]"
+children: []
 siblings: []
 
 gender: male
@@ -34,17 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "Nehemiah 11:4"
+first_appearance: "Nehemiah 12:41"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 3022
+metav_id: 3027
 ---
 
 ## Verse References
 
 ### [[books/Nehemiah|Nehemiah]]
-- **11:4** — And at Jerusalem dwelt certain of the children of Judah, and of the children of Benjamin. Of the children of Judah; Athaiah the son of Uzziah, the son of Zechariah, the son of Amariah, the son of Shephatiah, the son of Mahalaleel, of the children of Perez;
+- **12:41** — And the priests; Eliakim, Maaseiah, Miniamin, Michaiah, Elioenai, Zechariah, and Hananiah, with trumpets;
 

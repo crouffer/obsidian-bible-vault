@@ -1,6 +1,6 @@
 ---
 type: person
-name: Zechariah (3020)
+name: "Zechariah (chief man under Ezra)"
 also_known_as: []
 
 name_hebrew: ""
@@ -33,17 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "Ezra 10:26"
+first_appearance: "Ezra 8:16"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 3020
+metav_id: 3019
 ---
 
 ## Verse References
 
 ### [[books/Ezra|Ezra]]
-- **10:26** — And of the sons of Elam; Mattaniah, Zechariah, and Jehiel, and Abdi, and Jeremoth, and Eliah.
+- **8:16** — Then sent I for Eliezer, for Ariel, for Shemaiah, and for Elnathan, and for Jarib, and for Elnathan, and for Nathan, and for Zechariah, and for Meshullam, chief men; also for Joiarib, and for Elnathan, men of understanding.
 

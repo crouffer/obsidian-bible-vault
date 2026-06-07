@@ -21,7 +21,7 @@ father: "[[Iddo (1595)]]"
 mother: null
 spouse: []
 children: 
-  - "[[Zechariah (3016)]]"
+  - "[[Zechariah (prophet)]]"
 siblings: []
 
 gender: male

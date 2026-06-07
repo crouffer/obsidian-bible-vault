@@ -1,6 +1,6 @@
 ---
 type: person
-name: Zechariah (3007)
+name: "Zechariah (father of Iddo)"
 also_known_as: []
 
 name_hebrew: ""

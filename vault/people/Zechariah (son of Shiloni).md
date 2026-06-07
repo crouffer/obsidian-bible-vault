@@ -1,6 +1,6 @@
 ---
 type: person
-name: Zechariah (3014)
+name: "Zechariah (son of Shiloni)"
 also_known_as: []
 
 name_hebrew: ""
@@ -17,10 +17,11 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: null
+father: "[[Shiloni]]"
 mother: null
 spouse: []
-children: []
+children: 
+  - "[[Joiarib (1683)]]"
 siblings: []
 
 gender: male
@@ -33,17 +34,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "2 Chronicles 34:12"
+first_appearance: "Nehemiah 11:5"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 3014
+metav_id: 3023
 ---
 
 ## Verse References
 
-### [[books/2 Chronicles|2 Chronicles]]
-- **34:12** — And the men did the work faithfully: and the overseers of them were Jahath and Obadiah, the Levites, of the sons of Merari; and Zechariah and Meshullam, of the sons of the Kohathites, to set it forward; and other of the Levites, all that could skill of instruments of musick.
+### [[books/Nehemiah|Nehemiah]]
+- **11:5** — And Maaseiah the son of Baruch, the son of Colhozeh, the son of Hazaiah, the son of Adaiah, the son of Joiarib, the son of Zechariah, the son of Shiloni.
 

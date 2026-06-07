@@ -24,7 +24,7 @@ children: []
 siblings: 
   - "[[Simri]]"
   - "[[Tebaliah]]"
-  - "[[Zechariah (3006)]]"
+  - "[[Zechariah (son of Hosah)]]"
 
 gender: male
 role: []

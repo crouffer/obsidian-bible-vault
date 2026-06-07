@@ -1,6 +1,6 @@
 ---
 type: person
-name: Zechariah (3028)
+name: "Zechariah (priest of Iddo's house)"
 also_known_as: []
 
 name_hebrew: ""
@@ -17,7 +17,7 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Jeberechiah]]"
+father: null
 mother: null
 spouse: []
 children: []
@@ -33,17 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "Isaiah 8:2"
+first_appearance: "Nehemiah 12:16"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 3028
+metav_id: 3025
 ---
 
 ## Verse References
 
-### [[books/Isaiah|Isaiah]]
-- **8:2** — And I took unto me faithful witnesses to record, Uriah the priest, and Zechariah the son of Jeberechiah.
+### [[books/Nehemiah|Nehemiah]]
+- **12:16** — Of Iddo, Zechariah; of Ginnethon, Meshullam;
 

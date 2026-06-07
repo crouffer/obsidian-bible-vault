@@ -29,7 +29,7 @@ siblings:
   - "[[Maai]]"
   - "[[Milalai]]"
   - "[[Shemaiah (2640)]]"
-  - "[[Zechariah (3026)]]"
+  - "[[Zechariah (son of Jonathan)]]"
 
 gender: male
 role: []

@@ -1,6 +1,6 @@
 ---
 type: person
-name: Zechariah (3024)
+name: "Zechariah (son of Jeberechiah)"
 also_known_as: []
 
 name_hebrew: ""
@@ -17,11 +17,10 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Pashur (2283)]]"
+father: "[[Jeberechiah]]"
 mother: null
 spouse: []
-children: 
-  - "[[Amzi (246)]]"
+children: []
 siblings: []
 
 gender: male
@@ -34,17 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "Nehemiah 11:12"
+first_appearance: "Isaiah 8:2"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 3024
+metav_id: 3028
 ---
 
 ## Verse References
 
-### [[books/Nehemiah|Nehemiah]]
-- **11:12** — And their brethren that did the work of the house were eight hundred twenty and two: and Adaiah the son of Jeroham, the son of Pelaliah, the son of Amzi, the son of Zechariah, the son of Pashur, the son of Malchiah,
+### [[books/Isaiah|Isaiah]]
+- **8:2** — And I took unto me faithful witnesses to record, Uriah the priest, and Zechariah the son of Jeberechiah.
 

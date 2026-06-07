@@ -1,6 +1,6 @@
 ---
 type: person
-name: Zechariah (3015)
+name: "Zechariah (son of Hosah)"
 also_known_as: []
 
 name_hebrew: ""
@@ -17,11 +17,14 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: null
+father: "[[Hosah]]"
 mother: null
 spouse: []
 children: []
-siblings: []
+siblings: 
+  - "[[Hilkiah (1526)]]"
+  - "[[Simri]]"
+  - "[[Tebaliah]]"
 
 gender: male
 role: []
@@ -33,17 +36,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "2 Chronicles 35:8"
+first_appearance: "1 Chronicles 26:11"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 3015
+metav_id: 3006
 ---
 
 ## Verse References
 
-### [[books/2 Chronicles|2 Chronicles]]
-- **35:8** — And his princes gave willingly unto the people, to the priests, and to the Levites: Hilkiah and Zechariah and Jehiel, rulers of the house of God, gave unto the priests for the passover offerings two thousand and six hundred small cattle, and three hundred oxen.
+### [[books/1 Chronicles|1 Chronicles]]
+- **26:11** — Hilkiah the second, Tebaliah the third, Zechariah the fourth: all the sons and brethren of Hosah were thirteen.
 

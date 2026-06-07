@@ -29,7 +29,7 @@ children:
   - "[[Milalai]]"
   - "[[Nethaneel (2197)]]"
   - "[[Shemaiah (2640)]]"
-  - "[[Zechariah (3026)]]"
+  - "[[Zechariah (son of Jonathan)]]"
 siblings: []
 
 gender: male

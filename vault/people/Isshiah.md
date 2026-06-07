@@ -21,7 +21,7 @@ father: "[[Uzziel (2929)]]"
 mother: null
 spouse: []
 children: 
-  - "[[Zechariah (3005)]]"
+  - "[[Zechariah (son of Isshiah)]]"
 siblings: 
   - "[[Elizaphan (1189)]]"
   - "[[Michah]]"

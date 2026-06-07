@@ -21,7 +21,7 @@ father: "[[Shephatiah (2663)]]"
 mother: null
 spouse: []
 children: 
-  - "[[Zechariah (3022)]]"
+  - "[[Zechariah (son of Amariah)]]"
 siblings: []
 
 gender: male

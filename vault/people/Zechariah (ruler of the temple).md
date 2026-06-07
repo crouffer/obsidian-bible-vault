@@ -1,6 +1,6 @@
 ---
 type: person
-name: Zechariah (3012)
+name: "Zechariah (ruler of the temple)"
 also_known_as: []
 
 name_hebrew: ""
@@ -33,17 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "2 Chronicles 26:5"
+first_appearance: "2 Chronicles 35:8"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 3012
+metav_id: 3015
 ---
 
 ## Verse References
 
 ### [[books/2 Chronicles|2 Chronicles]]
-- **26:5** — And he sought God in the days of Zechariah, who had understanding in the visions of God: and as long as he sought the LORD, God made him to prosper.
+- **35:8** — And his princes gave willingly unto the people, to the priests, and to the Levites: Hilkiah and Zechariah and Jehiel, rulers of the house of God, gave unto the priests for the passover offerings two thousand and six hundred small cattle, and three hundred oxen.
 

@@ -27,7 +27,7 @@ siblings:
   - "[[Jehiel (773)]]"
   - "[[Jehoram (803)]]"
   - "[[Michael (2066)]]"
-  - "[[Zechariah (3010)]]"
+  - "[[Zechariah (son of Jehoshaphat)]]"
 
 gender: male
 role: []

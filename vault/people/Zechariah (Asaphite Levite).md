@@ -1,6 +1,6 @@
 ---
 type: person
-name: Zechariah (3018)
+name: "Zechariah (Asaphite Levite)"
 also_known_as: []
 
 name_hebrew: ""
@@ -17,7 +17,7 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Bebai (421)]]"
+father: null
 mother: null
 spouse: []
 children: []
@@ -33,17 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "Ezra 8:11"
+first_appearance: "2 Chronicles 29:13"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 3018
+metav_id: 3013
 ---
 
 ## Verse References
 
-### [[books/Ezra|Ezra]]
-- **8:11** — And of the sons of Bebai; Zechariah the son of Bebai, and with him twenty and eight males.
+### [[books/2 Chronicles|2 Chronicles]]
+- **29:13** — And of the sons of Elizaphan; Shimri, and Jeiel: and of the sons of Asaph; Zechariah, and Mattaniah:
 

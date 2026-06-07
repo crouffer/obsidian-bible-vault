@@ -30,7 +30,7 @@ siblings:
   - "[[Jehiel (773)]]"
   - "[[Michael (2066)]]"
   - "[[Shephatiah (2660)]]"
-  - "[[Zechariah (3010)]]"
+  - "[[Zechariah (son of Jehoshaphat)]]"
 
 gender: male
 role: []

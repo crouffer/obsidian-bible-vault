@@ -27,7 +27,7 @@ children:
   - "[[Jediael (760)]]"
   - "[[Jehohanan (785)]]"
   - "[[Zebadiah (2991)]]"
-  - "[[Zechariah (3004)]]"
+  - "[[Zechariah (gatekeeper, son of Meshelemiah)]]"
 siblings: []
 
 gender: male

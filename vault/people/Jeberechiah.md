@@ -21,7 +21,7 @@ father: null
 mother: null
 spouse: []
 children: 
-  - "[[Zechariah (3028)]]"
+  - "[[Zechariah (son of Jeberechiah)]]"
 siblings: []
 
 gender: male

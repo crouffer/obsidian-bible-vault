@@ -21,7 +21,7 @@ father: "[[Malchijah (1909)]]"
 mother: null
 spouse: []
 children: 
-  - "[[Zechariah (3024)]]"
+  - "[[Zechariah (son of Pashur)]]"
 siblings: []
 
 gender: male

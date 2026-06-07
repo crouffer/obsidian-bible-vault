@@ -17,7 +17,7 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Zechariah (3022)]]"
+father: "[[Zechariah (son of Amariah)]]"
 mother: null
 spouse: []
 children: 

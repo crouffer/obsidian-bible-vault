@@ -1,6 +1,6 @@
 ---
 type: person
-name: Zechariah (3009)
+name: "Zechariah (instructor of Uzziah)"
 also_known_as: []
 
 name_hebrew: ""
@@ -17,11 +17,10 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Benaiah (444)]]"
+father: null
 mother: null
 spouse: []
-children: 
-  - "[[Jahaziel (699)]]"
+children: []
 siblings: []
 
 gender: male
@@ -34,17 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "2 Chronicles 20:14"
+first_appearance: "2 Chronicles 26:5"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 3009
+metav_id: 3012
 ---
 
 ## Verse References
 
 ### [[books/2 Chronicles|2 Chronicles]]
-- **20:14** — Then upon Jahaziel the son of Zechariah, the son of Benaiah, the son of Jeiel, the son of Mattaniah, a Levite of the sons of Asaph, came the Spirit of the LORD in the midst of the congregation;
+- **26:5** — And he sought God in the days of Zechariah, who had understanding in the visions of God: and as long as he sought the LORD, God made him to prosper.
 

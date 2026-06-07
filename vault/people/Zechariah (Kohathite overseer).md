@@ -1,6 +1,6 @@
 ---
 type: person
-name: Zechariah (3005)
+name: "Zechariah (Kohathite overseer)"
 also_known_as: []
 
 name_hebrew: ""
@@ -17,7 +17,7 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Isshiah]]"
+father: null
 mother: null
 spouse: []
 children: []
@@ -33,17 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "1 Chronicles 24:25"
+first_appearance: "2 Chronicles 34:12"
 places_associated: []
-groups_associated: ["Tribe of Levi"]
+groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 3005
+metav_id: 3014
 ---
 
 ## Verse References
 
-### [[books/1 Chronicles|1 Chronicles]]
-- **24:25** — The brother of Michah was Isshiah: of the sons of Isshiah; Zechariah.
+### [[books/2 Chronicles|2 Chronicles]]
+- **34:12** — And the men did the work faithfully: and the overseers of them were Jahath and Obadiah, the Levites, of the sons of Merari; and Zechariah and Meshullam, of the sons of the Kohathites, to set it forward; and other of the Levites, all that could skill of instruments of musick.
 
