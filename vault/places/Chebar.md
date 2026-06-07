@@ -9,7 +9,7 @@ name_meaning: ""
 modern_name: "; now Nehardea; http://www.hebrewhistory.info/factpapers/fp031_iraq.htm"
 root_name: null
 
-place_type: unknown
+place_type: river
 testament: OT
 first_mention: "Ezekiel 1:1"
 

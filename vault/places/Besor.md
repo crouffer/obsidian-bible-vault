@@ -9,7 +9,7 @@ name_meaning: ""
 modern_name: wadi esh sheria
 root_name: null
 
-place_type: unknown
+place_type: river
 testament: OT
 first_mention: "1 Samuel 30:9"
 

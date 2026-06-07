@@ -9,7 +9,7 @@ name_meaning: ""
 modern_name: null
 root_name: Arnon
 
-place_type: unknown
+place_type: river
 testament: OT
 first_mention: "Deuteronomy 2:24"
 

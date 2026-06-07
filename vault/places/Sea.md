@@ -9,7 +9,7 @@ name_meaning: ""
 modern_name: sea
 root_name: null
 
-place_type: unknown
+place_type: sea
 testament: OT
 first_mention: "Numbers 34:6"
 

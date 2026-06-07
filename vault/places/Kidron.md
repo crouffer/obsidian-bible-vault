@@ -9,7 +9,7 @@ name_meaning: ""
 modern_name: null
 root_name: null
 
-place_type: unknown
+place_type: river
 testament: OT
 first_mention: "2 Samuel 15:23"
 

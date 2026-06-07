@@ -9,7 +9,7 @@ name_meaning: ""
 modern_name: river
 root_name: null
 
-place_type: unknown
+place_type: river
 testament: OT
 first_mention: "Genesis 15:18"
 

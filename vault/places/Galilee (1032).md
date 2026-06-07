@@ -9,7 +9,7 @@ name_meaning: ""
 modern_name: water
 root_name: null
 
-place_type: unknown
+place_type: sea
 testament: NT
 first_mention: "Matthew 4:18"
 
