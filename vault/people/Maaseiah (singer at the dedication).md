@@ -1,6 +1,6 @@
 ---
 type: person
-name: Maaseiah (1856)
+name: Maaseiah (singer at the dedication)
 also_known_as: []
 
 name_hebrew: ""
@@ -33,17 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "Ezra 10:22"
+first_appearance: "Nehemiah 12:42"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 1856
+metav_id: 1865
 ---
 
 ## Verse References
 
-### [[books/Ezra|Ezra]]
-- **10:22** — And of the sons of Pashur; Elioenai, Maaseiah, Ishmael, Nethaneel, Jozabad, and Elasah.
+### [[books/Nehemiah|Nehemiah]]
+- **12:42** — And Maaseiah, and Shemaiah, and Eleazar, and Uzzi, and Jehohanan, and Malchijah, and Elam, and Ezer. And the singers sang loud, with Jezrahiah their overseer.
 

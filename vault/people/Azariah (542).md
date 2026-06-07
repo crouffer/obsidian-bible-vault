@@ -17,7 +17,7 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Maaseiah (1858)]]"
+father: "[[Maaseiah (son of Ananiah)]]"
 mother: null
 spouse: []
 children: []

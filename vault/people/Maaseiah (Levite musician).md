@@ -1,6 +1,6 @@
 ---
 type: person
-name: Maaseiah (1849)
+name: Maaseiah (Levite musician)
 also_known_as: []
 
 name_hebrew: ""

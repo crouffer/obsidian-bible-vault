@@ -1,6 +1,6 @@
 ---
 type: person
-name: Maaseiah (1858)
+name: Maaseiah (beside Ezra at the pulpit)
 also_known_as: []
 
 name_hebrew: ""
@@ -17,11 +17,10 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Ananiah]]"
+father: null
 mother: null
 spouse: []
-children: 
-  - "[[Azariah (542)]]"
+children: []
 siblings: []
 
 gender: male
@@ -34,17 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "Nehemiah 3:23"
+first_appearance: "Nehemiah 8:4"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 1858
+metav_id: 1859
 ---
 
 ## Verse References
 
 ### [[books/Nehemiah|Nehemiah]]
-- **3:23** — After him repaired Benjamin and Hashub over against their house. After him repaired Azariah the son of Maaseiah the son of Ananiah by his house.
+- **8:4** — And Ezra the scribe stood upon a pulpit of wood, which they had made for the purpose; and beside him stood Mattithiah, and Shema, and Anaiah, and Urijah, and Hilkiah, and Maaseiah, on his right hand; and on his left hand, Pedaiah, and Mishael, and Malchiah, and Hashum, and Hashbadana, Zechariah, and Meshullam.
 

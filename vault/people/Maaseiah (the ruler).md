@@ -1,6 +1,6 @@
 ---
 type: person
-name: Maaseiah (1855)
+name: Maaseiah (the ruler)
 also_known_as: []
 
 name_hebrew: ""
@@ -33,17 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "Ezra 10:21"
+first_appearance: "2 Chronicles 26:11"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 1855
+metav_id: 1851
 ---
 
 ## Verse References
 
-### [[books/Ezra|Ezra]]
-- **10:21** — And of the sons of Harim; Maaseiah, and Elijah, and Shemaiah, and Jehiel, and Uzziah.
+### [[books/2 Chronicles|2 Chronicles]]
+- **26:11** — Moreover Uzziah had an host of fighting men, that went out to war by bands, according to the number of their account by the hand of Jeiel the scribe and Maaseiah the ruler, under the hand of Hananiah, one of the king's captains.
 

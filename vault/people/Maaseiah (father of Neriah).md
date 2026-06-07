@@ -1,6 +1,6 @@
 ---
 type: person
-name: Maaseiah (1868)
+name: Maaseiah (father of Neriah)
 also_known_as: []
 
 name_hebrew: ""

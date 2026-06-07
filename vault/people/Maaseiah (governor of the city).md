@@ -1,6 +1,6 @@
 ---
 type: person
-name: Maaseiah (1853)
+name: Maaseiah (governor of the city)
 also_known_as: []
 
 name_hebrew: ""

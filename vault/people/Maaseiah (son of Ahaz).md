@@ -1,6 +1,6 @@
 ---
 type: person
-name: Maaseiah (1862)
+name: Maaseiah (son of Ahaz)
 also_known_as: []
 
 name_hebrew: ""
@@ -17,11 +17,12 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Baruch (409)]]"
+father: "[[Ahaz (118)]]"
 mother: null
 spouse: []
 children: []
-siblings: []
+siblings: 
+  - "[[Hezekiah (1512)]]"
 
 gender: male
 role: []
@@ -33,17 +34,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "Nehemiah 11:5"
+first_appearance: "2 Chronicles 28:7"
 places_associated: []
-groups_associated: []
+groups_associated: ["Tribe of Judah"]
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 1862
+metav_id: 1852
 ---
 
 ## Verse References
 
-### [[books/Nehemiah|Nehemiah]]
-- **11:5** — And Maaseiah the son of Baruch, the son of Colhozeh, the son of Hazaiah, the son of Adaiah, the son of Joiarib, the son of Zechariah, the son of Shiloni.
+### [[books/2 Chronicles|2 Chronicles]]
+- **28:7** — And Zichri, a mighty man of Ephraim, slew Maaseiah the king's son, and Azrikam the governor of the house, and Elkanah that was next to the king.
 

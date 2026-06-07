@@ -24,7 +24,7 @@ spouse:
 children: 
   - "[[Manasseh (1930)]]"
 siblings: 
-  - "[[Maaseiah (1852)]]"
+  - "[[Maaseiah (son of Ahaz)]]"
 
 gender: male
 role: []

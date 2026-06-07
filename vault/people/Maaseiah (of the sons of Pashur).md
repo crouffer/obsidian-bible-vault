@@ -1,6 +1,6 @@
 ---
 type: person
-name: Maaseiah (1861)
+name: Maaseiah (of the sons of Pashur)
 also_known_as: []
 
 name_hebrew: ""
@@ -33,17 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "Nehemiah 10:25"
+first_appearance: "Ezra 10:22"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 1861
+metav_id: 1856
 ---
 
 ## Verse References
 
-### [[books/Nehemiah|Nehemiah]]
-- **10:25** — Rehum, Hashabnah, Maaseiah,
+### [[books/Ezra|Ezra]]
+- **10:22** — And of the sons of Pashur; Elioenai, Maaseiah, Ishmael, Nethaneel, Jozabad, and Elasah.
 
