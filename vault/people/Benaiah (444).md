@@ -21,7 +21,7 @@ father: "[[Jeiel (828)]]"
 mother: null
 spouse: []
 children: 
-  - "[[Zechariah (3009)]]"
+  - "[[Zechariah (father of Jahaziel)]]"
 siblings: []
 
 gender: male

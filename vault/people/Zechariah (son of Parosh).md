@@ -1,6 +1,6 @@
 ---
 type: person
-name: Zechariah (3003)
+name: "Zechariah (son of Parosh)"
 also_known_as: []
 
 name_hebrew: ""
@@ -33,17 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "1 Chronicles 5:7"
+first_appearance: "Ezra 8:3"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 3003
+metav_id: 3017
 ---
 
 ## Verse References
 
-### [[books/1 Chronicles|1 Chronicles]]
-- **5:7** — And his brethren by their families, when the genealogy of their generations was reckoned, were the chief, Jeiel, and Zechariah,
+### [[books/Ezra|Ezra]]
+- **8:3** — Of the sons of Shechaniah, of the sons of Pharosh; Zechariah: and with him were reckoned by genealogy of the males an hundred and fifty.
 

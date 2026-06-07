@@ -17,7 +17,7 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Zechariah (2970)]]"
+father: "[[Zechariah (father of Abijah)]]"
 mother: null
 spouse: 
   - "[[Ahaz (118)]]"

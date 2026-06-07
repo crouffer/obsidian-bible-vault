@@ -29,7 +29,7 @@ siblings:
   - "[[Maai]]"
   - "[[Milalai]]"
   - "[[Nethaneel (2197)]]"
-  - "[[Zechariah (3026)]]"
+  - "[[Zechariah (son of Jonathan)]]"
 
 gender: male
 role: []

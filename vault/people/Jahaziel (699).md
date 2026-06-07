@@ -17,7 +17,7 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Zechariah (3009)]]"
+father: "[[Zechariah (father of Jahaziel)]]"
 mother: null
 spouse: []
 children: []

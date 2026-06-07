@@ -1,6 +1,6 @@
 ---
 type: person
-name: Zechariah (3026)
+name: "Zechariah (son of Jonathan)"
 also_known_as: []
 
 name_hebrew: ""

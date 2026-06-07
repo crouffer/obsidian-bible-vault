@@ -1,6 +1,6 @@
 ---
 type: person
-name: Zechariah (3017)
+name: "Zechariah (son of Amariah)"
 also_known_as: []
 
 name_hebrew: ""
@@ -17,10 +17,11 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: null
+father: "[[Amariah (205)]]"
 mother: null
 spouse: []
-children: []
+children: 
+  - "[[Uzziah (2928)]]"
 siblings: []
 
 gender: male
@@ -33,17 +34,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "Ezra 8:3"
+first_appearance: "Nehemiah 11:4"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 3017
+metav_id: 3022
 ---
 
 ## Verse References
 
-### [[books/Ezra|Ezra]]
-- **8:3** — Of the sons of Shechaniah, of the sons of Pharosh; Zechariah: and with him were reckoned by genealogy of the males an hundred and fifty.
+### [[books/Nehemiah|Nehemiah]]
+- **11:4** — And at Jerusalem dwelt certain of the children of Judah, and of the children of Benjamin. Of the children of Judah; Athaiah the son of Uzziah, the son of Zechariah, the son of Amariah, the son of Shephatiah, the son of Mahalaleel, of the children of Perez;
 

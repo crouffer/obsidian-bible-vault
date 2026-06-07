@@ -1,6 +1,6 @@
 ---
 type: person
-name: Zechariah (2970)
+name: "Zechariah (father of Abijah)"
 also_known_as: ["Zachariah"]
 
 name_hebrew: ""

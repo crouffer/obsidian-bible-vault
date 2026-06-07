@@ -1,6 +1,6 @@
 ---
 type: person
-name: Zechariah (3004)
+name: "Zechariah (gatekeeper, son of Meshelemiah)"
 also_known_as: []
 
 name_hebrew: ""

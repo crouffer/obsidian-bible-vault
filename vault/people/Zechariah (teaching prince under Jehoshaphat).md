@@ -1,6 +1,6 @@
 ---
 type: person
-name: Zechariah (3027)
+name: "Zechariah (teaching prince under Jehoshaphat)"
 also_known_as: []
 
 name_hebrew: ""
@@ -33,17 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "Nehemiah 12:41"
+first_appearance: "2 Chronicles 17:7"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 3027
+metav_id: 3008
 ---
 
 ## Verse References
 
-### [[books/Nehemiah|Nehemiah]]
-- **12:41** — And the priests; Eliakim, Maaseiah, Miniamin, Michaiah, Elioenai, Zechariah, and Hananiah, with trumpets;
+### [[books/2 Chronicles|2 Chronicles]]
+- **17:7** — Also in the third year of his reign he sent to his princes, even to Benhail, and to Obadiah, and to Zechariah, and to Nethaneel, and to Michaiah, to teach in the cities of Judah.
 

@@ -1,6 +1,6 @@
 ---
 type: person
-name: Zechariah (3006)
+name: "Zechariah (son of Elam)"
 also_known_as: []
 
 name_hebrew: ""
@@ -17,14 +17,11 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Hosah]]"
+father: null
 mother: null
 spouse: []
 children: []
-siblings: 
-  - "[[Hilkiah (1526)]]"
-  - "[[Simri]]"
-  - "[[Tebaliah]]"
+siblings: []
 
 gender: male
 role: []
@@ -36,17 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "1 Chronicles 26:11"
+first_appearance: "Ezra 10:26"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 3006
+metav_id: 3020
 ---
 
 ## Verse References
 
-### [[books/1 Chronicles|1 Chronicles]]
-- **26:11** — Hilkiah the second, Tebaliah the third, Zechariah the fourth: all the sons and brethren of Hosah were thirteen.
+### [[books/Ezra|Ezra]]
+- **10:26** — And of the sons of Elam; Mattaniah, Zechariah, and Jehiel, and Abdi, and Jeremoth, and Eliah.
 

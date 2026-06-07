@@ -1,6 +1,6 @@
 ---
 type: person
-name: Zechariah (3008)
+name: "Zechariah (father of Jahaziel)"
 also_known_as: []
 
 name_hebrew: ""
@@ -17,10 +17,11 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: null
+father: "[[Benaiah (444)]]"
 mother: null
 spouse: []
-children: []
+children: 
+  - "[[Jahaziel (699)]]"
 siblings: []
 
 gender: male
@@ -33,17 +34,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "2 Chronicles 17:7"
+first_appearance: "2 Chronicles 20:14"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 3008
+metav_id: 3009
 ---
 
 ## Verse References
 
 ### [[books/2 Chronicles|2 Chronicles]]
-- **17:7** — Also in the third year of his reign he sent to his princes, even to Benhail, and to Obadiah, and to Zechariah, and to Nethaneel, and to Michaiah, to teach in the cities of Judah.
+- **20:14** — Then upon Jahaziel the son of Zechariah, the son of Benaiah, the son of Jeiel, the son of Mattaniah, a Levite of the sons of Asaph, came the Spirit of the LORD in the midst of the congregation;
 

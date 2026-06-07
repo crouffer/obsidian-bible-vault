@@ -1,6 +1,6 @@
 ---
 type: person
-name: Zechariah (3025)
+name: "Zechariah (son of Bebai)"
 also_known_as: []
 
 name_hebrew: ""
@@ -17,7 +17,7 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: null
+father: "[[Bebai (421)]]"
 mother: null
 spouse: []
 children: []
@@ -33,17 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "Nehemiah 12:16"
+first_appearance: "Ezra 8:11"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 3025
+metav_id: 3018
 ---
 
 ## Verse References
 
-### [[books/Nehemiah|Nehemiah]]
-- **12:16** — Of Iddo, Zechariah; of Ginnethon, Meshullam;
+### [[books/Ezra|Ezra]]
+- **8:11** — And of the sons of Bebai; Zechariah the son of Bebai, and with him twenty and eight males.
 

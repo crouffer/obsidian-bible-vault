@@ -1,6 +1,6 @@
 ---
 type: person
-name: Zechariah (3010)
+name: "Zechariah (son of Jehoshaphat)"
 also_known_as: []
 
 name_hebrew: ""

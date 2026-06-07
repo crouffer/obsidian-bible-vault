@@ -24,7 +24,7 @@ children:
   - "[[Hilkiah (1526)]]"
   - "[[Simri]]"
   - "[[Tebaliah]]"
-  - "[[Zechariah (3006)]]"
+  - "[[Zechariah (son of Hosah)]]"
 siblings: []
 
 gender: male

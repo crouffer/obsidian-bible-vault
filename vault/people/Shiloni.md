@@ -21,7 +21,7 @@ father: null
 mother: null
 spouse: []
 children: 
-  - "[[Zechariah (3023)]]"
+  - "[[Zechariah (son of Shiloni)]]"
 siblings: []
 
 gender: male

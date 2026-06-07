@@ -1,6 +1,6 @@
 ---
 type: person
-name: Zechariah (3016)
+name: "Zechariah (prophet)"
 also_known_as: []
 
 name_hebrew: ""

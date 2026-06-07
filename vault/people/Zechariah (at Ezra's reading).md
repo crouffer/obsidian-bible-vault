@@ -1,6 +1,6 @@
 ---
 type: person
-name: Zechariah (3023)
+name: "Zechariah (at Ezra's reading)"
 also_known_as: []
 
 name_hebrew: ""
@@ -17,11 +17,10 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Shiloni]]"
+father: null
 mother: null
 spouse: []
-children: 
-  - "[[Joiarib (1683)]]"
+children: []
 siblings: []
 
 gender: male
@@ -34,17 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "Nehemiah 11:5"
+first_appearance: "Nehemiah 8:4"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 3023
+metav_id: 3021
 ---
 
 ## Verse References
 
 ### [[books/Nehemiah|Nehemiah]]
-- **11:5** — And Maaseiah the son of Baruch, the son of Colhozeh, the son of Hazaiah, the son of Adaiah, the son of Joiarib, the son of Zechariah, the son of Shiloni.
+- **8:4** — And Ezra the scribe stood upon a pulpit of wood, which they had made for the purpose; and beside him stood Mattithiah, and Shema, and Anaiah, and Urijah, and Hilkiah, and Maaseiah, on his right hand; and on his left hand, Pedaiah, and Mishael, and Malchiah, and Hashum, and Hashbadana, Zechariah, and Meshullam.
 
