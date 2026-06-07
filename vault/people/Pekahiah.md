@@ -14,7 +14,7 @@ translation_variants:
   nkjv: ""
 
 strongs:
-  hebrew: ""
+  hebrew: "H6494"
   greek: ""
 
 father: "[[Menahem]]"

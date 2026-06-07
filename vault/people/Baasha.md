@@ -14,7 +14,7 @@ translation_variants:
   nkjv: ""
 
 strongs:
-  hebrew: ""
+  hebrew: "H1201"
   greek: ""
 
 father: "[[Ahijah (136)]]"

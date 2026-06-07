@@ -14,7 +14,7 @@ translation_variants:
   nkjv: ""
 
 strongs:
-  hebrew: ""
+  hebrew: "H3101"
   greek: ""
 
 father: "[[Jehoahaz (784)]]"
