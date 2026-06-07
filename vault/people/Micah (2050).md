@@ -17,7 +17,7 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Shimei (2688)]]"
+father: "[[Shimei (son of Gog)]]"
 mother: null
 spouse: []
 children: 

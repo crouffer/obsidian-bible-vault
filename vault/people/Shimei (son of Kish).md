@@ -1,6 +1,6 @@
 ---
 type: person
-name: Shimei (2696)
+name: Shimei (son of Kish)
 also_known_as: []
 
 name_hebrew: ""

@@ -1,6 +1,6 @@
 ---
 type: person
-name: Shimei (2686)
+name: Shimei (descendant of Bani)
 also_known_as: []
 
 name_hebrew: ""
@@ -17,12 +17,11 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Pedaiah (2293)]]"
+father: null
 mother: null
 spouse: []
 children: []
-siblings: 
-  - "[[Zerubbabel]]"
+siblings: []
 
 gender: male
 role: []
@@ -34,17 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "1 Chronicles 3:19"
+first_appearance: "Ezra 10:38"
 places_associated: []
-groups_associated: ["Tribe of Judah"]
+groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 2686
+metav_id: 2695
 ---
 
 ## Verse References
 
-### [[books/1 Chronicles|1 Chronicles]]
-- **3:19** — And the sons of Pedaiah were, Zerubbabel, and Shimei: and the sons of Zerubbabel; Meshullam, and Hananiah, and Shelomith their sister:
+### [[books/Ezra|Ezra]]
+- **10:38** — And Bani, and Binnui, Shimei,
 

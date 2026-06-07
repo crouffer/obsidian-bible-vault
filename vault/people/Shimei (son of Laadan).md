@@ -1,6 +1,6 @@
 ---
 type: person
-name: Shimei (691)
+name: Shimei (son of Laadan)
 also_known_as: ["Jahath"]
 
 name_hebrew: ""

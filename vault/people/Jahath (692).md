@@ -17,7 +17,7 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Shimei (2699)]]"
+father: "[[Shimei (son of Gershon)]]"
 mother: null
 spouse: []
 children: []

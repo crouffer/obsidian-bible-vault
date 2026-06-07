@@ -1,6 +1,6 @@
 ---
 type: person
-name: Shimei (2693)
+name: Shimei (Levite in Ezra)
 also_known_as: []
 
 name_hebrew: ""

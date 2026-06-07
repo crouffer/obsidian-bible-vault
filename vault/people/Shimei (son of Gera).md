@@ -1,6 +1,6 @@
 ---
 type: person
-name: Shimei (2684)
+name: Shimei (son of Gera)
 also_known_as: []
 
 name_hebrew: ""

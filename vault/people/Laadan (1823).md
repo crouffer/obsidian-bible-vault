@@ -21,9 +21,9 @@ father: "[[Gershon]]"
 mother: null
 spouse: []
 children: 
-  - "[[Shimei (691)]]"
+  - "[[Shimei (son of Laadan)]]"
 siblings: 
-  - "[[Shimei (2699)]]"
+  - "[[Shimei (son of Gershon)]]"
 
 gender: male
 role: []

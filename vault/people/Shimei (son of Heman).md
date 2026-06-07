@@ -1,6 +1,6 @@
 ---
 type: person
-name: Shimei (2694)
+name: Shimei (son of Heman)
 also_known_as: []
 
 name_hebrew: ""
@@ -33,17 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "Ezra 10:33"
+first_appearance: "2 Chronicles 29:14"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 2694
+metav_id: 2691
 ---
 
 ## Verse References
 
-### [[books/Ezra|Ezra]]
-- **10:33** — Of the sons of Hashum; Mattenai, Mattathah, Zabad, Eliphelet, Jeremai, Manasseh, and Shimei.
+### [[books/2 Chronicles|2 Chronicles]]
+- **29:14** — And of the sons of Heman; Jehiel, and Shimei: and of the sons of Jeduthun; Shemaiah, and Uzziel.
 

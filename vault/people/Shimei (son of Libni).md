@@ -1,6 +1,6 @@
 ---
 type: person
-name: Shimei (2689)
+name: Shimei (son of Libni)
 also_known_as: []
 
 name_hebrew: ""

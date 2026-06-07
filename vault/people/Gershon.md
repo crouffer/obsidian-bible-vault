@@ -22,7 +22,7 @@ mother: null
 spouse: []
 children: 
   - "[[Laadan (1823)]]"
-  - "[[Shimei (2699)]]"
+  - "[[Shimei (son of Gershon)]]"
 siblings: 
   - "[[Jochebed]]"
   - "[[Kohath]]"
