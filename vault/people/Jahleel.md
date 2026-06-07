@@ -1,0 +1,54 @@
+---
+type: person
+name: Jahleel
+also_known_as: []
+
+name_hebrew: ""
+name_greek_lxx: ""
+name_latin: ""
+name_meaning: ""
+translation_variants:
+  kjv: Jahleel
+  esv: ""
+  niv: ""
+  nkjv: ""
+
+strongs:
+  hebrew: ""
+  greek: ""
+
+father: "[[Zebulun]]"
+mother: null
+spouse: []
+children: []
+siblings: 
+  - "[[Elon (1183)]]"
+  - "[[Sered]]"
+
+gender: male
+role: []
+testament: OT
+era: unknown
+
+birth_year: null
+death_year: null
+birth_place: null
+death_place: null
+
+first_appearance: "Genesis 46:14"
+places_associated: []
+groups_associated: ["Tribe of Zebulun"]
+
+confidence: medium
+disambiguation_note: ""
+metav_id: 704
+---
+
+## Verse References
+
+### [[Genesis]]
+- **46:14** — And the sons of Zebulun; Sered, and Elon, and Jahleel.
+
+### [[Numbers]]
+- **26:26** — Of the sons of Zebulun after their families: of Sered, the family of the Sardites: of Elon, the family of the Elonites: of Jahleel, the family of the Jahleelites.
+

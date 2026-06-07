@@ -1,0 +1,50 @@
+---
+type: person
+name: Meshillemoth
+also_known_as: []
+
+name_hebrew: ""
+name_greek_lxx: ""
+name_latin: ""
+name_meaning: ""
+translation_variants:
+  kjv: Meshillemoth
+  esv: ""
+  niv: ""
+  nkjv: ""
+
+strongs:
+  hebrew: ""
+  greek: ""
+
+father: null
+mother: null
+spouse: []
+children: 
+  - "[[Berechiah (473)]]"
+siblings: []
+
+gender: male
+role: []
+testament: OT
+era: unknown
+
+birth_year: null
+death_year: null
+birth_place: null
+death_place: null
+
+first_appearance: "2 Chronicles 28:12"
+places_associated: []
+groups_associated: []
+
+confidence: medium
+disambiguation_note: ""
+metav_id: 2018
+---
+
+## Verse References
+
+### [[2 Chronicles]]
+- **28:12** — Then certain of the heads of the children of Ephraim, Azariah the son of Johanan, Berechiah the son of Meshillemoth, and Jehizkiah the son of Shallum, and Amasa the son of Hadlai, stood up against them that came from the war,
+

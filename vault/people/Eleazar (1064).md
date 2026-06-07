@@ -1,0 +1,52 @@
+---
+type: person
+name: Eleazar (1064)
+also_known_as: []
+
+name_hebrew: ""
+name_greek_lxx: ""
+name_latin: ""
+name_meaning: ""
+translation_variants:
+  kjv: Eleazar
+  esv: ""
+  niv: ""
+  nkjv: ""
+
+strongs:
+  hebrew: ""
+  greek: ""
+
+father: "[[Dodo (1021)]]"
+mother: null
+spouse: []
+children: []
+siblings: []
+
+gender: male
+role: []
+testament: OT
+era: unknown
+
+birth_year: null
+death_year: null
+birth_place: null
+death_place: null
+
+first_appearance: "2 Samuel 23:9"
+places_associated: []
+groups_associated: []
+
+confidence: medium
+disambiguation_note: ""
+metav_id: 1064
+---
+
+## Verse References
+
+### [[2 Samuel]]
+- **23:9** — And after him was Eleazar the son of Dodo the Ahohite, one of the three mighty men with David, when they defied the Philistines that were there gathered together to battle, and the men of Israel were gone away:
+
+### [[1 Chronicles]]
+- **11:12** — And after him was Eleazar the son of Dodo, the Ahohite, who was one of the three mighties.
+

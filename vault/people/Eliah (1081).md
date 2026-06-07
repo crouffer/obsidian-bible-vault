@@ -1,0 +1,54 @@
+---
+type: person
+name: Eliah (1081)
+also_known_as: []
+
+name_hebrew: ""
+name_greek_lxx: ""
+name_latin: ""
+name_meaning: ""
+translation_variants:
+  kjv: Eliah
+  esv: ""
+  niv: ""
+  nkjv: ""
+
+strongs:
+  hebrew: ""
+  greek: ""
+
+father: "[[Jeroham (875)]]"
+mother: null
+spouse: []
+children: []
+siblings: 
+  - "[[Athaliah (360)]]"
+  - "[[Jaresiah]]"
+  - "[[Shamsherai]]"
+  - "[[Shehariah]]"
+  - "[[Zichri (3068)]]"
+
+gender: male
+role: []
+testament: OT
+era: unknown
+
+birth_year: null
+death_year: null
+birth_place: null
+death_place: null
+
+first_appearance: "1 Chronicles 8:27"
+places_associated: []
+groups_associated: []
+
+confidence: medium
+disambiguation_note: ""
+metav_id: 1081
+---
+
+## Verse References
+
+### [[1 Chronicles]]
+- **8:27** — And Jaresiah, and Eliah, and Zichri, the sons of Jeroham.
+

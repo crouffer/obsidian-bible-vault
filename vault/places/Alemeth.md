@@ -1,0 +1,31 @@
+---
+type: place
+name: Alemeth
+also_known_as: []
+
+name_hebrew: ""
+name_greek_lxx: ""
+name_meaning: ""
+modern_name: null
+root_name: null
+
+place_type: unknown
+testament: OT
+first_mention: "1 Chronicles 6:60"
+
+region: null
+country: null
+people_associated: []
+
+coordinates: 31.82, 35.28
+
+confidence: medium
+disambiguation_note: ""
+metav_id: 45
+---
+
+## Verse References
+
+### [[1 Chronicles]]
+- **6:60** — And out of the tribe of Benjamin; Geba with her suburbs, and Alemeth with her suburbs, and Anathoth with her suburbs. All their cities throughout their families were thirteen cities.
+

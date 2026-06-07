@@ -1,0 +1,1106 @@
+---
+type: person
+name: David
+also_known_as: []
+
+name_hebrew: ""
+name_greek_lxx: ""
+name_latin: ""
+name_meaning: ""
+translation_variants:
+  kjv: David
+  esv: ""
+  niv: ""
+  nkjv: ""
+
+strongs:
+  hebrew: ""
+  greek: ""
+
+father: "[[Wife of Jesse]]"
+mother: "[[Jesse]]"
+spouse: 
+  - "[[Abigail (26)]]"
+  - "[[Abital]]"
+  - "[[Ahinoam (153)]]"
+  - "[[Bathsheba]]"
+  - "[[Eglah]]"
+  - "[[Haggith]]"
+  - "[[Maacah]]"
+  - "[[Michal]]"
+children: 
+  - "[[Absalom]]"
+  - "[[Adonijah (97)]]"
+  - "[[Amnon (232)]]"
+  - "[[Daniel (939)]]"
+  - "[[Eliada (1078)]]"
+  - "[[Eliphalet]]"
+  - "[[Elishama (1156)]]"
+  - "[[Elishua]]"
+  - "[[Elpalet]]"
+  - "[[Ibhar]]"
+  - "[[Ithream]]"
+  - "[[Japhia (728)]]"
+  - "[[Jerimoth (869)]]"
+  - "[[Nathan (2152)]]"
+  - "[[Nepheg (2179)]]"
+  - "[[Nogah]]"
+  - "[[Shammua (2547)]]"
+  - "[[Shephatiah (2657)]]"
+  - "[[Shobab (2715)]]"
+  - "[[Solomon]]"
+  - "[[Tamar (2822)]]"
+siblings: 
+  - "[[Abinadab (44)]]"
+  - "[[Eliab (1075)]]"
+  - "[[Elihu (1129)]]"
+  - "[[Nethaneel (2189)]]"
+  - "[[Ozem (2260)]]"
+  - "[[Raddai]]"
+  - "[[Shammah (2700)]]"
+
+gender: male
+role: []
+testament: OT
+era: judges
+
+birth_year: 1034 BC
+death_year: 965 BC
+birth_place: null
+death_place: Jerusalem
+
+first_appearance: "Ruth 4:17"
+places_associated: []
+groups_associated: ["Tribe of Judah", "Genealogy of Jesus"]
+
+confidence: medium
+disambiguation_note: ""
+metav_id: 994
+---
+
+## Verse References
+
+### [[Ruth]]
+- **4:17** — And the women her neighbours gave it a name, saying, There is a son born to Naomi; and they called his name Obed: he is the father of Jesse, the father of David.
+- **4:22** — And Obed begat Jesse, and Jesse begat David.
+
+### [[1 Samuel]]
+- **16:13** — Then Samuel took the horn of oil, and anointed him in the midst of his brethren: and the Spirit of the LORD came upon David from that day forward. So Samuel rose up, and went to Ramah.
+- **16:19** — Wherefore Saul sent messengers unto Jesse, and said, Send me David thy son, which is with the sheep.
+- **16:20** — And Jesse took an ass laden with bread, and a bottle of wine, and a kid, and sent them by David his son unto Saul.
+- **16:21** — And David came to Saul, and stood before him: and he loved him greatly; and he became his armourbearer.
+- **16:22** — And Saul sent to Jesse, saying, Let David, I pray thee, stand before me; for he hath found favour in my sight.
+- **16:23** — And it came to pass, when the evil spirit from God was upon Saul, that David took an harp, and played with his hand: so Saul was refreshed, and was well, and the evil spirit departed from him.
+- **17:12** — Now David was the son of that Ephrathite of Bethlehemjudah, whose name was Jesse; and he had eight sons: and the man went among men for an old man in the days of Saul.
+- **17:14** — And David was the youngest: and the three eldest followed Saul.
+- **17:15** — But David went and returned from Saul to feed his father's sheep at Bethlehem.
+- **17:17** — And Jesse said unto David his son, Take now for thy brethren an ephah of this parched corn, and these ten loaves, and run to the camp to thy brethren;
+- **17:20** — And David rose up early in the morning, and left the sheep with a keeper, and took, and went, as Jesse had commanded him; and he came to the trench, as the host was going forth to the fight, and shouted for the battle.
+- **17:22** — And David left his carriage in the hand of the keeper of the carriage, and ran into the army, and came and saluted his brethren.
+- **17:23** — And as he talked with them, behold, there came up the champion, the Philistine of Gath, Goliath by name, out of the armies of the Philistines, and spake according to the same words: and David heard them.
+- **17:26** — And David spake to the men that stood by him, saying, What shall be done to the man that killeth this Philistine, and taketh away the reproach from Israel? for who is this uncircumcised Philistine, that he should defy the armies of the living God?
+- **17:28** — And Eliab his eldest brother heard when he spake unto the men; and Eliab's anger was kindled against David, and he said, Why camest thou down hither? and with whom hast thou left those few sheep in the wilderness? I know thy pride, and the naughtiness of thine heart; for thou art come down that thou mightest see the battle.
+- **17:29** — And David said, What have I now done? Is there not a cause?
+- **17:31** — And when the words were heard which David spake, they rehearsed them before Saul: and he sent for him.
+- **17:32** — And David said to Saul, Let no man's heart fail because of him; thy servant will go and fight with this Philistine.
+- **17:33** — And Saul said to David, Thou art not able to go against this Philistine to fight with him: for thou art but a youth, and he a man of war from his youth.
+- **17:34** — And David said unto Saul, Thy servant kept his father's sheep, and there came a lion, and a bear, and took a lamb out of the flock:
+- **17:37** — David said moreover, The LORD that delivered me out of the paw of the lion, and out of the paw of the bear, he will deliver me out of the hand of this Philistine. And Saul said unto David, Go, and the LORD be with thee.
+- **17:38** — And Saul armed David with his armour, and he put an helmet of brass upon his head; also he armed him with a coat of mail.
+- **17:39** — And David girded his sword upon his armour, and he assayed to go; for he had not proved it. And David said unto Saul, I cannot go with these; for I have not proved them. And David put them off him.
+- **17:41** — And the Philistine came on and drew near unto David; and the man that bare the shield went before him.
+- **17:42** — And when the Philistine looked about, and saw David, he disdained him: for he was but a youth, and ruddy, and of a fair countenance.
+- **17:43** — And the Philistine said unto David, Am I a dog, that thou comest to me with staves? And the Philistine cursed David by his gods.
+- **17:44** — And the Philistine said to David, Come to me, and I will give thy flesh unto the fowls of the air, and to the beasts of the field.
+- **17:45** — Then said David to the Philistine, Thou comest to me with a sword, and with a spear, and with a shield: but I come to thee in the name of the LORD of hosts, the God of the armies of Israel, whom thou hast defied.
+- **17:48** — And it came to pass, when the Philistine arose, and came and drew nigh to meet David, that David hasted, and ran toward the army to meet the Philistine.
+- **17:49** — And David put his hand in his bag, and took thence a stone, and slang it, and smote the Philistine in his forehead, that the stone sunk into his forehead; and he fell upon his face to the earth.
+- **17:50** — So David prevailed over the Philistine with a sling and with a stone, and smote the Philistine, and slew him; but there was no sword in the hand of David.
+- **17:51** — Therefore David ran, and stood upon the Philistine, and took his sword, and drew it out of the sheath thereof, and slew him, and cut off his head therewith. And when the Philistines saw their champion was dead, they fled.
+- **17:54** — And David took the head of the Philistine, and brought it to Jerusalem; but he put his armour in his tent.
+- **17:55** — And when Saul saw David go forth against the Philistine, he said unto Abner, the captain of the host, Abner, whose son is this youth? And Abner said, As thy soul liveth, O king, I cannot tell.
+- **17:57** — And as David returned from the slaughter of the Philistine, Abner took him, and brought him before Saul with the head of the Philistine in his hand.
+- **17:58** — And Saul said to him, Whose son art thou, thou young man? And David answered, I am the son of thy servant Jesse the Bethlehemite.
+- **18:1** — And it came to pass, when he had made an end of speaking unto Saul, that the soul of Jonathan was knit with the soul of David, and Jonathan loved him as his own soul.
+- **18:3** — Then Jonathan and David made a covenant, because he loved him as his own soul.
+- **18:4** — And Jonathan stripped himself of the robe that was upon him, and gave it to David, and his garments, even to his sword, and to his bow, and to his girdle.
+- **18:5** — And David went out whithersoever Saul sent him, and behaved himself wisely: and Saul set him over the men of war, and he was accepted in the sight of all the people, and also in the sight of Saul's servants.
+- **18:6** — And it came to pass as they came, when David was returned from the slaughter of the Philistine, that the women came out of all cities of Israel, singing and dancing, to meet king Saul, with tabrets, with joy, and with instruments of musick.
+- **18:7** — And the women answered one another as they played, and said, Saul hath slain his thousands, and David his ten thousands.
+- **18:8** — And Saul was very wroth, and the saying displeased him; and he said, They have ascribed unto David ten thousands, and to me they have ascribed but thousands: and what can he have more but the kingdom?
+- **18:9** — And Saul eyed David from that day and forward.
+- **18:10** — And it came to pass on the morrow, that the evil spirit from God came upon Saul, and he prophesied in the midst of the house: and David played with his hand, as at other times: and there was a javelin in Saul's hand.
+- **18:11** — And Saul cast the javelin; for he said, I will smite David even to the wall with it. And David avoided out of his presence twice.
+- **18:12** — And Saul was afraid of David, because the LORD was with him, and was departed from Saul.
+- **18:14** — And David behaved himself wisely in all his ways; and the LORD was with him.
+- **18:16** — But all Israel and Judah loved David, because he went out and came in before them.
+- **18:17** — And Saul said to David, Behold my elder daughter Merab, her will I give thee to wife: only be thou valiant for me, and fight the LORD'S battles. For Saul said, Let not mine hand be upon him, but let the hand of the Philistines be upon him.
+- **18:18** — And David said unto Saul, Who am I? and what is my life, or my father's family in Israel, that I should be son in law to the king?
+- **18:19** — But it came to pass at the time when Merab Saul's daughter should have been given to David, that she was given unto Adriel the Meholathite to wife.
+- **18:20** — And Michal Saul's daughter loved David: and they told Saul, and the thing pleased him.
+- **18:21** — And Saul said, I will give him her, that she may be a snare to him, and that the hand of the Philistines may be against him. Wherefore Saul said to David, Thou shalt this day be my son in law in the one of the twain.
+- **18:22** — And Saul commanded his servants, saying, Commune with David secretly, and say, Behold, the king hath delight in thee, and all his servants love thee: now therefore be the king's son in law.
+- **18:23** — And Saul's servants spake those words in the ears of David. And David said, Seemeth it to you a light thing to be a king's son in law, seeing that I am a poor man, and lightly esteemed?
+- **18:24** — And the servants of Saul told him, saying, On this manner spake David.
+- **18:25** — And Saul said, Thus shall ye say to David, The king desireth not any dowry, but an hundred foreskins of the Philistines, to be avenged of the king's enemies. But Saul thought to make David fall by the hand of the Philistines.
+- **18:26** — And when his servants told David these words, it pleased David well to be the king's son in law: and the days were not expired.
+- **18:27** — Wherefore David arose and went, he and his men, and slew of the Philistines two hundred men; and David brought their foreskins, and they gave them in full tale to the king, that he might be the king's son in law. And Saul gave him Michal his daughter to wife.
+- **18:28** — And Saul saw and knew that the LORD was with David, and that Michal Saul's daughter loved him.
+- **18:29** — And Saul was yet the more afraid of David; and Saul became David's enemy continually.
+- **18:30** — Then the princes of the Philistines went forth: and it came to pass, after they went forth, that David behaved himself more wisely than all the servants of Saul; so that his name was much set by.
+- **19:1** — And Saul spake to Jonathan his son, and to all his servants, that they should kill David.
+- **19:2** — But Jonathan Saul's son delighted much in David: and Jonathan told David, saying, Saul my father seeketh to kill thee: now therefore, I pray thee, take heed to thyself until the morning, and abide in a secret place, and hide thyself:
+- **19:4** — And Jonathan spake good of David unto Saul his father, and said unto him, Let not the king sin against his servant, against David; because he hath not sinned against thee, and because his works have been to thee-ward very good:
+- **19:5** — For he did put his life in his hand, and slew the Philistine, and the LORD wrought a great salvation for all Israel: thou sawest it, and didst rejoice: wherefore then wilt thou sin against innocent blood, to slay David without a cause?
+- **19:7** — And Jonathan called David, and Jonathan shewed him all those things. And Jonathan brought David to Saul, and he was in his presence, as in times past.
+- **19:8** — And there was war again: and David went out, and fought with the Philistines, and slew them with a great slaughter; and they fled from him.
+- **19:9** — And the evil spirit from the LORD was upon Saul, as he sat in his house with his javelin in his hand: and David played with his hand.
+- **19:10** — And Saul sought to smite David even to the wall with the javelin; but he slipped away out of Saul's presence, and he smote the javelin into the wall: and David fled, and escaped that night.
+- **19:11** — Saul also sent messengers unto David's house, to watch him, and to slay him in the morning: and Michal David's wife told him, saying, If thou save not thy life to night, to morrow thou shalt be slain.
+- **19:12** — So Michal let David down through a window: and he went, and fled, and escaped.
+- **19:14** — And when Saul sent messengers to take David, she said, He is sick.
+- **19:15** — And Saul sent the messengers again to see David, saying, Bring him up to me in the bed, that I may slay him.
+- **19:18** — So David fled, and escaped, and came to Samuel to Ramah, and told him all that Saul had done to him. And he and Samuel went and dwelt in Naioth.
+- **19:19** — And it was told Saul, saying, Behold, David is at Naioth in Ramah.
+- **19:20** — And Saul sent messengers to take David: and when they saw the company of the prophets prophesying, and Samuel standing as appointed over them, the Spirit of God was upon the messengers of Saul, and they also prophesied.
+- **19:22** — Then went he also to Ramah, and came to a great well that is in Sechu: and he asked and said, Where are Samuel and David? And one said, Behold, they be at Naioth in Ramah.
+- **20:1** — And David fled from Naioth in Ramah, and came and said before Jonathan, What have I done? what is mine iniquity? and what is my sin before thy father, that he seeketh my life?
+- **20:3** — And David sware moreover, and said, Thy father certainly knoweth that I have found grace in thine eyes; and he saith, Let not Jonathan know this, lest he be grieved: but truly as the LORD liveth, and as thy soul liveth, there is but a step between me and death.
+- **20:4** — Then said Jonathan unto David, Whatsoever thy soul desireth, I will even do it for thee.
+- **20:5** — And David said unto Jonathan, Behold, to morrow is the new moon, and I should not fail to sit with the king at meat: but let me go, that I may hide myself in the field unto the third day at even.
+- **20:6** — If thy father at all miss me, then say, David earnestly asked leave of me that he might run to Bethlehem his city: for there is a yearly sacrifice there for all the family.
+- **20:10** — Then said David to Jonathan, Who shall tell me? or what if thy father answer thee roughly?
+- **20:11** — And Jonathan said unto David, Come, and let us go out into the field. And they went out both of them into the field.
+- **20:12** — And Jonathan said unto David, O LORD God of Israel, when I have sounded my father about to morrow any time, or the third day, and, behold, if there be good toward David, and I then send not unto thee, and shew it thee;
+- **20:15** — But also thou shalt not cut off thy kindness from my house for ever: no, not when the LORD hath cut off the enemies of David every one from the face of the earth.
+- **20:16** — So Jonathan made a covenant with the house of David, saying, Let the LORD even require it at the hand of David's enemies.
+- **20:17** — And Jonathan caused David to swear again, because he loved him: for he loved him as he loved his own soul.
+- **20:18** — Then Jonathan said to David, To morrow is the new moon: and thou shalt be missed, because thy seat will be empty.
+- **20:24** — So David hid himself in the field: and when the new moon was come, the king sat him down to eat meat.
+- **20:25** — And the king sat upon his seat, as at other times, even upon a seat by the wall: and Jonathan arose, and Abner sat by Saul's side, and David's place was empty.
+- **20:27** — And it came to pass on the morrow, which was the second day of the month, that David's place was empty: and Saul said unto Jonathan his son, Wherefore cometh not the son of Jesse to meat, neither yesterday, nor to day?
+- **20:28** — And Jonathan answered Saul, David earnestly asked leave of me to go to Bethlehem:
+- **20:33** — And Saul cast a javelin at him to smite him: whereby Jonathan knew that it was determined of his father to slay David.
+- **20:34** — So Jonathan arose from the table in fierce anger, and did eat no meat the second day of the month: for he was grieved for David, because his father had done him shame.
+- **20:35** — And it came to pass in the morning, that Jonathan went out into the field at the time appointed with David, and a little lad with him.
+- **20:39** — But the lad knew not any thing: only Jonathan and David knew the matter.
+- **20:41** — And as soon as the lad was gone, David arose out of a place toward the south, and fell on his face to the ground, and bowed himself three times: and they kissed one another, and wept one with another, until David exceeded.
+- **20:42** — And Jonathan said to David, Go in peace, forasmuch as we have sworn both of us in the name of the LORD, saying, The LORD be between me and thee, and between my seed and thy seed for ever. And he arose and departed: and Jonathan went into the city.
+- **21:1** — Then came David to Nob to Ahimelech the priest: and Ahimelech was afraid at the meeting of David, and said unto him, Why art thou alone, and no man with thee?
+- **21:2** — And David said unto Ahimelech the priest, The king hath commanded me a business, and hath said unto me, Let no man know any thing of the business whereabout I send thee, and what I have commanded thee: and I have appointed my servants to such and such a place.
+- **21:4** — And the priest answered David, and said, There is no common bread under mine hand, but there is hallowed bread; if the young men have kept themselves at least from women.
+- **21:5** — And David answered the priest, and said unto him, Of a truth women have been kept from us about these three days, since I came out, and the vessels of the young men are holy, and the bread is in a manner common, yea, though it were sanctified this day in the vessel.
+- **21:8** — And David said unto Ahimelech, And is there not here under thine hand spear or sword? for I have neither brought my sword nor my weapons with me, because the king's business required haste.
+- **21:9** — And the priest said, The sword of Goliath the Philistine, whom thou slewest in the valley of Elah, behold, it is here wrapped in a cloth behind the ephod: if thou wilt take that, take it: for there is no other save that here. And David said, There is none like that; give it me.
+- **21:10** — And David arose, and fled that day for fear of Saul, and went to Achish the king of Gath.
+- **21:11** — And the servants of Achish said unto him, Is not this David the king of the land? did they not sing one to another of him in dances, saying, Saul hath slain his thousands, and David his ten thousands?
+- **21:12** — And David laid up these words in his heart, and was sore afraid of Achish the king of Gath.
+- **22:1** — David therefore departed thence, and escaped to the cave Adullam: and when his brethren and all his father's house heard it, they went down thither to him.
+- **22:3** — And David went thence to Mizpeh of Moab: and he said unto the king of Moab, Let my father and my mother, I pray thee, come forth, and be with you, till I know what God will do for me.
+- **22:4** — And he brought them before the king of Moab: and they dwelt with him all the while that David was in the hold.
+- **22:5** — And the prophet Gad said unto David, Abide not in the hold; depart, and get thee into the land of Judah. Then David departed, and came into the forest of Hareth.
+- **22:6** — When Saul heard that David was discovered, and the men that were with him, (now Saul abode in Gibeah under a tree in Ramah, having his spear in his hand, and all his servants were standing about him;)
+- **22:14** — Then Ahimelech answered the king, and said, And who is so faithful among all thy servants as David, which is the king's son in law, and goeth at thy bidding, and is honourable in thine house?
+- **22:17** — And the king said unto the footmen that stood about him, Turn, and slay the priests of the LORD; because their hand also is with David, and because they knew when he fled, and did not shew it to me. But the servants of the king would not put forth their hand to fall upon the priests of the LORD.
+- **22:20** — And one of the sons of Ahimelech the son of Ahitub, named Abiathar, escaped, and fled after David.
+- **22:21** — And Abiathar shewed David that Saul had slain the LORD'S priests.
+- **22:22** — And David said unto Abiathar, I knew it that day, when Doeg the Edomite was there, that he would surely tell Saul: I have occasioned the death of all the persons of thy father's house.
+- **23:1** — Then they told David, saying, Behold, the Philistines fight against Keilah, and they rob the threshingfloors.
+- **23:2** — Therefore David enquired of the LORD, saying, Shall I go and smite these Philistines? And the LORD said unto David, Go, and smite the Philistines, and save Keilah.
+- **23:3** — And David's men said unto him, Behold, we be afraid here in Judah: how much more then if we come to Keilah against the armies of the Philistines?
+- **23:4** — Then David enquired of the LORD yet again. And the LORD answered him and said, Arise, go down to Keilah; for I will deliver the Philistines into thine hand.
+- **23:5** — So David and his men went to Keilah, and fought with the Philistines, and brought away their cattle, and smote them with a great slaughter. So David saved the inhabitants of Keilah.
+- **23:6** — And it came to pass, when Abiathar the son of Ahimelech fled to David to Keilah, that he came down with an ephod in his hand.
+- **23:7** — And it was told Saul that David was come to Keilah. And Saul said, God hath delivered him into mine hand; for he is shut in, by entering into a town that hath gates and bars.
+- **23:8** — And Saul called all the people together to war, to go down to Keilah, to besiege David and his men.
+- **23:9** — And David knew that Saul secretly practised mischief against him; and he said to Abiathar the priest, Bring hither the ephod.
+- **23:10** — Then said David, O LORD God of Israel, thy servant hath certainly heard that Saul seeketh to come to Keilah, to destroy the city for my sake.
+- **23:12** — Then said David, Will the men of Keilah deliver me and my men into the hand of Saul? And the LORD said, They will deliver thee up.
+- **23:13** — Then David and his men, which were about six hundred, arose and departed out of Keilah, and went whithersoever they could go. And it was told Saul that David was escaped from Keilah; and he forbare to go forth.
+- **23:14** — And David abode in the wilderness in strong holds, and remained in a mountain in the wilderness of Ziph. And Saul sought him every day, but God delivered him not into his hand.
+- **23:15** — And David saw that Saul was come out to seek his life: and David was in the wilderness of Ziph in a wood.
+- **23:16** — And Jonathan Saul's son arose, and went to David into the wood, and strengthened his hand in God.
+- **23:18** — And they two made a covenant before the LORD: and David abode in the wood, and Jonathan went to his house.
+- **23:19** — Then came up the Ziphites to Saul to Gibeah, saying, Doth not David hide himself with us in strong holds in the wood, in the hill of Hachilah, which is on the south of Jeshimon?
+- **23:24** — And they arose, and went to Ziph before Saul: but David and his men were in the wilderness of Maon, in the plain on the south of Jeshimon.
+- **23:25** — Saul also and his men went to seek him. And they told David: wherefore he came down into a rock, and abode in the wilderness of Maon. And when Saul heard that, he pursued after David in the wilderness of Maon.
+- **23:26** — And Saul went on this side of the mountain, and David and his men on that side of the mountain: and David made haste to get away for fear of Saul; for Saul and his men compassed David and his men round about to take them.
+- **23:28** — Wherefore Saul returned from pursuing after David, and went against the Philistines: therefore they called that place Selahammahlekoth.
+- **23:29** — And David went up from thence, and dwelt in strong holds at Engedi.
+- **24:1** — And it came to pass, when Saul was returned from following the Philistines, that it was told him, saying, Behold, David is in the wilderness of Engedi.
+- **24:2** — Then Saul took three thousand chosen men out of all Israel, and went to seek David and his men upon the rocks of the wild goats.
+- **24:3** — And he came to the sheepcotes by the way, where was a cave; and Saul went in to cover his feet: and David and his men remained in the sides of the cave.
+- **24:4** — And the men of David said unto him, Behold the day of which the LORD said unto thee, Behold, I will deliver thine enemy into thine hand, that thou mayest do to him as it shall seem good unto thee. Then David arose, and cut off the skirt of Saul's robe privily.
+- **24:5** — And it came to pass afterward, that David's heart smote him, because he had cut off Saul's skirt.
+- **24:7** — So David stayed his servants with these words, and suffered them not to rise against Saul. But Saul rose up out of the cave, and went on his way.
+- **24:8** — David also arose afterward, and went out of the cave, and cried after Saul, saying, My lord the king. And when Saul looked behind him, David stooped with his face to the earth, and bowed himself.
+- **24:9** — And David said to Saul, Wherefore hearest thou men's words, saying, Behold, David seeketh thy hurt?
+- **24:16** — And it came to pass, when David had made an end of speaking these words unto Saul, that Saul said, Is this thy voice, my son David? And Saul lifted up his voice, and wept.
+- **24:17** — And he said to David, Thou art more righteous than I: for thou hast rewarded me good, whereas I have rewarded thee evil.
+- **24:22** — And David sware unto Saul. And Saul went home; but David and his men gat them up unto the hold.
+- **25:1** — And Samuel died; and all the Israelites were gathered together, and lamented him, and buried him in his house at Ramah. And David arose, and went down to the wilderness of Paran.
+- **25:4** — And David heard in the wilderness that Nabal did shear his sheep.
+- **25:5** — And David sent out ten young men, and David said unto the young men, Get you up to Carmel, and go to Nabal, and greet him in my name:
+- **25:8** — Ask thy young men, and they will shew thee. Wherefore let the young men find favour in thine eyes: for we come in a good day: give, I pray thee, whatsoever cometh to thine hand unto thy servants, and to thy son David.
+- **25:9** — And when David's young men came, they spake to Nabal according to all those words in the name of David, and ceased.
+- **25:10** — And Nabal answered David's servants, and said, Who is David? and who is the son of Jesse? there be many servants now a days that break away every man from his master.
+- **25:12** — So David's young men turned their way, and went again, and came and told him all those sayings.
+- **25:13** — And David said unto his men, Gird ye on every man his sword. And they girded on every man his sword; and David also girded on his sword: and there went up after David about four hundred men; and two hundred abode by the stuff.
+- **25:14** — But one of the young men told Abigail, Nabal's wife, saying, Behold, David sent messengers out of the wilderness to salute our master; and he railed on them.
+- **25:20** — And it was so, as she rode on the ass, that she came down by the covert of the hill, and, behold, David and his men came down against her; and she met them.
+- **25:21** — Now David had said, Surely in vain have I kept all that this fellow hath in the wilderness, so that nothing was missed of all that pertained unto him: and he hath requited me evil for good.
+- **25:22** — So and more also do God unto the enemies of David, if I leave of all that pertain to him by the morning light any that pisseth against the wall.
+- **25:23** — And when Abigail saw David, she hasted, and lighted off the ass, and fell before David on her face, and bowed herself to the ground,
+- **25:32** — And David said to Abigail, Blessed be the LORD God of Israel, which sent thee this day to meet me:
+- **25:35** — So David received of her hand that which she had brought him, and said unto her, Go up in peace to thine house; see, I have hearkened to thy voice, and have accepted thy person.
+- **25:39** — And when David heard that Nabal was dead, he said, Blessed be the LORD, that hath pleaded the cause of my reproach from the hand of Nabal, and hath kept his servant from evil: for the LORD hath returned the wickedness of Nabal upon his own head. And David sent and communed with Abigail, to take her to him to wife.
+- **25:40** — And when the servants of David were come to Abigail to Carmel, they spake unto her, saying, David sent us unto thee, to take thee to him to wife.
+- **25:42** — And Abigail hasted, and arose, and rode upon an ass, with five damsels of hers that went after her; and she went after the messengers of David, and became his wife.
+- **25:43** — David also took Ahinoam of Jezreel; and they were also both of them his wives.
+- **25:44** — But Saul had given Michal his daughter, David's wife, to Phalti the son of Laish, which was of Gallim.
+- **26:1** — And the Ziphites came unto Saul to Gibeah, saying, Doth not David hide himself in the hill of Hachilah, which is before Jeshimon?
+- **26:2** — Then Saul arose, and went down to the wilderness of Ziph, having three thousand chosen men of Israel with him, to seek David in the wilderness of Ziph.
+- **26:3** — And Saul pitched in the hill of Hachilah, which is before Jeshimon, by the way. But David abode in the wilderness, and he saw that Saul came after him into the wilderness.
+- **26:4** — David therefore sent out spies, and understood that Saul was come in very deed.
+- **26:5** — And David arose, and came to the place where Saul had pitched: and David beheld the place where Saul lay, and Abner the son of Ner, the captain of his host: and Saul lay in the trench, and the people pitched round about him.
+- **26:6** — Then answered David and said to Ahimelech the Hittite, and to Abishai the son of Zeruiah, brother to Joab, saying, Who will go down with me to Saul to the camp? And Abishai said, I will go down with thee.
+- **26:7** — So David and Abishai came to the people by night: and, behold, Saul lay sleeping within the trench, and his spear stuck in the ground at his bolster: but Abner and the people lay round about him.
+- **26:8** — Then said Abishai to David, God hath delivered thine enemy into thine hand this day: now therefore let me smite him, I pray thee, with the spear even to the earth at once, and I will not smite him the second time.
+- **26:9** — And David said to Abishai, Destroy him not: for who can stretch forth his hand against the LORD'S anointed, and be guiltless?
+- **26:10** — David said furthermore, As the LORD liveth, the LORD shall smite him; or his day shall come to die; or he shall descend into battle, and perish.
+- **26:12** — So David took the spear and the cruse of water from Saul's bolster; and they gat them away, and no man saw it, nor knew it, neither awaked: for they were all asleep; because a deep sleep from the LORD was fallen upon them.
+- **26:13** — Then David went over to the other side, and stood on the top of an hill afar off; a great space being between them:
+- **26:14** — And David cried to the people, and to Abner the son of Ner, saying, Answerest thou not, Abner? Then Abner answered and said, Who art thou that criest to the king?
+- **26:15** — And David said to Abner, Art not thou a valiant man? and who is like to thee in Israel? wherefore then hast thou not kept thy lord the king? for there came one of the people in to destroy the king thy lord.
+- **26:17** — And Saul knew David's voice, and said, Is this thy voice, my son David? And David said, It is my voice, my lord, O king.
+- **26:21** — Then said Saul, I have sinned: return, my son David: for I will no more do thee harm, because my soul was precious in thine eyes this day: behold, I have played the fool, and have erred exceedingly.
+- **26:22** — And David answered and said, Behold the king's spear! and let one of the young men come over and fetch it.
+- **26:25** — Then Saul said to David, Blessed be thou, my son David: thou shalt both do great things, and also shalt still prevail. So David went on his way, and Saul returned to his place.
+- **27:1** — And David said in his heart, I shall now perish one day by the hand of Saul: there is nothing better for me than that I should speedily escape into the land of the Philistines; and Saul shall despair of me, to seek me any more in any coast of Israel: so shall I escape out of his hand.
+- **27:2** — And David arose, and he passed over with the six hundred men that were with him unto Achish, the son of Maoch, king of Gath.
+- **27:3** — And David dwelt with Achish at Gath, he and his men, every man with his household, even David with his two wives, Ahinoam the Jezreelitess, and Abigail the Carmelitess, Nabal's wife.
+- **27:4** — And it was told Saul that David was fled to Gath: and he sought no more again for him.
+- **27:5** — And David said unto Achish, If I have now found grace in thine eyes, let them give me a place in some town in the country, that I may dwell there: for why should thy servant dwell in the royal city with thee?
+- **27:7** — And the time that David dwelt in the country of the Philistines was a full year and four months.
+- **27:8** — And David and his men went up, and invaded the Geshurites, and the Gezrites, and the Amalekites: for those nations were of old the inhabitants of the land, as thou goest to Shur, even unto the land of Egypt.
+- **27:9** — And David smote the land, and left neither man nor woman alive, and took away the sheep, and the oxen, and the asses, and the camels, and the apparel, and returned, and came to Achish.
+- **27:10** — And Achish said, Whither have ye made a road to day? And David said, Against the south of Judah, and against the south of the Jerahmeelites, and against the south of the Kenites.
+- **27:11** — And David saved neither man nor woman alive, to bring tidings to Gath, saying, Lest they should tell on us, saying, So did David, and so will be his manner all the while he dwelleth in the country of the Philistines.
+- **27:12** — And Achish believed David, saying, He hath made his people Israel utterly to abhor him; therefore he shall be my servant for ever.
+- **28:1** — And it came to pass in those days, that the Philistines gathered their armies together for warfare, to fight with Israel. And Achish said unto David, Know thou assuredly, that thou shalt go out with me to battle, thou and thy men.
+- **28:2** — And David said to Achish, Surely thou shalt know what thy servant can do. And Achish said to David, Therefore will I make thee keeper of mine head for ever.
+- **28:17** — And the LORD hath done to him, as he spake by me: for the LORD hath rent the kingdom out of thine hand, and given it to thy neighbour, even to David:
+- **29:2** — And the lords of the Philistines passed on by hundreds, and by thousands: but David and his men passed on in the rereward with Achish.
+- **29:3** — Then said the princes of the Philistines, What do these Hebrews here? And Achish said unto the princes of the Philistines, Is not this David, the servant of Saul the king of Israel, which hath been with me these days, or these years, and I have found no fault in him since he fell unto me unto this day?
+- **29:5** — Is not this David, of whom they sang one to another in dances, saying, Saul slew his thousands, and David his ten thousands?
+- **29:6** — Then Achish called David, and said unto him, Surely, as the LORD liveth, thou hast been upright, and thy going out and thy coming in with me in the host is good in my sight: for I have not found evil in thee since the day of thy coming unto me unto this day: nevertheless the lords favour thee not.
+- **29:8** — And David said unto Achish, But what have I done? and what hast thou found in thy servant so long as I have been with thee unto this day, that I may not go fight against the enemies of my lord the king?
+- **29:9** — And Achish answered and said to David, I know that thou art good in my sight, as an angel of God: notwithstanding the princes of the Philistines have said, He shall not go up with us to the battle.
+- **29:11** — So David and his men rose up early to depart in the morning, to return into the land of the Philistines. And the Philistines went up to Jezreel.
+- **30:1** — And it came to pass, when David and his men were come to Ziklag on the third day, that the Amalekites had invaded the south, and Ziklag, and smitten Ziklag, and burned it with fire;
+- **30:3** — So David and his men came to the city, and, behold, it was burned with fire; and their wives, and their sons, and their daughters, were taken captives.
+- **30:4** — Then David and the people that were with him lifted up their voice and wept, until they had no more power to weep.
+- **30:5** — And David's two wives were taken captives, Ahinoam the Jezreelitess, and Abigail the wife of Nabal the Carmelite.
+- **30:6** — And David was greatly distressed; for the people spake of stoning him, because the soul of all the people was grieved, every man for his sons and for his daughters: but David encouraged himself in the LORD his God.
+- **30:7** — And David said to Abiathar the priest, Ahimelech's son, I pray thee, bring me hither the ephod. And Abiathar brought thither the ephod to David.
+- **30:8** — And David enquired at the LORD, saying, Shall I pursue after this troop? shall I overtake them? And he answered him, Pursue: for thou shalt surely overtake them, and without fail recover all.
+- **30:9** — So David went, he and the six hundred men that were with him, and came to the brook Besor, where those that were left behind stayed.
+- **30:10** — But David pursued, he and four hundred men: for two hundred abode behind, which were so faint that they could not go over the brook Besor.
+- **30:11** — And they found an Egyptian in the field, and brought him to David, and gave him bread, and he did eat; and they made him drink water;
+- **30:13** — And David said unto him, To whom belongest thou? and whence art thou? And he said, I am a young man of Egypt, servant to an Amalekite; and my master left me, because three days agone I fell sick.
+- **30:15** — And David said to him, Canst thou bring me down to this company? And he said, Swear unto me by God, that thou wilt neither kill me, nor deliver me into the hands of my master, and I will bring thee down to this company.
+- **30:17** — And David smote them from the twilight even unto the evening of the next day: and there escaped not a man of them, save four hundred young men, which rode upon camels, and fled.
+- **30:18** — And David recovered all that the Amalekites had carried away: and David rescued his two wives.
+- **30:19** — And there was nothing lacking to them, neither small nor great, neither sons nor daughters, neither spoil, nor any thing that they had taken to them: David recovered all.
+- **30:20** — And David took all the flocks and the herds, which they drave before those other cattle, and said, This is David's spoil.
+- **30:21** — And David came to the two hundred men, which were so faint that they could not follow David, whom they had made also to abide at the brook Besor: and they went forth to meet David, and to meet the people that were with him: and when David came near to the people, he saluted them.
+- **30:22** — Then answered all the wicked men and men of Belial, of those that went with David, and said, Because they went not with us, we will not give them ought of the spoil that we have recovered, save to every man his wife and his children, that they may lead them away, and depart.
+- **30:23** — Then said David, Ye shall not do so, my brethren, with that which the LORD hath given us, who hath preserved us, and delivered the company that came against us into our hand.
+- **30:26** — And when David came to Ziklag, he sent of the spoil unto the elders of Judah, even to his friends, saying, Behold a present for you of the spoil of the enemies of the LORD;
+- **30:31** — And to them which were in Hebron, and to all the places where David himself and his men were wont to haunt.
+
+### [[2 Samuel]]
+- **1:1** — Now it came to pass after the death of Saul, when David was returned from the slaughter of the Amalekites, and David had abode two days in Ziklag;
+- **1:2** — It came even to pass on the third day, that, behold, a man came out of the camp from Saul with his clothes rent, and earth upon his head: and so it was, when he came to David, that he fell to the earth, and did obeisance.
+- **1:3** — And David said unto him, From whence comest thou? And he said unto him, Out of the camp of Israel am I escaped.
+- **1:4** — And David said unto him, How went the matter? I pray thee, tell me. And he answered, That the people are fled from the battle, and many of the people also are fallen and dead; and Saul and Jonathan his son are dead also.
+- **1:5** — And David said unto the young man that told him, How knowest thou that Saul and Jonathan his son be dead?
+- **1:11** — Then David took hold on his clothes, and rent them; and likewise all the men that were with him:
+- **1:13** — And David said unto the young man that told him, Whence art thou? And he answered, I am the son of a stranger, an Amalekite.
+- **1:14** — And David said unto him, How wast thou not afraid to stretch forth thine hand to destroy the LORD'S anointed?
+- **1:15** — And David called one of the young men, and said, Go near, and fall upon him. And he smote him that he died.
+- **1:16** — And David said unto him, Thy blood be upon thy head; for thy mouth hath testified against thee, saying, I have slain the LORD'S anointed.
+- **1:17** — And David lamented with this lamentation over Saul and over Jonathan his son:
+- **2:1** — And it came to pass after this, that David enquired of the LORD, saying, Shall I go up into any of the cities of Judah? And the LORD said unto him, Go up. And David said, Whither shall I go up? And he said, Unto Hebron.
+- **2:2** — So David went up thither, and his two wives also, Ahinoam the Jezreelitess, and Abigail Nabal's wife the Carmelite.
+- **2:3** — And his men that were with him did David bring up, every man with his household: and they dwelt in the cities of Hebron.
+- **2:4** — And the men of Judah came, and there they anointed David king over the house of Judah. And they told David, saying, That the men of Jabeshgilead were they that buried Saul.
+- **2:5** — And David sent messengers unto the men of Jabeshgilead, and said unto them, Blessed be ye of the LORD, that ye have shewed this kindness unto your lord, even unto Saul, and have buried him.
+- **2:10** — Ishbosheth Saul's son was forty years old when he began to reign over Israel, and reigned two years. But the house of Judah followed David.
+- **2:11** — And the time that David was king in Hebron over the house of Judah was seven years and six months.
+- **2:13** — And Joab the son of Zeruiah, and the servants of David, went out, and met together by the pool of Gibeon: and they sat down, the one on the one side of the pool, and the other on the other side of the pool.
+- **2:15** — Then there arose and went over by number twelve of Benjamin, which pertained to Ishbosheth the son of Saul, and twelve of the servants of David.
+- **2:17** — And there was a very sore battle that day; and Abner was beaten, and the men of Israel, before the servants of David.
+- **2:30** — And Joab returned from following Abner: and when he had gathered all the people together, there lacked of David's servants nineteen men and Asahel.
+- **2:31** — But the servants of David had smitten of Benjamin, and of Abner's men, so that three hundred and threescore men died.
+- **3:1** — Now there was long war between the house of Saul and the house of David: but David waxed stronger and stronger, and the house of Saul waxed weaker and weaker.
+- **3:2** — And unto David were sons born in Hebron: and his firstborn was Amnon, of Ahinoam the Jezreelitess;
+- **3:5** — And the sixth, Ithream, by Eglah David's wife. These were born to David in Hebron.
+- **3:6** — And it came to pass, while there was war between the house of Saul and the house of David, that Abner made himself strong for the house of Saul.
+- **3:8** — Then was Abner very wroth for the words of Ishbosheth, and said, Am I a dog's head, which against Judah do shew kindness this day unto the house of Saul thy father, to his brethren, and to his friends, and have not delivered thee into the hand of David, that thou chargest me to day with a fault concerning this woman?
+- **3:9** — So do God to Abner, and more also, except, as the LORD hath sworn to David, even so I do to him;
+- **3:10** — To translate the kingdom from the house of Saul, and to set up the throne of David over Israel and over Judah, from Dan even to Beersheba.
+- **3:12** — And Abner sent messengers to David on his behalf, saying, Whose is the land? saying also, Make thy league with me, and, behold, my hand shall be with thee, to bring about all Israel unto thee.
+- **3:14** — And David sent messengers to Ishbosheth Saul's son, saying, Deliver me my wife Michal, which I espoused to me for an hundred foreskins of the Philistines.
+- **3:17** — And Abner had communication with the elders of Israel, saying, Ye sought for David in times past to be king over you:
+- **3:18** — Now then do it: for the LORD hath spoken of David, saying, By the hand of my servant David I will save my people Israel out of the hand of the Philistines, and out of the hand of all their enemies.
+- **3:19** — And Abner also spake in the ears of Benjamin: and Abner went also to speak in the ears of David in Hebron all that seemed good to Israel, and that seemed good to the whole house of Benjamin.
+- **3:20** — So Abner came to David to Hebron, and twenty men with him. And David made Abner and the men that were with him a feast.
+- **3:21** — And Abner said unto David, I will arise and go, and will gather all Israel unto my lord the king, that they may make a league with thee, and that thou mayest reign over all that thine heart desireth. And David sent Abner away; and he went in peace.
+- **3:22** — And, behold, the servants of David and Joab came from pursuing a troop, and brought in a great spoil with them: but Abner was not with David in Hebron; for he had sent him away, and he was gone in peace.
+- **3:26** — And when Joab was come out from David, he sent messengers after Abner, which brought him again from the well of Sirah: but David knew it not.
+- **3:28** — And afterward when David heard it, he said, I and my kingdom are guiltless before the LORD for ever from the blood of Abner the son of Ner:
+- **3:31** — And David said to Joab, and to all the people that were with him, Rend your clothes, and gird you with sackcloth, and mourn before Abner. And king David himself followed the bier.
+- **3:35** — And when all the people came to cause David to eat meat while it was yet day, David sware, saying, So do God to me, and more also, if I taste bread, or ought else, till the sun be down.
+- **4:8** — And they brought the head of Ishbosheth unto David to Hebron, and said to the king, Behold the head of Ishbosheth the son of Saul thine enemy, which sought thy life; and the LORD hath avenged my lord the king this day of Saul, and of his seed.
+- **4:9** — And David answered Rechab and Baanah his brother, the sons of Rimmon the Beerothite, and said unto them, As the LORD liveth, who hath redeemed my soul out of all adversity,
+- **4:12** — And David commanded his young men, and they slew them, and cut off their hands and their feet, and hanged them up over the pool in Hebron. But they took the head of Ishbosheth, and buried it in the sepulchre of Abner in Hebron.
+- **5:1** — Then came all the tribes of Israel to David unto Hebron, and spake, saying, Behold, we are thy bone and thy flesh.
+- **5:3** — So all the elders of Israel came to the king to Hebron; and king David made a league with them in Hebron before the LORD: and they anointed David king over Israel.
+- **5:4** — David was thirty years old when he began to reign, and he reigned forty years.
+- **5:6** — And the king and his men went to Jerusalem unto the Jebusites, the inhabitants of the land: which spake unto David, saying, Except thou take away the blind and the lame, thou shalt not come in hither: thinking, David cannot come in hither.
+- **5:7** — Nevertheless David took the strong hold of Zion: the same is the city of David.
+- **5:8** — And David said on that day, Whosoever getteth up to the gutter, and smiteth the Jebusites, and the lame and the blind, that are hated of David's soul, he shall be chief and captain. Wherefore they said, The blind and the lame shall not come into the house.
+- **5:9** — So David dwelt in the fort, and called it the city of David. And David built round about from Millo and inward.
+- **5:10** — And David went on, and grew great, and the LORD God of hosts was with him.
+- **5:11** — And Hiram king of Tyre sent messengers to David, and cedar trees, and carpenters, and masons: and they built David an house.
+- **5:12** — And David perceived that the LORD had established him king over Israel, and that he had exalted his kingdom for his people Israel's sake.
+- **5:13** — And David took him more concubines and wives out of Jerusalem, after he was come from Hebron: and there were yet sons and daughters born to David.
+- **5:17** — But when the Philistines heard that they had anointed David king over Israel, all the Philistines came up to seek David; and David heard of it, and went down to the hold.
+- **5:19** — And David enquired of the LORD, saying, Shall I go up to the Philistines? wilt thou deliver them into mine hand? And the LORD said unto David, Go up: for I will doubtless deliver the Philistines into thine hand.
+- **5:20** — And David came to Baalperazim, and David smote them there, and said, The LORD hath broken forth upon mine enemies before me, as the breach of waters. Therefore he called the name of that place Baalperazim.
+- **5:21** — And there they left their images, and David and his men burned them.
+- **5:23** — And when David enquired of the LORD, he said, Thou shalt not go up; but fetch a compass behind them, and come upon them over against the mulberry trees.
+- **5:25** — And David did so, as the LORD had commanded him; and smote the Philistines from Geba until thou come to Gazer.
+- **6:1** — Again, David gathered together all the chosen men of Israel, thirty thousand.
+- **6:2** — And David arose, and went with all the people that were with him from Baale of Judah, to bring up from thence the ark of God, whose name is called by the name of the LORD of hosts that dwelleth between the cherubims.
+- **6:5** — And David and all the house of Israel played before the LORD on all manner of instruments made of fir wood, even on harps, and on psalteries, and on timbrels, and on cornets, and on cymbals.
+- **6:8** — And David was displeased, because the LORD had made a breach upon Uzzah: and he called the name of the place Perezuzzah to this day.
+- **6:9** — And David was afraid of the LORD that day, and said, How shall the ark of the LORD come to me?
+- **6:10** — So David would not remove the ark of the LORD unto him into the city of David: but David carried it aside into the house of Obededom the Gittite.
+- **6:12** — And it was told king David, saying, The LORD hath blessed the house of Obededom, and all that pertaineth unto him, because of the ark of God. So David went and brought up the ark of God from the house of Obededom into the city of David with gladness.
+- **6:14** — And David danced before the LORD with all his might; and David was girded with a linen ephod.
+- **6:15** — So David and all the house of Israel brought up the ark of the LORD with shouting, and with the sound of the trumpet.
+- **6:16** — And as the ark of the LORD came into the city of David, Michal Saul's daughter looked through a window, and saw king David leaping and dancing before the LORD; and she despised him in her heart.
+- **6:17** — And they brought in the ark of the LORD, and set it in his place, in the midst of the tabernacle that David had pitched for it: and David offered burnt offerings and peace offerings before the LORD.
+- **6:18** — And as soon as David had made an end of offering burnt offerings and peace offerings, he blessed the people in the name of the LORD of hosts.
+- **6:20** — Then David returned to bless his household. And Michal the daughter of Saul came out to meet David, and said, How glorious was the king of Israel to day, who uncovered himself to day in the eyes of the handmaids of his servants, as one of the vain fellows shamelessly uncovereth himself!
+- **6:21** — And David said unto Michal, It was before the LORD, which chose me before thy father, and before all his house, to appoint me ruler over the people of the LORD, over Israel: therefore will I play before the LORD.
+- **7:5** — Go and tell my servant David, Thus saith the LORD, Shalt thou build me an house for me to dwell in?
+- **7:8** — Now therefore so shalt thou say unto my servant David, Thus saith the LORD of hosts, I took thee from the sheepcote, from following the sheep, to be ruler over my people, over Israel:
+- **7:17** — According to all these words, and according to all this vision, so did Nathan speak unto David.
+- **7:18** — Then went king David in, and sat before the LORD, and he said, Who am I, O Lord GOD? and what is my house, that thou hast brought me hitherto?
+- **7:20** — And what can David say more unto thee? for thou, Lord GOD, knowest thy servant.
+- **7:26** — And let thy name be magnified for ever, saying, The LORD of hosts is the God over Israel: and let the house of thy servant David be established before thee.
+- **8:1** — And after this it came to pass, that David smote the Philistines, and subdued them: and David took Methegammah out of the hand of the Philistines.
+- **8:2** — And he smote Moab, and measured them with a line, casting them down to the ground; even with two lines measured he to put to death, and with one full line to keep alive. And so the Moabites became David's servants, and brought gifts.
+- **8:3** — David smote also Hadadezer, the son of Rehob, king of Zobah, as he went to recover his border at the river Euphrates.
+- **8:4** — And David took from him a thousand chariots, and seven hundred horsemen, and twenty thousand footmen: and David houghed all the chariot horses, but reserved of them for an hundred chariots.
+- **8:5** — And when the Syrians of Damascus came to succour Hadadezer king of Zobah, David slew of the Syrians two and twenty thousand men.
+- **8:6** — Then David put garrisons in Syria of Damascus: and the Syrians became servants to David, and brought gifts. And the LORD preserved David whithersoever he went.
+- **8:7** — And David took the shields of gold that were on the servants of Hadadezer, and brought them to Jerusalem.
+- **8:8** — And from Betah, and from Berothai, cities of Hadadezer, king David took exceeding much brass.
+- **8:9** — When Toi king of Hamath heard that David had smitten all the host of Hadadezer,
+- **8:10** — Then Toi sent Joram his son unto king David, to salute him, and to bless him, because he had fought against Hadadezer, and smitten him: for Hadadezer had wars with Toi. And Joram brought with him vessels of silver, and vessels of gold, and vessels of brass:
+- **8:11** — Which also king David did dedicate unto the LORD, with the silver and gold that he had dedicated of all nations which he subdued;
+- **8:13** — And David gat him a name when he returned from smiting of the Syrians in the valley of salt, being eighteen thousand men.
+- **8:14** — And he put garrisons in Edom; throughout all Edom put he garrisons, and all they of Edom became David's servants. And the LORD preserved David whithersoever he went.
+- **8:15** — And David reigned over all Israel; and David executed judgment and justice unto all his people.
+- **8:18** — And Benaiah the son of Jehoiada was over both the Cherethites and the Pelethites; and David's sons were chief rulers.
+- **9:1** — And David said, Is there yet any that is left of the house of Saul, that I may shew him kindness for Jonathan's sake?
+- **9:2** — And there was of the house of Saul a servant whose name was Ziba. And when they had called him unto David, the king said unto him, Art thou Ziba? And he said, Thy servant is he.
+- **9:5** — Then king David sent, and fetched him out of the house of Machir, the son of Ammiel, from Lodebar.
+- **9:6** — Now when Mephibosheth, the son of Jonathan, the son of Saul, was come unto David, he fell on his face, and did reverence. And David said, Mephibosheth. And he answered, Behold thy servant!
+- **9:7** — And David said unto him, Fear not: for I will surely shew thee kindness for Jonathan thy father's sake, and will restore thee all the land of Saul thy father; and thou shalt eat bread at my table continually.
+- **10:2** — Then said David, I will shew kindness unto Hanun the son of Nahash, as his father shewed kindness unto me. And David sent to comfort him by the hand of his servants for his father. And David's servants came into the land of the children of Ammon.
+- **10:3** — And the princes of the children of Ammon said unto Hanun their lord, Thinkest thou that David doth honour thy father, that he hath sent comforters unto thee? hath not David rather sent his servants unto thee, to search the city, and to spy it out, and to overthrow it?
+- **10:4** — Wherefore Hanun took David's servants, and shaved off the one half of their beards, and cut off their garments in the middle, even to their buttocks, and sent them away.
+- **10:5** — When they told it unto David, he sent to meet them, because the men were greatly ashamed: and the king said, Tarry at Jericho until your beards be grown, and then return.
+- **10:6** — And when the children of Ammon saw that they stank before David, the children of Ammon sent and hired the Syrians of Bethrehob, and the Syrians of Zoba, twenty thousand footmen, and of king Maacah a thousand men, and of Ishtob twelve thousand men.
+- **10:7** — And when David heard of it, he sent Joab, and all the host of the mighty men.
+- **10:17** — And when it was told David, he gathered all Israel together, and passed over Jordan, and came to Helam. And the Syrians set themselves in array against David, and fought with him.
+- **10:18** — And the Syrians fled before Israel; and David slew the men of seven hundred chariots of the Syrians, and forty thousand horsemen, and smote Shobach the captain of their host, who died there.
+- **11:1** — And it came to pass, after the year was expired, at the time when kings go forth to battle, that David sent Joab, and his servants with him, and all Israel; and they destroyed the children of Ammon, and besieged Rabbah. But David tarried still at Jerusalem.
+- **11:2** — And it came to pass in an eveningtide, that David arose from off his bed, and walked upon the roof of the king's house: and from the roof he saw a woman washing herself; and the woman was very beautiful to look upon.
+- **11:3** — And David sent and enquired after the woman. And one said, Is not this Bathsheba, the daughter of Eliam, the wife of Uriah the Hittite?
+- **11:4** — And David sent messengers, and took her; and she came in unto him, and he lay with her; for she was purified from her uncleanness: and she returned unto her house.
+- **11:5** — And the woman conceived, and sent and told David, and said, I am with child.
+- **11:6** — And David sent to Joab, saying, Send me Uriah the Hittite. And Joab sent Uriah to David.
+- **11:7** — And when Uriah was come unto him, David demanded of him how Joab did, and how the people did, and how the war prospered.
+- **11:8** — And David said to Uriah, Go down to thy house, and wash thy feet. And Uriah departed out of the king's house, and there followed him a mess of meat from the king.
+- **11:10** — And when they had told David, saying, Uriah went not down unto his house, David said unto Uriah, Camest thou not from thy journey? why then didst thou not go down unto thine house?
+- **11:11** — And Uriah said unto David, The ark, and Israel, and Judah, abide in tents; and my lord Joab, and the servants of my lord, are encamped in the open fields; shall I then go into mine house, to eat and to drink, and to lie with my wife? as thou livest, and as thy soul liveth, I will not do this thing.
+- **11:12** — And David said to Uriah, Tarry here to day also, and to morrow I will let thee depart. So Uriah abode in Jerusalem that day, and the morrow.
+- **11:13** — And when David had called him, he did eat and drink before him; and he made him drunk: and at even he went out to lie on his bed with the servants of his lord, but went not down to his house.
+- **11:14** — And it came to pass in the morning, that David wrote a letter to Joab, and sent it by the hand of Uriah.
+- **11:17** — And the men of the city went out, and fought with Joab: and there fell some of the people of the servants of David; and Uriah the Hittite died also.
+- **11:18** — Then Joab sent and told David all the things concerning the war;
+- **11:22** — So the messenger went, and came and shewed David all that Joab had sent him for.
+- **11:23** — And the messenger said unto David, Surely the men prevailed against us, and came out unto us into the field, and we were upon them even unto the entering of the gate.
+- **11:25** — Then David said unto the messenger, Thus shalt thou say unto Joab, Let not this thing displease thee, for the sword devoureth one as well as another: make thy battle more strong against the city, and overthrow it: and encourage thou him.
+- **11:27** — And when the mourning was past, David sent and fetched her to his house, and she became his wife, and bare him a son. But the thing that David had done displeased the LORD.
+- **12:1** — And the LORD sent Nathan unto David. And he came unto him, and said unto him, There were two men in one city; the one rich, and the other poor.
+- **12:5** — And David's anger was greatly kindled against the man; and he said to Nathan, As the LORD liveth, the man that hath done this thing shall surely die:
+- **12:7** — And Nathan said to David, Thou art the man. Thus saith the LORD God of Israel, I anointed thee king over Israel, and I delivered thee out of the hand of Saul;
+- **12:13** — And David said unto Nathan, I have sinned against the LORD. And Nathan said unto David, The LORD also hath put away thy sin; thou shalt not die.
+- **12:15** — And Nathan departed unto his house. And the LORD struck the child that Uriah's wife bare unto David, and it was very sick.
+- **12:16** — David therefore besought God for the child; and David fasted, and went in, and lay all night upon the earth.
+- **12:18** — And it came to pass on the seventh day, that the child died. And the servants of David feared to tell him that the child was dead: for they said, Behold, while the child was yet alive, we spake unto him, and he would not hearken unto our voice: how will he then vex himself, if we tell him that the child is dead?
+- **12:19** — But when David saw that his servants whispered, David perceived that the child was dead: therefore David said unto his servants, Is the child dead? And they said, He is dead.
+- **12:20** — Then David arose from the earth, and washed, and anointed himself, and changed his apparel, and came into the house of the LORD, and worshipped: then he came to his own house; and when he required, they set bread before him, and he did eat.
+- **12:24** — And David comforted Bathsheba his wife, and went in unto her, and lay with her: and she bare a son, and he called his name Solomon: and the LORD loved him.
+- **12:27** — And Joab sent messengers to David, and said, I have fought against Rabbah, and have taken the city of waters.
+- **12:29** — And David gathered all the people together, and went to Rabbah, and fought against it, and took it.
+- **12:30** — And he took their king's crown from off his head, the weight whereof was a talent of gold with the precious stones: and it was set on David's head. And he brought forth the spoil of the city in great abundance.
+- **12:31** — And he brought forth the people that were therein, and put them under saws, and under harrows of iron, and under axes of iron, and made them pass through the brickkiln: and thus did he unto all the cities of the children of Ammon. So David and all the people returned unto Jerusalem.
+- **13:1** — And it came to pass after this, that Absalom the son of David had a fair sister, whose name was Tamar; and Amnon the son of David loved her.
+- **13:3** — But Amnon had a friend, whose name was Jonadab, the son of Shimeah David's brother: and Jonadab was a very subtil man.
+- **13:7** — Then David sent home to Tamar, saying, Go now to thy brother Amnon's house, and dress him meat.
+- **13:21** — But when king David heard of all these things, he was very wroth.
+- **13:30** — And it came to pass, while they were in the way, that tidings came to David, saying, Absalom hath slain all the king's sons, and there is not one of them left.
+- **13:32** — And Jonadab, the son of Shimeah David's brother, answered and said, Let not my lord suppose that they have slain all the young men the king's sons; for Amnon only is dead: for by the appointment of Absalom this hath been determined from the day that he forced his sister Tamar.
+- **13:37** — But Absalom fled, and went to Talmai, the son of Ammihud, king of Geshur. And David mourned for his son every day.
+- **13:39** — And the soul of king David longed to go forth unto Absalom: for he was comforted concerning Amnon, seeing he was dead.
+- **15:12** — And Absalom sent for Ahithophel the Gilonite, David's counsellor, from his city, even from Giloh, while he offered sacrifices. And the conspiracy was strong; for the people increased continually with Absalom.
+- **15:13** — And there came a messenger to David, saying, The hearts of the men of Israel are after Absalom.
+- **15:14** — And David said unto all his servants that were with him at Jerusalem, Arise, and let us flee; for we shall not else escape from Absalom: make speed to depart, lest he overtake us suddenly, and bring evil upon us, and smite the city with the edge of the sword.
+- **15:22** — And David said to Ittai, Go and pass over. And Ittai the Gittite passed over, and all his men, and all the little ones that were with him.
+- **15:30** — And David went up by the ascent of mount Olivet, and wept as he went up, and had his head covered, and he went barefoot: and all the people that was with him covered every man his head, and they went up, weeping as they went up.
+- **15:31** — And one told David, saying, Ahithophel is among the conspirators with Absalom. And David said, O LORD, I pray thee, turn the counsel of Ahithophel into foolishness.
+- **15:32** — And it came to pass, that when David was come to the top of the mount, where he worshipped God, behold, Hushai the Archite came to meet him with his coat rent, and earth upon his head:
+- **15:33** — Unto whom David said, If thou passest on with me, then thou shalt be a burden unto me:
+- **15:37** — So Hushai David's friend came into the city, and Absalom came into Jerusalem.
+- **16:1** — And when David was a little past the top of the hill, behold, Ziba the servant of Mephibosheth met him, with a couple of asses saddled, and upon them two hundred loaves of bread, and an hundred bunches of raisins, and an hundred of summer fruits, and a bottle of wine.
+- **16:5** — And when king David came to Bahurim, behold, thence came out a man of the family of the house of Saul, whose name was Shimei, the son of Gera: he came forth, and cursed still as he came.
+- **16:6** — And he cast stones at David, and at all the servants of king David: and all the people and all the mighty men were on his right hand and on his left.
+- **16:10** — And the king said, What have I to do with you, ye sons of Zeruiah? so let him curse, because the LORD hath said unto him, Curse David. Who shall then say, Wherefore hast thou done so?
+- **16:11** — And David said to Abishai, and to all his servants, Behold, my son, which came forth of my bowels, seeketh my life: how much more now may this Benjamite do it? let him alone, and let him curse; for the LORD hath bidden him.
+- **16:13** — And as David and his men went by the way, Shimei went along on the hill's side over against him, and cursed as he went, and threw stones at him, and cast dust.
+- **16:16** — And it came to pass, when Hushai the Archite, David's friend, was come unto Absalom, that Hushai said unto Absalom, God save the king, God save the king.
+- **16:23** — And the counsel of Ahithophel, which he counselled in those days, was as if a man had enquired at the oracle of God: so was all the counsel of Ahithophel both with David and with Absalom.
+- **17:1** — Moreover Ahithophel said unto Absalom, Let me now choose out twelve thousand men, and I will arise and pursue after David this night:
+- **17:16** — Now therefore send quickly, and tell David, saying, Lodge not this night in the plains of the wilderness, but speedily pass over; lest the king be swallowed up, and all the people that are with him.
+- **17:17** — Now Jonathan and Ahimaaz stayed by Enrogel; for they might not be seen to come into the city: and a wench went and told them; and they went and told king David.
+- **17:21** — And it came to pass, after they were departed, that they came up out of the well, and went and told king David, and said unto David, Arise, and pass quickly over the water: for thus hath Ahithophel counselled against you.
+- **17:22** — Then David arose, and all the people that were with him, and they passed over Jordan: by the morning light there lacked not one of them that was not gone over Jordan.
+- **17:24** — Then David came to Mahanaim. And Absalom passed over Jordan, he and all the men of Israel with him.
+- **17:27** — And it came to pass, when David was come to Mahanaim, that Shobi the son of Nahash of Rabbah of the children of Ammon, and Machir the son of Ammiel of Lodebar, and Barzillai the Gileadite of Rogelim,
+- **17:29** — And honey, and butter, and sheep, and cheese of kine, for David, and for the people that were with him, to eat: for they said, The people is hungry, and weary, and thirsty, in the wilderness.
+- **18:1** — And David numbered the people that were with him, and set captains of thousands and captains of hundreds over them.
+- **18:2** — And David sent forth a third part of the people under the hand of Joab, and a third part under the hand of Abishai the son of Zeruiah, Joab's brother, and a third part under the hand of Ittai the Gittite. And the king said unto the people, I will surely go forth with you myself also.
+- **18:7** — Where the people of Israel were slain before the servants of David, and there was there a great slaughter that day of twenty thousand men.
+- **18:9** — And Absalom met the servants of David. And Absalom rode upon a mule, and the mule went under the thick boughs of a great oak, and his head caught hold of the oak, and he was taken up between the heaven and the earth; and the mule that was under him went away.
+- **18:24** — And David sat between the two gates: and the watchman went up to the roof over the gate unto the wall, and lifted up his eyes, and looked, and behold a man running alone.
+- **19:11** — And king David sent to Zadok and to Abiathar the priests, saying, Speak unto the elders of Judah, saying, Why are ye the last to bring the king back to his house? seeing the speech of all Israel is come to the king, even to his house.
+- **19:16** — And Shimei the son of Gera, a Benjamite, which was of Bahurim, hasted and came down with the men of Judah to meet king David.
+- **19:22** — And David said, What have I to do with you, ye sons of Zeruiah, that ye should this day be adversaries unto me? shall there any man be put to death this day in Israel? for do not I know that I am this day king over Israel?
+- **19:41** — And, behold, all the men of Israel came to the king, and said unto the king, Why have our brethren the men of Judah stolen thee away, and have brought the king, and his household, and all David's men with him, over Jordan?
+- **19:43** — And the men of Israel answered the men of Judah, and said, We have ten parts in the king, and we have also more right in David than ye: why then did ye despise us, that our advice should not be first had in bringing back our king? And the words of the men of Judah were fiercer than the words of the men of Israel.
+- **20:1** — And there happened to be there a man of Belial, whose name was Sheba, the son of Bichri, a Benjamite: and he blew a trumpet, and said, We have no part in David, neither have we inheritance in the son of Jesse: every man to his tents, O Israel.
+- **20:2** — So every man of Israel went up from after David, and followed Sheba the son of Bichri: but the men of Judah clave unto their king, from Jordan even to Jerusalem.
+- **20:3** — And David came to his house at Jerusalem; and the king took the ten women his concubines, whom he had left to keep the house, and put them in ward, and fed them, but went not in unto them. So they were shut up unto the day of their death, living in widowhood.
+- **20:6** — And David said to Abishai, Now shall Sheba the son of Bichri do us more harm than did Absalom: take thou thy lord's servants, and pursue after him, lest he get him fenced cities, and escape us.
+- **20:11** — And one of Joab's men stood by him, and said, He that favoureth Joab, and he that is for David, let him go after Joab.
+- **20:21** — The matter is not so: but a man of mount Ephraim, Sheba the son of Bichri by name, hath lifted up his hand against the king, even against David: deliver him only, and I will depart from the city. And the woman said unto Joab, Behold, his head shall be thrown to thee over the wall.
+- **20:26** — And Ira also the Jairite was a chief ruler about David.
+- **21:1** — Then there was a famine in the days of David three years, year after year; and David enquired of the LORD. And the LORD answered, It is for Saul, and for his bloody house, because he slew the Gibeonites.
+- **21:3** — Wherefore David said unto the Gibeonites, What shall I do for you? and wherewith shall I make the atonement, that ye may bless the inheritance of the LORD?
+- **21:7** — But the king spared Mephibosheth, the son of Jonathan the son of Saul, because of the LORD'S oath that was between them, between David and Jonathan the son of Saul.
+- **21:11** — And it was told David what Rizpah the daughter of Aiah, the concubine of Saul, had done.
+- **21:12** — And David went and took the bones of Saul and the bones of Jonathan his son from the men of Jabeshgilead, which had stolen them from the street of Bethshan, where the Philistines had hanged them, when the Philistines had slain Saul in Gilboa:
+- **21:15** — Moreover the Philistines had yet war again with Israel; and David went down, and his servants with him, and fought against the Philistines: and David waxed faint.
+- **21:16** — And Ishbibenob, which was of the sons of the giant, the weight of whose spear weighed three hundred shekels of brass in weight, he being girded with a new sword, thought to have slain David.
+- **21:17** — But Abishai the son of Zeruiah succoured him, and smote the Philistine, and killed him. Then the men of David sware unto him, saying, Thou shalt go no more out with us to battle, that thou quench not the light of Israel.
+- **21:21** — And when he defied Israel, Jonathan the son of Shimea the brother of David slew him.
+- **21:22** — These four were born to the giant in Gath, and fell by the hand of David, and by the hand of his servants.
+- **22:1** — And David spake unto the LORD the words of this song in the day that the LORD had delivered him out of the hand of all his enemies, and out of the hand of Saul:
+- **22:51** — He is the tower of salvation for his king: and sheweth mercy to his anointed, unto David, and to his seed for evermore.
+- **23:1** — Now these be the last words of David. David the son of Jesse said, and the man who was raised up on high, the anointed of the God of Jacob, and the sweet psalmist of Israel, said,
+- **23:8** — These be the names of the mighty men whom David had: The Tachmonite that sat in the seat, chief among the captains; the same was Adino the Eznite: he lift up his spear against eight hundred, whom he slew at one time.
+- **23:9** — And after him was Eleazar the son of Dodo the Ahohite, one of the three mighty men with David, when they defied the Philistines that were there gathered together to battle, and the men of Israel were gone away:
+- **23:13** — And three of the thirty chief went down, and came to David in the harvest time unto the cave of Adullam: and the troop of the Philistines pitched in the valley of Rephaim.
+- **23:14** — And David was then in an hold, and the garrison of the Philistines was then in Bethlehem.
+- **23:15** — And David longed, and said, Oh that one would give me drink of the water of the well of Bethlehem, which is by the gate!
+- **23:16** — And the three mighty men brake through the host of the Philistines, and drew water out of the well of Bethlehem, that was by the gate, and took it, and brought it to David: nevertheless he would not drink thereof, but poured it out unto the LORD.
+- **23:23** — He was more honourable than the thirty, but he attained not to the first three. And David set him over his guard.
+- **24:1** — And again the anger of the LORD was kindled against Israel, and he moved David against them to say, Go, number Israel and Judah.
+- **24:10** — And David's heart smote him after that he had numbered the people. And David said unto the LORD, I have sinned greatly in that I have done: and now, I beseech thee, O LORD, take away the iniquity of thy servant; for I have done very foolishly.
+- **24:11** — For when David was up in the morning, the word of the LORD came unto the prophet Gad, David's seer, saying,
+- **24:12** — Go and say unto David, Thus saith the LORD, I offer thee three things; choose thee one of them, that I may do it unto thee.
+- **24:13** — So Gad came to David, and told him, and said unto him, Shall seven years of famine come unto thee in thy land? or wilt thou flee three months before thine enemies, while they pursue thee? or that there be three days' pestilence in thy land? now advise, and see what answer I shall return to him that sent me.
+- **24:14** — And David said unto Gad, I am in a great strait: let us fall now into the hand of the LORD; for his mercies are great: and let me not fall into the hand of man.
+- **24:17** — And David spake unto the LORD when he saw the angel that smote the people, and said, Lo, I have sinned, and I have done wickedly: but these sheep, what have they done? let thine hand, I pray thee, be against me, and against my father's house.
+- **24:18** — And Gad came that day to David, and said unto him, Go up, rear an altar unto the LORD in the threshingfloor of Araunah the Jebusite.
+- **24:19** — And David, according to the saying of Gad, went up as the LORD commanded.
+- **24:21** — And Araunah said, Wherefore is my lord the king come to his servant? And David said, To buy the threshingfloor of thee, to build an altar unto the LORD, that the plague may be stayed from the people.
+- **24:22** — And Araunah said unto David, Let my lord the king take and offer up what seemeth good unto him: behold, here be oxen for burnt sacrifice, and threshing instruments and other instruments of the oxen for wood.
+- **24:24** — And the king said unto Araunah, Nay; but I will surely buy it of thee at a price: neither will I offer burnt offerings unto the LORD my God of that which doth cost me nothing. So David bought the threshingfloor and the oxen for fifty shekels of silver.
+- **24:25** — And David built there an altar unto the LORD, and offered burnt offerings and peace offerings. So the LORD was intreated for the land, and the plague was stayed from Israel.
+
+### [[1 Kings]]
+- **1:1** — Now king David was old and stricken in years; and they covered him with clothes, but he gat no heat.
+- **1:8** — But Zadok the priest, and Benaiah the son of Jehoiada, and Nathan the prophet, and Shimei, and Rei, and the mighty men which belonged to David, were not with Adonijah.
+- **1:11** — Wherefore Nathan spake unto Bathsheba the mother of Solomon, saying, Hast thou not heard that Adonijah the son of Haggith doth reign, and David our lord knoweth it not?
+- **1:13** — Go and get thee in unto king David, and say unto him, Didst not thou, my lord, O king, swear unto thine handmaid, saying, Assuredly Solomon thy son shall reign after me, and he shall sit upon my throne? why then doth Adonijah reign?
+- **1:28** — Then king David answered and said, Call me Bathsheba. And she came into the king's presence, and stood before the king.
+- **1:31** — Then Bathsheba bowed with her face to the earth, and did reverence to the king, and said, Let my lord king David live for ever.
+- **1:32** — And king David said, Call me Zadok the priest, and Nathan the prophet, and Benaiah the son of Jehoiada. And they came before the king.
+- **1:37** — As the LORD hath been with my lord the king, even so be he with Solomon, and make his throne greater than the throne of my lord king David.
+- **1:38** — So Zadok the priest, and Nathan the prophet, and Benaiah the son of Jehoiada, and the Cherethites, and the Pelethites, went down, and caused Solomon to ride upon king David's mule, and brought him to Gihon.
+- **1:43** — And Jonathan answered and said to Adonijah, Verily our lord king David hath made Solomon king.
+- **1:47** — And moreover the king's servants came to bless our lord king David, saying, God make the name of Solomon better than thy name, and make his throne greater than thy throne. And the king bowed himself upon the bed.
+- **2:1** — Now the days of David drew nigh that he should die; and he charged Solomon his son, saying,
+- **2:10** — So David slept with his fathers, and was buried in the city of David.
+- **2:11** — And the days that David reigned over Israel were forty years: seven years reigned he in Hebron, and thirty and three years reigned he in Jerusalem.
+- **2:12** — Then sat Solomon upon the throne of David his father; and his kingdom was established greatly.
+- **2:24** — Now therefore, as the LORD liveth, which hath established me, and set me on the throne of David my father, and who hath made me an house, as he promised, Adonijah shall be put to death this day.
+- **2:26** — And unto Abiathar the priest said the king, Get thee to Anathoth, unto thine own fields; for thou art worthy of death: but I will not at this time put thee to death, because thou barest the ark of the Lord GOD before David my father, and because thou hast been afflicted in all wherein my father was afflicted.
+- **2:32** — And the LORD shall return his blood upon his own head, who fell upon two men more righteous and better than he, and slew them with the sword, my father David not knowing thereof, to wit, Abner the son of Ner, captain of the host of Israel, and Amasa the son of Jether, captain of the host of Judah.
+- **2:33** — Their blood shall therefore return upon the head of Joab, and upon the head of his seed for ever: but upon David, and upon his seed, and upon his house, and upon his throne, shall there be peace for ever from the LORD.
+- **2:44** — The king said moreover to Shimei, Thou knowest all the wickedness which thine heart is privy to, that thou didst to David my father: therefore the LORD shall return thy wickedness upon thine own head;
+- **2:45** — And king Solomon shall be blessed, and the throne of David shall be established before the LORD for ever.
+- **3:1** — And Solomon made affinity with Pharaoh king of Egypt, and took Pharaoh's daughter, and brought her into the city of David, until he had made an end of building his own house, and the house of the LORD, and the wall of Jerusalem round about.
+- **3:3** — And Solomon loved the LORD, walking in the statutes of David his father: only he sacrificed and burnt incense in high places.
+- **3:6** — And Solomon said, Thou hast shewed unto thy servant David my father great mercy, according as he walked before thee in truth, and in righteousness, and in uprightness of heart with thee; and thou hast kept for him this great kindness, that thou hast given him a son to sit on his throne, as it is this day.
+- **3:7** — And now, O LORD my God, thou hast made thy servant king instead of David my father: and I am but a little child: I know not how to go out or come in.
+- **3:14** — And if thou wilt walk in my ways, to keep my statutes and my commandments, as thy father David did walk, then I will lengthen thy days.
+- **5:1** — And Hiram king of Tyre sent his servants unto Solomon; for he had heard that they had anointed him king in the room of his father: for Hiram was ever a lover of David.
+- **5:3** — Thou knowest how that David my father could not build an house unto the name of the LORD his God for the wars which were about him on every side, until the LORD put them under the soles of his feet.
+- **5:5** — And, behold, I purpose to build an house unto the name of the LORD my God, as the LORD spake unto David my father, saying, Thy son, whom I will set upon thy throne in thy room, he shall build an house unto my name.
+- **5:7** — And it came to pass, when Hiram heard the words of Solomon, that he rejoiced greatly, and said, Blessed be the LORD this day, which hath given unto David a wise son over this great people.
+- **6:12** — Concerning this house which thou art in building, if thou wilt walk in my statutes, and execute my judgments, and keep all my commandments to walk in them; then will I perform my word with thee, which I spake unto David thy father:
+- **7:51** — So was ended all the work that king Solomon made for the house of the LORD. And Solomon brought in the things which David his father had dedicated; even the silver, and the gold, and the vessels, did he put among the treasures of the house of the LORD.
+- **8:1** — Then Solomon assembled the elders of Israel, and all the heads of the tribes, the chief of the fathers of the children of Israel, unto king Solomon in Jerusalem, that they might bring up the ark of the covenant of the LORD out of the city of David, which is Zion.
+- **8:15** — And he said, Blessed be the LORD God of Israel, which spake with his mouth unto David my father, and hath with his hand fulfilled it, saying,
+- **8:16** — Since the day that I brought forth my people Israel out of Egypt, I chose no city out of all the tribes of Israel to build an house, that my name might be therein; but I chose David to be over my people Israel.
+- **8:17** — And it was in the heart of David my father to build an house for the name of the LORD God of Israel.
+- **8:18** — And the LORD said unto David my father, Whereas it was in thine heart to build an house unto my name, thou didst well that it was in thine heart.
+- **8:20** — And the LORD hath performed his word that he spake, and I am risen up in the room of David my father, and sit on the throne of Israel, as the LORD promised, and have built an house for the name of the LORD God of Israel.
+- **8:24** — Who hast kept with thy servant David my father that thou promisedst him: thou spakest also with thy mouth, and hast fulfilled it with thine hand, as it is this day.
+- **8:25** — Therefore now, LORD God of Israel, keep with thy servant David my father that thou promisedst him, saying, There shall not fail thee a man in my sight to sit on the throne of Israel; so that thy children take heed to their way, that they walk before me as thou hast walked before me.
+- **8:26** — And now, O God of Israel, let thy word, I pray thee, be verified, which thou spakest unto thy servant David my father.
+- **8:66** — On the eighth day he sent the people away: and they blessed the king, and went unto their tents joyful and glad of heart for all the goodness that the LORD had done for David his servant, and for Israel his people.
+- **9:4** — And if thou wilt walk before me, as David thy father walked, in integrity of heart, and in uprightness, to do according to all that I have commanded thee, and wilt keep my statutes and my judgments:
+- **9:5** — Then I will establish the throne of thy kingdom upon Israel for ever, as I promised to David thy father, saying, There shall not fail thee a man upon the throne of Israel.
+- **9:24** — But Pharaoh's daughter came up out of the city of David unto her house which Solomon had built for her: then did he build Millo.
+- **11:4** — For it came to pass, when Solomon was old, that his wives turned away his heart after other gods: and his heart was not perfect with the LORD his God, as was the heart of David his father.
+- **11:6** — And Solomon did evil in the sight of the LORD, and went not fully after the LORD, as did David his father.
+- **11:12** — Notwithstanding in thy days I will not do it for David thy father's sake: but I will rend it out of the hand of thy son.
+- **11:13** — Howbeit I will not rend away all the kingdom; but will give one tribe to thy son for David my servant's sake, and for Jerusalem's sake which I have chosen.
+- **11:15** — For it came to pass, when David was in Edom, and Joab the captain of the host was gone up to bury the slain, after he had smitten every male in Edom;
+- **11:21** — And when Hadad heard in Egypt that David slept with his fathers, and that Joab the captain of the host was dead, Hadad said to Pharaoh, Let me depart, that I may go to mine own country.
+- **11:24** — And he gathered men unto him, and became captain over a band, when David slew them of Zobah: and they went to Damascus, and dwelt therein, and reigned in Damascus.
+- **11:27** — And this was the cause that he lifted up his hand against the king: Solomon built Millo, and repaired the breaches of the city of David his father.
+- **11:32** — (But he shall have one tribe for my servant David's sake, and for Jerusalem's sake, the city which I have chosen out of all the tribes of Israel:)
+- **11:33** — Because that they have forsaken me, and have worshipped Ashtoreth the goddess of the Zidonians, Chemosh the god of the Moabites, and Milcom the god of the children of Ammon, and have not walked in my ways, to do that which is right in mine eyes, and to keep my statutes and my judgments, as did David his father.
+- **11:34** — Howbeit I will not take the whole kingdom out of his hand: but I will make him prince all the days of his life for David my servant's sake, whom I chose, because he kept my commandments and my statutes:
+- **11:36** — And unto his son will I give one tribe, that David my servant may have a light alway before me in Jerusalem, the city which I have chosen me to put my name there.
+- **11:38** — And it shall be, if thou wilt hearken unto all that I command thee, and wilt walk in my ways, and do that is right in my sight, to keep my statutes and my commandments, as David my servant did; that I will be with thee, and build thee a sure house, as I built for David, and will give Israel unto thee.
+- **11:39** — And I will for this afflict the seed of David, but not for ever.
+- **11:43** — And Solomon slept with his fathers, and was buried in the city of David his father: and Rehoboam his son reigned in his stead.
+- **12:16** — So when all Israel saw that the king hearkened not unto them, the people answered the king, saying, What portion have we in David? neither have we inheritance in the son of Jesse: to your tents, O Israel: now see to thine own house, David. So Israel departed unto their tents.
+- **12:19** — So Israel rebelled against the house of David unto this day.
+- **12:20** — And it came to pass, when all Israel heard that Jeroboam was come again, that they sent and called him unto the congregation, and made him king over all Israel: there was none that followed the house of David, but the tribe of Judah only.
+- **12:26** — And Jeroboam said in his heart, Now shall the kingdom return to the house of David:
+- **13:2** — And he cried against the altar in the word of the LORD, and said, O altar, altar, thus saith the LORD; Behold, a child shall be born unto the house of David, Josiah by name; and upon thee shall he offer the priests of the high places that burn incense upon thee, and men's bones shall be burnt upon thee.
+- **14:8** — And rent the kingdom away from the house of David, and gave it thee: and yet thou hast not been as my servant David, who kept my commandments, and who followed me with all his heart, to do that only which was right in mine eyes;
+- **14:31** — And Rehoboam slept with his fathers, and was buried with his fathers in the city of David. And his mother's name was Naamah an Ammonitess. And Abijam his son reigned in his stead.
+- **15:3** — And he walked in all the sins of his father, which he had done before him: and his heart was not perfect with the LORD his God, as the heart of David his father.
+- **15:4** — Nevertheless for David's sake did the LORD his God give him a lamp in Jerusalem, to set up his son after him, and to establish Jerusalem:
+- **15:5** — Because David did that which was right in the eyes of the LORD, and turned not aside from any thing that he commanded him all the days of his life, save only in the matter of Uriah the Hittite.
+- **15:8** — And Abijam slept with his fathers; and they buried him in the city of David: and Asa his son reigned in his stead.
+- **15:11** — And Asa did that which was right in the eyes of the LORD, as did David his father.
+- **15:24** — And Asa slept with his fathers, and was buried with his fathers in the city of David his father: and Jehoshaphat his son reigned in his stead.
+- **22:50** — And Jehoshaphat slept with his fathers, and was buried with his fathers in the city of David his father: and Jehoram his son reigned in his stead.
+
+### [[2 Kings]]
+- **8:19** — Yet the LORD would not destroy Judah for David his servant's sake, as he promised him to give him alway a light, and to his children.
+- **8:24** — And Joram slept with his fathers, and was buried with his fathers in the city of David: and Ahaziah his son reigned in his stead.
+- **9:28** — And his servants carried him in a chariot to Jerusalem, and buried him in his sepulchre with his fathers in the city of David.
+- **11:10** — And to the captains over hundreds did the priest give king David's spears and shields, that were in the temple of the LORD.
+- **12:21** — For Jozachar the son of Shimeath, and Jehozabad the son of Shomer, his servants, smote him, and he died; and they buried him with his fathers in the city of David: and Amaziah his son reigned in his stead.
+- **14:3** — And he did that which was right in the sight of the LORD, yet not like David his father: he did according to all things as Joash his father did.
+- **14:20** — And they brought him on horses: and he was buried at Jerusalem with his fathers in the city of David.
+- **15:7** — So Azariah slept with his fathers; and they buried him with his fathers in the city of David: and Jotham his son reigned in his stead.
+- **15:38** — And Jotham slept with his fathers, and was buried with his fathers in the city of David his father: and Ahaz his son reigned in his stead.
+- **16:2** — Twenty years old was Ahaz when he began to reign, and reigned sixteen years in Jerusalem, and did not that which was right in the sight of the LORD his God, like David his father.
+- **16:20** — And Ahaz slept with his fathers, and was buried with his fathers in the city of David: and Hezekiah his son reigned in his stead.
+- **17:21** — For he rent Israel from the house of David; and they made Jeroboam the son of Nebat king: and Jeroboam drave Israel from following the LORD, and made them sin a great sin.
+- **18:3** — And he did that which was right in the sight of the LORD, according to all that David his father did.
+- **19:34** — For I will defend this city, to save it, for mine own sake, and for my servant David's sake.
+- **20:5** — Turn again, and tell Hezekiah the captain of my people, Thus saith the LORD, the God of David thy father, I have heard thy prayer, I have seen thy tears: behold, I will heal thee: on the third day thou shalt go up unto the house of the LORD.
+- **20:6** — And I will add unto thy days fifteen years; and I will deliver thee and this city out of the hand of the king of Assyria; and I will defend this city for mine own sake, and for my servant David's sake.
+- **21:7** — And he set a graven image of the grove that he had made in the house, of which the LORD said to David, and to Solomon his son, In this house, and in Jerusalem, which I have chosen out of all tribes of Israel, will I put my name for ever:
+- **22:2** — And he did that which was right in the sight of the LORD, and walked in all the way of David his father, and turned not aside to the right hand or to the left.
+
+### [[1 Chronicles]]
+- **2:15** — Ozem the sixth, David the seventh:
+- **3:1** — Now these were the sons of David, which were born unto him in Hebron; the firstborn Amnon, of Ahinoam the Jezreelitess; the second Daniel, of Abigail the Carmelitess:
+- **3:9** — These were all the sons of David, beside the sons of the concubines, and Tamar their sister.
+- **4:31** — And at Bethmarcaboth, and Hazarsusim, and at Bethbirei, and at Shaaraim. These were their cities unto the reign of David.
+- **6:31** — And these are they whom David set over the service of song in the house of the LORD, after that the ark had rest.
+- **7:2** — And the sons of Tola; Uzzi, and Rephaiah, and Jeriel, and Jahmai, and Jibsam, and Shemuel, heads of their father's house, to wit, of Tola: they were valiant men of might in their generations; whose number was in the days of David two and twenty thousand and six hundred.
+- **9:22** — All these which were chosen to be porters in the gates were two hundred and twelve. These were reckoned by their genealogy in their villages, whom David and Samuel the seer did ordain in their set office.
+- **10:14** — And enquired not of the LORD: therefore he slew him, and turned the kingdom unto David the son of Jesse.
+- **11:1** — Then all Israel gathered themselves to David unto Hebron, saying, Behold, we are thy bone and thy flesh.
+- **11:3** — Therefore came all the elders of Israel to the king to Hebron; and David made a covenant with them in Hebron before the LORD; and they anointed David king over Israel, according to the word of the LORD by Samuel.
+- **11:4** — And David and all Israel went to Jerusalem, which is Jebus; where the Jebusites were, the inhabitants of the land.
+- **11:5** — And the inhabitants of Jebus said to David, Thou shalt not come hither. Nevertheless David took the castle of Zion, which is the city of David.
+- **11:6** — And David said, Whosoever smiteth the Jebusites first shall be chief and captain. So Joab the son of Zeruiah went first up, and was chief.
+- **11:7** — And David dwelt in the castle; therefore they called it the city of David.
+- **11:9** — So David waxed greater and greater: for the LORD of hosts was with him.
+- **11:10** — These also are the chief of the mighty men whom David had, who strengthened themselves with him in his kingdom, and with all Israel, to make him king, according to the word of the LORD concerning Israel.
+- **11:11** — And this is the number of the mighty men whom David had; Jashobeam, an Hachmonite, the chief of the captains: he lifted up his spear against three hundred slain by him at one time.
+- **11:13** — He was with David at Pasdammim, and there the Philistines were gathered together to battle, where was a parcel of ground full of barley; and the people fled from before the Philistines.
+- **11:15** — Now three of the thirty captains went down to the rock to David, into the cave of Adullam; and the host of the Philistines encamped in the valley of Rephaim.
+- **11:16** — And David was then in the hold, and the Philistines' garrison was then at Bethlehem.
+- **11:17** — And David longed, and said, Oh that one would give me drink of the water of the well of Bethlehem, that is at the gate!
+- **11:18** — And the three brake through the host of the Philistines, and drew water out of the well of Bethlehem, that was by the gate, and took it, and brought it to David: but David would not drink of it, but poured it out to the LORD,
+- **11:25** — Behold, he was honourable among the thirty, but attained not to the first three: and David set him over his guard.
+- **12:1** — Now these are they that came to David to Ziklag, while he yet kept himself close because of Saul the son of Kish: and they were among the mighty men, helpers of the war.
+- **12:8** — And of the Gadites there separated themselves unto David into the hold to the wilderness men of might, and men of war fit for the battle, that could handle shield and buckler, whose faces were like the faces of lions, and were as swift as the roes upon the mountains;
+- **12:16** — And there came of the children of Benjamin and Judah to the hold unto David.
+- **12:17** — And David went out to meet them, and answered and said unto them, If ye be come peaceably unto me to help me, mine heart shall be knit unto you: but if ye be come to betray me to mine enemies, seeing there is no wrong in mine hands, the God of our fathers look thereon, and rebuke it.
+- **12:18** — Then the spirit came upon Amasai, who was chief of the captains, and he said, Thine are we, David, and on thy side, thou son of Jesse: peace, peace be unto thee, and peace be to thine helpers; for thy God helpeth thee. Then David received them, and made them captains of the band.
+- **12:19** — And there fell some of Manasseh to David, when he came with the Philistines against Saul to battle: but they helped them not: for the lords of the Philistines upon advisement sent him away, saying, He will fall to his master Saul to the jeopardy of our heads.
+- **12:21** — And they helped David against the band of the rovers: for they were all mighty men of valour, and were captains in the host.
+- **12:22** — For at that time day by day there came to David to help him, until it was a great host, like the host of God.
+- **12:23** — And these are the numbers of the bands that were ready armed to the war, and came to David to Hebron, to turn the kingdom of Saul to him, according to the word of the LORD.
+- **12:31** — And of the half tribe of Manasseh eighteen thousand, which were expressed by name, to come and make David king.
+- **12:38** — All these men of war, that could keep rank, came with a perfect heart to Hebron, to make David king over all Israel: and all the rest also of Israel were of one heart to make David king.
+- **12:39** — And there they were with David three days, eating and drinking: for their brethren had prepared for them.
+- **13:1** — And David consulted with the captains of thousands and hundreds, and with every leader.
+- **13:2** — And David said unto all the congregation of Israel, If it seem good unto you, and that it be of the LORD our God, let us send abroad unto our brethren every where, that are left in all the land of Israel, and with them also to the priests and Levites which are in their cities and suburbs, that they may gather themselves unto us:
+- **13:5** — So David gathered all Israel together, from Shihor of Egypt even unto the entering of Hemath, to bring the ark of God from Kirjathjearim.
+- **13:6** — And David went up, and all Israel, to Baalah, that is, to Kirjathjearim, which belonged to Judah, to bring up thence the ark of God the LORD, that dwelleth between the cherubims, whose name is called on it.
+- **13:8** — And David and all Israel played before God with all their might, and with singing, and with harps, and with psalteries, and with timbrels, and with cymbals, and with trumpets.
+- **13:11** — And David was displeased, because the LORD had made a breach upon Uzza: wherefore that place is called Perezuzza to this day.
+- **13:12** — And David was afraid of God that day, saying, How shall I bring the ark of God home to me?
+- **13:13** — So David brought not the ark home to himself to the city of David, but carried it aside into the house of Obededom the Gittite.
+- **14:1** — Now Hiram king of Tyre sent messengers to David, and timber of cedars, with masons and carpenters, to build him an house.
+- **14:2** — And David perceived that the LORD had confirmed him king over Israel, for his kingdom was lifted up on high, because of his people Israel.
+- **14:3** — And David took more wives at Jerusalem: and David begat more sons and daughters.
+- **14:8** — And when the Philistines heard that David was anointed king over all Israel, all the Philistines went up to seek David. And David heard of it, and went out against them.
+- **14:10** — And David enquired of God, saying, Shall I go up against the Philistines? and wilt thou deliver them into mine hand? And the LORD said unto him, Go up; for I will deliver them into thine hand.
+- **14:11** — So they came up to Baalperazim; and David smote them there. Then David said, God hath broken in upon mine enemies by mine hand like the breaking forth of waters: therefore they called the name of that place Baalperazim.
+- **14:12** — And when they had left their gods there, David gave a commandment, and they were burned with fire.
+- **14:14** — Therefore David enquired again of God; and God said unto him, Go not up after them; turn away from them, and come upon them over against the mulberry trees.
+- **14:16** — David therefore did as God commanded him: and they smote the host of the Philistines from Gibeon even to Gazer.
+- **14:17** — And the fame of David went out into all lands; and the LORD brought the fear of him upon all nations.
+- **15:1** — And David made him houses in the city of David, and prepared a place for the ark of God, and pitched for it a tent.
+- **15:2** — Then David said, None ought to carry the ark of God but the Levites: for them hath the LORD chosen to carry the ark of God, and to minister unto him for ever.
+- **15:3** — And David gathered all Israel together to Jerusalem, to bring up the ark of the LORD unto his place, which he had prepared for it.
+- **15:4** — And David assembled the children of Aaron, and the Levites:
+- **15:11** — And David called for Zadok and Abiathar the priests, and for the Levites, for Uriel, Asaiah, and Joel, Shemaiah, and Eliel, and Amminadab,
+- **15:16** — And David spake to the chief of the Levites to appoint their brethren to be the singers with instruments of musick, psalteries and harps and cymbals, sounding, by lifting up the voice with joy.
+- **15:25** — So David, and the elders of Israel, and the captains over thousands, went to bring up the ark of the covenant of the LORD out of the house of Obededom with joy.
+- **15:27** — And David was clothed with a robe of fine linen, and all the Levites that bare the ark, and the singers, and Chenaniah the master of the song with the singers: David also had upon him an ephod of linen.
+- **15:29** — And it came to pass, as the ark of the covenant of the LORD came to the city of David, that Michal the daughter of Saul looking out at a window saw king David dancing and playing: and she despised him in her heart.
+- **16:1** — So they brought the ark of God, and set it in the midst of the tent that David had pitched for it: and they offered burnt sacrifices and peace offerings before God.
+- **16:2** — And when David had made an end of offering the burnt offerings and the peace offerings, he blessed the people in the name of the LORD.
+- **16:7** — Then on that day David delivered first this psalm to thank the LORD into the hand of Asaph and his brethren.
+- **16:43** — And all the people departed every man to his house: and David returned to bless his house.
+- **17:1** — Now it came to pass, as David sat in his house, that David said to Nathan the prophet, Lo, I dwell in an house of cedars, but the ark of the covenant of the LORD remaineth under curtains.
+- **17:2** — Then Nathan said unto David, Do all that is in thine heart; for God is with thee.
+- **17:4** — Go and tell David my servant, Thus saith the LORD, Thou shalt not build me an house to dwell in:
+- **17:7** — Now therefore thus shalt thou say unto my servant David, Thus saith the LORD of hosts, I took thee from the sheepcote, even from following the sheep, that thou shouldest be ruler over my people Israel:
+- **17:15** — According to all these words, and according to all this vision, so did Nathan speak unto David.
+- **17:16** — And David the king came and sat before the LORD, and said, Who am I, O LORD God, and what is mine house, that thou hast brought me hitherto?
+- **17:18** — What can David speak more to thee for the honour of thy servant? for thou knowest thy servant.
+- **17:24** — Let it even be established, that thy name may be magnified for ever, saying, The LORD of hosts is the God of Israel, even a God to Israel: and let the house of David thy servant be established before thee.
+- **18:1** — Now after this it came to pass, that David smote the Philistines, and subdued them, and took Gath and her towns out of the hand of the Philistines.
+- **18:2** — And he smote Moab; and the Moabites became David's servants, and brought gifts.
+- **18:3** — And David smote Hadarezer king of Zobah unto Hamath, as he went to stablish his dominion by the river Euphrates.
+- **18:4** — And David took from him a thousand chariots, and seven thousand horsemen, and twenty thousand footmen: David also houghed all the chariot horses, but reserved of them an hundred chariots.
+- **18:5** — And when the Syrians of Damascus came to help Hadarezer king of Zobah, David slew of the Syrians two and twenty thousand men.
+- **18:6** — Then David put garrisons in Syriadamascus; and the Syrians became David's servants, and brought gifts. Thus the LORD preserved David whithersoever he went.
+- **18:7** — And David took the shields of gold that were on the servants of Hadarezer, and brought them to Jerusalem.
+- **18:8** — Likewise from Tibhath, and from Chun, cities of Hadarezer, brought David very much brass, wherewith Solomon made the brasen sea, and the pillars, and the vessels of brass.
+- **18:9** — Now when Tou king of Hamath heard how David had smitten all the host of Hadarezer king of Zobah;
+- **18:10** — He sent Hadoram his son to king David, to enquire of his welfare, and to congratulate him, because he had fought against Hadarezer, and smitten him; (for Hadarezer had war with Tou;) and with him all manner of vessels of gold and silver and brass.
+- **18:11** — Them also king David dedicated unto the LORD, with the silver and the gold that he brought from all these nations; from Edom, and from Moab, and from the children of Ammon, and from the Philistines, and from Amalek.
+- **18:13** — And he put garrisons in Edom; and all the Edomites became David's servants. Thus the LORD preserved David whithersoever he went.
+- **18:14** — So David reigned over all Israel, and executed judgment and justice among all his people.
+- **18:17** — And Benaiah the son of Jehoiada was over the Cherethites and the Pelethites; and the sons of David were chief about the king.
+- **19:2** — And David said, I will shew kindness unto Hanun the son of Nahash, because his father shewed kindness to me. And David sent messengers to comfort him concerning his father. So the servants of David came into the land of the children of Ammon to Hanun, to comfort him.
+- **19:3** — But the princes of the children of Ammon said to Hanun, Thinkest thou that David doth honour thy father, that he hath sent comforters unto thee? are not his servants come unto thee for to search, and to overthrow, and to spy out the land?
+- **19:4** — Wherefore Hanun took David's servants, and shaved them, and cut off their garments in the midst hard by their buttocks, and sent them away.
+- **19:5** — Then there went certain, and told David how the men were served. And he sent to meet them: for the men were greatly ashamed. And the king said, Tarry at Jericho until your beards be grown, and then return.
+- **19:6** — And when the children of Ammon saw that they had made themselves odious to David, Hanun and the children of Ammon sent a thousand talents of silver to hire them chariots and horsemen out of Mesopotamia, and out of Syriamaachah, and out of Zobah.
+- **19:8** — And when David heard of it, he sent Joab, and all the host of the mighty men.
+- **19:17** — And it was told David; and he gathered all Israel, and passed over Jordan, and came upon them, and set the battle in array against them. So when David had put the battle in array against the Syrians, they fought with him.
+- **19:18** — But the Syrians fled before Israel; and David slew of the Syrians seven thousand men which fought in chariots, and forty thousand footmen, and killed Shophach the captain of the host.
+- **19:19** — And when the servants of Hadarezer saw that they were put to the worse before Israel, they made peace with David, and became his servants: neither would the Syrians help the children of Ammon any more.
+- **20:1** — And it came to pass, that after the year was expired, at the time that kings go out to battle, Joab led forth the power of the army, and wasted the country of the children of Ammon, and came and besieged Rabbah. But David tarried at Jerusalem. And Joab smote Rabbah, and destroyed it.
+- **20:2** — And David took the crown of their king from off his head, and found it to weigh a talent of gold, and there were precious stones in it; and it was set upon David's head: and he brought also exceeding much spoil out of the city.
+- **20:3** — And he brought out the people that were in it, and cut them with saws, and with harrows of iron, and with axes. Even so dealt David with all the cities of the children of Ammon. And David and all the people returned to Jerusalem.
+- **20:7** — But when he defied Israel, Jonathan the son of Shimea David's brother slew him.
+- **20:8** — These were born unto the giant in Gath; and they fell by the hand of David, and by the hand of his servants.
+- **21:1** — And Satan stood up against Israel, and provoked David to number Israel.
+- **21:2** — And David said to Joab and to the rulers of the people, Go, number Israel from Beersheba even to Dan; and bring the number of them to me, that I may know it.
+- **21:5** — And Joab gave the sum of the number of the people unto David. And all they of Israel were a thousand thousand and an hundred thousand men that drew sword: and Judah was four hundred threescore and ten thousand men that drew sword.
+- **21:8** — And David said unto God, I have sinned greatly, because I have done this thing: but now, I beseech thee, do away the iniquity of thy servant; for I have done very foolishly.
+- **21:9** — And the LORD spake unto Gad, David's seer, saying,
+- **21:10** — Go and tell David, saying, Thus saith the LORD, I offer thee three things: choose thee one of them, that I may do it unto thee.
+- **21:11** — So Gad came to David, and said unto him, Thus saith the LORD, Choose thee
+- **21:13** — And David said unto Gad, I am in a great strait: let me fall now into the hand of the LORD; for very great are his mercies: but let me not fall into the hand of man.
+- **21:16** — And David lifted up his eyes, and saw the angel of the LORD stand between the earth and the heaven, having a drawn sword in his hand stretched out over Jerusalem. Then David and the elders of Israel, who were clothed in sackcloth, fell upon their faces.
+- **21:17** — And David said unto God, Is it not I that commanded the people to be numbered? even I it is that have sinned and done evil indeed; but as for these sheep, what have they done? let thine hand, I pray thee, O LORD my God, be on me, and on my father's house; but not on thy people, that they should be plagued.
+- **21:18** — Then the angel of the LORD commanded Gad to say to David, that David should go up, and set up an altar unto the LORD in the threshingfloor of Ornan the Jebusite.
+- **21:19** — And David went up at the saying of Gad, which he spake in the name of the LORD.
+- **21:21** — And as David came to Ornan, Ornan looked and saw David, and went out of the threshingfloor, and bowed himself to David with his face to the ground.
+- **21:22** — Then David said to Ornan, Grant me the place of this threshingfloor, that I may build an altar therein unto the LORD: thou shalt grant it me for the full price: that the plague may be stayed from the people.
+- **21:23** — And Ornan said unto David, Take it to thee, and let my lord the king do that which is good in his eyes: lo, I give thee the oxen also for burnt offerings, and the threshing instruments for wood, and the wheat for the meat offering; I give it all.
+- **21:24** — And king David said to Ornan, Nay; but I will verily buy it for the full price: for I will not take that which is thine for the LORD, nor offer burnt offerings without cost.
+- **21:25** — So David gave to Ornan for the place six hundred shekels of gold by weight.
+- **21:26** — And David built there an altar unto the LORD, and offered burnt offerings and peace offerings, and called upon the LORD; and he answered him from heaven by fire upon the altar of burnt offering.
+- **21:28** — At that time when David saw that the LORD had answered him in the threshingfloor of Ornan the Jebusite, then he sacrificed there.
+- **21:30** — But David could not go before it to enquire of God: for he was afraid because of the sword of the angel of the LORD.
+- **22:1** — Then David said, This is the house of the LORD God, and this is the altar of the burnt offering for Israel.
+- **22:2** — And David commanded to gather together the strangers that were in the land of Israel; and he set masons to hew wrought stones to build the house of God.
+- **22:3** — And David prepared iron in abundance for the nails for the doors of the gates, and for the joinings; and brass in abundance without weight;
+- **22:4** — Also cedar trees in abundance: for the Zidonians and they of Tyre brought much cedar wood to David.
+- **22:5** — And David said, Solomon my son is young and tender, and the house that is to be builded for the LORD must be exceeding magnifical, of fame and of glory throughout all countries: I will therefore now make preparation for it. So David prepared abundantly before his death.
+- **22:7** — And David said to Solomon, My son, as for me, it was in my mind to build an house unto the name of the LORD my God:
+- **22:17** — David also commanded all the princes of Israel to help Solomon his son, saying,
+- **23:1** — So when David was old and full of days, he made Solomon his son king over Israel.
+- **23:5** — Moreover four thousand were porters; and four thousand praised the LORD with the instruments which I made, said David, to praise therewith.
+- **23:6** — And David divided them into courses among the sons of Levi, namely, Gershon, Kohath, and Merari.
+- **23:25** — For David said, The LORD God of Israel hath given rest unto his people, that they may dwell in Jerusalem for ever:
+- **23:27** — For by the last words of David the Levites were numbered from twenty years old and above:
+- **24:3** — And David distributed them, both Zadok of the sons of Eleazar, and Ahimelech of the sons of Ithamar, according to their offices in their service.
+- **24:31** — These likewise cast lots over against their brethren the sons of Aaron in the presence of David the king, and Zadok, and Ahimelech, and the chief of the fathers of the priests and Levites, even the principal fathers over against their younger brethren.
+- **25:1** — Moreover David and the captains of the host separated to the service of the sons of Asaph, and of Heman, and of Jeduthun, who should prophesy with harps, with psalteries, and with cymbals: and the number of the workmen according to their service was:
+- **26:26** — Which Shelomith and his brethren were over all the treasures of the dedicated things, which David the king, and the chief fathers, the captains over thousands and hundreds, and the captains of the host, had dedicated.
+- **26:31** — Among the Hebronites was Jerijah the chief, even among the Hebronites, according to the generations of his fathers. In the fortieth year of the reign of David they were sought for, and there were found among them mighty men of valour at Jazer of Gilead.
+- **26:32** — And his brethren, men of valour, were two thousand and seven hundred chief fathers, whom king David made rulers over the Reubenites, the Gadites, and the half tribe of Manasseh, for every matter pertaining to God, and affairs of the king.
+- **27:18** — Of Judah, Elihu, one of the brethren of David: of Issachar, Omri the son of Michael:
+- **27:23** — But David took not the number of them from twenty years old and under: because the LORD had said he would increase Israel like to the stars of the heavens.
+- **27:24** — Joab the son of Zeruiah began to number, but he finished not, because there fell wrath for it against Israel; neither was the number put in the account of the chronicles of king David.
+- **27:31** — And over the flocks was Jaziz the Hagerite. All these were the rulers of the substance which was king David's.
+- **27:32** — Also Jonathan David's uncle was a counsellor, a wise man, and a scribe: and Jehiel the son of Hachmoni was with the king's sons:
+- **28:1** — And David assembled all the princes of Israel, the princes of the tribes, and the captains of the companies that ministered to the king by course, and the captains over the thousands, and captains over the hundreds, and the stewards over all the substance and possession of the king, and of his sons, with the officers, and with the mighty men, and with all the valiant men, unto Jerusalem.
+- **28:2** — Then David the king stood up upon his feet, and said, Hear me, my brethren, and my people: As for me, I had in mine heart to build an house of rest for the ark of the covenant of the LORD, and for the footstool of our God, and had made ready for the building:
+- **28:11** — Then David gave to Solomon his son the pattern of the porch, and of the houses thereof, and of the treasuries thereof, and of the upper chambers thereof, and of the inner parlours thereof, and of the place of the mercy seat,
+- **28:19** — All this, said David, the LORD made me understand in writing by his hand upon me, even all the works of this pattern.
+- **28:20** — And David said to Solomon his son, Be strong and of good courage, and do it: fear not, nor be dismayed: for the LORD God, even my God, will be with thee; he will not fail thee, nor forsake thee, until thou hast finished all the work for the service of the house of the LORD.
+- **29:1** — Furthermore David the king said unto all the congregation, Solomon my son, whom alone God hath chosen, is yet young and tender, and the work is great: for the palace is not for man, but for the LORD God.
+- **29:9** — Then the people rejoiced, for that they offered willingly, because with perfect heart they offered willingly to the LORD: and David the king also rejoiced with great joy.
+- **29:10** — Wherefore David blessed the LORD before all the congregation: and David said, Blessed be thou, LORD God of Israel our father, for ever and ever.
+- **29:20** — And David said to all the congregation, Now bless the LORD your God. And all the congregation blessed the LORD God of their fathers, and bowed down their heads, and worshipped the LORD, and the king.
+- **29:22** — And did eat and drink before the LORD on that day with great gladness. And they made Solomon the son of David king the second time, and anointed him unto the LORD to be the chief governor, and Zadok to be priest.
+- **29:23** — Then Solomon sat on the throne of the LORD as king instead of David his father, and prospered; and all Israel obeyed him.
+- **29:24** — And all the princes, and the mighty men, and all the sons likewise of king David, submitted themselves unto Solomon the king.
+- **29:26** — Thus David the son of Jesse reigned over all Israel.
+- **29:29** — Now the acts of David the king, first and last, behold, they are written in the book of Samuel the seer, and in the book of Nathan the prophet, and in the book of Gad the seer,
+
+### [[2 Chronicles]]
+- **1:1** — And Solomon the son of David was strengthened in his kingdom, and the LORD his God was with him, and magnified him exceedingly.
+- **1:4** — But the ark of God had David brought up from Kirjathjearim to the place which David had prepared for it: for he had pitched a tent for it at Jerusalem.
+- **1:8** — And Solomon said unto God, Thou hast shewed great mercy unto David my father, and hast made me to reign in his stead.
+- **1:9** — Now, O LORD God, let thy promise unto David my father be established: for thou hast made me king over a people like the dust of the earth in multitude.
+- **2:3** — And Solomon sent to Huram the king of Tyre, saying, As thou didst deal with David my father, and didst send him cedars to build him an house to dwell therein, even so deal with me.
+- **2:7** — Send me now therefore a man cunning to work in gold, and in silver, and in brass, and in iron, and in purple, and crimson, and blue, and that can skill to grave with the cunning men that are with me in Judah and in Jerusalem, whom David my father did provide.
+- **2:12** — Huram said moreover, Blessed be the LORD God of Israel, that made heaven and earth, who hath given to David the king a wise son, endued with prudence and understanding, that might build an house for the LORD, and an house for his kingdom.
+- **2:14** — The son of a woman of the daughters of Dan, and his father was a man of Tyre, skilful to work in gold, and in silver, in brass, in iron, in stone, and in timber, in purple, in blue, and in fine linen, and in crimson; also to grave any manner of graving, and to find out every device which shall be put to him, with thy cunning men, and with the cunning men of my lord David thy father.
+- **2:17** — And Solomon numbered all the strangers that were in the land of Israel, after the numbering wherewith David his father had numbered them; and they were found an hundred and fifty thousand and three thousand and six hundred.
+- **3:1** — Then Solomon began to build the house of the LORD at Jerusalem in mount Moriah, where the LORD appeared unto David his father, in the place that David had prepared in the threshingfloor of Ornan the Jebusite.
+- **5:1** — Thus all the work that Solomon made for the house of the LORD was finished: and Solomon brought in all the things that David his father had dedicated; and the silver, and the gold, and all the instruments, put he among the treasures of the house of God.
+- **5:2** — Then Solomon assembled the elders of Israel, and all the heads of the tribes, the chief of the fathers of the children of Israel, unto Jerusalem, to bring up the ark of the covenant of the LORD out of the city of David, which is Zion.
+- **6:4** — And he said, Blessed be the LORD God of Israel, who hath with his hands fulfilled that which he spake with his mouth to my father David, saying,
+- **6:6** — But I have chosen Jerusalem, that my name might be there; and have chosen David to be over my people Israel.
+- **6:7** — Now it was in the heart of David my father to build an house for the name of the LORD God of Israel.
+- **6:8** — But the LORD said to David my father, Forasmuch as it was in thine heart to build an house for my name, thou didst well in that it was in thine heart:
+- **6:10** — The LORD therefore hath performed his word that he hath spoken: for I am risen up in the room of David my father, and am set on the throne of Israel, as the LORD promised, and have built the house for the name of the LORD God of Israel.
+- **6:15** — Thou which hast kept with thy servant David my father that which thou hast promised him; and spakest with thy mouth, and hast fulfilled it with thine hand, as it is this day.
+- **6:16** — Now therefore, O LORD God of Israel, keep with thy servant David my father that which thou hast promised him, saying, There shall not fail thee a man in my sight to sit upon the throne of Israel; yet so that thy children take heed to their way to walk in my law, as thou hast walked before me.
+- **6:17** — Now then, O LORD God of Israel, let thy word be verified, which thou hast spoken unto thy servant David.
+- **6:42** — O LORD God, turn not away the face of thine anointed: remember the mercies of David thy servant.
+- **7:6** — And the priests waited on their offices: the Levites also with instruments of musick of the LORD, which David the king had made to praise the LORD, because his mercy endureth for ever, when David praised by their ministry; and the priests sounded trumpets before them, and all Israel stood.
+- **7:10** — And on the three and twentieth day of the seventh month he sent the people away into their tents, glad and merry in heart for the goodness that the LORD had shewed unto David, and to Solomon, and to Israel his people.
+- **7:17** — And as for thee, if thou wilt walk before me, as David thy father walked, and do according to all that I have commanded thee, and shalt observe my statutes and my judgments;
+- **7:18** — Then will I stablish the throne of thy kingdom, according as I have covenanted with David thy father, saying, There shall not fail thee a man to be ruler in Israel.
+- **8:11** — And Solomon brought up the daughter of Pharaoh out of the city of David unto the house that he had built for her: for he said, My wife shall not dwell in the house of David king of Israel, because the places are holy, whereunto the ark of the LORD hath come.
+- **8:14** — And he appointed, according to the order of David his father, the courses of the priests to their service, and the Levites to their charges, to praise and minister before the priests, as the duty of every day required: the porters also by their courses at every gate: for so had David the man of God commanded.
+- **9:31** — And Solomon slept with his fathers, and he was buried in the city of David his father: and Rehoboam his son reigned in his stead.
+- **10:16** — And when all Israel saw that the king would not hearken unto them, the people answered the king, saying, What portion have we in David? and we have none inheritance in the son of Jesse: every man to your tents, O Israel: and now, David, see to thine own house. So all Israel went to their tents.
+- **10:19** — And Israel rebelled against the house of David unto this day.
+- **11:17** — So they strengthened the kingdom of Judah, and made Rehoboam the son of Solomon strong, three years: for three years they walked in the way of David and Solomon.
+- **11:18** — And Rehoboam took him Mahalath the daughter of Jerimoth the son of David to wife, and Abihail the daughter of Eliab the son of Jesse;
+- **12:16** — And Rehoboam slept with his fathers, and was buried in the city of David: and Abijah his son reigned in his stead.
+- **13:5** — Ought ye not to know that the LORD God of Israel gave the kingdom over Israel to David for ever, even to him and to his sons by a covenant of salt?
+- **13:6** — Yet Jeroboam the son of Nebat, the servant of Solomon the son of David, is risen up, and hath rebelled against his lord.
+- **13:8** — And now ye think to withstand the kingdom of the LORD in the hand of the sons of David; and ye be a great multitude, and there are with you golden calves, which Jeroboam made you for gods.
+- **14:1** — So Abijah slept with his fathers, and they buried him in the city of David: and Asa his son reigned in his stead. In his days the land was quiet ten years.
+- **16:14** — And they buried him in his own sepulchres, which he had made for himself in the city of David, and laid him in the bed which was filled with sweet odours and divers kinds of spices prepared by the apothecaries' art: and they made a very great burning for him.
+- **17:3** — And the LORD was with Jehoshaphat, because he walked in the first ways of his father David, and sought not unto Baalim;
+- **21:1** — Now Jehoshaphat slept with his fathers, and was buried with his fathers in the city of David. And Jehoram his son reigned in his stead.
+- **21:7** — Howbeit the LORD would not destroy the house of David, because of the covenant that he had made with David, and as he promised to give a light to him and to his sons for ever.
+- **21:12** — And there came a writing to him from Elijah the prophet, saying, Thus saith the LORD God of David thy father, Because thou hast not walked in the ways of Jehoshaphat thy father, nor in the ways of Asa king of Judah,
+- **21:20** — Thirty and two years old was he when he began to reign, and he reigned in Jerusalem eight years, and departed without being desired. Howbeit they buried him in the city of David, but not in the sepulchres of the kings.
+- **23:3** — And all the congregation made a covenant with the king in the house of God. And he said unto them, Behold, the king's son shall reign, as the LORD hath said of the sons of David.
+- **23:9** — Moreover Jehoiada the priest delivered to the captains of hundreds spears, and bucklers, and shields, that had been king David's, which were in the house of God.
+- **23:18** — Also Jehoiada appointed the offices of the house of the LORD by the hand of the priests the Levites, whom David had distributed in the house of the LORD, to offer the burnt offerings of the LORD, as it is written in the law of Moses, with rejoicing and with singing, as it was ordained by David.
+- **24:16** — And they buried him in the city of David among the kings, because he had done good in Israel, both toward God, and toward his house.
+- **24:25** — And when they were departed from him, (for they left him in great diseases,) his own servants conspired against him for the blood of the sons of Jehoiada the priest, and slew him on his bed, and he died: and they buried him in the city of David, but they buried him not in the sepulchres of the kings.
+- **27:9** — And Jotham slept with his fathers, and they buried him in the city of David: and Ahaz his son reigned in his stead.
+- **28:1** — Ahaz was twenty years old when he began to reign, and he reigned sixteen years in Jerusalem: but he did not that which was right in the sight of the LORD, like David his father:
+- **29:2** — And he did that which was right in the sight of the LORD, according to all that David his father had done.
+- **29:25** — And he set the Levites in the house of the LORD with cymbals, with psalteries, and with harps, according to the commandment of David, and of Gad the king's seer, and Nathan the prophet: for so was the commandment of the LORD by his prophets.
+- **29:26** — And the Levites stood with the instruments of David, and the priests with the trumpets.
+- **29:27** — And Hezekiah commanded to offer the burnt offering upon the altar. And when the burnt offering began, the song of the LORD began also with the trumpets, and with the instruments ordained by David king of Israel.
+- **29:30** — Moreover Hezekiah the king and the princes commanded the Levites to sing praise unto the LORD with the words of David, and of Asaph the seer. And they sang praises with gladness, and they bowed their heads and worshipped.
+- **30:26** — So there was great joy in Jerusalem: for since the time of Solomon the son of David king of Israel there was not the like in Jerusalem.
+- **32:5** — Also he strengthened himself, and built up all the wall that was broken, and raised it up to the towers, and another wall without, and repaired Millo in the city of David, and made darts and shields in abundance.
+- **32:30** — This same Hezekiah also stopped the upper watercourse of Gihon, and brought it straight down to the west side of the city of David. And Hezekiah prospered in all his works.
+- **32:33** — And Hezekiah slept with his fathers, and they buried him in the chiefest of the sepulchres of the sons of David: and all Judah and the inhabitants of Jerusalem did him honour at his death. And Manasseh his son reigned in his stead.
+- **33:7** — And he set a carved image, the idol which he had made, in the house of God, of which God had said to David and to Solomon his son, In this house, and in Jerusalem, which I have chosen before all the tribes of Israel, will I put my name for ever:
+- **33:14** — Now after this he built a wall without the city of David, on the west side of Gihon, in the valley, even to the entering in at the fish gate, and compassed about Ophel, and raised it up a very great height, and put captains of war in all the fenced cities of Judah.
+- **34:2** — And he did that which was right in the sight of the LORD, and walked in the ways of David his father, and declined neither to the right hand, nor to the left.
+- **34:3** — For in the eighth year of his reign, while he was yet young, he began to seek after the God of David his father: and in the twelfth year he began to purge Judah and Jerusalem from the high places, and the groves, and the carved images, and the molten images.
+- **35:3** — And said unto the Levites that taught all Israel, which were holy unto the LORD, Put the holy ark in the house which Solomon the son of David king of Israel did build; it shall not be a burden upon your shoulders: serve now the LORD your God, and his people Israel,
+- **35:4** — And prepare yourselves by the houses of your fathers, after your courses, according to the writing of David king of Israel, and according to the writing of Solomon his son.
+- **35:15** — And the singers the sons of Asaph were in their place, according to the commandment of David, and Asaph, and Heman, and Jeduthun the king's seer; and the porters waited at every gate; they might not depart from their service; for their brethren the Levites prepared for them.
+
+### [[Ezra]]
+- **3:10** — And when the builders laid the foundation of the temple of the LORD, they set the priests in their apparel with trumpets, and the Levites the sons of Asaph with cymbals, to praise the LORD, after the ordinance of David king of Israel.
+- **8:2** — Of the sons of Phinehas; Gershom: of the sons of Ithamar; Daniel: of the sons of David; Hattush.
+- **8:20** — Also of the Nethinims, whom David and the princes had appointed for the service of the Levites, two hundred and twenty Nethinims: all of them were expressed by name.
+
+### [[Nehemiah]]
+- **3:15** — But the gate of the fountain repaired Shallun the son of Colhozeh, the ruler of part of Mizpah; he built it, and covered it, and set up the doors thereof, the locks thereof, and the bars thereof, and the wall of the pool of Siloah by the king's garden, and unto the stairs that go down from the city of David.
+- **3:16** — After him repaired Nehemiah the son of Azbuk, the ruler of the half part of Bethzur, unto the place over against the sepulchres of David, and to the pool that was made, and unto the house of the mighty.
+- **12:24** — And the chief of the Levites: Hashabiah, Sherebiah, and Jeshua the son of Kadmiel, with their brethren over against them, to praise and to give thanks, according to the commandment of David the man of God, ward over against ward.
+- **12:36** — And his brethren, Shemaiah, and Azarael, Milalai, Gilalai, Maai, Nethaneel, and Judah, Hanani, with the musical instruments of David the man of God, and Ezra the scribe before them.
+- **12:37** — And at the fountain gate, which was over against them, they went up by the stairs of the city of David, at the going up of the wall, above the house of David, even unto the water gate eastward.
+- **12:45** — And both the singers and the porters kept the ward of their God, and the ward of the purification, according to the commandment of David, and of Solomon his son.
+- **12:46** — For in the days of David and Asaph of old there were chief of the singers, and songs of praise and thanksgiving unto God.
+
+### [[Psalms]]
+- **3:1** — LORD, how are they increased that trouble me! many are they that rise up against me.
+- **4:1** — Hear me when I call, O God of my righteousness: thou hast enlarged me when I was in distress; have mercy upon me, and hear my prayer.
+- **5:1** — Give ear to my words, O LORD, consider my meditation.
+- **6:1** — O LORD, rebuke me not in thine anger, neither chasten me in thy hot displeasure.
+- **7:1** — O LORD my God, in thee do I put my trust: save me from all them that persecute me, and deliver me:
+- **8:1** — O LORD our Lord, how excellent is thy name in all the earth! who hast set thy glory above the heavens.
+- **9:1** — I will praise thee, O LORD, with my whole heart; I will shew forth all thy marvellous works.
+- **11:1** — In the LORD put I my trust: how say ye to my soul, Flee as a bird to your mountain?
+- **12:1** — Help, LORD; for the godly man ceaseth; for the faithful fail from among the children of men.
+- **13:1** — How long wilt thou forget me, O LORD? for ever? how long wilt thou hide thy face from me?
+- **14:1** — The fool hath said in his heart, There is no God. They are corrupt, they have done abominable works, there is none that doeth good.
+- **15:1** — LORD, who shall abide in thy tabernacle? who shall dwell in thy holy hill?
+- **16:1** — Preserve me, O God: for in thee do I put my trust.
+- **17:1** — Hear the right, O LORD, attend unto my cry, give ear unto my prayer, that goeth not out of feigned lips.
+- **18:1** — I will love thee, O LORD, my strength.
+- **18:50** — Great deliverance giveth he to his king; and sheweth mercy to his anointed, to David, and to his seed for evermore.
+- **19:1** — The heavens declare the glory of God; and the firmament sheweth his handywork.
+- **20:1** — The LORD hear thee in the day of trouble; the name of the God of Jacob defend thee;
+- **21:1** — The king shall joy in thy strength, O LORD; and in thy salvation how greatly shall he rejoice!
+- **22:1** — My God, my God, why hast thou forsaken me? why art thou so far from helping me, and from the words of my roaring?
+- **23:1** — The LORD is my shepherd; I shall not want.
+- **24:1** — The earth is the LORD'S, and the fulness thereof; the world, and they that dwell therein.
+- **25:1** — Unto thee, O LORD, do I lift up my soul.
+- **26:1** — Judge me, O LORD; for I have walked in mine integrity: I have trusted also in the LORD; therefore I shall not slide.
+- **27:1** — The LORD is my light and my salvation; whom shall I fear? the LORD is the strength of my life; of whom shall I be afraid?
+- **28:1** — Unto thee will I cry, O LORD my rock; be not silent to me: lest, if thou be silent to me, I become like them that go down into the pit.
+- **29:1** — Give unto the LORD, O ye mighty, give unto the LORD glory and strength.
+- **30:1** — I will extol thee, O LORD; for thou hast lifted me up, and hast not made my foes to rejoice over me.
+- **31:1** — In thee, O LORD, do I put my trust; let me never be ashamed: deliver me in thy righteousness.
+- **32:1** — Blessed is he whose transgression is forgiven, whose sin is covered.
+- **34:1** — I will bless the LORD at all times: his praise shall continually be in my mouth.
+- **35:1** — Plead my cause, O LORD, with them that strive with me: fight against them that fight against me.
+- **36:1** — The transgression of the wicked saith within my heart, that there is no fear of God before his eyes.
+- **37:1** — Fret not thyself because of evildoers, neither be thou envious against the workers of iniquity.
+- **38:1** — O LORD, rebuke me not in thy wrath: neither chasten me in thy hot displeasure.
+- **39:1** — I said, I will take heed to my ways, that I sin not with my tongue: I will keep my mouth with a bridle, while the wicked is before me.
+- **40:1** — I waited patiently for the LORD; and he inclined unto me, and heard my cry.
+- **41:1** — Blessed is he that considereth the poor: the LORD will deliver him in time of trouble.
+- **51:1** — Have mercy upon me, O God, according to thy lovingkindness: according unto the multitude of thy tender mercies blot out my transgressions.
+- **52:1** — Why boastest thou thyself in mischief, O mighty man? the goodness of God endureth continually.
+- **53:1** — The fool hath said in his heart, There is no God. Corrupt are they, and have done abominable iniquity: there is none that doeth good.
+- **54:1** — Save me, O God, by thy name, and judge me by thy strength.
+- **55:1** — Give ear to my prayer, O God; and hide not thyself from my supplication.
+- **56:1** — Be merciful unto me, O God: for man would swallow me up; he fighting daily oppresseth me.
+- **57:1** — Be merciful unto me, O God, be merciful unto me: for my soul trusteth in thee: yea, in the shadow of thy wings will I make my refuge, until these calamities be overpast.
+- **58:1** — Do ye indeed speak righteousness, O congregation? do ye judge uprightly, O ye sons of men?
+- **59:1** — Deliver me from mine enemies, O my God: defend me from them that rise up against me.
+- **60:1** — O God, thou hast cast us off, thou hast scattered us, thou hast been displeased; O turn thyself to us again.
+- **61:1** — Hear my cry, O God; attend unto my prayer.
+- **62:1** — Truly my soul waiteth upon God: from him cometh my salvation.
+- **63:1** — O God, thou art my God; early will I seek thee: my soul thirsteth for thee, my flesh longeth for thee in a dry and thirsty land, where no water is;
+- **64:1** — Hear my voice, O God, in my prayer: preserve my life from fear of the enemy.
+- **65:1** — Praise waiteth for thee, O God, in Sion: and unto thee shall the vow be performed.
+- **68:1** — Let God arise, let his enemies be scattered: let them also that hate him flee before him.
+- **69:1** — Save me, O God; for the waters are come in unto my soul.
+- **70:1** — Make haste, O God, to deliver me; make haste to help me, O LORD.
+- **72:20** — The prayers of David the son of Jesse are ended.
+- **78:70** — He chose David also his servant, and took him from the sheepfolds:
+- **86:1** — Bow down thine ear, O LORD, hear me: for I am poor and needy.
+- **89:3** — I have made a covenant with my chosen, I have sworn unto David my servant,
+- **89:20** — I have found David my servant; with my holy oil have I anointed him:
+- **89:35** — Once have I sworn by my holiness that I will not lie unto David.
+- **89:49** — Lord, where are thy former lovingkindnesses, which thou swarest unto David in thy truth?
+- **101:1** — I will sing of mercy and judgment: unto thee, O LORD, will I sing.
+- **103:1** — Bless the LORD, O my soul: and all that is within me, bless his holy name.
+- **108:1** — O God, my heart is fixed; I will sing and give praise, even with my glory.
+- **109:1** — Hold not thy peace, O God of my praise;
+- **110:1** — The LORD said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool.
+- **122:1** — I was glad when they said unto me, Let us go into the house of the LORD.
+- **122:5** — For there are set thrones of judgment, the thrones of the house of David.
+- **124:1** — If it had not been the LORD who was on our side, now may Israel say;
+- **131:1** — LORD, my heart is not haughty, nor mine eyes lofty: neither do I exercise myself in great matters, or in things too high for me.
+- **132:1** — A Song of degrees. LORD, remember David, and all his afflictions:
+- **132:10** — For thy servant David's sake turn not away the face of thine anointed.
+- **132:11** — The LORD hath sworn in truth unto David; he will not turn from it; Of the fruit of thy body will I set upon thy throne.
+- **132:17** — There will I make the horn of David to bud: I have ordained a lamp for mine anointed.
+- **133:1** — Behold, how good and how pleasant it is for brethren to dwell together in unity!
+- **138:1** — I will praise thee with my whole heart: before the gods will I sing praise unto thee.
+- **139:1** — O LORD, thou hast searched me, and known me.
+- **140:1** — Deliver me, O LORD, from the evil man: preserve me from the violent man;
+- **141:1** — LORD, I cry unto thee: make haste unto me; give ear unto my voice, when I cry unto thee.
+- **142:1** — I cried unto the LORD with my voice; with my voice unto the LORD did I make my supplication.
+- **143:1** — Hear my prayer, O LORD, give ear to my supplications: in thy faithfulness answer me, and in thy righteousness.
+- **144:1** — Blessed be the LORD my strength, which teacheth my hands to war, and my fingers to fight:
+- **144:10** — It is he that giveth salvation unto kings: who delivereth David his servant from the hurtful sword.
+- **145:1** — I will extol thee, my God, O king; and I will bless thy name for ever and ever.
+
+### [[Proverbs]]
+- **1:1** — The proverbs of Solomon the son of David, king of Israel;
+
+### [[Ecclesiastes]]
+- **1:1** — The words of the Preacher, the son of David, king in Jerusalem.
+
+### [[Song of Solomon]]
+- **4:4** — Thy neck is like the tower of David builded for an armoury, whereon there hang a thousand bucklers, all shields of mighty men.
+
+### [[Isaiah]]
+- **7:2** — And it was told the house of David, saying, Syria is confederate with Ephraim. And his heart was moved, and the heart of his people, as the trees of the wood are moved with the wind.
+- **7:13** — And he said, Hear ye now, O house of David; Is it a small thing for you to weary men, but will ye weary my God also?
+- **9:7** — Of the increase of his government and peace there shall be no end, upon the throne of David, and upon his kingdom, to order it, and to establish it with judgment and with justice from henceforth even for ever. The zeal of the LORD of hosts will perform this.
+- **16:5** — And in mercy shall the throne be established: and he shall sit upon it in truth in the tabernacle of David, judging, and seeking judgment, and hasting righteousness.
+- **22:9** — Ye have seen also the breaches of the city of David, that they are many: and ye gathered together the waters of the lower pool.
+- **22:22** — And the key of the house of David will I lay upon his shoulder; so he shall open, and none shall shut; and he shall shut, and none shall open.
+- **29:1** — Woe to Ariel, to Ariel, the city where David dwelt! add ye year to year; let them kill sacrifices.
+- **37:35** — For I will defend this city to save it for mine own sake, and for my servant David's sake.
+- **38:5** — Go, and say to Hezekiah, Thus saith the LORD, the God of David thy father, I have heard thy prayer, I have seen thy tears: behold, I will add unto thy days fifteen years.
+- **55:3** — Incline your ear, and come unto me: hear, and your soul shall live; and I will make an everlasting covenant with you, even the sure mercies of David.
+
+### [[Jeremiah]]
+- **13:13** — Then shalt thou say unto them, Thus saith the LORD, Behold, I will fill all the inhabitants of this land, even the kings that sit upon David's throne, and the priests, and the prophets, and all the inhabitants of Jerusalem, with drunkenness.
+- **17:25** — Then shall there enter into the gates of this city kings and princes sitting upon the throne of David, riding in chariots and on horses, they, and their princes, the men of Judah, and the inhabitants of Jerusalem: and this city shall remain for ever.
+- **21:12** — O house of David, thus saith the LORD; Execute judgment in the morning, and deliver him that is spoiled out of the hand of the oppressor, lest my fury go out like fire, and burn that none can quench it, because of the evil of your doings.
+- **22:2** — And say, Hear the word of the LORD, O king of Judah, that sittest upon the throne of David, thou, and thy servants, and thy people that enter in by these gates:
+- **22:4** — For if ye do this thing indeed, then shall there enter in by the gates of this house kings sitting upon the throne of David, riding in chariots and on horses, he, and his servants, and his people.
+- **22:30** — Thus saith the LORD, Write ye this man childless, a man that shall not prosper in his days: for no man of his seed shall prosper, sitting upon the throne of David, and ruling any more in Judah.
+- **23:5** — Behold, the days come, saith the LORD, that I will raise unto David a righteous Branch, and a King shall reign and prosper, and shall execute judgment and justice in the earth.
+- **29:16** — Know that thus saith the LORD of the king that sitteth upon the throne of David, and of all the people that dwelleth in this city, and of your brethren that are not gone forth with you into captivity;
+- **30:9** — But they shall serve the LORD their God, and David their king, whom I will raise up unto them.
+- **33:15** — In those days, and at that time, will I cause the Branch of righteousness to grow up unto David; and he shall execute judgment and righteousness in the land.
+- **33:17** — For thus saith the LORD; David shall never want a man to sit upon the throne of the house of Israel;
+- **33:21** — Then may also my covenant be broken with David my servant, that he should not have a son to reign upon his throne; and with the Levites the priests, my ministers.
+- **33:22** — As the host of heaven cannot be numbered, neither the sand of the sea measured: so will I multiply the seed of David my servant, and the Levites that minister unto me.
+- **33:26** — Then will I cast away the seed of Jacob, and David my servant, so that I will not take any of his seed to be rulers over the seed of Abraham, Isaac, and Jacob: for I will cause their captivity to return, and have mercy on them.
+- **36:30** — Therefore thus saith the LORD of Jehoiakim king of Judah; He shall have none to sit upon the throne of David: and his dead body shall be cast out in the day to the heat, and in the night to the frost.
+
+### [[Ezekiel]]
+- **34:23** — And I will set up one shepherd over them, and he shall feed them, even my servant David; he shall feed them, and he shall be their shepherd.
+- **34:24** — And I the LORD will be their God, and my servant David a prince among them; I the LORD have spoken it.
+- **37:24** — And David my servant shall be king over them; and they all shall have one shepherd: they shall also walk in my judgments, and observe my statutes, and do them.
+- **37:25** — And they shall dwell in the land that I have given unto Jacob my servant, wherein your fathers have dwelt; and they shall dwell therein, even they, and their children, and their children's children for ever: and my servant David shall be their prince for ever.
+
+### [[Hosea]]
+- **3:5** — Afterward shall the children of Israel return, and seek the LORD their God, and David their king; and shall fear the LORD and his goodness in the latter days.
+
+### [[Amos]]
+- **6:5** — That chant to the sound of the viol, and invent to themselves instruments of musick, like David;
+- **9:11** — In that day will I raise up the tabernacle of David that is fallen, and close up the breaches thereof; and I will raise up his ruins, and I will build it as in the days of old:
+
+### [[Zechariah]]
+- **12:7** — The LORD also shall save the tents of Judah first, that the glory of the house of David and the glory of the inhabitants of Jerusalem do not magnify themselves against Judah.
+- **12:8** — In that day shall the LORD defend the inhabitants of Jerusalem; and he that is feeble among them at that day shall be as David; and the house of David shall be as God, as the angel of the LORD before them.
+- **12:10** — And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and of supplications: and they shall look upon me whom they have pierced, and they shall mourn for him, as one mourneth for his only son, and shall be in bitterness for him, as one that is in bitterness for his firstborn.
+- **12:12** — And the land shall mourn, every family apart; the family of the house of David apart, and their wives apart; the family of the house of Nathan apart, and their wives apart;
+- **13:1** — In that day there shall be a fountain opened to the house of David and to the inhabitants of Jerusalem for sin and for uncleanness.
+
+### [[Matthew]]
+- **1:1** — The book of the generation of Jesus Christ, the son of David, the son of Abraham.
+- **1:6** — And Jesse begat David the king; and David the king begat Solomon of her that had been the wife of Urias;
+- **1:17** — So all the generations from Abraham to David are fourteen generations; and from David until the carrying away into Babylon are fourteen generations; and from the carrying away into Babylon unto Christ are fourteen generations.
+- **1:20** — But while he thought on these things, behold, the angel of the Lord appeared unto him in a dream, saying, Joseph, thou son of David, fear not to take unto thee Mary thy wife: for that which is conceived in her is of the Holy Ghost.
+- **9:27** — And when Jesus departed thence, two blind men followed him, crying, and saying, Thou Son of David, have mercy on us.
+- **12:3** — But he said unto them, Have ye not read what David did, when he was an hungred, and they that were with him;
+- **12:23** — And all the people were amazed, and said, Is not this the son of David?
+- **15:22** — And, behold, a woman of Canaan came out of the same coasts, and cried unto him, saying, Have mercy on me, O Lord, thou Son of David; my daughter is grievously vexed with a devil.
+- **20:30** — And, behold, two blind men sitting by the way side, when they heard that Jesus passed by, cried out, saying, Have mercy on us, O Lord, thou Son of David.
+- **20:31** — And the multitude rebuked them, because they should hold their peace: but they cried the more, saying, Have mercy on us, O Lord, thou Son of David.
+- **21:9** — And the multitudes that went before, and that followed, cried, saying, Hosanna to the Son of David: Blessed is he that cometh in the name of the Lord; Hosanna in the highest.
+- **21:15** — And when the chief priests and scribes saw the wonderful things that he did, and the children crying in the temple, and saying, Hosanna to the Son of David; they were sore displeased,
+- **22:42** — Saying, What think ye of Christ? whose son is he? They say unto him, The Son of David.
+- **22:43** — He saith unto them, How then doth David in spirit call him Lord, saying,
+- **22:45** — If David then call him Lord, how is he his son?
+
+### [[Mark]]
+- **2:25** — And he said unto them, Have ye never read what David did, when he had need, and was an hungred, he, and they that were with him?
+- **10:47** — And when he heard that it was Jesus of Nazareth, he began to cry out, and say, Jesus, thou Son of David, have mercy on me.
+- **10:48** — And many charged him that he should hold his peace: but he cried the more a great deal, Thou Son of David, have mercy on me.
+- **11:10** — Blessed be the kingdom of our father David, that cometh in the name of the Lord: Hosanna in the highest.
+- **12:35** — And Jesus answered and said, while he taught in the temple, How say the scribes that Christ is the Son of David?
+- **12:36** — For David himself said by the Holy Ghost, The LORD said to my Lord, Sit thou on my right hand, till I make thine enemies thy footstool.
+- **12:37** — David therefore himself calleth him Lord; and whence is he then his son? And the common people heard him gladly.
+
+### [[Luke]]
+- **1:27** — To a virgin espoused to a man whose name was Joseph, of the house of David; and the virgin's name was Mary.
+- **1:32** — He shall be great, and shall be called the Son of the Highest: and the Lord God shall give unto him the throne of his father David:
+- **1:69** — And hath raised up an horn of salvation for us in the house of his servant David;
+- **2:4** — And Joseph also went up from Galilee, out of the city of Nazareth, into Judaea, unto the city of David, which is called Bethlehem; (because he was of the house and lineage of David:)
+- **2:11** — For unto you is born this day in the city of David a Saviour, which is Christ the Lord.
+- **3:31** — Which was the son of Melea, which was the son of Menan, which was the son of Mattatha, which was the son of Nathan, which was the son of David,
+- **6:3** — And Jesus answering them said, Have ye not read so much as this, what David did, when himself was an hungred, and they which were with him;
+- **18:38** — And he cried, saying, Jesus, thou Son of David, have mercy on me.
+- **18:39** — And they which went before rebuked him, that he should hold his peace: but he cried so much the more, Thou Son of David, have mercy on me.
+- **20:41** — And he said unto them, How say they that Christ is David's son?
+- **20:42** — And David himself saith in the book of Psalms, The LORD said unto my Lord, Sit thou on my right hand,
+- **20:44** — David therefore calleth him Lord, how is he then his son?
+
+### [[John]]
+- **7:42** — Hath not the scripture said, That Christ cometh of the seed of David, and out of the town of Bethlehem, where David was?
+
+### [[Acts]]
+- **1:16** — Men and brethren, this scripture must needs have been fulfilled, which the Holy Ghost by the mouth of David spake before concerning Judas, which was guide to them that took Jesus.
+- **2:25** — For David speaketh concerning him, I foresaw the Lord always before my face, for he is on my right hand, that I should not be moved:
+- **2:29** — Men and brethren, let me freely speak unto you of the patriarch David, that he is both dead and buried, and his sepulchre is with us unto this day.
+- **2:34** — For David is not ascended into the heavens: but he saith himself, The LORD said unto my Lord, Sit thou on my right hand,
+- **4:25** — Who by the mouth of thy servant David hast said, Why did the heathen rage, and the people imagine vain things?
+- **7:45** — Which also our fathers that came after brought in with Jesus into the possession of the Gentiles, whom God drave out before the face of our fathers, unto the days of David;
+- **13:22** — And when he had removed him, he raised up unto them David to be their king; to whom also he gave testimony, and said, I have found David the son of Jesse, a man after mine own heart, which shall fulfil all my will.
+- **13:34** — And as concerning that he raised him up from the dead, now no more to return to corruption, he said on this wise, I will give you the sure mercies of David.
+- **13:36** — For David, after he had served his own generation by the will of God, fell on sleep, and was laid unto his fathers, and saw corruption:
+- **15:16** — After this I will return, and will build again the tabernacle of David, which is fallen down; and I will build again the ruins thereof, and I will set it up:
+
+### [[Romans]]
+- **1:3** — Concerning his Son Jesus Christ our Lord, which was made of the seed of David according to the flesh;
+- **4:6** — Even as David also describeth the blessedness of the man, unto whom God imputeth righteousness without works,
+- **11:9** — And David saith, Let their table be made a snare, and a trap, and a stumblingblock, and a recompence unto them:
+
+### [[2 Timothy]]
+- **2:8** — Remember that Jesus Christ of the seed of David was raised from the dead according to my gospel:
+
+### [[Hebrews]]
+- **4:7** — Again, he limiteth a certain day, saying in David, To day, after so long a time; as it is said, To day if ye will hear his voice, harden not your hearts.
+- **11:32** — And what shall I more say? for the time would fail me to tell of Gedeon, and of Barak, and of Samson, and of Jephthae; of David also, and Samuel, and of the prophets:
+
+### [[Revelation]]
+- **3:7** — And to the angel of the church in Philadelphia write; These things saith he that is holy, he that is true, he that hath the key of David, he that openeth, and no man shutteth; and shutteth, and no man openeth;
+- **5:5** — And one of the elders saith unto me, Weep not: behold, the Lion of the tribe of Juda, the Root of David, hath prevailed to open the book, and to loose the seven seals thereof.
+- **22:16** — I Jesus have sent mine angel to testify unto you these things in the churches. I am the root and the offspring of David, and the bright and morning star.
+

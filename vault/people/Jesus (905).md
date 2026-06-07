@@ -1,0 +1,4006 @@
+---
+type: person
+name: Jesus (905)
+also_known_as: ["Jesus Christ", "Immanuel", "Emmanuel", "Christ"]
+
+name_hebrew: ""
+name_greek_lxx: ""
+name_latin: ""
+name_meaning: ""
+translation_variants:
+  kjv: Jesus
+  esv: ""
+  niv: ""
+  nkjv: ""
+
+strongs:
+  hebrew: ""
+  greek: ""
+
+father: "[[Mary (1938)]]"
+mother: "[[Joseph (1715)]]"
+spouse: []
+children: []
+siblings: 
+  - "[[James (719)]]"
+  - "[[Joses]]"
+  - "[[Jude]]"
+  - "[[Simon (2747)]]"
+
+gender: male
+role: []
+testament: OT
+era: second-temple
+
+birth_year: 6 BC
+death_year: 30 AD
+birth_place: Bethlehem
+death_place: Jerusalem
+
+first_appearance: "Genesis 3:15"
+places_associated: []
+groups_associated: ["Tribe of Judah", "Genealogy of Jesus"]
+
+confidence: medium
+disambiguation_note: ""
+metav_id: 905
+---
+
+## Verse References
+
+### [[Genesis]]
+- **3:15** — And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel.
+- **22:17** — That in blessing I will bless thee, and in multiplying I will multiply thy seed as the stars of the heaven, and as the sand which is upon the sea shore; and thy seed shall possess the gate of his enemies;
+- **22:18** — And in thy seed shall all the nations of the earth be blessed; because thou hast obeyed my voice.
+- **26:4** — And I will make thy seed to multiply as the stars of heaven, and will give unto thy seed all these countries; and in thy seed shall all the nations of the earth be blessed;
+- **49:10** — The sceptre shall not depart from Judah, nor a lawgiver from between his feet, until Shiloh come; and unto him shall the gathering of the people be.
+
+### [[Numbers]]
+- **24:17** — I shall see him, but not now: I shall behold him, but not nigh: there shall come a Star out of Jacob, and a Sceptre shall rise out of Israel, and shall smite the corners of Moab, and destroy all the children of Sheth.
+
+### [[Deuteronomy]]
+- **18:15** — The LORD thy God will raise up unto thee a Prophet from the midst of thee, of thy brethren, like unto me; unto him ye shall hearken;
+
+### [[2 Samuel]]
+- **7:12** — And when thy days be fulfilled, and thou shalt sleep with thy fathers, I will set up thy seed after thee, which shall proceed out of thy bowels, and I will establish his kingdom.
+- **7:13** — He shall build an house for my name, and I will stablish the throne of his kingdom for ever.
+- **7:14** — I will be his father, and he shall be my son. If he commit iniquity, I will chasten him with the rod of men, and with the stripes of the children of men:
+- **7:15** — But my mercy shall not depart away from him, as I took it from Saul, whom I put away before thee.
+
+### [[1 Chronicles]]
+- **17:11** — And it shall come to pass, when thy days be expired that thou must go to be with thy fathers, that I will raise up thy seed after thee, which shall be of thy sons; and I will establish his kingdom.
+- **17:12** — He shall build me an house, and I will stablish his throne for ever.
+- **17:13** — I will be his father, and he shall be my son: and I will not take my mercy away from him, as I took it from him that was before thee:
+- **17:14** — But I will settle him in mine house and in my kingdom for ever: and his throne shall be established for evermore.
+
+### [[Job]]
+- **19:25** — For I know that my redeemer liveth, and that he shall stand at the latter day upon the earth:
+
+### [[Psalms]]
+- **2:7** — I will declare the decree: the LORD hath said unto me, Thou art my Son; this day have I begotten thee.
+- **2:12** — Kiss the Son, lest he be angry, and ye perish from the way, when his wrath is kindled but a little. Blessed are all they that put their trust in him.
+- **16:10** — For thou wilt not leave my soul in hell; neither wilt thou suffer thine Holy One to see corruption.
+- **22:1** — My God, my God, why hast thou forsaken me? why art thou so far from helping me, and from the words of my roaring?
+- **22:2** — O my God, I cry in the daytime, but thou hearest not; and in the night season, and am not silent.
+- **22:6** — But I am a worm, and no man; a reproach of men, and despised of the people.
+- **22:7** — All they that see me laugh me to scorn: they shoot out the lip, they shake the head, saying,
+- **22:8** — He trusted on the LORD that he would deliver him: let him deliver him, seeing he delighted in him.
+- **22:9** — But thou art he that took me out of the womb: thou didst make me hope when I was upon my mother's breasts.
+- **22:10** — I was cast upon thee from the womb: thou art my God from my mother's belly.
+- **22:11** — Be not far from me; for trouble is near; for there is none to help.
+- **22:12** — Many bulls have compassed me: strong bulls of Bashan have beset me round.
+- **22:13** — They gaped upon me with their mouths, as a ravening and a roaring lion.
+- **22:14** — I am poured out like water, and all my bones are out of joint: my heart is like wax; it is melted in the midst of my bowels.
+- **22:15** — My strength is dried up like a potsherd; and my tongue cleaveth to my jaws; and thou hast brought me into the dust of death.
+- **22:16** — For dogs have compassed me: the assembly of the wicked have inclosed me: they pierced my hands and my feet.
+- **22:17** — I may tell all my bones: they look and stare upon me.
+- **22:18** — They part my garments among them, and cast lots upon my vesture.
+- **22:19** — But be not thou far from me, O LORD: O my strength, haste thee to help me.
+- **22:20** — Deliver my soul from the sword; my darling from the power of the dog.
+- **22:21** — Save me from the lion's mouth: for thou hast heard me from the horns of the unicorns.
+- **22:22** — I will declare thy name unto my brethren: in the midst of the congregation will I praise thee.
+- **22:25** — My praise shall be of thee in the great congregation: I will pay my vows before them that fear him.
+- **69:19** — Thou hast known my reproach, and my shame, and my dishonour: mine adversaries are all before thee.
+- **89:26** — He shall cry unto me, Thou art my father, my God, and the rock of my salvation.
+- **89:27** — Also I will make him my firstborn, higher than the kings of the earth.
+- **110:1** — The LORD said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool.
+- **110:2** — The LORD shall send the rod of thy strength out of Zion: rule thou in the midst of thine enemies.
+- **110:4** — The LORD hath sworn, and will not repent, Thou art a priest for ever after the order of Melchizedek.
+- **110:5** — The Lord at thy right hand shall strike through kings in the day of his wrath.
+- **110:6** — He shall judge among the heathen, he shall fill the places with the dead bodies; he shall wound the heads over many countries.
+- **110:7** — He shall drink of the brook in the way: therefore shall he lift up the head.
+- **132:11** — The LORD hath sworn in truth unto David; he will not turn from it; Of the fruit of thy body will I set upon thy throne.
+
+### [[Proverbs]]
+- **30:4** — Who hath ascended up into heaven, or descended? who hath gathered the wind in his fists? who hath bound the waters in a garment? who hath established all the ends of the earth? what is his name, and what is his son's name, if thou canst tell?
+
+### [[Isaiah]]
+- **7:14** — Therefore the Lord himself shall give you a sign; Behold, a virgin shall conceive, and bear a son, and shall call his name Immanuel.
+- **8:8** — And he shall pass through Judah; he shall overflow and go over, he shall reach even to the neck; and the stretching out of his wings shall fill the breadth of thy land, O Immanuel.
+- **9:6** — For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace.
+- **9:7** — Of the increase of his government and peace there shall be no end, upon the throne of David, and upon his kingdom, to order it, and to establish it with judgment and with justice from henceforth even for ever. The zeal of the LORD of hosts will perform this.
+- **11:1** — And there shall come forth a rod out of the stem of Jesse, and a Branch shall grow out of his roots:
+- **40:3** — The voice of him that crieth in the wilderness, Prepare ye the way of the LORD, make straight in the desert a highway for our God.
+- **40:11** — He shall feed his flock like a shepherd: he shall gather the lambs with his arm, and carry them in his bosom, and shall gently lead those that are with young.
+- **49:7** — Thus saith the LORD, the Redeemer of Israel, and his Holy One, to him whom man despiseth, to him whom the nation abhorreth, to a servant of rulers, Kings shall see and arise, princes also shall worship, because of the LORD that is faithful, and the Holy One of Israel, and he shall choose thee.
+- **50:6** — I gave my back to the smiters, and my cheeks to them that plucked off the hair: I hid not my face from shame and spitting.
+- **52:13** — Behold, my servant shall deal prudently, he shall be exalted and extolled, and be very high.
+- **52:14** — As many were astonied at thee; his visage was so marred more than any man, and his form more than the sons of men:
+- **52:15** — So shall he sprinkle many nations; the kings shall shut their mouths at him: for that which had not been told them shall they see; and that which they had not heard shall they consider.
+- **53:2** — For he shall grow up before him as a tender plant, and as a root out of a dry ground: he hath no form nor comeliness; and when we shall see him, there is no beauty that we should desire him.
+- **53:3** — He is despised and rejected of men; a man of sorrows, and acquainted with grief: and we hid as it were our faces from him; he was despised, and we esteemed him not.
+- **53:4** — Surely he hath borne our griefs, and carried our sorrows: yet we did esteem him stricken, smitten of God, and afflicted.
+- **53:5** — But he was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed.
+- **53:6** — All we like sheep have gone astray; we have turned every one to his own way; and the LORD hath laid on him the iniquity of us all.
+- **53:7** — He was oppressed, and he was afflicted, yet he opened not his mouth: he is brought as a lamb to the slaughter, and as a sheep before her shearers is dumb, so he openeth not his mouth.
+- **53:8** — He was taken from prison and from judgment: and who shall declare his generation? for he was cut off out of the land of the living: for the transgression of my people was he stricken.
+- **53:9** — And he made his grave with the wicked, and with the rich in his death; because he had done no violence, neither was any deceit in his mouth.
+- **53:10** — Yet it pleased the LORD to bruise him; he hath put him to grief: when thou shalt make his soul an offering for sin, he shall see his seed, he shall prolong his days, and the pleasure of the LORD shall prosper in his hand.
+- **53:11** — He shall see of the travail of his soul, and shall be satisfied: by his knowledge shall my righteous servant justify many; for he shall bear their iniquities.
+- **53:12** — Therefore will I divide him a portion with the great, and he shall divide the spoil with the strong; because he hath poured out his soul unto death: and he was numbered with the transgressors; and he bare the sin of many, and made intercession for the transgressors.
+- **61:1** — The Spirit of the Lord GOD is upon me; because the LORD hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to them that are bound;
+- **63:1** — Who is this that cometh from Edom, with dyed garments from Bozrah? this that is glorious in his apparel, travelling in the greatness of his strength? I that speak in righteousness, mighty to save.
+- **63:2** — Wherefore art thou red in thine apparel, and thy garments like him that treadeth in the winefat?
+- **63:3** — I have trodden the winepress alone; and of the people there was none with me: for I will tread them in mine anger, and trample them in my fury; and their blood shall be sprinkled upon my garments, and I will stain all my raiment.
+- **63:4** — For the day of vengeance is in mine heart, and the year of my redeemed is come.
+- **63:5** — And I looked, and there was none to help; and I wondered that there was none to uphold: therefore mine own arm brought salvation unto me; and my fury, it upheld me.
+- **63:6** — And I will tread down the people in mine anger, and make them drunk in my fury, and I will bring down their strength to the earth.
+
+### [[Jeremiah]]
+- **33:15** — In those days, and at that time, will I cause the Branch of righteousness to grow up unto David; and he shall execute judgment and righteousness in the land.
+
+### [[Ezekiel]]
+- **34:23** — And I will set up one shepherd over them, and he shall feed them, even my servant David; he shall feed them, and he shall be their shepherd.
+- **37:25** — And they shall dwell in the land that I have given unto Jacob my servant, wherein your fathers have dwelt; and they shall dwell therein, even they, and their children, and their children's children for ever: and my servant David shall be their prince for ever.
+
+### [[Daniel]]
+- **7:13** — I saw in the night visions, and, behold, one like the Son of man came with the clouds of heaven, and came to the Ancient of days, and they brought him near before him.
+- **7:14** — And there was given him dominion, and glory, and a kingdom, that all people, nations, and languages, should serve him: his dominion is an everlasting dominion, which shall not pass away, and his kingdom that which shall not be destroyed.
+- **9:25** — Know therefore and understand, that from the going forth of the commandment to restore and to build Jerusalem unto the Messiah the Prince shall be seven weeks, and threescore and two weeks: the street shall be built again, and the wall, even in troublous times.
+
+### [[Micah]]
+- **5:2** — But thou, Bethlehem Ephratah, though thou be little among the thousands of Judah, yet out of thee shall he come forth unto me that is to be ruler in Israel; whose goings forth have been from of old, from everlasting.
+- **7:7** — Therefore I will look unto the LORD; I will wait for the God of my salvation: my God will hear me.
+- **7:8** — Rejoice not against me, O mine enemy: when I fall, I shall arise; when I sit in darkness, the LORD shall be a light unto me.
+
+### [[Zechariah]]
+- **6:12** — And speak unto him, saying, Thus speaketh the LORD of hosts, saying, Behold the man whose name is The BRANCH; and he shall grow up out of his place, and he shall build the temple of the LORD:
+- **9:9** — Rejoice greatly, O daughter of Zion; shout, O daughter of Jerusalem: behold, thy King cometh unto thee: he is just, and having salvation; lowly, and riding upon an ass, and upon a colt the foal of an ass.
+- **11:12** — And I said unto them, If ye think good, give me my price; and if not, forbear. So they weighed for my price thirty pieces of silver.
+- **12:10** — And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and of supplications: and they shall look upon me whom they have pierced, and they shall mourn for him, as one mourneth for his only son, and shall be in bitterness for him, as one that is in bitterness for his firstborn.
+- **13:7** — Awake, O sword, against my shepherd, and against the man that is my fellow, saith the LORD of hosts: smite the shepherd, and the sheep shall be scattered: and I will turn mine hand upon the little ones.
+
+### [[Malachi]]
+- **3:1** — Behold, I will send my messenger, and he shall prepare the way before me: and the Lord, whom ye seek, shall suddenly come to his temple, even the messenger of the covenant, whom ye delight in: behold, he shall come, saith the LORD of hosts.
+- **3:2** — But who may abide the day of his coming? and who shall stand when he appeareth? for he is like a refiner's fire, and like fullers' soap:
+- **3:3** — And he shall sit as a refiner and purifier of silver: and he shall purify the sons of Levi, and purge them as gold and silver, that they may offer unto the LORD an offering in righteousness.
+- **4:2** — But unto you that fear my name shall the Sun of righteousness arise with healing in his wings; and ye shall go forth, and grow up as calves of the stall.
+
+### [[Matthew]]
+- **1:1** — The book of the generation of Jesus Christ, the son of David, the son of Abraham.
+- **1:16** — And Jacob begat Joseph the husband of Mary, of whom was born Jesus, who is called Christ.
+- **1:17** — So all the generations from Abraham to David are fourteen generations; and from David until the carrying away into Babylon are fourteen generations; and from the carrying away into Babylon unto Christ are fourteen generations.
+- **1:18** — Now the birth of Jesus Christ was on this wise: When as his mother Mary was espoused to Joseph, before they came together, she was found with child of the Holy Ghost.
+- **1:21** — And she shall bring forth a son, and thou shalt call his name JESUS: for he shall save his people from their sins.
+- **1:22** — Now all this was done, that it might be fulfilled which was spoken of the Lord by the prophet, saying,
+- **1:23** — Behold, a virgin shall be with child, and shall bring forth a son, and they shall call his name Emmanuel, which being interpreted is, God with us.
+- **1:25** — And knew her not till she had brought forth her firstborn son: and he called his name JESUS.
+- **2:1** — Now when Jesus was born in Bethlehem of Judaea in the days of Herod the king, behold, there came wise men from the east to Jerusalem,
+- **2:2** — Saying, Where is he that is born King of the Jews? for we have seen his star in the east, and are come to worship him.
+- **2:4** — And when he had gathered all the chief priests and scribes of the people together, he demanded of them where Christ should be born.
+- **2:6** — And thou Bethlehem, in the land of Juda, art not the least among the princes of Juda: for out of thee shall come a Governor, that shall rule my people Israel.
+- **2:8** — And he sent them to Bethlehem, and said, Go and search diligently for the young child; and when ye have found him, bring me word again, that I may come and worship him also.
+- **2:9** — When they had heard the king, they departed; and, lo, the star, which they saw in the east, went before them, till it came and stood over where the young child was.
+- **2:11** — And when they were come into the house, they saw the young child with Mary his mother, and fell down, and worshipped him: and when they had opened their treasures, they presented unto him gifts; gold, and frankincense, and myrrh.
+- **2:13** — And when they were departed, behold, the angel of the Lord appeareth to Joseph in a dream, saying, Arise, and take the young child and his mother, and flee into Egypt, and be thou there until I bring thee word: for Herod will seek the young child to destroy him.
+- **2:14** — When he arose, he took the young child and his mother by night, and departed into Egypt:
+- **2:15** — And was there until the death of Herod: that it might be fulfilled which was spoken of the Lord by the prophet, saying, Out of Egypt have I called my son.
+- **2:20** — Saying, Arise, and take the young child and his mother, and go into the land of Israel: for they are dead which sought the young child's life.
+- **2:21** — And he arose, and took the young child and his mother, and came into the land of Israel.
+- **3:3** — For this is he that was spoken of by the prophet Esaias, saying, The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight.
+- **3:11** — I indeed baptize you with water unto repentance: but he that cometh after me is mightier than I, whose shoes I am not worthy to bear: he shall baptize you with the Holy Ghost, and with fire:
+- **3:12** — Whose fan is in his hand, and he will throughly purge his floor, and gather his wheat into the garner; but he will burn up the chaff with unquenchable fire.
+- **3:13** — Then cometh Jesus from Galilee to Jordan unto John, to be baptized of him.
+- **3:14** — But John forbad him, saying, I have need to be baptized of thee, and comest thou to me?
+- **3:15** — And Jesus answering said unto him, Suffer it to be so now: for thus it becometh us to fulfil all righteousness. Then he suffered him.
+- **3:16** — And Jesus, when he was baptized, went up straightway out of the water: and, lo, the heavens were opened unto him, and he saw the Spirit of God descending like a dove, and lighting upon him:
+- **3:17** — And lo a voice from heaven, saying, This is my beloved Son, in whom I am well pleased.
+- **4:1** — Then was Jesus led up of the Spirit into the wilderness to be tempted of the devil.
+- **4:2** — And when he had fasted forty days and forty nights, he was afterward an hungred.
+- **4:3** — And when the tempter came to him, he said, If thou be the Son of God, command that these stones be made bread.
+- **4:4** — But he answered and said, It is written, Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God.
+- **4:5** — Then the devil taketh him up into the holy city, and setteth him on a pinnacle of the temple,
+- **4:6** — And saith unto him, If thou be the Son of God, cast thyself down: for it is written, He shall give his angels charge concerning thee: and in their hands they shall bear thee up, lest at any time thou dash thy foot against a stone.
+- **4:7** — Jesus said unto him, It is written again, Thou shalt not tempt the Lord thy God.
+- **4:8** — Again, the devil taketh him up into an exceeding high mountain, and sheweth him all the kingdoms of the world, and the glory of them;
+- **4:9** — And saith unto him, All these things will I give thee, if thou wilt fall down and worship me.
+- **4:10** — Then saith Jesus unto him, Get thee hence, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve.
+- **4:11** — Then the devil leaveth him, and, behold, angels came and ministered unto him.
+- **4:12** — Now when Jesus had heard that John was cast into prison, he departed into Galilee;
+- **4:13** — And leaving Nazareth, he came and dwelt in Capernaum, which is upon the sea coast, in the borders of Zabulon and Nephthalim:
+- **4:17** — From that time Jesus began to preach, and to say, Repent: for the kingdom of heaven is at hand.
+- **4:18** — And Jesus, walking by the sea of Galilee, saw two brethren, Simon called Peter, and Andrew his brother, casting a net into the sea: for they were fishers.
+- **4:19** — And he saith unto them, Follow me, and I will make you fishers of men.
+- **4:20** — And they straightway left their nets, and followed him.
+- **4:21** — And going on from thence, he saw other two brethren, James the son of Zebedee, and John his brother, in a ship with Zebedee their father, mending their nets; and he called them.
+- **4:22** — And they immediately left the ship and their father, and followed him.
+- **4:23** — And Jesus went about all Galilee, teaching in their synagogues, and preaching the gospel of the kingdom, and healing all manner of sickness and all manner of disease among the people.
+- **4:24** — And his fame went throughout all Syria: and they brought unto him all sick people that were taken with divers diseases and torments, and those which were possessed with devils, and those which were lunatick, and those that had the palsy; and he healed them.
+- **4:25** — And there followed him great multitudes of people from Galilee, and from Decapolis, and from Jerusalem, and from Judaea, and from beyond Jordan.
+- **5:1** — And seeing the multitudes, he went up into a mountain: and when he was set, his disciples came unto him:
+- **5:2** — And he opened his mouth, and taught them, saying,
+- **5:11** — Blessed are ye, when men shall revile you, and persecute you, and shall say all manner of evil against you falsely, for my sake.
+- **5:17** — Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil.
+- **5:18** — For verily I say unto you, Till heaven and earth pass, one jot or one tittle shall in no wise pass from the law, till all be fulfilled.
+- **5:20** — For I say unto you, That except your righteousness shall exceed the righteousness of the scribes and Pharisees, ye shall in no case enter into the kingdom of heaven.
+- **5:22** — But I say unto you, That whosoever is angry with his brother without a cause shall be in danger of the judgment: and whosoever shall say to his brother, Raca, shall be in danger of the council: but whosoever shall say, Thou fool, shall be in danger of hell fire.
+- **5:26** — Verily I say unto thee, Thou shalt by no means come out thence, till thou hast paid the uttermost farthing.
+- **5:28** — But I say unto you, That whosoever looketh on a woman to lust after her hath committed adultery with her already in his heart.
+- **5:32** — But I say unto you, That whosoever shall put away his wife, saving for the cause of fornication, causeth her to commit adultery: and whosoever shall marry her that is divorced committeth adultery.
+- **5:33** — Again, ye have heard that it hath been said by them of old time, Thou shalt not forswear thyself, but shalt perform unto the Lord thine oaths:
+- **5:34** — But I say unto you, Swear not at all; neither by heaven; for it is God's throne:
+- **5:39** — But I say unto you, That ye resist not evil: but whosoever shall smite thee on thy right cheek, turn to him the other also.
+- **5:44** — But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you;
+- **6:2** — Therefore when thou doest thine alms, do not sound a trumpet before thee, as the hypocrites do in the synagogues and in the streets, that they may have glory of men. Verily I say unto you, They have their reward.
+- **6:5** — And when thou prayest, thou shalt not be as the hypocrites are: for they love to pray standing in the synagogues and in the corners of the streets, that they may be seen of men. Verily I say unto you, They have their reward.
+- **6:16** — Moreover when ye fast, be not, as the hypocrites, of a sad countenance: for they disfigure their faces, that they may appear unto men to fast. Verily I say unto you, They have their reward.
+- **6:25** — Therefore I say unto you, Take no thought for your life, what ye shall eat, or what ye shall drink; nor yet for your body, what ye shall put on. Is not the life more than meat, and the body than raiment?
+- **6:29** — And yet I say unto you, That even Solomon in all his glory was not arrayed like one of these.
+- **7:21** — Not every one that saith unto me, Lord, Lord, shall enter into the kingdom of heaven; but he that doeth the will of my Father which is in heaven.
+- **7:22** — Many will say to me in that day, Lord, Lord, have we not prophesied in thy name? and in thy name have cast out devils? and in thy name done many wonderful works?
+- **7:23** — And then will I profess unto them, I never knew you: depart from me, ye that work iniquity.
+- **7:24** — Therefore whosoever heareth these sayings of mine, and doeth them, I will liken him unto a wise man, which built his house upon a rock:
+- **7:26** — And every one that heareth these sayings of mine, and doeth them not, shall be likened unto a foolish man, which built his house upon the sand:
+- **7:28** — And it came to pass, when Jesus had ended these sayings, the people were astonished at his doctrine:
+- **7:29** — For he taught them as one having authority, and not as the scribes.
+- **8:1** — When he was come down from the mountain, great multitudes followed him.
+- **8:2** — And, behold, there came a leper and worshipped him, saying, Lord, if thou wilt, thou canst make me clean.
+- **8:3** — And Jesus put forth his hand, and touched him, saying, I will; be thou clean. And immediately his leprosy was cleansed.
+- **8:4** — And Jesus saith unto him, See thou tell no man; but go thy way, shew thyself to the priest, and offer the gift that Moses commanded, for a testimony unto them.
+- **8:5** — And when Jesus was entered into Capernaum, there came unto him a centurion, beseeching him,
+- **8:6** — And saying, Lord, my servant lieth at home sick of the palsy, grievously tormented.
+- **8:7** — And Jesus saith unto him, I will come and heal him.
+- **8:8** — The centurion answered and said, Lord, I am not worthy that thou shouldest come under my roof: but speak the word only, and my servant shall be healed.
+- **8:10** — When Jesus heard it, he marvelled, and said to them that followed, Verily I say unto you, I have not found so great faith, no, not in Israel.
+- **8:11** — And I say unto you, That many shall come from the east and west, and shall sit down with Abraham, and Isaac, and Jacob, in the kingdom of heaven.
+- **8:13** — And Jesus said unto the centurion, Go thy way; and as thou hast believed, so be it done unto thee. And his servant was healed in the selfsame hour.
+- **8:14** — And when Jesus was come into Peter's house, he saw his wife's mother laid, and sick of a fever.
+- **8:15** — And he touched her hand, and the fever left her: and she arose, and ministered unto them.
+- **8:16** — When the even was come, they brought unto him many that were possessed with devils: and he cast out the spirits with his word, and healed all that were sick:
+- **8:18** — Now when Jesus saw great multitudes about him, he gave commandment to depart unto the other side.
+- **8:19** — And a certain scribe came, and said unto him, Master, I will follow thee whithersoever thou goest.
+- **8:20** — And Jesus saith unto him, The foxes have holes, and the birds of the air have nests; but the Son of man hath not where to lay his head.
+- **8:21** — And another of his disciples said unto him, Lord, suffer me first to go and bury my father.
+- **8:22** — But Jesus said unto him, Follow me; and let the dead bury their dead.
+- **8:23** — And when he was entered into a ship, his disciples followed him.
+- **8:24** — And, behold, there arose a great tempest in the sea, insomuch that the ship was covered with the waves: but he was asleep.
+- **8:25** — And his disciples came to him, and awoke him, saying, Lord, save us: we perish.
+- **8:26** — And he saith unto them, Why are ye fearful, O ye of little faith? Then he arose, and rebuked the winds and the sea; and there was a great calm.
+- **8:27** — But the men marvelled, saying, What manner of man is this, that even the winds and the sea obey him!
+- **8:28** — And when he was come to the other side into the country of the Gergesenes, there met him two possessed with devils, coming out of the tombs, exceeding fierce, so that no man might pass by that way.
+- **8:29** — And, behold, they cried out, saying, What have we to do with thee, Jesus, thou Son of God? art thou come hither to torment us before the time?
+- **8:31** — So the devils besought him, saying, If thou cast us out, suffer us to go away into the herd of swine.
+- **8:32** — And he said unto them, Go. And when they were come out, they went into the herd of swine: and, behold, the whole herd of swine ran violently down a steep place into the sea, and perished in the waters.
+- **8:34** — And, behold, the whole city came out to meet Jesus: and when they saw him, they besought him that he would depart out of their coasts.
+- **9:1** — And he entered into a ship, and passed over, and came into his own city.
+- **9:2** — And, behold, they brought to him a man sick of the palsy, lying on a bed: and Jesus seeing their faith said unto the sick of the palsy; Son, be of good cheer; thy sins be forgiven thee.
+- **9:3** — And, behold, certain of the scribes said within themselves, This man blasphemeth.
+- **9:4** — And Jesus knowing their thoughts said, Wherefore think ye evil in your hearts?
+- **9:6** — But that ye may know that the Son of man hath power on earth to forgive sins, (then saith he to the sick of the palsy,) Arise, take up thy bed, and go unto thine house.
+- **9:9** — And as Jesus passed forth from thence, he saw a man, named Matthew, sitting at the receipt of custom: and he saith unto him, Follow me. And he arose, and followed him.
+- **9:10** — And it came to pass, as Jesus sat at meat in the house, behold, many publicans and sinners came and sat down with him and his disciples.
+- **9:11** — And when the Pharisees saw it, they said unto his disciples, Why eateth your Master with publicans and sinners?
+- **9:12** — But when Jesus heard that, he said unto them, They that be whole need not a physician, but they that are sick.
+- **9:13** — But go ye and learn what that meaneth, I will have mercy, and not sacrifice: for I am not come to call the righteous, but sinners to repentance.
+- **9:14** — Then came to him the disciples of John, saying, Why do we and the Pharisees fast oft, but thy disciples fast not?
+- **9:15** — And Jesus said unto them, Can the children of the bridechamber mourn, as long as the bridegroom is with them? but the days will come, when the bridegroom shall be taken from them, and then shall they fast.
+- **9:18** — While he spake these things unto them, behold, there came a certain ruler, and worshipped him, saying, My daughter is even now dead: but come and lay thy hand upon her, and she shall live.
+- **9:19** — And Jesus arose, and followed him, and so did his disciples.
+- **9:20** — And, behold, a woman, which was diseased with an issue of blood twelve years, came behind him, and touched the hem of his garment:
+- **9:21** — For she said within herself, If I may but touch his garment, I shall be whole.
+- **9:22** — But Jesus turned him about, and when he saw her, he said, Daughter, be of good comfort; thy faith hath made thee whole. And the woman was made whole from that hour.
+- **9:23** — And when Jesus came into the ruler's house, and saw the minstrels and the people making a noise,
+- **9:24** — He said unto them, Give place: for the maid is not dead, but sleepeth. And they laughed him to scorn.
+- **9:25** — But when the people were put forth, he went in, and took her by the hand, and the maid arose.
+- **9:27** — And when Jesus departed thence, two blind men followed him, crying, and saying, Thou Son of David, have mercy on us.
+- **9:28** — And when he was come into the house, the blind men came to him: and Jesus saith unto them, Believe ye that I am able to do this? They said unto him, Yea, Lord.
+- **9:29** — Then touched he their eyes, saying, According to your faith be it unto you.
+- **9:30** — And their eyes were opened; and Jesus straitly charged them, saying, See that no man know it.
+- **9:31** — But they, when they were departed, spread abroad his fame in all that country.
+- **9:32** — As they went out, behold, they brought to him a dumb man possessed with a devil.
+- **9:35** — And Jesus went about all the cities and villages, teaching in their synagogues, and preaching the gospel of the kingdom, and healing every sickness and every disease among the people.
+- **9:36** — But when he saw the multitudes, he was moved with compassion on them, because they fainted, and were scattered abroad, as sheep having no shepherd.
+- **9:37** — Then saith he unto his disciples, The harvest truly is plenteous, but the labourers are few;
+- **9:38** — Pray ye therefore the Lord of the harvest, that he will send forth labourers into his harvest.
+- **10:1** — And when he had called unto him his twelve disciples, he gave them power against unclean spirits, to cast them out, and to heal all manner of sickness and all manner of disease.
+- **10:4** — Simon the Canaanite, and Judas Iscariot, who also betrayed him.
+- **10:5** — These twelve Jesus sent forth, and commanded them, saying, Go not into the way of the Gentiles, and into any city of the Samaritans enter ye not:
+- **10:15** — Verily I say unto you, It shall be more tolerable for the land of Sodom and Gomorrha in the day of judgment, than for that city.
+- **10:16** — Behold, I send you forth as sheep in the midst of wolves: be ye therefore wise as serpents, and harmless as doves.
+- **10:18** — And ye shall be brought before governors and kings for my sake, for a testimony against them and the Gentiles.
+- **10:22** — And ye shall be hated of all men for my name's sake: but he that endureth to the end shall be saved.
+- **10:23** — But when they persecute you in this city, flee ye into another: for verily I say unto you, Ye shall not have gone over the cities of Israel, till the Son of man be come.
+- **10:27** — What I tell you in darkness, that speak ye in light: and what ye hear in the ear, that preach ye upon the housetops.
+- **10:32** — Whosoever therefore shall confess me before men, him will I confess also before my Father which is in heaven.
+- **10:33** — But whosoever shall deny me before men, him will I also deny before my Father which is in heaven.
+- **10:34** — Think not that I am come to send peace on earth: I came not to send peace, but a sword.
+- **10:35** — For I am come to set a man at variance against his father, and the daughter against her mother, and the daughter in law against her mother in law.
+- **10:37** — He that loveth father or mother more than me is not worthy of me: and he that loveth son or daughter more than me is not worthy of me.
+- **10:38** — And he that taketh not his cross, and followeth after me, is not worthy of me.
+- **10:39** — He that findeth his life shall lose it: and he that loseth his life for my sake shall find it.
+- **10:40** — He that receiveth you receiveth me, and he that receiveth me receiveth him that sent me.
+- **10:42** — And whosoever shall give to drink unto one of these little ones a cup of cold water only in the name of a disciple, verily I say unto you, he shall in no wise lose his reward.
+- **11:1** — And it came to pass, when Jesus had made an end of commanding his twelve disciples, he departed thence to teach and to preach in their cities.
+- **11:2** — Now when John had heard in the prison the works of Christ, he sent two of his disciples,
+- **11:3** — And said unto him, Art thou he that should come, or do we look for another?
+- **11:4** — Jesus answered and said unto them, Go and shew John again those things which ye do hear and see:
+- **11:6** — And blessed is he, whosoever shall not be offended in me.
+- **11:7** — And as they departed, Jesus began to say unto the multitudes concerning John, What went ye out into the wilderness to see? A reed shaken with the wind?
+- **11:9** — But what went ye out for to see? A prophet? yea, I say unto you, and more than a prophet.
+- **11:10** — For this is he, of whom it is written, Behold, I send my messenger before thy face, which shall prepare thy way before thee.
+- **11:11** — Verily I say unto you, Among them that are born of women there hath not risen a greater than John the Baptist: notwithstanding he that is least in the kingdom of heaven is greater than he.
+- **11:16** — But whereunto shall I liken this generation? It is like unto children sitting in the markets, and calling unto their fellows,
+- **11:19** — The Son of man came eating and drinking, and they say, Behold a man gluttonous, and a winebibber, a friend of publicans and sinners. But wisdom is justified of her children.
+- **11:20** — Then began he to upbraid the cities wherein most of his mighty works were done, because they repented not:
+- **11:22** — But I say unto you, It shall be more tolerable for Tyre and Sidon at the day of judgment, than for you.
+- **11:24** — But I say unto you, That it shall be more tolerable for the land of Sodom in the day of judgment, than for thee.
+- **11:25** — At that time Jesus answered and said, I thank thee, O Father, Lord of heaven and earth, because thou hast hid these things from the wise and prudent, and hast revealed them unto babes.
+- **11:26** — Even so, Father: for so it seemed good in thy sight.
+- **11:27** — All things are delivered unto me of my Father: and no man knoweth the Son, but the Father; neither knoweth any man the Father, save the Son, and he to whomsoever the Son will reveal him.
+- **11:28** — Come unto me, all ye that labour and are heavy laden, and I will give you rest.
+- **11:29** — Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls.
+- **11:30** — For my yoke is easy, and my burden is light.
+- **12:1** — At that time Jesus went on the sabbath day through the corn; and his disciples were an hungred, and began to pluck the ears of corn, and to eat.
+- **12:2** — But when the Pharisees saw it, they said unto him, Behold, thy disciples do that which is not lawful to do upon the sabbath day.
+- **12:3** — But he said unto them, Have ye not read what David did, when he was an hungred, and they that were with him;
+- **12:6** — But I say unto you, That in this place is one greater than the temple.
+- **12:8** — For the Son of man is Lord even of the sabbath day.
+- **12:9** — And when he was departed thence, he went into their synagogue:
+- **12:10** — And, behold, there was a man which had his hand withered. And they asked him, saying, Is it lawful to heal on the sabbath days? that they might accuse him.
+- **12:11** — And he said unto them, What man shall there be among you, that shall have one sheep, and if it fall into a pit on the sabbath day, will he not lay hold on it, and lift it out?
+- **12:13** — Then saith he to the man, Stretch forth thine hand. And he stretched it forth; and it was restored whole, like as the other.
+- **12:14** — Then the Pharisees went out, and held a council against him, how they might destroy him.
+- **12:15** — But when Jesus knew it, he withdrew himself from thence: and great multitudes followed him, and he healed them all;
+- **12:16** — And charged them that they should not make him known:
+- **12:18** — Behold my servant, whom I have chosen; my beloved, in whom my soul is well pleased: I will put my spirit upon him, and he shall shew judgment to the Gentiles.
+- **12:19** — He shall not strive, nor cry; neither shall any man hear his voice in the streets.
+- **12:20** — A bruised reed shall he not break, and smoking flax shall he not quench, till he send forth judgment unto victory.
+- **12:21** — And in his name shall the Gentiles trust.
+- **12:22** — Then was brought unto him one possessed with a devil, blind, and dumb: and he healed him, insomuch that the blind and dumb both spake and saw.
+- **12:23** — And all the people were amazed, and said, Is not this the son of David?
+- **12:25** — And Jesus knew their thoughts, and said unto them, Every kingdom divided against itself is brought to desolation; and every city or house divided against itself shall not stand:
+- **12:27** — And if I by Beelzebub cast out devils, by whom do your children cast them out? therefore they shall be your judges.
+- **12:28** — But if I cast out devils by the Spirit of God, then the kingdom of God is come unto you.
+- **12:30** — He that is not with me is against me; and he that gathereth not with me scattereth abroad.
+- **12:31** — Wherefore I say unto you, All manner of sin and blasphemy shall be forgiven unto men: but the blasphemy against the Holy Ghost shall not be forgiven unto men.
+- **12:32** — And whosoever speaketh a word against the Son of man, it shall be forgiven him: but whosoever speaketh against the Holy Ghost, it shall not be forgiven him, neither in this world, neither in the world to come.
+- **12:36** — But I say unto you, That every idle word that men shall speak, they shall give account thereof in the day of judgment.
+- **12:38** — Then certain of the scribes and of the Pharisees answered, saying, Master, we would see a sign from thee.
+- **12:39** — But he answered and said unto them, An evil and adulterous generation seeketh after a sign; and there shall no sign be given to it, but the sign of the prophet Jonas:
+- **12:40** — For as Jonas was three days and three nights in the whale's belly; so shall the Son of man be three days and three nights in the heart of the earth.
+- **12:46** — While he yet talked to the people, behold, his mother and his brethren stood without, desiring to speak with him.
+- **12:47** — Then one said unto him, Behold, thy mother and thy brethren stand without, desiring to speak with thee.
+- **12:48** — But he answered and said unto him that told him, Who is my mother? and who are my brethren?
+- **12:49** — And he stretched forth his hand toward his disciples, and said, Behold my mother and my brethren!
+- **12:50** — For whosoever shall do the will of my Father which is in heaven, the same is my brother, and sister, and mother.
+- **13:1** — The same day went Jesus out of the house, and sat by the sea side.
+- **13:2** — And great multitudes were gathered together unto him, so that he went into a ship, and sat; and the whole multitude stood on the shore.
+- **13:3** — And he spake many things unto them in parables, saying, Behold, a sower went forth to sow;
+- **13:10** — And the disciples came, and said unto him, Why speakest thou unto them in parables?
+- **13:13** — Therefore speak I to them in parables: because they seeing see not; and hearing they hear not, neither do they understand.
+- **13:15** — For this people's heart is waxed gross, and their ears are dull of hearing, and their eyes they have closed; lest at any time they should see with their eyes, and hear with their ears, and should understand with their heart, and should be converted, and I should heal them.
+- **13:17** — For verily I say unto you, That many prophets and righteous men have desired to see those things which ye see, and have not seen them; and to hear those things which ye hear, and have not heard them.
+- **13:24** — Another parable put he forth unto them, saying, The kingdom of heaven is likened unto a man which sowed good seed in his field:
+- **13:31** — Another parable put he forth unto them, saying, The kingdom of heaven is like to a grain of mustard seed, which a man took, and sowed in his field:
+- **13:33** — Another parable spake he unto them; The kingdom of heaven is like unto leaven, which a woman took, and hid in three measures of meal, till the whole was leavened.
+- **13:34** — All these things spake Jesus unto the multitude in parables; and without a parable spake he not unto them:
+- **13:35** — That it might be fulfilled which was spoken by the prophet, saying, I will open my mouth in parables; I will utter things which have been kept secret from the foundation of the world.
+- **13:36** — Then Jesus sent the multitude away, and went into the house: and his disciples came unto him, saying, Declare unto us the parable of the tares of the field.
+- **13:37** — He answered and said unto them, He that soweth the good seed is the Son of man;
+- **13:41** — The Son of man shall send forth his angels, and they shall gather out of his kingdom all things that offend, and them which do iniquity;
+- **13:51** — Jesus saith unto them, Have ye understood all these things? They say unto him, Yea, Lord.
+- **13:52** — Then said he unto them, Therefore every scribe which is instructed unto the kingdom of heaven is like unto a man that is an householder, which bringeth forth out of his treasure things new and old.
+- **13:53** — And it came to pass, that when Jesus had finished these parables, he departed thence.
+- **13:54** — And when he was come into his own country, he taught them in their synagogue, insomuch that they were astonished, and said, Whence hath this man this wisdom, and these mighty works?
+- **13:55** — Is not this the carpenter's son? is not his mother called Mary? and his brethren, James, and Joses, and Simon, and Judas?
+- **13:56** — And his sisters, are they not all with us? Whence then hath this man all these things?
+- **13:57** — And they were offended in him. But Jesus said unto them, A prophet is not without honour, save in his own country, and in his own house.
+- **13:58** — And he did not many mighty works there because of their unbelief.
+- **14:1** — At that time Herod the tetrarch heard of the fame of Jesus,
+- **14:12** — And his disciples came, and took up the body, and buried it, and went and told Jesus.
+- **14:13** — When Jesus heard of it, he departed thence by ship into a desert place apart: and when the people had heard thereof, they followed him on foot out of the cities.
+- **14:14** — And Jesus went forth, and saw a great multitude, and was moved with compassion toward them, and he healed their sick.
+- **14:15** — And when it was evening, his disciples came to him, saying, This is a desert place, and the time is now past; send the multitude away, that they may go into the villages, and buy themselves victuals.
+- **14:16** — But Jesus said unto them, They need not depart; give ye them to eat.
+- **14:17** — And they say unto him, We have here but five loaves, and two fishes.
+- **14:18** — He said, Bring them hither to me.
+- **14:19** — And he commanded the multitude to sit down on the grass, and took the five loaves, and the two fishes, and looking up to heaven, he blessed, and brake, and gave the loaves to his disciples, and the disciples to the multitude.
+- **14:22** — And straightway Jesus constrained his disciples to get into a ship, and to go before him unto the other side, while he sent the multitudes away.
+- **14:23** — And when he had sent the multitudes away, he went up into a mountain apart to pray: and when the evening was come, he was there alone.
+- **14:25** — And in the fourth watch of the night Jesus went unto them, walking on the sea.
+- **14:26** — And when the disciples saw him walking on the sea, they were troubled, saying, It is a spirit; and they cried out for fear.
+- **14:27** — But straightway Jesus spake unto them, saying, Be of good cheer; it is I; be not afraid.
+- **14:28** — And Peter answered him and said, Lord, if it be thou, bid me come unto thee on the water.
+- **14:29** — And he said, Come. And when Peter was come down out of the ship, he walked on the water, to go to Jesus.
+- **14:30** — But when he saw the wind boisterous, he was afraid; and beginning to sink, he cried, saying, Lord, save me.
+- **14:31** — And immediately Jesus stretched forth his hand, and caught him, and said unto him, O thou of little faith, wherefore didst thou doubt?
+- **14:33** — Then they that were in the ship came and worshipped him, saying, Of a truth thou art the Son of God.
+- **14:35** — And when the men of that place had knowledge of him, they sent out into all that country round about, and brought unto him all that were diseased;
+- **14:36** — And besought him that they might only touch the hem of his garment: and as many as touched were made perfectly whole.
+- **15:1** — Then came to Jesus scribes and Pharisees, which were of Jerusalem, saying,
+- **15:2** — Why do thy disciples transgress the tradition of the elders? for they wash not their hands when they eat bread.
+- **15:3** — But he answered and said unto them, Why do ye also transgress the commandment of God by your tradition?
+- **15:8** — This people draweth nigh unto me with their mouth, and honoureth me with their lips; but their heart is far from me.
+- **15:9** — But in vain they do worship me, teaching for doctrines the commandments of men.
+- **15:10** — And he called the multitude, and said unto them, Hear, and understand:
+- **15:12** — Then came his disciples, and said unto him, Knowest thou that the Pharisees were offended, after they heard this saying?
+- **15:13** — But he answered and said, Every plant, which my heavenly Father hath not planted, shall be rooted up.
+- **15:15** — Then answered Peter and said unto him, Declare unto us this parable.
+- **15:16** — And Jesus said, Are ye also yet without understanding?
+- **15:21** — Then Jesus went thence, and departed into the coasts of Tyre and Sidon.
+- **15:22** — And, behold, a woman of Canaan came out of the same coasts, and cried unto him, saying, Have mercy on me, O Lord, thou Son of David; my daughter is grievously vexed with a devil.
+- **15:23** — But he answered her not a word. And his disciples came and besought him, saying, Send her away; for she crieth after us.
+- **15:24** — But he answered and said, I am not sent but unto the lost sheep of the house of Israel.
+- **15:25** — Then came she and worshipped him, saying, Lord, help me.
+- **15:26** — But he answered and said, It is not meet to take the children's bread, and to cast it to dogs.
+- **15:27** — And she said, Truth, Lord: yet the dogs eat of the crumbs which fall from their masters' table.
+- **15:28** — Then Jesus answered and said unto her, O woman, great is thy faith: be it unto thee even as thou wilt. And her daughter was made whole from that very hour.
+- **15:29** — And Jesus departed from thence, and came nigh unto the sea of Galilee; and went up into a mountain, and sat down there.
+- **15:30** — And great multitudes came unto him, having with them those that were lame, blind, dumb, maimed, and many others, and cast them down at Jesus' feet; and he healed them:
+- **15:32** — Then Jesus called his disciples unto him, and said, I have compassion on the multitude, because they continue with me now three days, and have nothing to eat: and I will not send them away fasting, lest they faint in the way.
+- **15:33** — And his disciples say unto him, Whence should we have so much bread in the wilderness, as to fill so great a multitude?
+- **15:34** — And Jesus saith unto them, How many loaves have ye? And they said, Seven, and a few little fishes.
+- **15:35** — And he commanded the multitude to sit down on the ground.
+- **15:36** — And he took the seven loaves and the fishes, and gave thanks, and brake them, and gave to his disciples, and the disciples to the multitude.
+- **15:39** — And he sent away the multitude, and took ship, and came into the coasts of Magdala.
+- **16:1** — The Pharisees also with the Sadducees came, and tempting desired him that he would shew them a sign from heaven.
+- **16:4** — A wicked and adulterous generation seeketh after a sign; and there shall no sign be given unto it, but the sign of the prophet Jonas. And he left them, and departed.
+- **16:5** — And when his disciples were come to the other side, they had forgotten to take bread.
+- **16:6** — Then Jesus said unto them, Take heed and beware of the leaven of the Pharisees and of the Sadducees.
+- **16:8** — Which when Jesus perceived, he said unto them, O ye of little faith, why reason ye among yourselves, because ye have brought no bread?
+- **16:11** — How is it that ye do not understand that I spake it not to you concerning bread, that ye should beware of the leaven of the Pharisees and of the Sadducees?
+- **16:12** — Then understood they how that he bade them not beware of the leaven of bread, but of the doctrine of the Pharisees and of the Sadducees.
+- **16:13** — When Jesus came into the coasts of Caesarea Philippi, he asked his disciples, saying, Whom do men say that I the Son of man am?
+- **16:14** — And they said, Some say that thou art John the Baptist: some, Elias; and others, Jeremias, or one of the prophets.
+- **16:15** — He saith unto them, But whom say ye that I am?
+- **16:16** — And Simon Peter answered and said, Thou art the Christ, the Son of the living God.
+- **16:17** — And Jesus answered and said unto him, Blessed art thou, Simon Barjona: for flesh and blood hath not revealed it unto thee, but my Father which is in heaven.
+- **16:18** — And I say also unto thee, That thou art Peter, and upon this rock I will build my church; and the gates of hell shall not prevail against it.
+- **16:19** — And I will give unto thee the keys of the kingdom of heaven: and whatsoever thou shalt bind on earth shall be bound in heaven: and whatsoever thou shalt loose on earth shall be loosed in heaven.
+- **16:20** — Then charged he his disciples that they should tell no man that he was Jesus the Christ.
+- **16:21** — From that time forth began Jesus to shew unto his disciples, how that he must go unto Jerusalem, and suffer many things of the elders and chief priests and scribes, and be killed, and be raised again the third day.
+- **16:22** — Then Peter took him, and began to rebuke him, saying, Be it far from thee, Lord: this shall not be unto thee.
+- **16:23** — But he turned, and said unto Peter, Get thee behind me, Satan: thou art an offence unto me: for thou savourest not the things that be of God, but those that be of men.
+- **16:24** — Then said Jesus unto his disciples, If any man will come after me, let him deny himself, and take up his cross, and follow me.
+- **16:25** — For whosoever will save his life shall lose it: and whosoever will lose his life for my sake shall find it.
+- **16:27** — For the Son of man shall come in the glory of his Father with his angels; and then he shall reward every man according to his works.
+- **16:28** — Verily I say unto you, There be some standing here, which shall not taste of death, till they see the Son of man coming in his kingdom.
+- **17:1** — And after six days Jesus taketh Peter, James, and John his brother, and bringeth them up into an high mountain apart,
+- **17:2** — And was transfigured before them: and his face did shine as the sun, and his raiment was white as the light.
+- **17:3** — And, behold, there appeared unto them Moses and Elias talking with him.
+- **17:4** — Then answered Peter, and said unto Jesus, Lord, it is good for us to be here: if thou wilt, let us make here three tabernacles; one for thee, and one for Moses, and one for Elias.
+- **17:5** — While he yet spake, behold, a bright cloud overshadowed them: and behold a voice out of the cloud, which said, This is my beloved Son, in whom I am well pleased; hear ye him.
+- **17:7** — And Jesus came and touched them, and said, Arise, and be not afraid.
+- **17:8** — And when they had lifted up their eyes, they saw no man, save Jesus only.
+- **17:9** — And as they came down from the mountain, Jesus charged them, saying, Tell the vision to no man, until the Son of man be risen again from the dead.
+- **17:10** — And his disciples asked him, saying, Why then say the scribes that Elias must first come?
+- **17:11** — And Jesus answered and said unto them, Elias truly shall first come, and restore all things.
+- **17:12** — But I say unto you, That Elias is come already, and they knew him not, but have done unto him whatsoever they listed. Likewise shall also the Son of man suffer of them.
+- **17:13** — Then the disciples understood that he spake unto them of John the Baptist.
+- **17:14** — And when they were come to the multitude, there came to him a certain man, kneeling down to him, and saying,
+- **17:15** — Lord, have mercy on my son: for he is lunatick, and sore vexed: for ofttimes he falleth into the fire, and oft into the water.
+- **17:16** — And I brought him to thy disciples, and they could not cure him.
+- **17:17** — Then Jesus answered and said, O faithless and perverse generation, how long shall I be with you? how long shall I suffer you? bring him hither to me.
+- **17:18** — And Jesus rebuked the devil; and he departed out of him: and the child was cured from that very hour.
+- **17:19** — Then came the disciples to Jesus apart, and said, Why could not we cast him out?
+- **17:20** — And Jesus said unto them, Because of your unbelief: for verily I say unto you, If ye have faith as a grain of mustard seed, ye shall say unto this mountain, Remove hence to yonder place; and it shall remove; and nothing shall be impossible unto you.
+- **17:22** — And while they abode in Galilee, Jesus said unto them, The Son of man shall be betrayed into the hands of men:
+- **17:23** — And they shall kill him, and the third day he shall be raised again. And they were exceeding sorry.
+- **17:24** — And when they were come to Capernaum, they that received tribute money came to Peter, and said, Doth not your master pay tribute?
+- **17:25** — He saith, Yes. And when he was come into the house, Jesus prevented him, saying, What thinkest thou, Simon? of whom do the kings of the earth take custom or tribute? of their own children, or of strangers?
+- **17:26** — Peter saith unto him, Of strangers. Jesus saith unto him, Then are the children free.
+- **17:27** — Notwithstanding, lest we should offend them, go thou to the sea, and cast an hook, and take up the fish that first cometh up; and when thou hast opened his mouth, thou shalt find a piece of money: that take, and give unto them for me and thee.
+- **18:1** — At the same time came the disciples unto Jesus, saying, Who is the greatest in the kingdom of heaven?
+- **18:2** — And Jesus called a little child unto him, and set him in the midst of them,
+- **18:3** — And said, Verily I say unto you, Except ye be converted, and become as little children, ye shall not enter into the kingdom of heaven.
+- **18:5** — And whoso shall receive one such little child in my name receiveth me.
+- **18:6** — But whoso shall offend one of these little ones which believe in me, it were better for him that a millstone were hanged about his neck, and that he were drowned in the depth of the sea.
+- **18:10** — Take heed that ye despise not one of these little ones; for I say unto you, That in heaven their angels do always behold the face of my Father which is in heaven.
+- **18:11** — For the Son of man is come to save that which was lost.
+- **18:13** — And if so be that he find it, verily I say unto you, he rejoiceth more of that sheep, than of the ninety and nine which went not astray.
+- **18:18** — Verily I say unto you, Whatsoever ye shall bind on earth shall be bound in heaven: and whatsoever ye shall loose on earth shall be loosed in heaven.
+- **18:19** — Again I say unto you, That if two of you shall agree on earth as touching any thing that they shall ask, it shall be done for them of my Father which is in heaven.
+- **18:20** — For where two or three are gathered together in my name, there am I in the midst of them.
+- **18:21** — Then came Peter to him, and said, Lord, how oft shall my brother sin against me, and I forgive him? till seven times?
+- **18:22** — Jesus saith unto him, I say not unto thee, Until seven times: but, Until seventy times seven.
+- **18:26** — The servant therefore fell down, and worshipped him, saying, Lord, have patience with me, and I will pay thee all.
+- **18:35** — So likewise shall my heavenly Father do also unto you, if ye from your hearts forgive not every one his brother their trespasses.
+- **19:1** — And it came to pass, that when Jesus had finished these sayings, he departed from Galilee, and came into the coasts of Judaea beyond Jordan;
+- **19:2** — And great multitudes followed him; and he healed them there.
+- **19:3** — The Pharisees also came unto him, tempting him, and saying unto him, Is it lawful for a man to put away his wife for every cause?
+- **19:4** — And he answered and said unto them, Have ye not read, that he which made them at the beginning made them male and female,
+- **19:7** — They say unto him, Why did Moses then command to give a writing of divorcement, and to put her away?
+- **19:9** — And I say unto you, Whosoever shall put away his wife, except it be for fornication, and shall marry another, committeth adultery: and whoso marrieth her which is put away doth commit adultery.
+- **19:10** — His disciples say unto him, If the case of the man be so with his wife, it is not good to marry.
+- **19:11** — But he said unto them, All men cannot receive this saying, save they to whom it is given.
+- **19:13** — Then were there brought unto him little children, that he should put his hands on them, and pray: and the disciples rebuked them.
+- **19:14** — But Jesus said, Suffer little children, and forbid them not, to come unto me: for of such is the kingdom of heaven.
+- **19:15** — And he laid his hands on them, and departed thence.
+- **19:16** — And, behold, one came and said unto him, Good Master, what good thing shall I do, that I may have eternal life?
+- **19:17** — And he said unto him, Why callest thou me good? there is none good but one, that is, God: but if thou wilt enter into life, keep the commandments.
+- **19:18** — He saith unto him, Which? Jesus said, Thou shalt do no murder, Thou shalt not commit adultery, Thou shalt not steal, Thou shalt not bear false witness,
+- **19:20** — The young man saith unto him, All these things have I kept from my youth up: what lack I yet?
+- **19:21** — Jesus said unto him, If thou wilt be perfect, go and sell that thou hast, and give to the poor, and thou shalt have treasure in heaven: and come and follow me.
+- **19:23** — Then said Jesus unto his disciples, Verily I say unto you, That a rich man shall hardly enter into the kingdom of heaven.
+- **19:24** — And again I say unto you, It is easier for a camel to go through the eye of a needle, than for a rich man to enter into the kingdom of God.
+- **19:25** — When his disciples heard it, they were exceedingly amazed, saying, Who then can be saved?
+- **19:26** — But Jesus beheld them, and said unto them, With men this is impossible; but with God all things are possible.
+- **19:27** — Then answered Peter and said unto him, Behold, we have forsaken all, and followed thee; what shall we have therefore?
+- **19:28** — And Jesus said unto them, Verily I say unto you, That ye which have followed me, in the regeneration when the Son of man shall sit in the throne of his glory, ye also shall sit upon twelve thrones, judging the twelve tribes of Israel.
+- **19:29** — And every one that hath forsaken houses, or brethren, or sisters, or father, or mother, or wife, or children, or lands, for my name's sake, shall receive an hundredfold, and shall inherit everlasting life.
+- **20:17** — And Jesus going up to Jerusalem took the twelve disciples apart in the way, and said unto them,
+- **20:18** — Behold, we go up to Jerusalem; and the Son of man shall be betrayed unto the chief priests and unto the scribes, and they shall condemn him to death,
+- **20:19** — And shall deliver him to the Gentiles to mock, and to scourge, and to crucify him: and the third day he shall rise again.
+- **20:20** — Then came to him the mother of Zebedee's children with her sons, worshipping him, and desiring a certain thing of him.
+- **20:21** — And he said unto her, What wilt thou? She saith unto him, Grant that these my two sons may sit, the one on thy right hand, and the other on the left, in thy kingdom.
+- **20:22** — But Jesus answered and said, Ye know not what ye ask. Are ye able to drink of the cup that I shall drink of, and to be baptized with the baptism that I am baptized with? They say unto him, We are able.
+- **20:23** — And he saith unto them, Ye shall drink indeed of my cup, and be baptized with the baptism that I am baptized with: but to sit on my right hand, and on my left, is not mine to give, but it shall be given to them for whom it is prepared of my Father.
+- **20:25** — But Jesus called them unto him, and said, Ye know that the princes of the Gentiles exercise dominion over them, and they that are great exercise authority upon them.
+- **20:28** — Even as the Son of man came not to be ministered unto, but to minister, and to give his life a ransom for many.
+- **20:29** — And as they departed from Jericho, a great multitude followed him.
+- **20:30** — And, behold, two blind men sitting by the way side, when they heard that Jesus passed by, cried out, saying, Have mercy on us, O Lord, thou Son of David.
+- **20:31** — And the multitude rebuked them, because they should hold their peace: but they cried the more, saying, Have mercy on us, O Lord, thou Son of David.
+- **20:32** — And Jesus stood still, and called them, and said, What will ye that I shall do unto you?
+- **20:33** — They say unto him, Lord, that our eyes may be opened.
+- **20:34** — So Jesus had compassion on them, and touched their eyes: and immediately their eyes received sight, and they followed him.
+- **21:1** — And when they drew nigh unto Jerusalem, and were come to Bethphage, unto the mount of Olives, then sent Jesus two disciples,
+- **21:2** — Saying unto them, Go into the village over against you, and straightway ye shall find an ass tied, and a colt with her: loose them, and bring them unto me.
+- **21:3** — And if any man say ought unto you, ye shall say, The Lord hath need of them; and straightway he will send them.
+- **21:6** — And the disciples went, and did as Jesus commanded them,
+- **21:7** — And brought the ass, and the colt, and put on them their clothes, and they set him thereon.
+- **21:9** — And the multitudes that went before, and that followed, cried, saying, Hosanna to the Son of David: Blessed is he that cometh in the name of the Lord; Hosanna in the highest.
+- **21:10** — And when he was come into Jerusalem, all the city was moved, saying, Who is this?
+- **21:11** — And the multitude said, This is Jesus the prophet of Nazareth of Galilee.
+- **21:12** — And Jesus went into the temple of God, and cast out all them that sold and bought in the temple, and overthrew the tables of the moneychangers, and the seats of them that sold doves,
+- **21:14** — And the blind and the lame came to him in the temple; and he healed them.
+- **21:15** — And when the chief priests and scribes saw the wonderful things that he did, and the children crying in the temple, and saying, Hosanna to the Son of David; they were sore displeased,
+- **21:16** — And said unto him, Hearest thou what these say? And Jesus saith unto them, Yea; have ye never read, Out of the mouth of babes and sucklings thou hast perfected praise?
+- **21:17** — And he left them, and went out of the city into Bethany; and he lodged there.
+- **21:18** — Now in the morning as he returned into the city, he hungered.
+- **21:19** — And when he saw a fig tree in the way, he came to it, and found nothing thereon, but leaves only, and said unto it, Let no fruit grow on thee henceforward for ever. And presently the fig tree withered away.
+- **21:21** — Jesus answered and said unto them, Verily I say unto you, If ye have faith, and doubt not, ye shall not only do this which is done to the fig tree, but also if ye shall say unto this mountain, Be thou removed, and be thou cast into the sea; it shall be done.
+- **21:23** — And when he was come into the temple, the chief priests and the elders of the people came unto him as he was teaching, and said, By what authority doest thou these things? and who gave thee this authority?
+- **21:24** — And Jesus answered and said unto them, I also will ask you one thing, which if ye tell me, I in like wise will tell you by what authority I do these things.
+- **21:27** — And they answered Jesus, and said, We cannot tell. And he said unto them, Neither tell I you by what authority I do these things.
+- **21:28** — But what think ye? A certain man had two sons; and he came to the first, and said, Son, go work to day in my vineyard.
+- **21:31** — Whether of them twain did the will of his father? They say unto him, The first. Jesus saith unto them, Verily I say unto you, That the publicans and the harlots go into the kingdom of God before you.
+- **21:41** — They say unto him, He will miserably destroy those wicked men, and will let out his vineyard unto other husbandmen, which shall render him the fruits in their seasons.
+- **21:42** — Jesus saith unto them, Did ye never read in the scriptures, The stone which the builders rejected, the same is become the head of the corner: this is the Lord's doing, and it is marvellous in our eyes?
+- **21:43** — Therefore say I unto you, The kingdom of God shall be taken from you, and given to a nation bringing forth the fruits thereof.
+- **21:45** — And when the chief priests and Pharisees had heard his parables, they perceived that he spake of them.
+- **21:46** — But when they sought to lay hands on him, they feared the multitude, because they took him for a prophet.
+- **22:1** — And Jesus answered and spake unto them again by parables, and said,
+- **22:15** — Then went the Pharisees, and took counsel how they might entangle him in his talk.
+- **22:16** — And they sent out unto him their disciples with the Herodians, saying, Master, we know that thou art true, and teachest the way of God in truth, neither carest thou for any man: for thou regardest not the person of men.
+- **22:17** — Tell us therefore, What thinkest thou? Is it lawful to give tribute unto Caesar, or not?
+- **22:18** — But Jesus perceived their wickedness, and said, Why tempt ye me, ye hypocrites?
+- **22:19** — Shew me the tribute money. And they brought unto him a penny.
+- **22:20** — And he saith unto them, Whose is this image and superscription?
+- **22:21** — They say unto him, Caesar's. Then saith he unto them, Render therefore unto Caesar the things which are Caesar's; and unto God the things that are God's.
+- **22:22** — When they had heard these words, they marvelled, and left him, and went their way.
+- **22:23** — The same day came to him the Sadducees, which say that there is no resurrection, and asked him,
+- **22:29** — Jesus answered and said unto them, Ye do err, not knowing the scriptures, nor the power of God.
+- **22:33** — And when the multitude heard this, they were astonished at his doctrine.
+- **22:34** — But when the Pharisees had heard that he had put the Sadducees to silence, they were gathered together.
+- **22:35** — Then one of them, which was a lawyer, asked him a question, tempting him, and saying,
+- **22:37** — Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind.
+- **22:41** — While the Pharisees were gathered together, Jesus asked them,
+- **22:42** — Saying, What think ye of Christ? whose son is he? They say unto him, The Son of David.
+- **22:43** — He saith unto them, How then doth David in spirit call him Lord, saying,
+- **22:44** — The LORD said unto my Lord, Sit thou on my right hand, till I make thine enemies thy footstool?
+- **22:45** — If David then call him Lord, how is he his son?
+- **22:46** — And no man was able to answer him a word, neither durst any man from that day forth ask him any more questions.
+- **23:1** — Then spake Jesus to the multitude, and to his disciples,
+- **23:8** — But be not ye called Rabbi: for one is your Master, even Christ; and all ye are brethren.
+- **23:9** — And call no man your father upon the earth: for one is your Father, which is in heaven.
+- **23:10** — Neither be ye called masters: for one is your Master, even Christ.
+- **23:21** — And whoso shall swear by the temple, sweareth by it, and by him that dwelleth therein.
+- **23:34** — Wherefore, behold, I send unto you prophets, and wise men, and scribes: and some of them ye shall kill and crucify; and some of them shall ye scourge in your synagogues, and persecute them from city to city:
+- **23:36** — Verily I say unto you, All these things shall come upon this generation.
+- **23:37** — O Jerusalem, Jerusalem, thou that killest the prophets, and stonest them which are sent unto thee, how often would I have gathered thy children together, even as a hen gathereth her chickens under her wings, and ye would not!
+- **23:39** — For I say unto you, Ye shall not see me henceforth, till ye shall say, Blessed is he that cometh in the name of the Lord.
+- **24:1** — And Jesus went out, and departed from the temple: and his disciples came to him for to shew him the buildings of the temple.
+- **24:2** — And Jesus said unto them, See ye not all these things? verily I say unto you, There shall not be left here one stone upon another, that shall not be thrown down.
+- **24:3** — And as he sat upon the mount of Olives, the disciples came unto him privately, saying, Tell us, when shall these things be? and what shall be the sign of thy coming, and of the end of the world?
+- **24:4** — And Jesus answered and said unto them, Take heed that no man deceive you.
+- **24:5** — For many shall come in my name, saying, I am Christ; and shall deceive many.
+- **24:9** — Then shall they deliver you up to be afflicted, and shall kill you: and ye shall be hated of all nations for my name's sake.
+- **24:23** — Then if any man shall say unto you, Lo, here is Christ, or there; believe it not.
+- **24:25** — Behold, I have told you before.
+- **24:26** — Wherefore if they shall say unto you, Behold, he is in the desert; go not forth: behold, he is in the secret chambers; believe it not.
+- **24:27** — For as the lightning cometh out of the east, and shineth even unto the west; so shall also the coming of the Son of man be.
+- **24:30** — And then shall appear the sign of the Son of man in heaven: and then shall all the tribes of the earth mourn, and they shall see the Son of man coming in the clouds of heaven with power and great glory.
+- **24:31** — And he shall send his angels with a great sound of a trumpet, and they shall gather together his elect from the four winds, from one end of heaven to the other.
+- **24:34** — Verily I say unto you, This generation shall not pass, till all these things be fulfilled.
+- **24:35** — Heaven and earth shall pass away, but my words shall not pass away.
+- **24:36** — But of that day and hour knoweth no man, no, not the angels of heaven, but my Father only.
+- **24:37** — But as the days of Noe were, so shall also the coming of the Son of man be.
+- **24:39** — And knew not until the flood came, and took them all away; so shall also the coming of the Son of man be.
+- **24:42** — Watch therefore: for ye know not what hour your Lord doth come.
+- **24:44** — Therefore be ye also ready: for in such an hour as ye think not the Son of man cometh.
+- **24:47** — Verily I say unto you, That he shall make him ruler over all his goods.
+- **25:11** — Afterward came also the other virgins, saying, Lord, Lord, open to us.
+- **25:12** — But he answered and said, Verily I say unto you, I know you not.
+- **25:13** — Watch therefore, for ye know neither the day nor the hour wherein the Son of man cometh.
+- **25:20** — And so he that had received five talents came and brought other five talents, saying, Lord, thou deliveredst unto me five talents: behold, I have gained beside them five talents more.
+- **25:22** — He also that had received two talents came and said, Lord, thou deliveredst unto me two talents: behold, I have gained two other talents beside them.
+- **25:24** — Then he which had received the one talent came and said, Lord, I knew thee that thou art an hard man, reaping where thou hast not sown, and gathering where thou hast not strawed:
+- **25:31** — When the Son of man shall come in his glory, and all the holy angels with him, then shall he sit upon the throne of his glory:
+- **25:32** — And before him shall be gathered all nations: and he shall separate them one from another, as a shepherd divideth his sheep from the goats:
+- **25:33** — And he shall set the sheep on his right hand, but the goats on the left.
+- **25:34** — Then shall the King say unto them on his right hand, Come, ye blessed of my Father, inherit the kingdom prepared for you from the foundation of the world:
+- **25:35** — For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in:
+- **25:36** — Naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and ye came unto me.
+- **25:37** — Then shall the righteous answer him, saying, Lord, when saw we thee an hungred, and fed thee? or thirsty, and gave thee drink?
+- **25:38** — When saw we thee a stranger, and took thee in? or naked, and clothed thee?
+- **25:39** — Or when saw we thee sick, or in prison, and came unto thee?
+- **25:40** — And the King shall answer and say unto them, Verily I say unto you, Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me.
+- **25:41** — Then shall he say also unto them on the left hand, Depart from me, ye cursed, into everlasting fire, prepared for the devil and his angels:
+- **25:42** — For I was an hungred, and ye gave me no meat: I was thirsty, and ye gave me no drink:
+- **25:43** — I was a stranger, and ye took me not in: naked, and ye clothed me not: sick, and in prison, and ye visited me not.
+- **25:44** — Then shall they also answer him, saying, Lord, when saw we thee an hungred, or athirst, or a stranger, or naked, or sick, or in prison, and did not minister unto thee?
+- **25:45** — Then shall he answer them, saying, Verily I say unto you, Inasmuch as ye did it not to one of the least of these, ye did it not to me.
+- **26:1** — And it came to pass, when Jesus had finished all these sayings, he said unto his disciples,
+- **26:2** — Ye know that after two days is the feast of the passover, and the Son of man is betrayed to be crucified.
+- **26:4** — And consulted that they might take Jesus by subtilty, and kill him.
+- **26:6** — Now when Jesus was in Bethany, in the house of Simon the leper,
+- **26:7** — There came unto him a woman having an alabaster box of very precious ointment, and poured it on his head, as he sat at meat.
+- **26:8** — But when his disciples saw it, they had indignation, saying, To what purpose is this waste?
+- **26:10** — When Jesus understood it, he said unto them, Why trouble ye the woman? for she hath wrought a good work upon me.
+- **26:11** — For ye have the poor always with you; but me ye have not always.
+- **26:12** — For in that she hath poured this ointment on my body, she did it for my burial.
+- **26:13** — Verily I say unto you, Wheresoever this gospel shall be preached in the whole world, there shall also this, that this woman hath done, be told for a memorial of her.
+- **26:15** — And said unto them, What will ye give me, and I will deliver him unto you? And they covenanted with him for thirty pieces of silver.
+- **26:16** — And from that time he sought opportunity to betray him.
+- **26:17** — Now the first day of the feast of unleavened bread the disciples came to Jesus, saying unto him, Where wilt thou that we prepare for thee to eat the passover?
+- **26:18** — And he said, Go into the city to such a man, and say unto him, The Master saith, My time is at hand; I will keep the passover at thy house with my disciples.
+- **26:19** — And the disciples did as Jesus had appointed them; and they made ready the passover.
+- **26:20** — Now when the even was come, he sat down with the twelve.
+- **26:21** — And as they did eat, he said, Verily I say unto you, that one of you shall betray me.
+- **26:22** — And they were exceeding sorrowful, and began every one of them to say unto him, Lord, is it I?
+- **26:23** — And he answered and said, He that dippeth his hand with me in the dish, the same shall betray me.
+- **26:24** — The Son of man goeth as it is written of him: but woe unto that man by whom the Son of man is betrayed! it had been good for that man if he had not been born.
+- **26:25** — Then Judas, which betrayed him, answered and said, Master, is it I? He said unto him, Thou hast said.
+- **26:26** — And as they were eating, Jesus took bread, and blessed it, and brake it, and gave it to the disciples, and said, Take, eat; this is my body.
+- **26:27** — And he took the cup, and gave thanks, and gave it to them, saying, Drink ye all of it;
+- **26:28** — For this is my blood of the new testament, which is shed for many for the remission of sins.
+- **26:29** — But I say unto you, I will not drink henceforth of this fruit of the vine, until that day when I drink it new with you in my Father's kingdom.
+- **26:31** — Then saith Jesus unto them, All ye shall be offended because of me this night: for it is written, I will smite the shepherd, and the sheep of the flock shall be scattered abroad.
+- **26:32** — But after I am risen again, I will go before you into Galilee.
+- **26:33** — Peter answered and said unto him, Though all men shall be offended because of thee, yet will I never be offended.
+- **26:34** — Jesus said unto him, Verily I say unto thee, That this night, before the cock crow, thou shalt deny me thrice.
+- **26:35** — Peter said unto him, Though I should die with thee, yet will I not deny thee. Likewise also said all the disciples.
+- **26:36** — Then cometh Jesus with them unto a place called Gethsemane, and saith unto the disciples, Sit ye here, while I go and pray yonder.
+- **26:37** — And he took with him Peter and the two sons of Zebedee, and began to be sorrowful and very heavy.
+- **26:38** — Then saith he unto them, My soul is exceeding sorrowful, even unto death: tarry ye here, and watch with me.
+- **26:39** — And he went a little further, and fell on his face, and prayed, saying, O my Father, if it be possible, let this cup pass from me: nevertheless not as I will, but as thou wilt.
+- **26:40** — And he cometh unto the disciples, and findeth them asleep, and saith unto Peter, What, could ye not watch with me one hour?
+- **26:42** — He went away again the second time, and prayed, saying, O my Father, if this cup may not pass away from me, except I drink it, thy will be done.
+- **26:43** — And he came and found them asleep again: for their eyes were heavy.
+- **26:44** — And he left them, and went away again, and prayed the third time, saying the same words.
+- **26:45** — Then cometh he to his disciples, and saith unto them, Sleep on now, and take your rest: behold, the hour is at hand, and the Son of man is betrayed into the hands of sinners.
+- **26:46** — Rise, let us be going: behold, he is at hand that doth betray me.
+- **26:47** — And while he yet spake, lo, Judas, one of the twelve, came, and with him a great multitude with swords and staves, from the chief priests and elders of the people.
+- **26:48** — Now he that betrayed him gave them a sign, saying, Whomsoever I shall kiss, that same is he: hold him fast.
+- **26:49** — And forthwith he came to Jesus, and said, Hail, master; and kissed him.
+- **26:50** — And Jesus said unto him, Friend, wherefore art thou come? Then came they, and laid hands on Jesus, and took him.
+- **26:51** — And, behold, one of them which were with Jesus stretched out his hand, and drew his sword, and struck a servant of the high priest's, and smote off his ear.
+- **26:52** — Then said Jesus unto him, Put up again thy sword into his place: for all they that take the sword shall perish with the sword.
+- **26:53** — Thinkest thou that I cannot now pray to my Father, and he shall presently give me more than twelve legions of angels?
+- **26:55** — In that same hour said Jesus to the multitudes, Are ye come out as against a thief with swords and staves for to take me? I sat daily with you teaching in the temple, and ye laid no hold on me.
+- **26:56** — But all this was done, that the scriptures of the prophets might be fulfilled. Then all the disciples forsook him, and fled.
+- **26:57** — And they that had laid hold on Jesus led him away to Caiaphas the high priest, where the scribes and the elders were assembled.
+- **26:58** — But Peter followed him afar off unto the high priest's palace, and went in, and sat with the servants, to see the end.
+- **26:59** — Now the chief priests, and elders, and all the council, sought false witness against Jesus, to put him to death;
+- **26:62** — And the high priest arose, and said unto him, Answerest thou nothing? what is it which these witness against thee?
+- **26:63** — But Jesus held his peace. And the high priest answered and said unto him, I adjure thee by the living God, that thou tell us whether thou be the Christ, the Son of God.
+- **26:64** — Jesus saith unto him, Thou hast said: nevertheless I say unto you, Hereafter shall ye see the Son of man sitting on the right hand of power, and coming in the clouds of heaven.
+- **26:65** — Then the high priest rent his clothes, saying, He hath spoken blasphemy; what further need have we of witnesses? behold, now ye have heard his blasphemy.
+- **26:67** — Then did they spit in his face, and buffeted him; and others smote him with the palms of their hands,
+- **26:68** — Saying, Prophesy unto us, thou Christ, Who is he that smote thee?
+- **26:69** — Now Peter sat without in the palace: and a damsel came unto him, saying, Thou also wast with Jesus of Galilee.
+- **26:71** — And when he was gone out into the porch, another maid saw him, and said unto them that were there, This fellow was also with Jesus of Nazareth.
+- **26:72** — And again he denied with an oath, I do not know the man.
+- **26:74** — Then began he to curse and to swear, saying, I know not the man. And immediately the cock crew.
+- **26:75** — And Peter remembered the word of Jesus, which said unto him, Before the cock crow, thou shalt deny me thrice. And he went out, and wept bitterly.
+- **27:1** — When the morning was come, all the chief priests and elders of the people took counsel against Jesus to put him to death:
+- **27:2** — And when they had bound him, they led him away, and delivered him to Pontius Pilate the governor.
+- **27:3** — Then Judas, which had betrayed him, when he saw that he was condemned, repented himself, and brought again the thirty pieces of silver to the chief priests and elders,
+- **27:9** — Then was fulfilled that which was spoken by Jeremy the prophet, saying, And they took the thirty pieces of silver, the price of him that was valued, whom they of the children of Israel did value;
+- **27:10** — And gave them for the potter's field, as the Lord appointed me.
+- **27:11** — And Jesus stood before the governor: and the governor asked him, saying, Art thou the King of the Jews? And Jesus said unto him, Thou sayest.
+- **27:12** — And when he was accused of the chief priests and elders, he answered nothing.
+- **27:13** — Then said Pilate unto him, Hearest thou not how many things they witness against thee?
+- **27:14** — And he answered him to never a word; insomuch that the governor marvelled greatly.
+- **27:17** — Therefore when they were gathered together, Pilate said unto them, Whom will ye that I release unto you? Barabbas, or Jesus which is called Christ?
+- **27:18** — For he knew that for envy they had delivered him.
+- **27:19** — When he was set down on the judgment seat, his wife sent unto him, saying, Have thou nothing to do with that just man: for I have suffered many things this day in a dream because of him.
+- **27:20** — But the chief priests and elders persuaded the multitude that they should ask Barabbas, and destroy Jesus.
+- **27:22** — Pilate saith unto them, What shall I do then with Jesus which is called Christ? They all say unto him, Let him be crucified.
+- **27:23** — And the governor said, Why, what evil hath he done? But they cried out the more, saying, Let him be crucified.
+- **27:24** — When Pilate saw that he could prevail nothing, but that rather a tumult was made, he took water, and washed his hands before the multitude, saying, I am innocent of the blood of this just person: see ye to it.
+- **27:26** — Then released he Barabbas unto them: and when he had scourged Jesus, he delivered him to be crucified.
+- **27:27** — Then the soldiers of the governor took Jesus into the common hall, and gathered unto him the whole band of soldiers.
+- **27:28** — And they stripped him, and put on him a scarlet robe.
+- **27:29** — And when they had platted a crown of thorns, they put it upon his head, and a reed in his right hand: and they bowed the knee before him, and mocked him, saying, Hail, King of the Jews!
+- **27:30** — And they spit upon him, and took the reed, and smote him on the head.
+- **27:31** — And after that they had mocked him, they took the robe off from him, and put his own raiment on him, and led him away to crucify him.
+- **27:32** — And as they came out, they found a man of Cyrene, Simon by name: him they compelled to bear his cross.
+- **27:34** — They gave him vinegar to drink mingled with gall: and when he had tasted thereof, he would not drink.
+- **27:35** — And they crucified him, and parted his garments, casting lots: that it might be fulfilled which was spoken by the prophet, They parted my garments among them, and upon my vesture did they cast lots.
+- **27:36** — And sitting down they watched him there;
+- **27:37** — And set up over his head his accusation written, THIS IS JESUS THE KING OF THE JEWS.
+- **27:38** — Then were there two thieves crucified with him, one on the right hand, and another on the left.
+- **27:39** — And they that passed by reviled him, wagging their heads,
+- **27:40** — And saying, Thou that destroyest the temple, and buildest it in three days, save thyself. If thou be the Son of God, come down from the cross.
+- **27:41** — Likewise also the chief priests mocking him, with the scribes and elders, said,
+- **27:42** — He saved others; himself he cannot save. If he be the King of Israel, let him now come down from the cross, and we will believe him.
+- **27:43** — He trusted in God; let him deliver him now, if he will have him: for he said, I am the Son of God.
+- **27:44** — The thieves also, which were crucified with him, cast the same in his teeth.
+- **27:46** — And about the ninth hour Jesus cried with a loud voice, saying, Eli, Eli, lama sabachthani? that is to say, My God, my God, why hast thou forsaken me?
+- **27:47** — Some of them that stood there, when they heard that, said, This man calleth for Elias.
+- **27:48** — And straightway one of them ran, and took a spunge, and filled it with vinegar, and put it on a reed, and gave him to drink.
+- **27:49** — The rest said, Let be, let us see whether Elias will come to save him.
+- **27:50** — Jesus, when he had cried again with a loud voice, yielded up the ghost.
+- **27:53** — And came out of the graves after his resurrection, and went into the holy city, and appeared unto many.
+- **27:54** — Now when the centurion, and they that were with him, watching Jesus, saw the earthquake, and those things that were done, they feared greatly, saying, Truly this was the Son of God.
+- **27:55** — And many women were there beholding afar off, which followed Jesus from Galilee, ministering unto him:
+- **27:57** — When the even was come, there came a rich man of Arimathaea, named Joseph, who also himself was Jesus' disciple:
+- **27:58** — He went to Pilate, and begged the body of Jesus. Then Pilate commanded the body to be delivered.
+- **27:63** — Saying, Sir, we remember that that deceiver said, while he was yet alive, After three days I will rise again.
+- **27:64** — Command therefore that the sepulchre be made sure until the third day, lest his disciples come by night, and steal him away, and say unto the people, He is risen from the dead: so the last error shall be worse than the first.
+- **28:2** — And, behold, there was a great earthquake: for the angel of the Lord descended from heaven, and came and rolled back the stone from the door, and sat upon it.
+- **28:5** — And the angel answered and said unto the women, Fear not ye: for I know that ye seek Jesus, which was crucified.
+- **28:6** — He is not here: for he is risen, as he said. Come, see the place where the Lord lay.
+- **28:7** — And go quickly, and tell his disciples that he is risen from the dead; and, behold, he goeth before you into Galilee; there shall ye see him: lo, I have told you.
+- **28:8** — And they departed quickly from the sepulchre with fear and great joy; and did run to bring his disciples word.
+- **28:9** — And as they went to tell his disciples, behold, Jesus met them, saying, All hail. And they came and held him by the feet, and worshipped him.
+- **28:10** — Then said Jesus unto them, Be not afraid: go tell my brethren that they go into Galilee, and there shall they see me.
+- **28:13** — Saying, Say ye, His disciples came by night, and stole him away while we slept.
+- **28:16** — Then the eleven disciples went away into Galilee, into a mountain where Jesus had appointed them.
+- **28:17** — And when they saw him, they worshipped him: but some doubted.
+- **28:18** — And Jesus came and spake unto them, saying, All power is given unto me in heaven and in earth.
+- **28:19** — Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost:
+- **28:20** — Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen.
+
+### [[Mark]]
+- **1:1** — The beginning of the gospel of Jesus Christ, the Son of God;
+- **1:2** — As it is written in the prophets, Behold, I send my messenger before thy face, which shall prepare thy way before thee.
+- **1:3** — The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight.
+- **1:7** — And preached, saying, There cometh one mightier than I after me, the latchet of whose shoes I am not worthy to stoop down and unloose.
+- **1:8** — I indeed have baptized you with water: but he shall baptize you with the Holy Ghost.
+- **1:9** — And it came to pass in those days, that Jesus came from Nazareth of Galilee, and was baptized of John in Jordan.
+- **1:10** — And straightway coming up out of the water, he saw the heavens opened, and the Spirit like a dove descending upon him:
+- **1:11** — And there came a voice from heaven, saying, Thou art my beloved Son, in whom I am well pleased.
+- **1:12** — And immediately the Spirit driveth him into the wilderness.
+- **1:13** — And he was there in the wilderness forty days, tempted of Satan; and was with the wild beasts; and the angels ministered unto him.
+- **1:14** — Now after that John was put in prison, Jesus came into Galilee, preaching the gospel of the kingdom of God,
+- **1:16** — Now as he walked by the sea of Galilee, he saw Simon and Andrew his brother casting a net into the sea: for they were fishers.
+- **1:17** — And Jesus said unto them, Come ye after me, and I will make you to become fishers of men.
+- **1:18** — And straightway they forsook their nets, and followed him.
+- **1:19** — And when he had gone a little further thence, he saw James the son of Zebedee, and John his brother, who also were in the ship mending their nets.
+- **1:20** — And straightway he called them: and they left their father Zebedee in the ship with the hired servants, and went after him.
+- **1:21** — And they went into Capernaum; and straightway on the sabbath day he entered into the synagogue, and taught.
+- **1:22** — And they were astonished at his doctrine: for he taught them as one that had authority, and not as the scribes.
+- **1:24** — Saying, Let us alone; what have we to do with thee, thou Jesus of Nazareth? art thou come to destroy us? I know thee who thou art, the Holy One of God.
+- **1:25** — And Jesus rebuked him, saying, Hold thy peace, and come out of him.
+- **1:27** — And they were all amazed, insomuch that they questioned among themselves, saying, What thing is this? what new doctrine is this? for with authority commandeth he even the unclean spirits, and they do obey him.
+- **1:28** — And immediately his fame spread abroad throughout all the region round about Galilee.
+- **1:30** — But Simon's wife's mother lay sick of a fever, and anon they tell him of her.
+- **1:31** — And he came and took her by the hand, and lifted her up; and immediately the fever left her, and she ministered unto them.
+- **1:32** — And at even, when the sun did set, they brought unto him all that were diseased, and them that were possessed with devils.
+- **1:34** — And he healed many that were sick of divers diseases, and cast out many devils; and suffered not the devils to speak, because they knew him.
+- **1:35** — And in the morning, rising up a great while before day, he went out, and departed into a solitary place, and there prayed.
+- **1:36** — And Simon and they that were with him followed after him.
+- **1:37** — And when they had found him, they said unto him, All men seek for thee.
+- **1:38** — And he said unto them, Let us go into the next towns, that I may preach there also: for therefore came I forth.
+- **1:39** — And he preached in their synagogues throughout all Galilee, and cast out devils.
+- **1:40** — And there came a leper to him, beseeching him, and kneeling down to him, and saying unto him, If thou wilt, thou canst make me clean.
+- **1:41** — And Jesus, moved with compassion, put forth his hand, and touched him, and saith unto him, I will; be thou clean.
+- **1:42** — And as soon as he had spoken, immediately the leprosy departed from him, and he was cleansed.
+- **1:43** — And he straitly charged him, and forthwith sent him away;
+- **1:45** — But he went out, and began to publish it much, and to blaze abroad the matter, insomuch that Jesus could no more openly enter into the city, but was without in desert places: and they came to him from every quarter.
+- **2:1** — And again he entered into Capernaum after some days; and it was noised that he was in the house.
+- **2:2** — And straightway many were gathered together, insomuch that there was no room to receive them, no, not so much as about the door: and he preached the word unto them.
+- **2:3** — And they come unto him, bringing one sick of the palsy, which was borne of four.
+- **2:4** — And when they could not come nigh unto him for the press, they uncovered the roof where he was: and when they had broken it up, they let down the bed wherein the sick of the palsy lay.
+- **2:5** — When Jesus saw their faith, he said unto the sick of the palsy, Son, thy sins be forgiven thee.
+- **2:7** — Why doth this man thus speak blasphemies? who can forgive sins but God only?
+- **2:8** — And immediately when Jesus perceived in his spirit that they so reasoned within themselves, he said unto them, Why reason ye these things in your hearts?
+- **2:10** — But that ye may know that the Son of man hath power on earth to forgive sins, (he saith to the sick of the palsy,)
+- **2:11** — I say unto thee, Arise, and take up thy bed, and go thy way into thine house.
+- **2:13** — And he went forth again by the sea side; and all the multitude resorted unto him, and he taught them.
+- **2:14** — And as he passed by, he saw Levi the son of Alphaeus sitting at the receipt of custom, and said unto him, Follow me. And he arose and followed him.
+- **2:15** — And it came to pass, that, as Jesus sat at meat in his house, many publicans and sinners sat also together with Jesus and his disciples: for there were many, and they followed him.
+- **2:16** — And when the scribes and Pharisees saw him eat with publicans and sinners, they said unto his disciples, How is it that he eateth and drinketh with publicans and sinners?
+- **2:17** — When Jesus heard it, he saith unto them, They that are whole have no need of the physician, but they that are sick: I came not to call the righteous, but sinners to repentance.
+- **2:18** — And the disciples of John and of the Pharisees used to fast: and they come and say unto him, Why do the disciples of John and of the Pharisees fast, but thy disciples fast not?
+- **2:19** — And Jesus said unto them, Can the children of the bridechamber fast, while the bridegroom is with them? as long as they have the bridegroom with them, they cannot fast.
+- **2:23** — And it came to pass, that he went through the corn fields on the sabbath day; and his disciples began, as they went, to pluck the ears of corn.
+- **2:24** — And the Pharisees said unto him, Behold, why do they on the sabbath day that which is not lawful?
+- **2:25** — And he said unto them, Have ye never read what David did, when he had need, and was an hungred, he, and they that were with him?
+- **2:27** — And he said unto them, The sabbath was made for man, and not man for the sabbath:
+- **2:28** — Therefore the Son of man is Lord also of the sabbath.
+- **3:1** — And he entered again into the synagogue; and there was a man there which had a withered hand.
+- **3:2** — And they watched him, whether he would heal him on the sabbath day; that they might accuse him.
+- **3:3** — And he saith unto the man which had the withered hand, Stand forth.
+- **3:4** — And he saith unto them, Is it lawful to do good on the sabbath days, or to do evil? to save life, or to kill? But they held their peace.
+- **3:5** — And when he had looked round about on them with anger, being grieved for the hardness of their hearts, he saith unto the man, Stretch forth thine hand. And he stretched it out: and his hand was restored whole as the other.
+- **3:6** — And the Pharisees went forth, and straightway took counsel with the Herodians against him, how they might destroy him.
+- **3:7** — But Jesus withdrew himself with his disciples to the sea: and a great multitude from Galilee followed him, and from Judaea,
+- **3:8** — And from Jerusalem, and from Idumaea, and from beyond Jordan; and they about Tyre and Sidon, a great multitude, when they had heard what great things he did, came unto him.
+- **3:9** — And he spake to his disciples, that a small ship should wait on him because of the multitude, lest they should throng him.
+- **3:10** — For he had healed many; insomuch that they pressed upon him for to touch him, as many as had plagues.
+- **3:11** — And unclean spirits, when they saw him, fell down before him, and cried, saying, Thou art the Son of God.
+- **3:12** — And he straitly charged them that they should not make him known.
+- **3:13** — And he goeth up into a mountain, and calleth unto him whom he would: and they came unto him.
+- **3:14** — And he ordained twelve, that they should be with him, and that he might send them forth to preach,
+- **3:16** — And Simon he surnamed Peter;
+- **3:17** — And James the son of Zebedee, and John the brother of James; and he surnamed them Boanerges, which is, The sons of thunder:
+- **3:19** — And Judas Iscariot, which also betrayed him: and they went into an house.
+- **3:21** — And when his friends heard of it, they went out to lay hold on him: for they said, He is beside himself.
+- **3:22** — And the scribes which came down from Jerusalem said, He hath Beelzebub, and by the prince of the devils casteth he out devils.
+- **3:23** — And he called them unto him, and said unto them in parables, How can Satan cast out Satan?
+- **3:28** — Verily I say unto you, All sins shall be forgiven unto the sons of men, and blasphemies wherewith soever they shall blaspheme:
+- **3:31** — There came then his brethren and his mother, and, standing without, sent unto him, calling him.
+- **3:32** — And the multitude sat about him, and they said unto him, Behold, thy mother and thy brethren without seek for thee.
+- **3:33** — And he answered them, saying, Who is my mother, or my brethren?
+- **3:34** — And he looked round about on them which sat about him, and said, Behold my mother and my brethren!
+- **3:35** — For whosoever shall do the will of God, the same is my brother, and my sister, and mother.
+- **4:1** — And he began again to teach by the sea side: and there was gathered unto him a great multitude, so that he entered into a ship, and sat in the sea; and the whole multitude was by the sea on the land.
+- **4:2** — And he taught them many things by parables, and said unto them in his doctrine,
+- **4:9** — And he said unto them, He that hath ears to hear, let him hear.
+- **4:10** — And when he was alone, they that were about him with the twelve asked of him the parable.
+- **4:11** — And he said unto them, Unto you it is given to know the mystery of the kingdom of God: but unto them that are without, all these things are done in parables:
+- **4:13** — And he said unto them, Know ye not this parable? and how then will ye know all parables?
+- **4:21** — And he said unto them, Is a candle brought to be put under a bushel, or under a bed? and not to be set on a candlestick?
+- **4:24** — And he said unto them, Take heed what ye hear: with what measure ye mete, it shall be measured to you: and unto you that hear shall more be given.
+- **4:26** — And he said, So is the kingdom of God, as if a man should cast seed into the ground;
+- **4:30** — And he said, Whereunto shall we liken the kingdom of God? or with what comparison shall we compare it?
+- **4:33** — And with many such parables spake he the word unto them, as they were able to hear it.
+- **4:34** — But without a parable spake he not unto them: and when they were alone, he expounded all things to his disciples.
+- **4:35** — And the same day, when the even was come, he saith unto them, Let us pass over unto the other side.
+- **4:36** — And when they had sent away the multitude, they took him even as he was in the ship. And there were also with him other little ships.
+- **4:38** — And he was in the hinder part of the ship, asleep on a pillow: and they awake him, and say unto him, Master, carest thou not that we perish?
+- **4:39** — And he arose, and rebuked the wind, and said unto the sea, Peace, be still. And the wind ceased, and there was a great calm.
+- **4:40** — And he said unto them, Why are ye so fearful? how is it that ye have no faith?
+- **4:41** — And they feared exceedingly, and said one to another, What manner of man is this, that even the wind and the sea obey him?
+- **5:2** — And when he was come out of the ship, immediately there met him out of the tombs a man with an unclean spirit,
+- **5:6** — But when he saw Jesus afar off, he ran and worshipped him,
+- **5:7** — And cried with a loud voice, and said, What have I to do with thee, Jesus, thou Son of the most high God? I adjure thee by God, that thou torment me not.
+- **5:8** — For he said unto him, Come out of the man, thou unclean spirit.
+- **5:9** — And he asked him, What is thy name? And he answered, saying, My name is Legion: for we are many.
+- **5:10** — And he besought him much that he would not send them away out of the country.
+- **5:12** — And all the devils besought him, saying, Send us into the swine, that we may enter into them.
+- **5:13** — And forthwith Jesus gave them leave. And the unclean spirits went out, and entered into the swine: and the herd ran violently down a steep place into the sea, (they were about two thousand;) and were choked in the sea.
+- **5:15** — And they come to Jesus, and see him that was possessed with the devil, and had the legion, sitting, and clothed, and in his right mind: and they were afraid.
+- **5:17** — And they began to pray him to depart out of their coasts.
+- **5:18** — And when he was come into the ship, he that had been possessed with the devil prayed him that he might be with him.
+- **5:19** — Howbeit Jesus suffered him not, but saith unto him, Go home to thy friends, and tell them how great things the Lord hath done for thee, and hath had compassion on thee.
+- **5:20** — And he departed, and began to publish in Decapolis how great things Jesus had done for him: and all men did marvel.
+- **5:21** — And when Jesus was passed over again by ship unto the other side, much people gathered unto him: and he was nigh unto the sea.
+- **5:22** — And, behold, there cometh one of the rulers of the synagogue, Jairus by name; and when he saw him, he fell at his feet,
+- **5:23** — And besought him greatly, saying, My little daughter lieth at the point of death: I pray thee, come and lay thy hands on her, that she may be healed; and she shall live.
+- **5:24** — And Jesus went with him; and much people followed him, and thronged him.
+- **5:27** — When she had heard of Jesus, came in the press behind, and touched his garment.
+- **5:28** — For she said, If I may touch but his clothes, I shall be whole.
+- **5:30** — And Jesus, immediately knowing in himself that virtue had gone out of him, turned him about in the press, and said, Who touched my clothes?
+- **5:31** — And his disciples said unto him, Thou seest the multitude thronging thee, and sayest thou, Who touched me?
+- **5:32** — And he looked round about to see her that had done this thing.
+- **5:33** — But the woman fearing and trembling, knowing what was done in her, came and fell down before him, and told him all the truth.
+- **5:34** — And he said unto her, Daughter, thy faith hath made thee whole; go in peace, and be whole of thy plague.
+- **5:35** — While he yet spake, there came from the ruler of the synagogue's house certain which said, Thy daughter is dead: why troublest thou the Master any further?
+- **5:36** — As soon as Jesus heard the word that was spoken, he saith unto the ruler of the synagogue, Be not afraid, only believe.
+- **5:37** — And he suffered no man to follow him, save Peter, and James, and John the brother of James.
+- **5:38** — And he cometh to the house of the ruler of the synagogue, and seeth the tumult, and them that wept and wailed greatly.
+- **5:39** — And when he was come in, he saith unto them, Why make ye this ado, and weep? the damsel is not dead, but sleepeth.
+- **5:40** — And they laughed him to scorn. But when he had put them all out, he taketh the father and the mother of the damsel, and them that were with him, and entereth in where the damsel was lying.
+- **5:41** — And he took the damsel by the hand, and said unto her, Talitha cumi; which is, being interpreted, Damsel, I say unto thee, arise.
+- **5:43** — And he charged them straitly that no man should know it; and commanded that something should be given her to eat.
+- **6:1** — And he went out from thence, and came into his own country; and his disciples follow him.
+- **6:2** — And when the sabbath day was come, he began to teach in the synagogue: and many hearing him were astonished, saying, From whence hath this man these things? and what wisdom is this which is given unto him, that even such mighty works are wrought by his hands?
+- **6:3** — Is not this the carpenter, the son of Mary, the brother of James, and Joses, and of Juda, and Simon? and are not his sisters here with us? And they were offended at him.
+- **6:4** — But Jesus said unto them, A prophet is not without honour, but in his own country, and among his own kin, and in his own house.
+- **6:5** — And he could there do no mighty work, save that he laid his hands upon a few sick folk, and healed them.
+- **6:6** — And he marvelled because of their unbelief. And he went round about the villages, teaching.
+- **6:7** — And he called unto him the twelve, and began to send them forth by two and two; and gave them power over unclean spirits;
+- **6:10** — And he said unto them, In what place soever ye enter into an house, there abide till ye depart from that place.
+- **6:11** — And whosoever shall not receive you, nor hear you, when ye depart thence, shake off the dust under your feet for a testimony against them. Verily I say unto you, It shall be more tolerable for Sodom and Gomorrha in the day of judgment, than for that city.
+- **6:14** — And king Herod heard of him; (for his name was spread abroad:) and he said, That John the Baptist was risen from the dead, and therefore mighty works do shew forth themselves in him.
+- **6:30** — And the apostles gathered themselves together unto Jesus, and told him all things, both what they had done, and what they had taught.
+- **6:31** — And he said unto them, Come ye yourselves apart into a desert place, and rest a while: for there were many coming and going, and they had no leisure so much as to eat.
+- **6:33** — And the people saw them departing, and many knew him, and ran afoot thither out of all cities, and outwent them, and came together unto him.
+- **6:34** — And Jesus, when he came out, saw much people, and was moved with compassion toward them, because they were as sheep not having a shepherd: and he began to teach them many things.
+- **6:35** — And when the day was now far spent, his disciples came unto him, and said, This is a desert place, and now the time is far passed:
+- **6:37** — He answered and said unto them, Give ye them to eat. And they say unto him, Shall we go and buy two hundred pennyworth of bread, and give them to eat?
+- **6:39** — And he commanded them to make all sit down by companies upon the green grass.
+- **6:41** — And when he had taken the five loaves and the two fishes, he looked up to heaven, and blessed, and brake the loaves, and gave them to his disciples to set before them; and the two fishes divided he among them all.
+- **6:45** — And straightway he constrained his disciples to get into the ship, and to go to the other side before unto Bethsaida, while he sent away the people.
+- **6:46** — And when he had sent them away, he departed into a mountain to pray.
+- **6:47** — And when even was come, the ship was in the midst of the sea, and he alone on the land.
+- **6:48** — And he saw them toiling in rowing; for the wind was contrary unto them: and about the fourth watch of the night he cometh unto them, walking upon the sea, and would have passed by them.
+- **6:49** — But when they saw him walking upon the sea, they supposed it had been a spirit, and cried out:
+- **6:50** — For they all saw him, and were troubled. And immediately he talked with them, and saith unto them, Be of good cheer: it is I; be not afraid.
+- **6:51** — And he went up unto them into the ship; and the wind ceased: and they were sore amazed in themselves beyond measure, and wondered.
+- **6:54** — And when they were come out of the ship, straightway they knew him,
+- **6:55** — And ran through that whole region round about, and began to carry about in beds those that were sick, where they heard he was.
+- **6:56** — And whithersoever he entered, into villages, or cities, or country, they laid the sick in the streets, and besought him that they might touch if it were but the border of his garment: and as many as touched him were made whole.
+- **7:1** — Then came together unto him the Pharisees, and certain of the scribes, which came from Jerusalem.
+- **7:2** — And when they saw some of his disciples eat bread with defiled, that is to say, with unwashen, hands, they found fault.
+- **7:5** — Then the Pharisees and scribes asked him, Why walk not thy disciples according to the tradition of the elders, but eat bread with unwashen hands?
+- **7:6** — He answered and said unto them, Well hath Esaias prophesied of you hypocrites, as it is written, This people honoureth me with their lips, but their heart is far from me.
+- **7:7** — Howbeit in vain do they worship me, teaching for doctrines the commandments of men.
+- **7:14** — And when he had called all the people unto him, he said unto them, Hearken unto me every one of you, and understand:
+- **7:17** — And when he was entered into the house from the people, his disciples asked him concerning the parable.
+- **7:18** — And he saith unto them, Are ye so without understanding also? Do ye not perceive, that whatsoever thing from without entereth into the man, it cannot defile him;
+- **7:20** — And he said, That which cometh out of the man, that defileth the man.
+- **7:24** — And from thence he arose, and went into the borders of Tyre and Sidon, and entered into an house, and would have no man know it: but he could not be hid.
+- **7:25** — For a certain woman, whose young daughter had an unclean spirit, heard of him, and came and fell at his feet:
+- **7:26** — The woman was a Greek, a Syrophenician by nation; and she besought him that he would cast forth the devil out of her daughter.
+- **7:27** — But Jesus said unto her, Let the children first be filled: for it is not meet to take the children's bread, and to cast it unto the dogs.
+- **7:28** — And she answered and said unto him, Yes, Lord: yet the dogs under the table eat of the children's crumbs.
+- **7:29** — And he said unto her, For this saying go thy way; the devil is gone out of thy daughter.
+- **7:31** — And again, departing from the coasts of Tyre and Sidon, he came unto the sea of Galilee, through the midst of the coasts of Decapolis.
+- **7:32** — And they bring unto him one that was deaf, and had an impediment in his speech; and they beseech him to put his hand upon him.
+- **7:33** — And he took him aside from the multitude, and put his fingers into his ears, and he spit, and touched his tongue;
+- **7:34** — And looking up to heaven, he sighed, and saith unto him, Ephphatha, that is, Be opened.
+- **7:36** — And he charged them that they should tell no man: but the more he charged them, so much the more a great deal they published it;
+- **7:37** — And were beyond measure astonished, saying, He hath done all things well: he maketh both the deaf to hear, and the dumb to speak.
+- **8:1** — In those days the multitude being very great, and having nothing to eat, Jesus called his disciples unto him, and saith unto them,
+- **8:2** — I have compassion on the multitude, because they have now been with me three days, and have nothing to eat:
+- **8:3** — And if I send them away fasting to their own houses, they will faint by the way: for divers of them came from far.
+- **8:4** — And his disciples answered him, From whence can a man satisfy these men with bread here in the wilderness?
+- **8:5** — And he asked them, How many loaves have ye? And they said, Seven.
+- **8:6** — And he commanded the people to sit down on the ground: and he took the seven loaves, and gave thanks, and brake, and gave to his disciples to set before them; and they did set them before the people.
+- **8:7** — And they had a few small fishes: and he blessed, and commanded to set them also before them.
+- **8:9** — And they that had eaten were about four thousand: and he sent them away.
+- **8:10** — And straightway he entered into a ship with his disciples, and came into the parts of Dalmanutha.
+- **8:11** — And the Pharisees came forth, and began to question with him, seeking of him a sign from heaven, tempting him.
+- **8:12** — And he sighed deeply in his spirit, and saith, Why doth this generation seek after a sign? verily I say unto you, There shall no sign be given unto this generation.
+- **8:13** — And he left them, and entering into the ship again departed to the other side.
+- **8:15** — And he charged them, saying, Take heed, beware of the leaven of the Pharisees, and of the leaven of Herod.
+- **8:17** — And when Jesus knew it, he saith unto them, Why reason ye, because ye have no bread? perceive ye not yet, neither understand? have ye your heart yet hardened?
+- **8:19** — When I brake the five loaves among five thousand, how many baskets full of fragments took ye up? They say unto him, Twelve.
+- **8:21** — And he said unto them, How is it that ye do not understand?
+- **8:22** — And he cometh to Bethsaida; and they bring a blind man unto him, and besought him to touch him.
+- **8:23** — And he took the blind man by the hand, and led him out of the town; and when he had spit on his eyes, and put his hands upon him, he asked him if he saw ought.
+- **8:25** — After that he put his hands again upon his eyes, and made him look up: and he was restored, and saw every man clearly.
+- **8:26** — And he sent him away to his house, saying, Neither go into the town, nor tell it to any in the town.
+- **8:27** — And Jesus went out, and his disciples, into the towns of Caesarea Philippi: and by the way he asked his disciples, saying unto them, Whom do men say that I am?
+- **8:29** — And he saith unto them, But whom say ye that I am? And Peter answereth and saith unto him, Thou art the Christ.
+- **8:30** — And he charged them that they should tell no man of him.
+- **8:31** — And he began to teach them, that the Son of man must suffer many things, and be rejected of the elders, and of the chief priests, and scribes, and be killed, and after three days rise again.
+- **8:32** — And he spake that saying openly. And Peter took him, and began to rebuke him.
+- **8:33** — But when he had turned about and looked on his disciples, he rebuked Peter, saying, Get thee behind me, Satan: for thou savourest not the things that be of God, but the things that be of men.
+- **8:34** — And when he had called the people unto him with his disciples also, he said unto them, Whosoever will come after me, let him deny himself, and take up his cross, and follow me.
+- **8:35** — For whosoever will save his life shall lose it; but whosoever shall lose his life for my sake and the gospel's, the same shall save it.
+- **8:38** — Whosoever therefore shall be ashamed of me and of my words in this adulterous and sinful generation; of him also shall the Son of man be ashamed, when he cometh in the glory of his Father with the holy angels.
+- **9:1** — And he said unto them, Verily I say unto you, That there be some of them that stand here, which shall not taste of death, till they have seen the kingdom of God come with power.
+- **9:2** — And after six days Jesus taketh with him Peter, and James, and John, and leadeth them up into an high mountain apart by themselves: and he was transfigured before them.
+- **9:3** — And his raiment became shining, exceeding white as snow; so as no fuller on earth can white them.
+- **9:4** — And there appeared unto them Elias with Moses: and they were talking with Jesus.
+- **9:5** — And Peter answered and said to Jesus, Master, it is good for us to be here: and let us make three tabernacles; one for thee, and one for Moses, and one for Elias.
+- **9:7** — And there was a cloud that overshadowed them: and a voice came out of the cloud, saying, This is my beloved Son: hear him.
+- **9:8** — And suddenly, when they had looked round about, they saw no man any more, save Jesus only with themselves.
+- **9:9** — And as they came down from the mountain, he charged them that they should tell no man what things they had seen, till the Son of man were risen from the dead.
+- **9:11** — And they asked him, saying, Why say the scribes that Elias must first come?
+- **9:12** — And he answered and told them, Elias verily cometh first, and restoreth all things; and how it is written of the Son of man, that he must suffer many things, and be set at nought.
+- **9:13** — But I say unto you, That Elias is indeed come, and they have done unto him whatsoever they listed, as it is written of him.
+- **9:14** — And when he came to his disciples, he saw a great multitude about them, and the scribes questioning with them.
+- **9:15** — And straightway all the people, when they beheld him, were greatly amazed, and running to him saluted him.
+- **9:16** — And he asked the scribes, What question ye with them?
+- **9:17** — And one of the multitude answered and said, Master, I have brought unto thee my son, which hath a dumb spirit;
+- **9:18** — And wheresoever he taketh him, he teareth him: and he foameth, and gnasheth with his teeth, and pineth away: and I spake to thy disciples that they should cast him out; and they could not.
+- **9:19** — He answereth him, and saith, O faithless generation, how long shall I be with you? how long shall I suffer you? bring him unto me.
+- **9:20** — And they brought him unto him: and when he saw him, straightway the spirit tare him; and he fell on the ground, and wallowed foaming.
+- **9:21** — And he asked his father, How long is it ago since this came unto him? And he said, Of a child.
+- **9:22** — And ofttimes it hath cast him into the fire, and into the waters, to destroy him: but if thou canst do any thing, have compassion on us, and help us.
+- **9:23** — Jesus said unto him, If thou canst believe, all things are possible to him that believeth.
+- **9:24** — And straightway the father of the child cried out, and said with tears, Lord, I believe; help thou mine unbelief.
+- **9:25** — When Jesus saw that the people came running together, he rebuked the foul spirit, saying unto him, Thou dumb and deaf spirit, I charge thee, come out of him, and enter no more into him.
+- **9:27** — But Jesus took him by the hand, and lifted him up; and he arose.
+- **9:28** — And when he was come into the house, his disciples asked him privately, Why could not we cast him out?
+- **9:29** — And he said unto them, This kind can come forth by nothing, but by prayer and fasting.
+- **9:30** — And they departed thence, and passed through Galilee; and he would not that any man should know it.
+- **9:31** — For he taught his disciples, and said unto them, The Son of man is delivered into the hands of men, and they shall kill him; and after that he is killed, he shall rise the third day.
+- **9:32** — But they understood not that saying, and were afraid to ask him.
+- **9:33** — And he came to Capernaum: and being in the house he asked them, What was it that ye disputed among yourselves by the way?
+- **9:35** — And he sat down, and called the twelve, and saith unto them, If any man desire to be first, the same shall be last of all, and servant of all.
+- **9:36** — And he took a child, and set him in the midst of them: and when he had taken him in his arms, he said unto them,
+- **9:37** — Whosoever shall receive one of such children in my name, receiveth me: and whosoever shall receive me, receiveth not me, but him that sent me.
+- **9:38** — And John answered him, saying, Master, we saw one casting out devils in thy name, and he followeth not us: and we forbad him, because he followeth not us.
+- **9:39** — But Jesus said, Forbid him not: for there is no man which shall do a miracle in my name, that can lightly speak evil of me.
+- **9:41** — For whosoever shall give you a cup of water to drink in my name, because ye belong to Christ, verily I say unto you, he shall not lose his reward.
+- **9:42** — And whosoever shall offend one of these little ones that believe in me, it is better for him that a millstone were hanged about his neck, and he were cast into the sea.
+- **10:1** — And he arose from thence, and cometh into the coasts of Judaea by the farther side of Jordan: and the people resort unto him again; and, as he was wont, he taught them again.
+- **10:2** — And the Pharisees came to him, and asked him, Is it lawful for a man to put away his wife? tempting him.
+- **10:3** — And he answered and said unto them, What did Moses command you?
+- **10:5** — And Jesus answered and said unto them, For the hardness of your heart he wrote you this precept.
+- **10:10** — And in the house his disciples asked him again of the same matter.
+- **10:11** — And he saith unto them, Whosoever shall put away his wife, and marry another, committeth adultery against her.
+- **10:13** — And they brought young children to him, that he should touch them: and his disciples rebuked those that brought them.
+- **10:14** — But when Jesus saw it, he was much displeased, and said unto them, Suffer the little children to come unto me, and forbid them not: for of such is the kingdom of God.
+- **10:15** — Verily I say unto you, Whosoever shall not receive the kingdom of God as a little child, he shall not enter therein.
+- **10:16** — And he took them up in his arms, put his hands upon them, and blessed them.
+- **10:17** — And when he was gone forth into the way, there came one running, and kneeled to him, and asked him, Good Master, what shall I do that I may inherit eternal life?
+- **10:18** — And Jesus said unto him, Why callest thou me good? there is none good but one, that is, God.
+- **10:20** — And he answered and said unto him, Master, all these have I observed from my youth.
+- **10:21** — Then Jesus beholding him loved him, and said unto him, One thing thou lackest: go thy way, sell whatsoever thou hast, and give to the poor, and thou shalt have treasure in heaven: and come, take up the cross, and follow me.
+- **10:23** — And Jesus looked round about, and saith unto his disciples, How hardly shall they that have riches enter into the kingdom of God!
+- **10:24** — And the disciples were astonished at his words. But Jesus answereth again, and saith unto them, Children, how hard is it for them that trust in riches to enter into the kingdom of God!
+- **10:27** — And Jesus looking upon them saith, With men it is impossible, but not with God: for with God all things are possible.
+- **10:28** — Then Peter began to say unto him, Lo, we have left all, and have followed thee.
+- **10:29** — And Jesus answered and said, Verily I say unto you, There is no man that hath left house, or brethren, or sisters, or father, or mother, or wife, or children, or lands, for my sake, and the gospel's,
+- **10:32** — And they were in the way going up to Jerusalem; and Jesus went before them: and they were amazed; and as they followed, they were afraid. And he took again the twelve, and began to tell them what things should happen unto him,
+- **10:33** — Saying, Behold, we go up to Jerusalem; and the Son of man shall be delivered unto the chief priests, and unto the scribes; and they shall condemn him to death, and shall deliver him to the Gentiles:
+- **10:34** — And they shall mock him, and shall scourge him, and shall spit upon him, and shall kill him: and the third day he shall rise again.
+- **10:35** — And James and John, the sons of Zebedee, come unto him, saying, Master, we would that thou shouldest do for us whatsoever we shall desire.
+- **10:36** — And he said unto them, What would ye that I should do for you?
+- **10:37** — They said unto him, Grant unto us that we may sit, one on thy right hand, and the other on thy left hand, in thy glory.
+- **10:38** — But Jesus said unto them, Ye know not what ye ask: can ye drink of the cup that I drink of? and be baptized with the baptism that I am baptized with?
+- **10:39** — And they said unto him, We can. And Jesus said unto them, Ye shall indeed drink of the cup that I drink of; and with the baptism that I am baptized withal shall ye be baptized:
+- **10:40** — But to sit on my right hand and on my left hand is not mine to give; but it shall be given to them for whom it is prepared.
+- **10:42** — But Jesus called them to him, and saith unto them, Ye know that they which are accounted to rule over the Gentiles exercise lordship over them; and their great ones exercise authority upon them.
+- **10:45** — For even the Son of man came not to be ministered unto, but to minister, and to give his life a ransom for many.
+- **10:46** — And they came to Jericho: and as he went out of Jericho with his disciples and a great number of people, blind Bartimaeus, the son of Timaeus, sat by the highway side begging.
+- **10:47** — And when he heard that it was Jesus of Nazareth, he began to cry out, and say, Jesus, thou Son of David, have mercy on me.
+- **10:48** — And many charged him that he should hold his peace: but he cried the more a great deal, Thou Son of David, have mercy on me.
+- **10:49** — And Jesus stood still, and commanded him to be called. And they call the blind man, saying unto him, Be of good comfort, rise; he calleth thee.
+- **10:50** — And he, casting away his garment, rose, and came to Jesus.
+- **10:51** — And Jesus answered and said unto him, What wilt thou that I should do unto thee? The blind man said unto him, Lord, that I might receive my sight.
+- **10:52** — And Jesus said unto him, Go thy way; thy faith hath made thee whole. And immediately he received his sight, and followed Jesus in the way.
+- **11:1** — And when they came nigh to Jerusalem, unto Bethphage and Bethany, at the mount of Olives, he sendeth forth two of his disciples,
+- **11:3** — And if any man say unto you, Why do ye this? say ye that the Lord hath need of him; and straightway he will send him hither.
+- **11:6** — And they said unto them even as Jesus had commanded: and they let them go.
+- **11:7** — And they brought the colt to Jesus, and cast their garments on him; and he sat upon him.
+- **11:9** — And they that went before, and they that followed, cried, saying, Hosanna; Blessed is he that cometh in the name of the Lord:
+- **11:10** — Blessed be the kingdom of our father David, that cometh in the name of the Lord: Hosanna in the highest.
+- **11:11** — And Jesus entered into Jerusalem, and into the temple: and when he had looked round about upon all things, and now the eventide was come, he went out unto Bethany with the twelve.
+- **11:12** — And on the morrow, when they were come from Bethany, he was hungry:
+- **11:13** — And seeing a fig tree afar off having leaves, he came, if haply he might find any thing thereon: and when he came to it, he found nothing but leaves; for the time of figs was not yet.
+- **11:14** — And Jesus answered and said unto it, No man eat fruit of thee hereafter for ever. And his disciples heard it.
+- **11:15** — And they come to Jerusalem: and Jesus went into the temple, and began to cast out them that sold and bought in the temple, and overthrew the tables of the moneychangers, and the seats of them that sold doves;
+- **11:17** — And he taught, saying unto them, Is it not written, My house shall be called of all nations the house of prayer? but ye have made it a den of thieves.
+- **11:18** — And the scribes and chief priests heard it, and sought how they might destroy him: for they feared him, because all the people was astonished at his doctrine.
+- **11:19** — And when even was come, he went out of the city.
+- **11:21** — And Peter calling to remembrance saith unto him, Master, behold, the fig tree which thou cursedst is withered away.
+- **11:22** — And Jesus answering saith unto them, Have faith in God.
+- **11:23** — For verily I say unto you, That whosoever shall say unto this mountain, Be thou removed, and be thou cast into the sea; and shall not doubt in his heart, but shall believe that those things which he saith shall come to pass; he shall have whatsoever he saith.
+- **11:24** — Therefore I say unto you, What things soever ye desire, when ye pray, believe that ye receive them, and ye shall have them.
+- **11:27** — And they come again to Jerusalem: and as he was walking in the temple, there come to him the chief priests, and the scribes, and the elders,
+- **11:28** — And say unto him, By what authority doest thou these things? and who gave thee this authority to do these things?
+- **11:29** — And Jesus answered and said unto them, I will also ask of you one question, and answer me, and I will tell you by what authority I do these things.
+- **11:30** — The baptism of John, was it from heaven, or of men? answer me.
+- **11:31** — And they reasoned with themselves, saying, If we shall say, From heaven; he will say, Why then did ye not believe him?
+- **11:33** — And they answered and said unto Jesus, We cannot tell. And Jesus answering saith unto them, Neither do I tell you by what authority I do these things.
+- **12:1** — And he began to speak unto them by parables. A certain man planted a vineyard, and set an hedge about it, and digged a place for the winefat, and built a tower, and let it out to husbandmen, and went into a far country.
+- **12:12** — And they sought to lay hold on him, but feared the people: for they knew that he had spoken the parable against them: and they left him, and went their way.
+- **12:13** — And they send unto him certain of the Pharisees and of the Herodians, to catch him in his words.
+- **12:14** — And when they were come, they say unto him, Master, we know that thou art true, and carest for no man: for thou regardest not the person of men, but teachest the way of God in truth: Is it lawful to give tribute to Caesar, or not?
+- **12:15** — Shall we give, or shall we not give? But he, knowing their hypocrisy, said unto them, Why tempt ye me? bring me a penny, that I may see it.
+- **12:16** — And they brought it. And he saith unto them, Whose is this image and superscription? And they said unto him, Caesar's.
+- **12:17** — And Jesus answering said unto them, Render to Caesar the things that are Caesar's, and to God the things that are God's. And they marvelled at him.
+- **12:18** — Then come unto him the Sadducees, which say there is no resurrection; and they asked him, saying,
+- **12:24** — And Jesus answering said unto them, Do ye not therefore err, because ye know not the scriptures, neither the power of God?
+- **12:28** — And one of the scribes came, and having heard them reasoning together, and perceiving that he had answered them well, asked him, Which is the first commandment of all?
+- **12:29** — And Jesus answered him, The first of all the commandments is, Hear, O Israel; The Lord our God is one Lord:
+- **12:30** — And thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind, and with all thy strength: this is the first commandment.
+- **12:32** — And the scribe said unto him, Well, Master, thou hast said the truth: for there is one God; and there is none other but he:
+- **12:33** — And to love him with all the heart, and with all the understanding, and with all the soul, and with all the strength, and to love his neighbour as himself, is more than all whole burnt offerings and sacrifices.
+- **12:34** — And when Jesus saw that he answered discreetly, he said unto him, Thou art not far from the kingdom of God. And no man after that durst ask him any question.
+- **12:35** — And Jesus answered and said, while he taught in the temple, How say the scribes that Christ is the Son of David?
+- **12:36** — For David himself said by the Holy Ghost, The LORD said to my Lord, Sit thou on my right hand, till I make thine enemies thy footstool.
+- **12:37** — David therefore himself calleth him Lord; and whence is he then his son? And the common people heard him gladly.
+- **12:38** — And he said unto them in his doctrine, Beware of the scribes, which love to go in long clothing, and love salutations in the marketplaces,
+- **12:41** — And Jesus sat over against the treasury, and beheld how the people cast money into the treasury: and many that were rich cast in much.
+- **12:43** — And he called unto him his disciples, and saith unto them, Verily I say unto you, That this poor widow hath cast more in, than all they which have cast into the treasury:
+- **13:1** — And as he went out of the temple, one of his disciples saith unto him, Master, see what manner of stones and what buildings are here!
+- **13:2** — And Jesus answering said unto him, Seest thou these great buildings? there shall not be left one stone upon another, that shall not be thrown down.
+- **13:3** — And as he sat upon the mount of Olives over against the temple, Peter and James and John and Andrew asked him privately,
+- **13:5** — And Jesus answering them began to say, Take heed lest any man deceive you:
+- **13:6** — For many shall come in my name, saying, I am Christ; and shall deceive many.
+- **13:9** — But take heed to yourselves: for they shall deliver you up to councils; and in the synagogues ye shall be beaten: and ye shall be brought before rulers and kings for my sake, for a testimony against them.
+- **13:13** — And ye shall be hated of all men for my name's sake: but he that shall endure unto the end, the same shall be saved.
+- **13:20** — And except that the Lord had shortened those days, no flesh should be saved: but for the elect's sake, whom he hath chosen, he hath shortened the days.
+- **13:21** — And then if any man shall say to you, Lo, here is Christ; or, lo, he is there; believe him not:
+- **13:23** — But take ye heed: behold, I have foretold you all things.
+- **13:26** — And then shall they see the Son of man coming in the clouds with great power and glory.
+- **13:27** — And then shall he send his angels, and shall gather together his elect from the four winds, from the uttermost part of the earth to the uttermost part of heaven.
+- **13:30** — Verily I say unto you, that this generation shall not pass, till all these things be done.
+- **13:31** — Heaven and earth shall pass away: but my words shall not pass away.
+- **13:32** — But of that day and that hour knoweth no man, no, not the angels which are in heaven, neither the Son, but the Father.
+- **13:34** — For the Son of man is as a man taking a far journey, who left his house, and gave authority to his servants, and to every man his work, and commanded the porter to watch.
+- **13:37** — And what I say unto you I say unto all, Watch.
+- **14:1** — After two days was the feast of the passover, and of unleavened bread: and the chief priests and the scribes sought how they might take him by craft, and put him to death.
+- **14:3** — And being in Bethany in the house of Simon the leper, as he sat at meat, there came a woman having an alabaster box of ointment of spikenard very precious; and she brake the box, and poured it on his head.
+- **14:6** — And Jesus said, Let her alone; why trouble ye her? she hath wrought a good work on me.
+- **14:7** — For ye have the poor with you always, and whensoever ye will ye may do them good: but me ye have not always.
+- **14:8** — She hath done what she could: she is come aforehand to anoint my body to the burying.
+- **14:9** — Verily I say unto you, Wheresoever this gospel shall be preached throughout the whole world, this also that she hath done shall be spoken of for a memorial of her.
+- **14:10** — And Judas Iscariot, one of the twelve, went unto the chief priests, to betray him unto them.
+- **14:11** — And when they heard it, they were glad, and promised to give him money. And he sought how he might conveniently betray him.
+- **14:12** — And the first day of unleavened bread, when they killed the passover, his disciples said unto him, Where wilt thou that we go and prepare that thou mayest eat the passover?
+- **14:13** — And he sendeth forth two of his disciples, and saith unto them, Go ye into the city, and there shall meet you a man bearing a pitcher of water: follow him.
+- **14:14** — And wheresoever he shall go in, say ye to the goodman of the house, The Master saith, Where is the guestchamber, where I shall eat the passover with my disciples?
+- **14:16** — And his disciples went forth, and came into the city, and found as he had said unto them: and they made ready the passover.
+- **14:17** — And in the evening he cometh with the twelve.
+- **14:18** — And as they sat and did eat, Jesus said, Verily I say unto you, One of you which eateth with me shall betray me.
+- **14:19** — And they began to be sorrowful, and to say unto him one by one, Is it I? and another said, Is it I?
+- **14:20** — And he answered and said unto them, It is one of the twelve, that dippeth with me in the dish.
+- **14:21** — The Son of man indeed goeth, as it is written of him: but woe to that man by whom the Son of man is betrayed! good were it for that man if he had never been born.
+- **14:22** — And as they did eat, Jesus took bread, and blessed, and brake it, and gave to them, and said, Take, eat: this is my body.
+- **14:23** — And he took the cup, and when he had given thanks, he gave it to them: and they all drank of it.
+- **14:24** — And he said unto them, This is my blood of the new testament, which is shed for many.
+- **14:25** — Verily I say unto you, I will drink no more of the fruit of the vine, until that day that I drink it new in the kingdom of God.
+- **14:27** — And Jesus saith unto them, All ye shall be offended because of me this night: for it is written, I will smite the shepherd, and the sheep shall be scattered.
+- **14:28** — But after that I am risen, I will go before you into Galilee.
+- **14:29** — But Peter said unto him, Although all shall be offended, yet will not I.
+- **14:30** — And Jesus saith unto him, Verily I say unto thee, That this day, even in this night, before the cock crow twice, thou shalt deny me thrice.
+- **14:31** — But he spake the more vehemently, If I should die with thee, I will not deny thee in any wise. Likewise also said they all.
+- **14:32** — And they came to a place which was named Gethsemane: and he saith to his disciples, Sit ye here, while I shall pray.
+- **14:33** — And he taketh with him Peter and James and John, and began to be sore amazed, and to be very heavy;
+- **14:35** — And he went forward a little, and fell on the ground, and prayed that, if it were possible, the hour might pass from him.
+- **14:36** — And he said, Abba, Father, all things are possible unto thee; take away this cup from me: nevertheless not what I will, but what thou wilt.
+- **14:37** — And he cometh, and findeth them sleeping, and saith unto Peter, Simon, sleepest thou? couldest not thou watch one hour?
+- **14:39** — And again he went away, and prayed, and spake the same words.
+- **14:40** — And when he returned, he found them asleep again, (for their eyes were heavy,) neither wist they what to answer him.
+- **14:41** — And he cometh the third time, and saith unto them, Sleep on now, and take your rest: it is enough, the hour is come; behold, the Son of man is betrayed into the hands of sinners.
+- **14:42** — Rise up, let us go; lo, he that betrayeth me is at hand.
+- **14:43** — And immediately, while he yet spake, cometh Judas, one of the twelve, and with him a great multitude with swords and staves, from the chief priests and the scribes and the elders.
+- **14:44** — And he that betrayed him had given them a token, saying, Whomsoever I shall kiss, that same is he; take him, and lead him away safely.
+- **14:45** — And as soon as he was come, he goeth straightway to him, and saith, Master, master; and kissed him.
+- **14:46** — And they laid their hands on him, and took him.
+- **14:48** — And Jesus answered and said unto them, Are ye come out, as against a thief, with swords and with staves to take me?
+- **14:49** — I was daily with you in the temple teaching, and ye took me not: but the scriptures must be fulfilled.
+- **14:50** — And they all forsook him, and fled.
+- **14:51** — And there followed him a certain young man, having a linen cloth cast about his naked body; and the young men laid hold on him:
+- **14:53** — And they led Jesus away to the high priest: and with him were assembled all the chief priests and the elders and the scribes.
+- **14:54** — And Peter followed him afar off, even into the palace of the high priest: and he sat with the servants, and warmed himself at the fire.
+- **14:55** — And the chief priests and all the council sought for witness against Jesus to put him to death; and found none.
+- **14:56** — For many bare false witness against him, but their witness agreed not together.
+- **14:57** — And there arose certain, and bare false witness against him, saying,
+- **14:58** — We heard him say, I will destroy this temple that is made with hands, and within three days I will build another made without hands.
+- **14:60** — And the high priest stood up in the midst, and asked Jesus, saying, Answerest thou nothing? what is it which these witness against thee?
+- **14:61** — But he held his peace, and answered nothing. Again the high priest asked him, and said unto him, Art thou the Christ, the Son of the Blessed?
+- **14:62** — And Jesus said, I am: and ye shall see the Son of man sitting on the right hand of power, and coming in the clouds of heaven.
+- **14:64** — Ye have heard the blasphemy: what think ye? And they all condemned him to be guilty of death.
+- **14:65** — And some began to spit on him, and to cover his face, and to buffet him, and to say unto him, Prophesy: and the servants did strike him with the palms of their hands.
+- **14:67** — And when she saw Peter warming himself, she looked upon him, and said, And thou also wast with Jesus of Nazareth.
+- **14:71** — But he began to curse and to swear, saying, I know not this man of whom ye speak.
+- **14:72** — And the second time the cock crew. And Peter called to mind the word that Jesus said unto him, Before the cock crow twice, thou shalt deny me thrice. And when he thought thereon, he wept.
+- **15:1** — And straightway in the morning the chief priests held a consultation with the elders and scribes and the whole council, and bound Jesus, and carried him away, and delivered him to Pilate.
+- **15:2** — And Pilate asked him, Art thou the King of the Jews? And he answering said unto him, Thou sayest it.
+- **15:3** — And the chief priests accused him of many things: but he answered nothing.
+- **15:4** — And Pilate asked him again, saying, Answerest thou nothing? behold how many things they witness against thee.
+- **15:5** — But Jesus yet answered nothing; so that Pilate marvelled.
+- **15:10** — For he knew that the chief priests had delivered him for envy.
+- **15:12** — And Pilate answered and said again unto them, What will ye then that I shall do unto him whom ye call the King of the Jews?
+- **15:13** — And they cried out again, Crucify him.
+- **15:14** — Then Pilate said unto them, Why, what evil hath he done? And they cried out the more exceedingly, Crucify him.
+- **15:15** — And so Pilate, willing to content the people, released Barabbas unto them, and delivered Jesus, when he had scourged him, to be crucified.
+- **15:16** — And the soldiers led him away into the hall, called Praetorium; and they call together the whole band.
+- **15:17** — And they clothed him with purple, and platted a crown of thorns, and put it about his head,
+- **15:18** — And began to salute him, Hail, King of the Jews!
+- **15:19** — And they smote him on the head with a reed, and did spit upon him, and bowing their knees worshipped him.
+- **15:20** — And when they had mocked him, they took off the purple from him, and put his own clothes on him, and led him out to crucify him.
+- **15:21** — And they compel one Simon a Cyrenian, who passed by, coming out of the country, the father of Alexander and Rufus, to bear his cross.
+- **15:22** — And they bring him unto the place Golgotha, which is, being interpreted, The place of a skull.
+- **15:23** — And they gave him to drink wine mingled with myrrh: but he received it not.
+- **15:24** — And when they had crucified him, they parted his garments, casting lots upon them, what every man should take.
+- **15:25** — And it was the third hour, and they crucified him.
+- **15:26** — And the superscription of his accusation was written over, THE KING OF THE JEWS.
+- **15:27** — And with him they crucify two thieves; the one on his right hand, and the other on his left.
+- **15:28** — And the scripture was fulfilled, which saith, And he was numbered with the transgressors.
+- **15:29** — And they that passed by railed on him, wagging their heads, and saying, Ah, thou that destroyest the temple, and buildest it in three days,
+- **15:30** — Save thyself, and come down from the cross.
+- **15:31** — Likewise also the chief priests mocking said among themselves with the scribes, He saved others; himself he cannot save.
+- **15:32** — Let Christ the King of Israel descend now from the cross, that we may see and believe. And they that were crucified with him reviled him.
+- **15:34** — And at the ninth hour Jesus cried with a loud voice, saying, Eloi, Eloi, lama sabachthani? which is, being interpreted, My God, my God, why hast thou forsaken me?
+- **15:35** — And some of them that stood by, when they heard it, said, Behold, he calleth Elias.
+- **15:36** — And one ran and filled a spunge full of vinegar, and put it on a reed, and gave him to drink, saying, Let alone; let us see whether Elias will come to take him down.
+- **15:37** — And Jesus cried with a loud voice, and gave up the ghost.
+- **15:39** — And when the centurion, which stood over against him, saw that he so cried out, and gave up the ghost, he said, Truly this man was the Son of God.
+- **15:41** — Who also, when he was in Galilee, followed him, and ministered unto him;) and many other women which came up with him unto Jerusalem.
+- **15:43** — Joseph of Arimathaea, an honourable counsellor, which also waited for the kingdom of God, came, and went in boldly unto Pilate, and craved the body of Jesus.
+- **15:44** — And Pilate marvelled if he were already dead: and calling unto him the centurion, he asked him whether he had been any while dead.
+- **15:46** — And he bought fine linen, and took him down, and wrapped him in the linen, and laid him in a sepulchre which was hewn out of a rock, and rolled a stone unto the door of the sepulchre.
+- **15:47** — And Mary Magdalene and Mary the mother of Joses beheld where he was laid.
+- **16:1** — And when the sabbath was past, Mary Magdalene, and Mary the mother of James, and Salome, had bought sweet spices, that they might come and anoint him.
+- **16:6** — And he saith unto them, Be not affrighted: Ye seek Jesus of Nazareth, which was crucified: he is risen; he is not here: behold the place where they laid him.
+- **16:7** — But go your way, tell his disciples and Peter that he goeth before you into Galilee: there shall ye see him, as he said unto you.
+- **16:9** — Now when Jesus was risen early the first day of the week, he appeared first to Mary Magdalene, out of whom he had cast seven devils.
+- **16:10** — And she went and told them that had been with him, as they mourned and wept.
+- **16:11** — And they, when they had heard that he was alive, and had been seen of her, believed not.
+- **16:12** — After that he appeared in another form unto two of them, as they walked, and went into the country.
+- **16:14** — Afterward he appeared unto the eleven as they sat at meat, and upbraided them with their unbelief and hardness of heart, because they believed not them which had seen him after he was risen.
+- **16:15** — And he said unto them, Go ye into all the world, and preach the gospel to every creature.
+- **16:17** — And these signs shall follow them that believe; In my name shall they cast out devils; they shall speak with new tongues;
+- **16:19** — So then after the Lord had spoken unto them, he was received up into heaven, and sat on the right hand of God.
+- **16:20** — And they went forth, and preached every where, the Lord working with them, and confirming the word with signs following. Amen.
+
+### [[Luke]]
+- **1:9** — According to the custom of the priest's office, his lot was to burn incense when he went into the temple of the Lord.
+- **1:17** — And he shall go before him in the spirit and power of Elias, to turn the hearts of the fathers to the children, and the disobedient to the wisdom of the just; to make ready a people prepared for the Lord.
+- **1:28** — And the angel came in unto her, and said, Hail, thou that art highly favoured, the Lord is with thee: blessed art thou among women.
+- **1:31** — And, behold, thou shalt conceive in thy womb, and bring forth a son, and shalt call his name JESUS.
+- **1:32** — He shall be great, and shall be called the Son of the Highest: and the Lord God shall give unto him the throne of his father David:
+- **1:33** — And he shall reign over the house of Jacob for ever; and of his kingdom there shall be no end.
+- **1:35** — And the angel answered and said unto her, The Holy Ghost shall come upon thee, and the power of the Highest shall overshadow thee: therefore also that holy thing which shall be born of thee shall be called the Son of God.
+- **1:38** — And Mary said, Behold the handmaid of the Lord; be it unto me according to thy word. And the angel departed from her.
+- **1:43** — And whence is this to me, that the mother of my Lord should come to me?
+- **1:45** — And blessed is she that believed: for there shall be a performance of those things which were told her from the Lord.
+- **1:47** — And my spirit hath rejoiced in God my Saviour.
+- **1:51** — He hath shewed strength with his arm; he hath scattered the proud in the imagination of their hearts.
+- **1:54** — He hath holpen his servant Israel, in remembrance of his mercy;
+- **1:58** — And her neighbours and her cousins heard how the Lord had shewed great mercy upon her; and they rejoiced with her.
+- **1:69** — And hath raised up an horn of salvation for us in the house of his servant David;
+- **1:73** — The oath which he sware to our father Abraham,
+- **1:74** — That he would grant unto us, that we being delivered out of the hand of our enemies might serve him without fear,
+- **1:75** — In holiness and righteousness before him, all the days of our life.
+- **2:7** — And she brought forth her firstborn son, and wrapped him in swaddling clothes, and laid him in a manger; because there was no room for them in the inn.
+- **2:11** — For unto you is born this day in the city of David a Saviour, which is Christ the Lord.
+- **2:16** — And they came with haste, and found Mary, and Joseph, and the babe lying in a manger.
+- **2:17** — And when they had seen it, they made known abroad the saying which was told them concerning this child.
+- **2:21** — And when eight days were accomplished for the circumcising of the child, his name was called JESUS, which was so named of the angel before he was conceived in the womb.
+- **2:22** — And when the days of her purification according to the law of Moses were accomplished, they brought him to Jerusalem, to present him to the Lord;
+- **2:23** — As it is written in the law of the Lord, Every male that openeth the womb shall be called holy to the Lord;)
+- **2:26** — And it was revealed unto him by the Holy Ghost, that he should not see death, before he had seen the Lord's Christ.
+- **2:27** — And he came by the Spirit into the temple: and when the parents brought in the child Jesus, to do for him after the custom of the law,
+- **2:28** — Then took he him up in his arms, and blessed God, and said,
+- **2:29** — Lord, now lettest thou thy servant depart in peace, according to thy word:
+- **2:33** — And Joseph and his mother marvelled at those things which were spoken of him.
+- **2:34** — And Simeon blessed them, and said unto Mary his mother, Behold, this child is set for the fall and rising again of many in Israel; and for a sign which shall be spoken against;
+- **2:37** — And she was a widow of about fourscore and four years, which departed not from the temple, but served God with fastings and prayers night and day.
+- **2:38** — And she coming in that instant gave thanks likewise unto the Lord, and spake of him to all them that looked for redemption in Jerusalem.
+- **2:40** — And the child grew, and waxed strong in spirit, filled with wisdom: and the grace of God was upon him.
+- **2:41** — Now his parents went to Jerusalem every year at the feast of the passover.
+- **2:42** — And when he was twelve years old, they went up to Jerusalem after the custom of the feast.
+- **2:43** — And when they had fulfilled the days, as they returned, the child Jesus tarried behind in Jerusalem; and Joseph and his mother knew not of it.
+- **2:44** — But they, supposing him to have been in the company, went a day's journey; and they sought him among their kinsfolk and acquaintance.
+- **2:45** — And when they found him not, they turned back again to Jerusalem, seeking him.
+- **2:46** — And it came to pass, that after three days they found him in the temple, sitting in the midst of the doctors, both hearing them, and asking them questions.
+- **2:47** — And all that heard him were astonished at his understanding and answers.
+- **2:48** — And when they saw him, they were amazed: and his mother said unto him, Son, why hast thou thus dealt with us? behold, thy father and I have sought thee sorrowing.
+- **2:49** — And he said unto them, How is it that ye sought me? wist ye not that I must be about my Father's business?
+- **2:50** — And they understood not the saying which he spake unto them.
+- **2:51** — And he went down with them, and came to Nazareth, and was subject unto them: but his mother kept all these sayings in her heart.
+- **2:52** — And Jesus increased in wisdom and stature, and in favour with God and man.
+- **3:4** — As it is written in the book of the words of Esaias the prophet, saying, The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight.
+- **3:15** — And as the people were in expectation, and all men mused in their hearts of John, whether he were the Christ, or not;
+- **3:16** — John answered, saying unto them all, I indeed baptize you with water; but one mightier than I cometh, the latchet of whose shoes I am not worthy to unloose: he shall baptize you with the Holy Ghost and with fire:
+- **3:17** — Whose fan is in his hand, and he will throughly purge his floor, and will gather the wheat into his garner; but the chaff he will burn with fire unquenchable.
+- **3:21** — Now when all the people were baptized, it came to pass, that Jesus also being baptized, and praying, the heaven was opened,
+- **3:22** — And the Holy Ghost descended in a bodily shape like a dove upon him, and a voice came from heaven, which said, Thou art my beloved Son; in thee I am well pleased.
+- **3:23** — And Jesus himself began to be about thirty years of age, being (as was supposed) the son of Joseph, which was the son of Heli,
+- **4:1** — And Jesus being full of the Holy Ghost returned from Jordan, and was led by the Spirit into the wilderness,
+- **4:2** — Being forty days tempted of the devil. And in those days he did eat nothing: and when they were ended, he afterward hungered.
+- **4:3** — And the devil said unto him, If thou be the Son of God, command this stone that it be made bread.
+- **4:4** — And Jesus answered him, saying, It is written, That man shall not live by bread alone, but by every word of God.
+- **4:5** — And the devil, taking him up into an high mountain, shewed unto him all the kingdoms of the world in a moment of time.
+- **4:6** — And the devil said unto him, All this power will I give thee, and the glory of them: for that is delivered unto me; and to whomsoever I will I give it.
+- **4:7** — If thou therefore wilt worship me, all shall be thine.
+- **4:8** — And Jesus answered and said unto him, Get thee behind me, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve.
+- **4:9** — And he brought him to Jerusalem, and set him on a pinnacle of the temple, and said unto him, If thou be the Son of God, cast thyself down from hence:
+- **4:10** — For it is written, He shall give his angels charge over thee, to keep thee:
+- **4:11** — And in their hands they shall bear thee up, lest at any time thou dash thy foot against a stone.
+- **4:12** — And Jesus answering said unto him, It is said, Thou shalt not tempt the Lord thy God.
+- **4:13** — And when the devil had ended all the temptation, he departed from him for a season.
+- **4:14** — And Jesus returned in the power of the Spirit into Galilee: and there went out a fame of him through all the region round about.
+- **4:15** — And he taught in their synagogues, being glorified of all.
+- **4:16** — And he came to Nazareth, where he had been brought up: and, as his custom was, he went into the synagogue on the sabbath day, and stood up for to read.
+- **4:17** — And there was delivered unto him the book of the prophet Esaias. And when he had opened the book, he found the place where it was written,
+- **4:18** — The Spirit of the Lord is upon me, because he hath anointed me to preach the gospel to the poor; he hath sent me to heal the brokenhearted, to preach deliverance to the captives, and recovering of sight to the blind, to set at liberty them that are bruised,
+- **4:19** — To preach the acceptable year of the Lord.
+- **4:20** — And he closed the book, and he gave it again to the minister, and sat down. And the eyes of all them that were in the synagogue were fastened on him.
+- **4:21** — And he began to say unto them, This day is this scripture fulfilled in your ears.
+- **4:22** — And all bare him witness, and wondered at the gracious words which proceeded out of his mouth. And they said, Is not this Joseph's son?
+- **4:23** — And he said unto them, Ye will surely say unto me this proverb, Physician, heal thyself: whatsoever we have heard done in Capernaum, do also here in thy country.
+- **4:24** — And he said, Verily I say unto you, No prophet is accepted in his own country.
+- **4:25** — But I tell you of a truth, many widows were in Israel in the days of Elias, when the heaven was shut up three years and six months, when great famine was throughout all the land;
+- **4:29** — And rose up, and thrust him out of the city, and led him unto the brow of the hill whereon their city was built, that they might cast him down headlong.
+- **4:30** — But he passing through the midst of them went his way,
+- **4:32** — And they were astonished at his doctrine: for his word was with power.
+- **4:34** — Saying, Let us alone; what have we to do with thee, thou Jesus of Nazareth? art thou come to destroy us? I know thee who thou art; the Holy One of God.
+- **4:35** — And Jesus rebuked him, saying, Hold thy peace, and come out of him. And when the devil had thrown him in the midst, he came out of him, and hurt him not.
+- **4:36** — And they were all amazed, and spake among themselves, saying, What a word is this! for with authority and power he commandeth the unclean spirits, and they come out.
+- **4:37** — And the fame of him went out into every place of the country round about.
+- **4:38** — And he arose out of the synagogue, and entered into Simon's house. And Simon's wife's mother was taken with a great fever; and they besought him for her.
+- **4:39** — And he stood over her, and rebuked the fever; and it left her: and immediately she arose and ministered unto them.
+- **4:40** — Now when the sun was setting, all they that had any sick with divers diseases brought them unto him; and he laid his hands on every one of them, and healed them.
+- **4:41** — And devils also came out of many, crying out, and saying, Thou art Christ the Son of God. And he rebuking them suffered them not to speak: for they knew that he was Christ.
+- **4:42** — And when it was day, he departed and went into a desert place: and the people sought him, and came unto him, and stayed him, that he should not depart from them.
+- **4:43** — And he said unto them, I must preach the kingdom of God to other cities also: for therefore am I sent.
+- **4:44** — And he preached in the synagogues of Galilee.
+- **5:1** — And it came to pass, that, as the people pressed upon him to hear the word of God, he stood by the lake of Gennesaret,
+- **5:3** — And he entered into one of the ships, which was Simon's, and prayed him that he would thrust out a little from the land. And he sat down, and taught the people out of the ship.
+- **5:4** — Now when he had left speaking, he said unto Simon, Launch out into the deep, and let down your nets for a draught.
+- **5:5** — And Simon answering said unto him, Master, we have toiled all the night, and have taken nothing: nevertheless at thy word I will let down the net.
+- **5:8** — When Simon Peter saw it, he fell down at Jesus' knees, saying, Depart from me; for I am a sinful man, O Lord.
+- **5:10** — And so was also James, and John, the sons of Zebedee, which were partners with Simon. And Jesus said unto Simon, Fear not; from henceforth thou shalt catch men.
+- **5:11** — And when they had brought their ships to land, they forsook all, and followed him.
+- **5:12** — And it came to pass, when he was in a certain city, behold a man full of leprosy: who seeing Jesus fell on his face, and besought him, saying, Lord, if thou wilt, thou canst make me clean.
+- **5:13** — And he put forth his hand, and touched him, saying, I will: be thou clean. And immediately the leprosy departed from him.
+- **5:14** — And he charged him to tell no man: but go, and shew thyself to the priest, and offer for thy cleansing, according as Moses commanded, for a testimony unto them.
+- **5:15** — But so much the more went there a fame abroad of him: and great multitudes came together to hear, and to be healed by him of their infirmities.
+- **5:16** — And he withdrew himself into the wilderness, and prayed.
+- **5:17** — And it came to pass on a certain day, as he was teaching, that there were Pharisees and doctors of the law sitting by, which were come out of every town of Galilee, and Judaea, and Jerusalem: and the power of the Lord was present to heal them.
+- **5:18** — And, behold, men brought in a bed a man which was taken with a palsy: and they sought means to bring him in, and to lay him before him.
+- **5:19** — And when they could not find by what way they might bring him in because of the multitude, they went upon the housetop, and let him down through the tiling with his couch into the midst before Jesus.
+- **5:20** — And when he saw their faith, he said unto him, Man, thy sins are forgiven thee.
+- **5:22** — But when Jesus perceived their thoughts, he answering said unto them, What reason ye in your hearts?
+- **5:24** — But that ye may know that the Son of man hath power upon earth to forgive sins, (he said unto the sick of the palsy,) I say unto thee, Arise, and take up thy couch, and go into thine house.
+- **5:27** — And after these things he went forth, and saw a publican, named Levi, sitting at the receipt of custom: and he said unto him, Follow me.
+- **5:28** — And he left all, rose up, and followed him.
+- **5:29** — And Levi made him a great feast in his own house: and there was a great company of publicans and of others that sat down with them.
+- **5:30** — But their scribes and Pharisees murmured against his disciples, saying, Why do ye eat and drink with publicans and sinners?
+- **5:31** — And Jesus answering said unto them, They that are whole need not a physician; but they that are sick.
+- **5:32** — I came not to call the righteous, but sinners to repentance.
+- **5:33** — And they said unto him, Why do the disciples of John fast often, and make prayers, and likewise the disciples of the Pharisees; but thine eat and drink?
+- **5:34** — And he said unto them, Can ye make the children of the bridechamber fast, while the bridegroom is with them?
+- **5:36** — And he spake also a parable unto them; No man putteth a piece of a new garment upon an old; if otherwise, then both the new maketh a rent, and the piece that was taken out of the new agreeth not with the old.
+- **6:1** — And it came to pass on the second sabbath after the first, that he went through the corn fields; and his disciples plucked the ears of corn, and did eat, rubbing them in their hands.
+- **6:3** — And Jesus answering them said, Have ye not read so much as this, what David did, when himself was an hungred, and they which were with him;
+- **6:5** — And he said unto them, That the Son of man is Lord also of the sabbath.
+- **6:6** — And it came to pass also on another sabbath, that he entered into the synagogue and taught: and there was a man whose right hand was withered.
+- **6:7** — And the scribes and Pharisees watched him, whether he would heal on the sabbath day; that they might find an accusation against him.
+- **6:8** — But he knew their thoughts, and said to the man which had the withered hand, Rise up, and stand forth in the midst. And he arose and stood forth.
+- **6:9** — Then said Jesus unto them, I will ask you one thing; Is it lawful on the sabbath days to do good, or to do evil? to save life, or to destroy it?
+- **6:10** — And looking round about upon them all, he said unto the man, Stretch forth thy hand. And he did so: and his hand was restored whole as the other.
+- **6:11** — And they were filled with madness; and communed one with another what they might do to Jesus.
+- **6:12** — And it came to pass in those days, that he went out into a mountain to pray, and continued all night in prayer to God.
+- **6:13** — And when it was day, he called unto him his disciples: and of them he chose twelve, whom also he named apostles;
+- **6:14** — Simon, (whom he also named Peter,) and Andrew his brother, James and John, Philip and Bartholomew,
+- **6:17** — And he came down with them, and stood in the plain, and the company of his disciples, and a great multitude of people out of all Judaea and Jerusalem, and from the sea coast of Tyre and Sidon, which came to hear him, and to be healed of their diseases;
+- **6:19** — And the whole multitude sought to touch him: for there went virtue out of him, and healed them all.
+- **6:20** — And he lifted up his eyes on his disciples, and said, Blessed be ye poor: for yours is the kingdom of God.
+- **6:22** — Blessed are ye, when men shall hate you, and when they shall separate you from their company, and shall reproach you, and cast out your name as evil, for the Son of man's sake.
+- **6:27** — But I say unto you which hear, Love your enemies, do good to them which hate you,
+- **6:35** — But love ye your enemies, and do good, and lend, hoping for nothing again; and your reward shall be great, and ye shall be the children of the Highest: for he is kind unto the unthankful and to the evil.
+- **6:39** — And he spake a parable unto them, Can the blind lead the blind? shall they not both fall into the ditch?
+- **6:46** — And why call ye me, Lord, Lord, and do not the things which I say?
+- **6:47** — Whosoever cometh to me, and heareth my sayings, and doeth them, I will shew you to whom he is like:
+- **7:1** — Now when he had ended all his sayings in the audience of the people, he entered into Capernaum.
+- **7:3** — And when he heard of Jesus, he sent unto him the elders of the Jews, beseeching him that he would come and heal his servant.
+- **7:4** — And when they came to Jesus, they besought him instantly, saying, That he was worthy for whom he should do this:
+- **7:6** — Then Jesus went with them. And when he was now not far from the house, the centurion sent friends to him, saying unto him, Lord, trouble not thyself: for I am not worthy that thou shouldest enter under my roof:
+- **7:7** — Wherefore neither thought I myself worthy to come unto thee: but say in a word, and my servant shall be healed.
+- **7:9** — When Jesus heard these things, he marvelled at him, and turned him about, and said unto the people that followed him, I say unto you, I have not found so great faith, no, not in Israel.
+- **7:11** — And it came to pass the day after, that he went into a city called Nain; and many of his disciples went with him, and much people.
+- **7:12** — Now when he came nigh to the gate of the city, behold, there was a dead man carried out, the only son of his mother, and she was a widow: and much people of the city was with her.
+- **7:13** — And when the Lord saw her, he had compassion on her, and said unto her, Weep not.
+- **7:14** — And he came and touched the bier: and they that bare him stood still. And he said, Young man, I say unto thee, Arise.
+- **7:15** — And he that was dead sat up, and began to speak. And he delivered him to his mother.
+- **7:17** — And this rumour of him went forth throughout all Judaea, and throughout all the region round about.
+- **7:19** — And John calling unto him two of his disciples sent them to Jesus, saying, Art thou he that should come? or look we for another?
+- **7:20** — When the men were come unto him, they said, John Baptist hath sent us unto thee, saying, Art thou he that should come? or look we for another?
+- **7:21** — And in that same hour he cured many of their infirmities and plagues, and of evil spirits; and unto many that were blind he gave sight.
+- **7:22** — Then Jesus answering said unto them, Go your way, and tell John what things ye have seen and heard; how that the blind see, the lame walk, the lepers are cleansed, the deaf hear, the dead are raised, to the poor the gospel is preached.
+- **7:23** — And blessed is he, whosoever shall not be offended in me.
+- **7:24** — And when the messengers of John were departed, he began to speak unto the people concerning John, What went ye out into the wilderness for to see? A reed shaken with the wind?
+- **7:26** — But what went ye out for to see? A prophet? Yea, I say unto you, and much more than a prophet.
+- **7:27** — This is he, of whom it is written, Behold, I send my messenger before thy face, which shall prepare thy way before thee.
+- **7:28** — For I say unto you, Among those that are born of women there is not a greater prophet than John the Baptist: but he that is least in the kingdom of God is greater than he.
+- **7:29** — And all the people that heard him, and the publicans, justified God, being baptized with the baptism of John.
+- **7:31** — And the Lord said, Whereunto then shall I liken the men of this generation? and to what are they like?
+- **7:34** — The Son of man is come eating and drinking; and ye say, Behold a gluttonous man, and a winebibber, a friend of publicans and sinners!
+- **7:36** — And one of the Pharisees desired him that he would eat with him. And he went into the Pharisee's house, and sat down to meat.
+- **7:38** — And stood at his feet behind him weeping, and began to wash his feet with tears, and did wipe them with the hairs of her head, and kissed his feet, and anointed them with the ointment.
+- **7:39** — Now when the Pharisee which had bidden him saw it, he spake within himself, saying, This man, if he were a prophet, would have known who and what manner of woman this is that toucheth him: for she is a sinner.
+- **7:40** — And Jesus answering said unto him, Simon, I have somewhat to say unto thee. And he saith, Master, say on.
+- **7:42** — And when they had nothing to pay, he frankly forgave them both. Tell me therefore, which of them will love him most?
+- **7:43** — Simon answered and said, I suppose that he, to whom he forgave most. And he said unto him, Thou hast rightly judged.
+- **7:44** — And he turned to the woman, and said unto Simon, Seest thou this woman? I entered into thine house, thou gavest me no water for my feet: but she hath washed my feet with tears, and wiped them with the hairs of her head.
+- **7:45** — Thou gavest me no kiss: but this woman since the time I came in hath not ceased to kiss my feet.
+- **7:46** — My head with oil thou didst not anoint: but this woman hath anointed my feet with ointment.
+- **7:47** — Wherefore I say unto thee, Her sins, which are many, are forgiven; for she loved much: but to whom little is forgiven, the same loveth little.
+- **7:48** — And he said unto her, Thy sins are forgiven.
+- **7:49** — And they that sat at meat with him began to say within themselves, Who is this that forgiveth sins also?
+- **7:50** — And he said to the woman, Thy faith hath saved thee; go in peace.
+- **8:1** — And it came to pass afterward, that he went throughout every city and village, preaching and shewing the glad tidings of the kingdom of God: and the twelve were with him,
+- **8:3** — And Joanna the wife of Chuza Herod's steward, and Susanna, and many others, which ministered unto him of their substance.
+- **8:4** — And when much people were gathered together, and were come to him out of every city, he spake by a parable:
+- **8:8** — And other fell on good ground, and sprang up, and bare fruit an hundredfold. And when he had said these things, he cried, He that hath ears to hear, let him hear.
+- **8:9** — And his disciples asked him, saying, What might this parable be?
+- **8:10** — And he said, Unto you it is given to know the mysteries of the kingdom of God: but to others in parables; that seeing they might not see, and hearing they might not understand.
+- **8:19** — Then came to him his mother and his brethren, and could not come at him for the press.
+- **8:20** — And it was told him by certain which said, Thy mother and thy brethren stand without, desiring to see thee.
+- **8:21** — And he answered and said unto them, My mother and my brethren are these which hear the word of God, and do it.
+- **8:22** — Now it came to pass on a certain day, that he went into a ship with his disciples: and he said unto them, Let us go over unto the other side of the lake. And they launched forth.
+- **8:23** — But as they sailed he fell asleep: and there came down a storm of wind on the lake; and they were filled with water, and were in jeopardy.
+- **8:24** — And they came to him, and awoke him, saying, Master, master, we perish. Then he arose, and rebuked the wind and the raging of the water: and they ceased, and there was a calm.
+- **8:25** — And he said unto them, Where is your faith? And they being afraid wondered, saying one to another, What manner of man is this! for he commandeth even the winds and water, and they obey him.
+- **8:27** — And when he went forth to land, there met him out of the city a certain man, which had devils long time, and ware no clothes, neither abode in any house, but in the tombs.
+- **8:28** — When he saw Jesus, he cried out, and fell down before him, and with a loud voice said, What have I to do with thee, Jesus, thou Son of God most high? I beseech thee, torment me not.
+- **8:29** — For he had commanded the unclean spirit to come out of the man. For oftentimes it had caught him: and he was kept bound with chains and in fetters; and he brake the bands, and was driven of the devil into the wilderness.)
+- **8:30** — And Jesus asked him, saying, What is thy name? And he said, Legion: because many devils were entered into him.
+- **8:31** — And they besought him that he would not command them to go out into the deep.
+- **8:32** — And there was there an herd of many swine feeding on the mountain: and they besought him that he would suffer them to enter into them. And he suffered them.
+- **8:35** — Then they went out to see what was done; and came to Jesus, and found the man, out of whom the devils were departed, sitting at the feet of Jesus, clothed, and in his right mind: and they were afraid.
+- **8:37** — Then the whole multitude of the country of the Gadarenes round about besought him to depart from them; for they were taken with great fear: and he went up into the ship, and returned back again.
+- **8:38** — Now the man out of whom the devils were departed besought him that he might be with him: but Jesus sent him away, saying,
+- **8:39** — Return to thine own house, and shew how great things God hath done unto thee. And he went his way, and published throughout the whole city how great things Jesus had done unto him.
+- **8:40** — And it came to pass, that, when Jesus was returned, the people gladly received him: for they were all waiting for him.
+- **8:41** — And, behold, there came a man named Jairus, and he was a ruler of the synagogue: and he fell down at Jesus' feet, and besought him that he would come into his house:
+- **8:42** — For he had one only daughter, about twelve years of age, and she lay a dying. But as he went the people thronged him.
+- **8:44** — Came behind him, and touched the border of his garment: and immediately her issue of blood stanched.
+- **8:45** — And Jesus said, Who touched me? When all denied, Peter and they that were with him said, Master, the multitude throng thee and press thee, and sayest thou, Who touched me?
+- **8:46** — And Jesus said, Somebody hath touched me: for I perceive that virtue is gone out of me.
+- **8:47** — And when the woman saw that she was not hid, she came trembling, and falling down before him, she declared unto him before all the people for what cause she had touched him, and how she was healed immediately.
+- **8:48** — And he said unto her, Daughter, be of good comfort: thy faith hath made thee whole; go in peace.
+- **8:49** — While he yet spake, there cometh one from the ruler of the synagogue's house, saying to him, Thy daughter is dead; trouble not the Master.
+- **8:50** — But when Jesus heard it, he answered him, saying, Fear not: believe only, and she shall be made whole.
+- **8:51** — And when he came into the house, he suffered no man to go in, save Peter, and James, and John, and the father and the mother of the maiden.
+- **8:52** — And all wept, and bewailed her: but he said, Weep not; she is not dead, but sleepeth.
+- **8:53** — And they laughed him to scorn, knowing that she was dead.
+- **8:54** — And he put them all out, and took her by the hand, and called, saying, Maid, arise.
+- **8:55** — And her spirit came again, and she arose straightway: and he commanded to give her meat.
+- **8:56** — And her parents were astonished: but he charged them that they should tell no man what was done.
+- **9:1** — Then he called his twelve disciples together, and gave them power and authority over all devils, and to cure diseases.
+- **9:2** — And he sent them to preach the kingdom of God, and to heal the sick.
+- **9:3** — And he said unto them, Take nothing for your journey, neither staves, nor scrip, neither bread, neither money; neither have two coats apiece.
+- **9:7** — Now Herod the tetrarch heard of all that was done by him: and he was perplexed, because that it was said of some, that John was risen from the dead;
+- **9:9** — And Herod said, John have I beheaded: but who is this, of whom I hear such things? And he desired to see him.
+- **9:10** — And the apostles, when they were returned, told him all that they had done. And he took them, and went aside privately into a desert place belonging to the city called Bethsaida.
+- **9:11** — And the people, when they knew it, followed him: and he received them, and spake unto them of the kingdom of God, and healed them that had need of healing.
+- **9:12** — And when the day began to wear away, then came the twelve, and said unto him, Send the multitude away, that they may go into the towns and country round about, and lodge, and get victuals: for we are here in a desert place.
+- **9:13** — But he said unto them, Give ye them to eat. And they said, We have no more but five loaves and two fishes; except we should go and buy meat for all this people.
+- **9:14** — For they were about five thousand men. And he said to his disciples, Make them sit down by fifties in a company.
+- **9:16** — Then he took the five loaves and the two fishes, and looking up to heaven, he blessed them, and brake, and gave to the disciples to set before the multitude.
+- **9:18** — And it came to pass, as he was alone praying, his disciples were with him: and he asked them, saying, Whom say the people that I am?
+- **9:20** — He said unto them, But whom say ye that I am? Peter answering said, The Christ of God.
+- **9:21** — And he straitly charged them, and commanded them to tell no man that thing;
+- **9:22** — Saying, The Son of man must suffer many things, and be rejected of the elders and chief priests and scribes, and be slain, and be raised the third day.
+- **9:23** — And he said to them all, If any man will come after me, let him deny himself, and take up his cross daily, and follow me.
+- **9:24** — For whosoever will save his life shall lose it: but whosoever will lose his life for my sake, the same shall save it.
+- **9:26** — For whosoever shall be ashamed of me and of my words, of him shall the Son of man be ashamed, when he shall come in his own glory, and in his Father's, and of the holy angels.
+- **9:27** — But I tell you of a truth, there be some standing here, which shall not taste of death, till they see the kingdom of God.
+- **9:28** — And it came to pass about an eight days after these sayings, he took Peter and John and James, and went up into a mountain to pray.
+- **9:29** — And as he prayed, the fashion of his countenance was altered, and his raiment was white and glistering.
+- **9:30** — And, behold, there talked with him two men, which were Moses and Elias:
+- **9:31** — Who appeared in glory, and spake of his decease which he should accomplish at Jerusalem.
+- **9:32** — But Peter and they that were with him were heavy with sleep: and when they were awake, they saw his glory, and the two men that stood with him.
+- **9:33** — And it came to pass, as they departed from him, Peter said unto Jesus, Master, it is good for us to be here: and let us make three tabernacles; one for thee, and one for Moses, and one for Elias: not knowing what he said.
+- **9:35** — And there came a voice out of the cloud, saying, This is my beloved Son: hear him.
+- **9:36** — And when the voice was past, Jesus was found alone. And they kept it close, and told no man in those days any of those things which they had seen.
+- **9:37** — And it came to pass, that on the next day, when they were come down from the hill, much people met him.
+- **9:38** — And, behold, a man of the company cried out, saying, Master, I beseech thee, look upon my son: for he is mine only child.
+- **9:40** — And I besought thy disciples to cast him out; and they could not.
+- **9:41** — And Jesus answering said, O faithless and perverse generation, how long shall I be with you, and suffer you? Bring thy son hither.
+- **9:42** — And as he was yet a coming, the devil threw him down, and tare him. And Jesus rebuked the unclean spirit, and healed the child, and delivered him again to his father.
+- **9:43** — And they were all amazed at the mighty power of God. But while they wondered every one at all things which Jesus did, he said unto his disciples,
+- **9:44** — Let these sayings sink down into your ears: for the Son of man shall be delivered into the hands of men.
+- **9:45** — But they understood not this saying, and it was hid from them, that they perceived it not: and they feared to ask him of that saying.
+- **9:47** — And Jesus, perceiving the thought of their heart, took a child, and set him by him,
+- **9:48** — And said unto them, Whosoever shall receive this child in my name receiveth me: and whosoever shall receive me receiveth him that sent me: for he that is least among you all, the same shall be great.
+- **9:49** — And John answered and said, Master, we saw one casting out devils in thy name; and we forbad him, because he followeth not with us.
+- **9:50** — And Jesus said unto him, Forbid him not: for he that is not against us is for us.
+- **9:51** — And it came to pass, when the time was come that he should be received up, he stedfastly set his face to go to Jerusalem,
+- **9:52** — And sent messengers before his face: and they went, and entered into a village of the Samaritans, to make ready for him.
+- **9:53** — And they did not receive him, because his face was as though he would go to Jerusalem.
+- **9:54** — And when his disciples James and John saw this, they said, Lord, wilt thou that we command fire to come down from heaven, and consume them, even as Elias did?
+- **9:55** — But he turned, and rebuked them, and said, Ye know not what manner of spirit ye are of.
+- **9:56** — For the Son of man is not come to destroy men's lives, but to save them. And they went to another village.
+- **9:57** — And it came to pass, that, as they went in the way, a certain man said unto him, Lord, I will follow thee whithersoever thou goest.
+- **9:58** — And Jesus said unto him, Foxes have holes, and birds of the air have nests; but the Son of man hath not where to lay his head.
+- **9:59** — And he said unto another, Follow me. But he said, Lord, suffer me first to go and bury my father.
+- **9:60** — Jesus said unto him, Let the dead bury their dead: but go thou and preach the kingdom of God.
+- **9:61** — And another also said, Lord, I will follow thee; but let me first go bid them farewell, which are at home at my house.
+- **9:62** — And Jesus said unto him, No man, having put his hand to the plough, and looking back, is fit for the kingdom of God.
+- **10:1** — After these things the Lord appointed other seventy also, and sent them two and two before his face into every city and place, whither he himself would come.
+- **10:2** — Therefore said he unto them, The harvest truly is great, but the labourers are few: pray ye therefore the Lord of the harvest, that he would send forth labourers into his harvest.
+- **10:3** — Go your ways: behold, I send you forth as lambs among wolves.
+- **10:12** — But I say unto you, that it shall be more tolerable in that day for Sodom, than for that city.
+- **10:16** — He that heareth you heareth me; and he that despiseth you despiseth me; and he that despiseth me despiseth him that sent me.
+- **10:17** — And the seventy returned again with joy, saying, Lord, even the devils are subject unto us through thy name.
+- **10:18** — And he said unto them, I beheld Satan as lightning fall from heaven.
+- **10:19** — Behold, I give unto you power to tread on serpents and scorpions, and over all the power of the enemy: and nothing shall by any means hurt you.
+- **10:21** — In that hour Jesus rejoiced in spirit, and said, I thank thee, O Father, Lord of heaven and earth, that thou hast hid these things from the wise and prudent, and hast revealed them unto babes: even so, Father; for so it seemed good in thy sight.
+- **10:22** — All things are delivered to me of my Father: and no man knoweth who the Son is, but the Father; and who the Father is, but the Son, and he to whom the Son will reveal him.
+- **10:23** — And he turned him unto his disciples, and said privately, Blessed are the eyes which see the things that ye see:
+- **10:24** — For I tell you, that many prophets and kings have desired to see those things which ye see, and have not seen them; and to hear those things which ye hear, and have not heard them.
+- **10:25** — And, behold, a certain lawyer stood up, and tempted him, saying, Master, what shall I do to inherit eternal life?
+- **10:27** — And he answering said, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy strength, and with all thy mind; and thy neighbour as thyself.
+- **10:28** — And he said unto him, Thou hast answered right: this do, and thou shalt live.
+- **10:29** — But he, willing to justify himself, said unto Jesus, And who is my neighbour?
+- **10:30** — And Jesus answering said, A certain man went down from Jerusalem to Jericho, and fell among thieves, which stripped him of his raiment, and wounded him, and departed, leaving him half dead.
+- **10:37** — And he said, He that shewed mercy on him. Then said Jesus unto him, Go, and do thou likewise.
+- **10:38** — Now it came to pass, as they went, that he entered into a certain village: and a certain woman named Martha received him into her house.
+- **10:39** — And she had a sister called Mary, which also sat at Jesus' feet, and heard his word.
+- **10:40** — But Martha was cumbered about much serving, and came to him, and said, Lord, dost thou not care that my sister hath left me to serve alone? bid her therefore that she help me.
+- **10:41** — And Jesus answered and said unto her, Martha, Martha, thou art careful and troubled about many things:
+- **11:1** — And it came to pass, that, as he was praying in a certain place, when he ceased, one of his disciples said unto him, Lord, teach us to pray, as John also taught his disciples.
+- **11:2** — And he said unto them, When ye pray, say, Our Father which art in heaven, Hallowed be thy name. Thy kingdom come. Thy will be done, as in heaven, so in earth.
+- **11:5** — And he said unto them, Which of you shall have a friend, and shall go unto him at midnight, and say unto him, Friend, lend me three loaves;
+- **11:14** — And he was casting out a devil, and it was dumb. And it came to pass, when the devil was gone out, the dumb spake; and the people wondered.
+- **11:16** — And others, tempting him, sought of him a sign from heaven.
+- **11:17** — But he, knowing their thoughts, said unto them, Every kingdom divided against itself is brought to desolation; and a house divided against a house falleth.
+- **11:18** — If Satan also be divided against himself, how shall his kingdom stand? because ye say that I cast out devils through Beelzebub.
+- **11:19** — And if I by Beelzebub cast out devils, by whom do your sons cast them out? therefore shall they be your judges.
+- **11:20** — But if I with the finger of God cast out devils, no doubt the kingdom of God is come upon you.
+- **11:23** — He that is not with me is against me: and he that gathereth not with me scattereth.
+- **11:27** — And it came to pass, as he spake these things, a certain woman of the company lifted up her voice, and said unto him, Blessed is the womb that bare thee, and the paps which thou hast sucked.
+- **11:28** — But he said, Yea rather, blessed are they that hear the word of God, and keep it.
+- **11:29** — And when the people were gathered thick together, he began to say, This is an evil generation: they seek a sign; and there shall no sign be given it, but the sign of Jonas the prophet.
+- **11:30** — For as Jonas was a sign unto the Ninevites, so shall also the Son of man be to this generation.
+- **11:37** — And as he spake, a certain Pharisee besought him to dine with him: and he went in, and sat down to meat.
+- **11:38** — And when the Pharisee saw it, he marvelled that he had not first washed before dinner.
+- **11:39** — And the Lord said unto him, Now do ye Pharisees make clean the outside of the cup and the platter; but your inward part is full of ravening and wickedness.
+- **11:40** — Ye fools, did not he that made that which is without make that which is within also?
+- **11:45** — Then answered one of the lawyers, and said unto him, Master, thus saying thou reproachest us also.
+- **11:46** — And he said, Woe unto you also, ye lawyers! for ye lade men with burdens grievous to be borne, and ye yourselves touch not the burdens with one of your fingers.
+- **11:51** — From the blood of Abel unto the blood of Zacharias, which perished between the altar and the temple: verily I say unto you, It shall be required of this generation.
+- **11:53** — And as he said these things unto them, the scribes and the Pharisees began to urge him vehemently, and to provoke him to speak of many things:
+- **11:54** — Laying wait for him, and seeking to catch something out of his mouth, that they might accuse him.
+- **12:1** — In the mean time, when there were gathered together an innumerable multitude of people, insomuch that they trode one upon another, he began to say unto his disciples first of all, Beware ye of the leaven of the Pharisees, which is hypocrisy.
+- **12:4** — And I say unto you my friends, Be not afraid of them that kill the body, and after that have no more that they can do.
+- **12:5** — But I will forewarn you whom ye shall fear: Fear him, which after he hath killed hath power to cast into hell; yea, I say unto you, Fear him.
+- **12:8** — Also I say unto you, Whosoever shall confess me before men, him shall the Son of man also confess before the angels of God:
+- **12:9** — But he that denieth me before men shall be denied before the angels of God.
+- **12:10** — And whosoever shall speak a word against the Son of man, it shall be forgiven him: but unto him that blasphemeth against the Holy Ghost it shall not be forgiven.
+- **12:13** — And one of the company said unto him, Master, speak to my brother, that he divide the inheritance with me.
+- **12:14** — And he said unto him, Man, who made me a judge or a divider over you?
+- **12:15** — And he said unto them, Take heed, and beware of covetousness: for a man's life consisteth not in the abundance of the things which he possesseth.
+- **12:16** — And he spake a parable unto them, saying, The ground of a certain rich man brought forth plentifully:
+- **12:22** — And he said unto his disciples, Therefore I say unto you, Take no thought for your life, what ye shall eat; neither for the body, what ye shall put on.
+- **12:27** — Consider the lilies how they grow: they toil not, they spin not; and yet I say unto you, that Solomon in all his glory was not arrayed like one of these.
+- **12:37** — Blessed are those servants, whom the lord when he cometh shall find watching: verily I say unto you, that he shall gird himself, and make them to sit down to meat, and will come forth and serve them.
+- **12:40** — Be ye therefore ready also: for the Son of man cometh at an hour when ye think not.
+- **12:41** — Then Peter said unto him, Lord, speakest thou this parable unto us, or even to all?
+- **12:42** — And the Lord said, Who then is that faithful and wise steward, whom his lord shall make ruler over his household, to give them their portion of meat in due season?
+- **12:44** — Of a truth I say unto you, that he will make him ruler over all that he hath.
+- **12:49** — I am come to send fire on the earth; and what will I, if it be already kindled?
+- **12:50** — But I have a baptism to be baptized with; and how am I straitened till it be accomplished!
+- **12:51** — Suppose ye that I am come to give peace on earth? I tell you, Nay; but rather division:
+- **12:54** — And he said also to the people, When ye see a cloud rise out of the west, straightway ye say, There cometh a shower; and so it is.
+- **12:59** — I tell thee, thou shalt not depart thence, till thou hast paid the very last mite.
+- **13:1** — There were present at that season some that told him of the Galilaeans, whose blood Pilate had mingled with their sacrifices.
+- **13:2** — And Jesus answering said unto them, Suppose ye that these Galilaeans were sinners above all the Galilaeans, because they suffered such things?
+- **13:3** — I tell you, Nay: but, except ye repent, ye shall all likewise perish.
+- **13:5** — I tell you, Nay: but, except ye repent, ye shall all likewise perish.
+- **13:8** — And he answering said unto him, Lord, let it alone this year also, till I shall dig about it, and dung it:
+- **13:10** — And he was teaching in one of the synagogues on the sabbath.
+- **13:12** — And when Jesus saw her, he called her to him, and said unto her, Woman, thou art loosed from thine infirmity.
+- **13:13** — And he laid his hands on her: and immediately she was made straight, and glorified God.
+- **13:14** — And the ruler of the synagogue answered with indignation, because that Jesus had healed on the sabbath day, and said unto the people, There are six days in which men ought to work: in them therefore come and be healed, and not on the sabbath day.
+- **13:15** — The Lord then answered him, and said, Thou hypocrite, doth not each one of you on the sabbath loose his ox or his ass from the stall, and lead him away to watering?
+- **13:17** — And when he had said these things, all his adversaries were ashamed: and all the people rejoiced for all the glorious things that were done by him.
+- **13:18** — Then said he, Unto what is the kingdom of God like? and whereunto shall I resemble it?
+- **13:20** — And again he said, Whereunto shall I liken the kingdom of God?
+- **13:22** — And he went through the cities and villages, teaching, and journeying toward Jerusalem.
+- **13:23** — Then said one unto him, Lord, are there few that be saved? And he said unto them,
+- **13:24** — Strive to enter in at the strait gate: for many, I say unto you, will seek to enter in, and shall not be able.
+- **13:25** — When once the master of the house is risen up, and hath shut to the door, and ye begin to stand without, and to knock at the door, saying, Lord, Lord, open unto us; and he shall answer and say unto you, I know you not whence ye are:
+- **13:26** — Then shall ye begin to say, We have eaten and drunk in thy presence, and thou hast taught in our streets.
+- **13:27** — But he shall say, I tell you, I know you not whence ye are; depart from me, all ye workers of iniquity.
+- **13:31** — The same day there came certain of the Pharisees, saying unto him, Get thee out, and depart hence: for Herod will kill thee.
+- **13:32** — And he said unto them, Go ye, and tell that fox, Behold, I cast out devils, and I do cures to day and to morrow, and the third day I shall be perfected.
+- **13:33** — Nevertheless I must walk to day, and to morrow, and the day following: for it cannot be that a prophet perish out of Jerusalem.
+- **13:34** — O Jerusalem, Jerusalem, which killest the prophets, and stonest them that are sent unto thee; how often would I have gathered thy children together, as a hen doth gather her brood under her wings, and ye would not!
+- **13:35** — Behold, your house is left unto you desolate: and verily I say unto you, Ye shall not see me, until the time come when ye shall say, Blessed is he that cometh in the name of the Lord.
+- **14:1** — And it came to pass, as he went into the house of one of the chief Pharisees to eat bread on the sabbath day, that they watched him.
+- **14:2** — And, behold, there was a certain man before him which had the dropsy.
+- **14:3** — And Jesus answering spake unto the lawyers and Pharisees, saying, Is it lawful to heal on the sabbath day?
+- **14:4** — And they held their peace. And he took him, and healed him, and let him go;
+- **14:6** — And they could not answer him again to these things.
+- **14:7** — And he put forth a parable to those which were bidden, when he marked how they chose out the chief rooms; saying unto them,
+- **14:12** — Then said he also to him that bade him, When thou makest a dinner or a supper, call not thy friends, nor thy brethren, neither thy kinsmen, nor thy rich neighbours; lest they also bid thee again, and a recompence be made thee.
+- **14:15** — And when one of them that sat at meat with him heard these things, he said unto him, Blessed is he that shall eat bread in the kingdom of God.
+- **14:16** — Then said he unto him, A certain man made a great supper, and bade many:
+- **14:22** — And the servant said, Lord, it is done as thou hast commanded, and yet there is room.
+- **14:25** — And there went great multitudes with him: and he turned, and said unto them,
+- **14:26** — If any man come to me, and hate not his father, and mother, and wife, and children, and brethren, and sisters, yea, and his own life also, he cannot be my disciple.
+- **14:27** — And whosoever doth not bear his cross, and come after me, cannot be my disciple.
+- **14:33** — So likewise, whosoever he be of you that forsaketh not all that he hath, he cannot be my disciple.
+- **15:1** — Then drew near unto him all the publicans and sinners for to hear him.
+- **15:2** — And the Pharisees and scribes murmured, saying, This man receiveth sinners, and eateth with them.
+- **15:3** — And he spake this parable unto them, saying,
+- **15:7** — I say unto you, that likewise joy shall be in heaven over one sinner that repenteth, more than over ninety and nine just persons, which need no repentance.
+- **15:10** — Likewise, I say unto you, there is joy in the presence of the angels of God over one sinner that repenteth.
+- **15:11** — And he said, A certain man had two sons:
+- **15:31** — And he said unto him, Son, thou art ever with me, and all that I have is thine.
+- **16:1** — And he said also unto his disciples, There was a certain rich man, which had a steward; and the same was accused unto him that he had wasted his goods.
+- **16:9** — And I say unto you, Make to yourselves friends of the mammon of unrighteousness; that, when ye fail, they may receive you into everlasting habitations.
+- **16:14** — And the Pharisees also, who were covetous, heard all these things: and they derided him.
+- **16:15** — And he said unto them, Ye are they which justify yourselves before men; but God knoweth your hearts: for that which is highly esteemed among men is abomination in the sight of God.
+- **16:25** — But Abraham said, Son, remember that thou in thy lifetime receivedst thy good things, and likewise Lazarus evil things: but now he is comforted, and thou art tormented.
+- **17:1** — Then said he unto the disciples, It is impossible but that offences will come: but woe unto him, through whom they come!
+- **17:5** — And the apostles said unto the Lord, Increase our faith.
+- **17:6** — And the Lord said, If ye had faith as a grain of mustard seed, ye might say unto this sycamine tree, Be thou plucked up by the root, and be thou planted in the sea; and it should obey you.
+- **17:9** — Doth he thank that servant because he did the things that were commanded him? I trow not.
+- **17:11** — And it came to pass, as he went to Jerusalem, that he passed through the midst of Samaria and Galilee.
+- **17:12** — And as he entered into a certain village, there met him ten men that were lepers, which stood afar off:
+- **17:13** — And they lifted up their voices, and said, Jesus, Master, have mercy on us.
+- **17:14** — And when he saw them, he said unto them, Go shew yourselves unto the priests. And it came to pass, that, as they went, they were cleansed.
+- **17:16** — And fell down on his face at his feet, giving him thanks: and he was a Samaritan.
+- **17:17** — And Jesus answering said, Were there not ten cleansed? but where are the nine?
+- **17:19** — And he said unto him, Arise, go thy way: thy faith hath made thee whole.
+- **17:20** — And when he was demanded of the Pharisees, when the kingdom of God should come, he answered them and said, The kingdom of God cometh not with observation:
+- **17:22** — And he said unto the disciples, The days will come, when ye shall desire to see one of the days of the Son of man, and ye shall not see it.
+- **17:24** — For as the lightning, that lighteneth out of the one part under heaven, shineth unto the other part under heaven; so shall also the Son of man be in his day.
+- **17:25** — But first must he suffer many things, and be rejected of this generation.
+- **17:26** — And as it was in the days of Noe, so shall it be also in the days of the Son of man.
+- **17:30** — Even thus shall it be in the day when the Son of man is revealed.
+- **17:34** — I tell you, in that night there shall be two men in one bed; the one shall be taken, and the other shall be left.
+- **17:37** — And they answered and said unto him, Where, Lord? And he said unto them, Wheresoever the body is, thither will the eagles be gathered together.
+- **18:1** — And he spake a parable unto them to this end, that men ought always to pray, and not to faint;
+- **18:6** — And the Lord said, Hear what the unjust judge saith.
+- **18:8** — I tell you that he will avenge them speedily. Nevertheless when the Son of man cometh, shall he find faith on the earth?
+- **18:9** — And he spake this parable unto certain which trusted in themselves that they were righteous, and despised others:
+- **18:14** — I tell you, this man went down to his house justified rather than the other: for every one that exalteth himself shall be abased; and he that humbleth himself shall be exalted.
+- **18:15** — And they brought unto him also infants, that he would touch them: but when his disciples saw it, they rebuked them.
+- **18:16** — But Jesus called them unto him, and said, Suffer little children to come unto me, and forbid them not: for of such is the kingdom of God.
+- **18:17** — Verily I say unto you, Whosoever shall not receive the kingdom of God as a little child shall in no wise enter therein.
+- **18:18** — And a certain ruler asked him, saying, Good Master, what shall I do to inherit eternal life?
+- **18:19** — And Jesus said unto him, Why callest thou me good? none is good, save one, that is, God.
+- **18:22** — Now when Jesus heard these things, he said unto him, Yet lackest thou one thing: sell all that thou hast, and distribute unto the poor, and thou shalt have treasure in heaven: and come, follow me.
+- **18:24** — And when Jesus saw that he was very sorrowful, he said, How hardly shall they that have riches enter into the kingdom of God!
+- **18:27** — And he said, The things which are impossible with men are possible with God.
+- **18:28** — Then Peter said, Lo, we have left all, and followed thee.
+- **18:29** — And he said unto them, Verily I say unto you, There is no man that hath left house, or parents, or brethren, or wife, or children, for the kingdom of God's sake,
+- **18:31** — Then he took unto him the twelve, and said unto them, Behold, we go up to Jerusalem, and all things that are written by the prophets concerning the Son of man shall be accomplished.
+- **18:32** — For he shall be delivered unto the Gentiles, and shall be mocked, and spitefully entreated, and spitted on:
+- **18:33** — And they shall scourge him, and put him to death: and the third day he shall rise again.
+- **18:35** — And it came to pass, that as he was come nigh unto Jericho, a certain blind man sat by the way side begging:
+- **18:37** — And they told him, that Jesus of Nazareth passeth by.
+- **18:38** — And he cried, saying, Jesus, thou Son of David, have mercy on me.
+- **18:39** — And they which went before rebuked him, that he should hold his peace: but he cried so much the more, Thou Son of David, have mercy on me.
+- **18:40** — And Jesus stood, and commanded him to be brought unto him: and when he was come near, he asked him,
+- **18:41** — Saying, What wilt thou that I shall do unto thee? And he said, Lord, that I may receive my sight.
+- **18:42** — And Jesus said unto him, Receive thy sight: thy faith hath saved thee.
+- **18:43** — And immediately he received his sight, and followed him, glorifying God: and all the people, when they saw it, gave praise unto God.
+- **19:3** — And he sought to see Jesus who he was; and could not for the press, because he was little of stature.
+- **19:4** — And he ran before, and climbed up into a sycomore tree to see him: for he was to pass that way.
+- **19:5** — And when Jesus came to the place, he looked up, and saw him, and said unto him, Zacchaeus, make haste, and come down; for to day I must abide at thy house.
+- **19:6** — And he made haste, and came down, and received him joyfully.
+- **19:7** — And when they saw it, they all murmured, saying, That he was gone to be guest with a man that is a sinner.
+- **19:8** — And Zacchaeus stood, and said unto the Lord; Behold, Lord, the half of my goods I give to the poor; and if I have taken any thing from any man by false accusation, I restore him fourfold.
+- **19:9** — And Jesus said unto him, This day is salvation come to this house, forsomuch as he also is a son of Abraham.
+- **19:10** — For the Son of man is come to seek and to save that which was lost.
+- **19:11** — And as they heard these things, he added and spake a parable, because he was nigh to Jerusalem, and because they thought that the kingdom of God should immediately appear.
+- **19:16** — Then came the first, saying, Lord, thy pound hath gained ten pounds.
+- **19:18** — And the second came, saying, Lord, thy pound hath gained five pounds.
+- **19:20** — And another came, saying, Lord, behold, here is thy pound, which I have kept laid up in a napkin:
+- **19:25** — And they said unto him, Lord, he hath ten pounds.)
+- **19:28** — And when he had thus spoken, he went before, ascending up to Jerusalem.
+- **19:29** — And it came to pass, when he was come nigh to Bethphage and Bethany, at the mount called the mount of Olives, he sent two of his disciples,
+- **19:31** — And if any man ask you, Why do ye loose him? thus shall ye say unto him, Because the Lord hath need of him.
+- **19:32** — And they that were sent went their way, and found even as he had said unto them.
+- **19:34** — And they said, The Lord hath need of him.
+- **19:35** — And they brought him to Jesus: and they cast their garments upon the colt, and they set Jesus thereon.
+- **19:36** — And as he went, they spread their clothes in the way.
+- **19:37** — And when he was come nigh, even now at the descent of the mount of Olives, the whole multitude of the disciples began to rejoice and praise God with a loud voice for all the mighty works that they had seen;
+- **19:38** — Saying, Blessed be the King that cometh in the name of the Lord: peace in heaven, and glory in the highest.
+- **19:39** — And some of the Pharisees from among the multitude said unto him, Master, rebuke thy disciples.
+- **19:40** — And he answered and said unto them, I tell you that, if these should hold their peace, the stones would immediately cry out.
+- **19:41** — And when he was come near, he beheld the city, and wept over it,
+- **19:45** — And he went into the temple, and began to cast out them that sold therein, and them that bought;
+- **19:47** — And he taught daily in the temple. But the chief priests and the scribes and the chief of the people sought to destroy him,
+- **19:48** — And could not find what they might do: for all the people were very attentive to hear him.
+- **20:1** — And it came to pass, that on one of those days, as he taught the people in the temple, and preached the gospel, the chief priests and the scribes came upon him with the elders,
+- **20:2** — And spake unto him, saying, Tell us, by what authority doest thou these things? or who is he that gave thee this authority?
+- **20:3** — And he answered and said unto them, I will also ask you one thing; and answer me:
+- **20:5** — And they reasoned with themselves, saying, If we shall say, From heaven; he will say, Why then believed ye him not?
+- **20:8** — And Jesus said unto them, Neither tell I you by what authority I do these things.
+- **20:9** — Then began he to speak to the people this parable; A certain man planted a vineyard, and let it forth to husbandmen, and went into a far country for a long time.
+- **20:17** — And he beheld them, and said, What is this then that is written, The stone which the builders rejected, the same is become the head of the corner?
+- **20:19** — And the chief priests and the scribes the same hour sought to lay hands on him; and they feared the people: for they perceived that he had spoken this parable against them.
+- **20:20** — And they watched him, and sent forth spies, which should feign themselves just men, that they might take hold of his words, that so they might deliver him unto the power and authority of the governor.
+- **20:21** — And they asked him, saying, Master, we know that thou sayest and teachest rightly, neither acceptest thou the person of any, but teachest the way of God truly:
+- **20:23** — But he perceived their craftiness, and said unto them, Why tempt ye me?
+- **20:24** — Shew me a penny. Whose image and superscription hath it? They answered and said, Caesar's.
+- **20:25** — And he said unto them, Render therefore unto Caesar the things which be Caesar's, and unto God the things which be God's.
+- **20:26** — And they could not take hold of his words before the people: and they marvelled at his answer, and held their peace.
+- **20:27** — Then came to him certain of the Sadducees, which deny that there is any resurrection; and they asked him,
+- **20:34** — And Jesus answering said unto them, The children of this world marry, and are given in marriage:
+- **20:37** — Now that the dead are raised, even Moses shewed at the bush, when he calleth the Lord the God of Abraham, and the God of Isaac, and the God of Jacob.
+- **20:38** — For he is not a God of the dead, but of the living: for all live unto him.
+- **20:39** — Then certain of the scribes answering said, Master, thou hast well said.
+- **20:40** — And after that they durst not ask him any question at all.
+- **20:41** — And he said unto them, How say they that Christ is David's son?
+- **20:42** — And David himself saith in the book of Psalms, The LORD said unto my Lord, Sit thou on my right hand,
+- **20:43** — Till I make thine enemies thy footstool.
+- **20:44** — David therefore calleth him Lord, how is he then his son?
+- **20:45** — Then in the audience of all the people he said unto his disciples,
+- **21:1** — And he looked up, and saw the rich men casting their gifts into the treasury.
+- **21:2** — And he saw also a certain poor widow casting in thither two mites.
+- **21:3** — And he said, Of a truth I say unto you, that this poor widow hath cast in more than they all:
+- **21:5** — And as some spake of the temple, how it was adorned with goodly stones and gifts, he said,
+- **21:7** — And they asked him, saying, Master, but when shall these things be? and what sign will there be when these things shall come to pass?
+- **21:8** — And he said, Take heed that ye be not deceived: for many shall come in my name, saying, I am Christ; and the time draweth near: go ye not therefore after them.
+- **21:10** — Then said he unto them, Nation shall rise against nation, and kingdom against kingdom:
+- **21:12** — But before all these, they shall lay their hands on you, and persecute you, delivering you up to the synagogues, and into prisons, being brought before kings and rulers for my name's sake.
+- **21:15** — For I will give you a mouth and wisdom, which all your adversaries shall not be able to gainsay nor resist.
+- **21:17** — And ye shall be hated of all men for my name's sake.
+- **21:27** — And then shall they see the Son of man coming in a cloud with power and great glory.
+- **21:29** — And he spake to them a parable; Behold the fig tree, and all the trees;
+- **21:32** — Verily I say unto you, This generation shall not pass away, till all be fulfilled.
+- **21:33** — Heaven and earth shall pass away: but my words shall not pass away.
+- **21:36** — Watch ye therefore, and pray always, that ye may be accounted worthy to escape all these things that shall come to pass, and to stand before the Son of man.
+- **21:37** — And in the day time he was teaching in the temple; and at night he went out, and abode in the mount that is called the mount of Olives.
+- **21:38** — And all the people came early in the morning to him in the temple, for to hear him.
+- **22:2** — And the chief priests and scribes sought how they might kill him; for they feared the people.
+- **22:4** — And he went his way, and communed with the chief priests and captains, how he might betray him unto them.
+- **22:6** — And he promised, and sought opportunity to betray him unto them in the absence of the multitude.
+- **22:8** — And he sent Peter and John, saying, Go and prepare us the passover, that we may eat.
+- **22:9** — And they said unto him, Where wilt thou that we prepare?
+- **22:10** — And he said unto them, Behold, when ye are entered into the city, there shall a man meet you, bearing a pitcher of water; follow him into the house where he entereth in.
+- **22:11** — And ye shall say unto the goodman of the house, The Master saith unto thee, Where is the guestchamber, where I shall eat the passover with my disciples?
+- **22:13** — And they went, and found as he had said unto them: and they made ready the passover.
+- **22:14** — And when the hour was come, he sat down, and the twelve apostles with him.
+- **22:15** — And he said unto them, With desire I have desired to eat this passover with you before I suffer:
+- **22:16** — For I say unto you, I will not any more eat thereof, until it be fulfilled in the kingdom of God.
+- **22:17** — And he took the cup, and gave thanks, and said, Take this, and divide it among yourselves:
+- **22:18** — For I say unto you, I will not drink of the fruit of the vine, until the kingdom of God shall come.
+- **22:19** — And he took bread, and gave thanks, and brake it, and gave unto them, saying, This is my body which is given for you: this do in remembrance of me.
+- **22:20** — Likewise also the cup after supper, saying, This cup is the new testament in my blood, which is shed for you.
+- **22:21** — But, behold, the hand of him that betrayeth me is with me on the table.
+- **22:22** — And truly the Son of man goeth, as it was determined: but woe unto that man by whom he is betrayed!
+- **22:25** — And he said unto them, The kings of the Gentiles exercise lordship over them; and they that exercise authority upon them are called benefactors.
+- **22:27** — For whether is greater, he that sitteth at meat, or he that serveth? is not he that sitteth at meat? but I am among you as he that serveth.
+- **22:28** — Ye are they which have continued with me in my temptations.
+- **22:29** — And I appoint unto you a kingdom, as my Father hath appointed unto me;
+- **22:30** — That ye may eat and drink at my table in my kingdom, and sit on thrones judging the twelve tribes of Israel.
+- **22:31** — And the Lord said, Simon, Simon, behold, Satan hath desired to have you, that he may sift you as wheat:
+- **22:32** — But I have prayed for thee, that thy faith fail not: and when thou art converted, strengthen thy brethren.
+- **22:33** — And he said unto him, Lord, I am ready to go with thee, both into prison, and to death.
+- **22:34** — And he said, I tell thee, Peter, the cock shall not crow this day, before that thou shalt thrice deny that thou knowest me.
+- **22:35** — And he said unto them, When I sent you without purse, and scrip, and shoes, lacked ye any thing? And they said, Nothing.
+- **22:36** — Then said he unto them, But now, he that hath a purse, let him take it, and likewise his scrip: and he that hath no sword, let him sell his garment, and buy one.
+- **22:37** — For I say unto you, that this that is written must yet be accomplished in me, And he was reckoned among the transgressors: for the things concerning me have an end.
+- **22:38** — And they said, Lord, behold, here are two swords. And he said unto them, It is enough.
+- **22:39** — And he came out, and went, as he was wont, to the mount of Olives; and his disciples also followed him.
+- **22:40** — And when he was at the place, he said unto them, Pray that ye enter not into temptation.
+- **22:41** — And he was withdrawn from them about a stone's cast, and kneeled down, and prayed,
+- **22:42** — Saying, Father, if thou be willing, remove this cup from me: nevertheless not my will, but thine, be done.
+- **22:43** — And there appeared an angel unto him from heaven, strengthening him.
+- **22:44** — And being in an agony he prayed more earnestly: and his sweat was as it were great drops of blood falling down to the ground.
+- **22:45** — And when he rose up from prayer, and was come to his disciples, he found them sleeping for sorrow,
+- **22:47** — And while he yet spake, behold a multitude, and he that was called Judas, one of the twelve, went before them, and drew near unto Jesus to kiss him.
+- **22:48** — But Jesus said unto him, Judas, betrayest thou the Son of man with a kiss?
+- **22:49** — When they which were about him saw what would follow, they said unto him, Lord, shall we smite with the sword?
+- **22:51** — And Jesus answered and said, Suffer ye thus far. And he touched his ear, and healed him.
+- **22:52** — Then Jesus said unto the chief priests, and captains of the temple, and the elders, which were come to him, Be ye come out, as against a thief, with swords and staves?
+- **22:53** — When I was daily with you in the temple, ye stretched forth no hands against me: but this is your hour, and the power of darkness.
+- **22:54** — Then took they him, and led him, and brought him into the high priest's house. And Peter followed afar off.
+- **22:56** — But a certain maid beheld him as he sat by the fire, and earnestly looked upon him, and said, This man was also with him.
+- **22:57** — And he denied him, saying, Woman, I know him not.
+- **22:59** — And about the space of one hour after another confidently affirmed, saying, Of a truth this fellow also was with him: for he is a Galilaean.
+- **22:61** — And the Lord turned, and looked upon Peter. And Peter remembered the word of the Lord, how he had said unto him, Before the cock crow, thou shalt deny me thrice.
+- **22:63** — And the men that held Jesus mocked him, and smote him.
+- **22:64** — And when they had blindfolded him, they struck him on the face, and asked him, saying, Prophesy, who is it that smote thee?
+- **22:65** — And many other things blasphemously spake they against him.
+- **22:66** — And as soon as it was day, the elders of the people and the chief priests and the scribes came together, and led him into their council, saying,
+- **22:67** — Art thou the Christ? tell us. And he said unto them, If I tell you, ye will not believe:
+- **22:68** — And if I also ask you, ye will not answer me, nor let me go.
+- **22:69** — Hereafter shall the Son of man sit on the right hand of the power of God.
+- **22:70** — Then said they all, Art thou then the Son of God? And he said unto them, Ye say that I am.
+- **22:71** — And they said, What need we any further witness? for we ourselves have heard of his own mouth.
+- **23:1** — And the whole multitude of them arose, and led him unto Pilate.
+- **23:2** — And they began to accuse him, saying, We found this fellow perverting the nation, and forbidding to give tribute to Caesar, saying that he himself is Christ a King.
+- **23:3** — And Pilate asked him, saying, Art thou the King of the Jews? And he answered him and said, Thou sayest it.
+- **23:4** — Then said Pilate to the chief priests and to the people, I find no fault in this man.
+- **23:6** — When Pilate heard of Galilee, he asked whether the man were a Galilaean.
+- **23:7** — And as soon as he knew that he belonged unto Herod's jurisdiction, he sent him to Herod, who himself also was at Jerusalem at that time.
+- **23:8** — And when Herod saw Jesus, he was exceeding glad: for he was desirous to see him of a long season, because he had heard many things of him; and he hoped to have seen some miracle done by him.
+- **23:9** — Then he questioned with him in many words; but he answered him nothing.
+- **23:10** — And the chief priests and scribes stood and vehemently accused him.
+- **23:11** — And Herod with his men of war set him at nought, and mocked him, and arrayed him in a gorgeous robe, and sent him again to Pilate.
+- **23:14** — Said unto them, Ye have brought this man unto me, as one that perverteth the people: and, behold, I, having examined him before you, have found no fault in this man touching those things whereof ye accuse him:
+- **23:15** — No, nor yet Herod: for I sent you to him; and, lo, nothing worthy of death is done unto him.
+- **23:16** — I will therefore chastise him, and release him.
+- **23:18** — And they cried out all at once, saying, Away with this man, and release unto us Barabbas:
+- **23:20** — Pilate therefore, willing to release Jesus, spake again to them.
+- **23:21** — But they cried, saying, Crucify him, crucify him.
+- **23:22** — And he said unto them the third time, Why, what evil hath he done? I have found no cause of death in him: I will therefore chastise him, and let him go.
+- **23:23** — And they were instant with loud voices, requiring that he might be crucified. And the voices of them and of the chief priests prevailed.
+- **23:25** — And he released unto them him that for sedition and murder was cast into prison, whom they had desired; but he delivered Jesus to their will.
+- **23:26** — And as they led him away, they laid hold upon one Simon, a Cyrenian, coming out of the country, and on him they laid the cross, that he might bear it after Jesus.
+- **23:27** — And there followed him a great company of people, and of women, which also bewailed and lamented him.
+- **23:28** — But Jesus turning unto them said, Daughters of Jerusalem, weep not for me, but weep for yourselves, and for your children.
+- **23:32** — And there were also two other, malefactors, led with him to be put to death.
+- **23:33** — And when they were come to the place, which is called Calvary, there they crucified him, and the malefactors, one on the right hand, and the other on the left.
+- **23:34** — Then said Jesus, Father, forgive them; for they know not what they do. And they parted his raiment, and cast lots.
+- **23:35** — And the people stood beholding. And the rulers also with them derided him, saying, He saved others; let him save himself, if he be Christ, the chosen of God.
+- **23:36** — And the soldiers also mocked him, coming to him, and offering him vinegar,
+- **23:37** — And saying, If thou be the king of the Jews, save thyself.
+- **23:38** — And a superscription also was written over him in letters of Greek, and Latin, and Hebrew, THIS IS THE KING OF THE JEWS.
+- **23:39** — And one of the malefactors which were hanged railed on him, saying, If thou be Christ, save thyself and us.
+- **23:41** — And we indeed justly; for we receive the due reward of our deeds: but this man hath done nothing amiss.
+- **23:42** — And he said unto Jesus, Lord, remember me when thou comest into thy kingdom.
+- **23:43** — And Jesus said unto him, Verily I say unto thee, To day shalt thou be with me in paradise.
+- **23:46** — And when Jesus had cried with a loud voice, he said, Father, into thy hands I commend my spirit: and having said thus, he gave up the ghost.
+- **23:47** — Now when the centurion saw what was done, he glorified God, saying, Certainly this was a righteous man.
+- **23:49** — And all his acquaintance, and the women that followed him from Galilee, stood afar off, beholding these things.
+- **23:52** — This man went unto Pilate, and begged the body of Jesus.
+- **23:55** — And the women also, which came with him from Galilee, followed after, and beheld the sepulchre, and how his body was laid.
+- **24:3** — And they entered in, and found not the body of the Lord Jesus.
+- **24:6** — He is not here, but is risen: remember how he spake unto you when he was yet in Galilee,
+- **24:7** — Saying, The Son of man must be delivered into the hands of sinful men, and be crucified, and the third day rise again.
+- **24:8** — And they remembered his words,
+- **24:15** — And it came to pass, that, while they communed together and reasoned, Jesus himself drew near, and went with them.
+- **24:16** — But their eyes were holden that they should not know him.
+- **24:17** — And he said unto them, What manner of communications are these that ye have one to another, as ye walk, and are sad?
+- **24:18** — And the one of them, whose name was Cleopas, answering said unto him, Art thou only a stranger in Jerusalem, and hast not known the things which are come to pass there in these days?
+- **24:19** — And he said unto them, What things? And they said unto him, Concerning Jesus of Nazareth, which was a prophet mighty in deed and word before God and all the people:
+- **24:20** — And how the chief priests and our rulers delivered him to be condemned to death, and have crucified him.
+- **24:21** — But we trusted that it had been he which should have redeemed Israel: and beside all this, to day is the third day since these things were done.
+- **24:23** — And when they found not his body, they came, saying, that they had also seen a vision of angels, which said that he was alive.
+- **24:24** — And certain of them which were with us went to the sepulchre, and found it even so as the women had said: but him they saw not.
+- **24:25** — Then he said unto them, O fools, and slow of heart to believe all that the prophets have spoken:
+- **24:26** — Ought not Christ to have suffered these things, and to enter into his glory?
+- **24:27** — And beginning at Moses and all the prophets, he expounded unto them in all the scriptures the things concerning himself.
+- **24:28** — And they drew nigh unto the village, whither they went: and he made as though he would have gone further.
+- **24:29** — But they constrained him, saying, Abide with us: for it is toward evening, and the day is far spent. And he went in to tarry with them.
+- **24:30** — And it came to pass, as he sat at meat with them, he took bread, and blessed it, and brake, and gave to them.
+- **24:31** — And their eyes were opened, and they knew him; and he vanished out of their sight.
+- **24:32** — And they said one to another, Did not our heart burn within us, while he talked with us by the way, and while he opened to us the scriptures?
+- **24:34** — Saying, The Lord is risen indeed, and hath appeared to Simon.
+- **24:35** — And they told what things were done in the way, and how he was known of them in breaking of bread.
+- **24:36** — And as they thus spake, Jesus himself stood in the midst of them, and saith unto them, Peace be unto you.
+- **24:38** — And he said unto them, Why are ye troubled? and why do thoughts arise in your hearts?
+- **24:39** — Behold my hands and my feet, that it is I myself: handle me, and see; for a spirit hath not flesh and bones, as ye see me have.
+- **24:40** — And when he had thus spoken, he shewed them his hands and his feet.
+- **24:41** — And while they yet believed not for joy, and wondered, he said unto them, Have ye here any meat?
+- **24:42** — And they gave him a piece of a broiled fish, and of an honeycomb.
+- **24:43** — And he took it, and did eat before them.
+- **24:44** — And he said unto them, These are the words which I spake unto you, while I was yet with you, that all things must be fulfilled, which were written in the law of Moses, and in the prophets, and in the psalms, concerning me.
+- **24:45** — Then opened he their understanding, that they might understand the scriptures,
+- **24:46** — And said unto them, Thus it is written, and thus it behoved Christ to suffer, and to rise from the dead the third day:
+- **24:47** — And that repentance and remission of sins should be preached in his name among all nations, beginning at Jerusalem.
+- **24:49** — And, behold, I send the promise of my Father upon you: but tarry ye in the city of Jerusalem, until ye be endued with power from on high.
+- **24:50** — And he led them out as far as to Bethany, and he lifted up his hands, and blessed them.
+- **24:51** — And it came to pass, while he blessed them, he was parted from them, and carried up into heaven.
+- **24:52** — And they worshipped him, and returned to Jerusalem with great joy:
+
+### [[John]]
+- **1:1** — In the beginning was the Word, and the Word was with God, and the Word was God.
+- **1:2** — The same was in the beginning with God.
+- **1:3** — All things were made by him; and without him was not any thing made that was made.
+- **1:4** — In him was life; and the life was the light of men.
+- **1:7** — The same came for a witness, to bear witness of the Light, that all men through him might believe.
+- **1:8** — He was not that Light, but was sent to bear witness of that Light.
+- **1:9** — That was the true Light, which lighteth every man that cometh into the world.
+- **1:10** — He was in the world, and the world was made by him, and the world knew him not.
+- **1:11** — He came unto his own, and his own received him not.
+- **1:12** — But as many as received him, to them gave he power to become the sons of God, even to them that believe on his name:
+- **1:14** — And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth.
+- **1:15** — John bare witness of him, and cried, saying, This was he of whom I spake, He that cometh after me is preferred before me: for he was before me.
+- **1:16** — And of his fulness have all we received, and grace for grace.
+- **1:17** — For the law was given by Moses, but grace and truth came by Jesus Christ.
+- **1:18** — No man hath seen God at any time; the only begotten Son, which is in the bosom of the Father, he hath declared him.
+- **1:20** — And he confessed, and denied not; but confessed, I am not the Christ.
+- **1:23** — He said, I am the voice of one crying in the wilderness, Make straight the way of the Lord, as said the prophet Esaias.
+- **1:25** — And they asked him, and said unto him, Why baptizest thou then, if thou be not that Christ, nor Elias, neither that prophet?
+- **1:26** — John answered them, saying, I baptize with water: but there standeth one among you, whom ye know not;
+- **1:29** — The next day John seeth Jesus coming unto him, and saith, Behold the Lamb of God, which taketh away the sin of the world.
+- **1:30** — This is he of whom I said, After me cometh a man which is preferred before me: for he was before me.
+- **1:31** — And I knew him not: but that he should be made manifest to Israel, therefore am I come baptizing with water.
+- **1:32** — And John bare record, saying, I saw the Spirit descending from heaven like a dove, and it abode upon him.
+- **1:33** — And I knew him not: but he that sent me to baptize with water, the same said unto me, Upon whom thou shalt see the Spirit descending, and remaining on him, the same is he which baptizeth with the Holy Ghost.
+- **1:34** — And I saw, and bare record that this is the Son of God.
+- **1:36** — And looking upon Jesus as he walked, he saith, Behold the Lamb of God!
+- **1:37** — And the two disciples heard him speak, and they followed Jesus.
+- **1:38** — Then Jesus turned, and saw them following, and saith unto them, What seek ye? They said unto him, Rabbi, (which is to say, being interpreted, Master,) where dwellest thou?
+- **1:39** — He saith unto them, Come and see. They came and saw where he dwelt, and abode with him that day: for it was about the tenth hour.
+- **1:40** — One of the two which heard John speak, and followed him, was Andrew, Simon Peter's brother.
+- **1:41** — He first findeth his own brother Simon, and saith unto him, We have found the Messias, which is, being interpreted, the Christ.
+- **1:42** — And he brought him to Jesus. And when Jesus beheld him, he said, Thou art Simon the son of Jona: thou shalt be called Cephas, which is by interpretation, A stone.
+- **1:43** — The day following Jesus would go forth into Galilee, and findeth Philip, and saith unto him, Follow me.
+- **1:45** — Philip findeth Nathanael, and saith unto him, We have found him, of whom Moses in the law, and the prophets, did write, Jesus of Nazareth, the son of Joseph.
+- **1:47** — Jesus saw Nathanael coming to him, and saith of him, Behold an Israelite indeed, in whom is no guile!
+- **1:48** — Nathanael saith unto him, Whence knowest thou me? Jesus answered and said unto him, Before that Philip called thee, when thou wast under the fig tree, I saw thee.
+- **1:49** — Nathanael answered and saith unto him, Rabbi, thou art the Son of God; thou art the King of Israel.
+- **1:50** — Jesus answered and said unto him, Because I said unto thee, I saw thee under the fig tree, believest thou? thou shalt see greater things than these.
+- **1:51** — And he saith unto him, Verily, verily, I say unto you, Hereafter ye shall see heaven open, and the angels of God ascending and descending upon the Son of man.
+- **2:1** — And the third day there was a marriage in Cana of Galilee; and the mother of Jesus was there:
+- **2:2** — And both Jesus was called, and his disciples, to the marriage.
+- **2:3** — And when they wanted wine, the mother of Jesus saith unto him, They have no wine.
+- **2:4** — Jesus saith unto her, Woman, what have I to do with thee? mine hour is not yet come.
+- **2:5** — His mother saith unto the servants, Whatsoever he saith unto you, do it.
+- **2:7** — Jesus saith unto them, Fill the waterpots with water. And they filled them up to the brim.
+- **2:8** — And he saith unto them, Draw out now, and bear unto the governor of the feast. And they bare it.
+- **2:11** — This beginning of miracles did Jesus in Cana of Galilee, and manifested forth his glory; and his disciples believed on him.
+- **2:12** — After this he went down to Capernaum, he, and his mother, and his brethren, and his disciples: and they continued there not many days.
+- **2:13** — And the Jews' passover was at hand, and Jesus went up to Jerusalem,
+- **2:15** — And when he had made a scourge of small cords, he drove them all out of the temple, and the sheep, and the oxen; and poured out the changers' money, and overthrew the tables;
+- **2:16** — And said unto them that sold doves, Take these things hence; make not my Father's house an house of merchandise.
+- **2:17** — And his disciples remembered that it was written, The zeal of thine house hath eaten me up.
+- **2:18** — Then answered the Jews and said unto him, What sign shewest thou unto us, seeing that thou doest these things?
+- **2:19** — Jesus answered and said unto them, Destroy this temple, and in three days I will raise it up.
+- **2:20** — Then said the Jews, Forty and six years was this temple in building, and wilt thou rear it up in three days?
+- **2:21** — But he spake of the temple of his body.
+- **2:22** — When therefore he was risen from the dead, his disciples remembered that he had said this unto them; and they believed the scripture, and the word which Jesus had said.
+- **2:23** — Now when he was in Jerusalem at the passover, in the feast day, many believed in his name, when they saw the miracles which he did.
+- **2:24** — But Jesus did not commit himself unto them, because he knew all men,
+- **2:25** — And needed not that any should testify of man: for he knew what was in man.
+- **3:2** — The same came to Jesus by night, and said unto him, Rabbi, we know that thou art a teacher come from God: for no man can do these miracles that thou doest, except God be with him.
+- **3:3** — Jesus answered and said unto him, Verily, verily, I say unto thee, Except a man be born again, he cannot see the kingdom of God.
+- **3:4** — Nicodemus saith unto him, How can a man be born when he is old? can he enter the second time into his mother's womb, and be born?
+- **3:5** — Jesus answered, Verily, verily, I say unto thee, Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God.
+- **3:7** — Marvel not that I said unto thee, Ye must be born again.
+- **3:9** — Nicodemus answered and said unto him, How can these things be?
+- **3:10** — Jesus answered and said unto him, Art thou a master of Israel, and knowest not these things?
+- **3:11** — Verily, verily, I say unto thee, We speak that we do know, and testify that we have seen; and ye receive not our witness.
+- **3:12** — If I have told you earthly things, and ye believe not, how shall ye believe, if I tell you of heavenly things?
+- **3:13** — And no man hath ascended up to heaven, but he that came down from heaven, even the Son of man which is in heaven.
+- **3:14** — And as Moses lifted up the serpent in the wilderness, even so must the Son of man be lifted up:
+- **3:15** — That whosoever believeth in him should not perish, but have eternal life.
+- **3:16** — For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.
+- **3:17** — For God sent not his Son into the world to condemn the world; but that the world through him might be saved.
+- **3:18** — He that believeth on him is not condemned: but he that believeth not is condemned already, because he hath not believed in the name of the only begotten Son of God.
+- **3:22** — After these things came Jesus and his disciples into the land of Judaea; and there he tarried with them, and baptized.
+- **3:26** — And they came unto John, and said unto him, Rabbi, he that was with thee beyond Jordan, to whom thou barest witness, behold, the same baptizeth, and all men come to him.
+- **3:28** — Ye yourselves bear me witness, that I said, I am not the Christ, but that I am sent before him.
+- **3:29** — He that hath the bride is the bridegroom: but the friend of the bridegroom, which standeth and heareth him, rejoiceth greatly because of the bridegroom's voice: this my joy therefore is fulfilled.
+- **3:31** — He that cometh from above is above all: he that is of the earth is earthly, and speaketh of the earth: he that cometh from heaven is above all.
+- **3:32** — And what he hath seen and heard, that he testifieth; and no man receiveth his testimony.
+- **3:33** — He that hath received his testimony hath set to his seal that God is true.
+- **3:34** — For he whom God hath sent speaketh the words of God: for God giveth not the Spirit by measure unto him.
+- **3:35** — The Father loveth the Son, and hath given all things into his hand.
+- **3:36** — He that believeth on the Son hath everlasting life: and he that believeth not the Son shall not see life; but the wrath of God abideth on him.
+- **4:1** — When therefore the Lord knew how the Pharisees had heard that Jesus made and baptized more disciples than John,
+- **4:2** — Though Jesus himself baptized not, but his disciples,)
+- **4:4** — And he must needs go through Samaria.
+- **4:5** — Then cometh he to a city of Samaria, which is called Sychar, near to the parcel of ground that Jacob gave to his son Joseph.
+- **4:6** — Now Jacob's well was there. Jesus therefore, being wearied with his journey, sat thus on the well: and it was about the sixth hour.
+- **4:7** — There cometh a woman of Samaria to draw water: Jesus saith unto her, Give me to drink.
+- **4:8** — For his disciples were gone away unto the city to buy meat.)
+- **4:9** — Then saith the woman of Samaria unto him, How is it that thou, being a Jew, askest drink of me, which am a woman of Samaria? for the Jews have no dealings with the Samaritans.
+- **4:10** — Jesus answered and said unto her, If thou knewest the gift of God, and who it is that saith to thee, Give me to drink; thou wouldest have asked of him, and he would have given thee living water.
+- **4:11** — The woman saith unto him, Sir, thou hast nothing to draw with, and the well is deep: from whence then hast thou that living water?
+- **4:12** — Art thou greater than our father Jacob, which gave us the well, and drank thereof himself, and his children, and his cattle?
+- **4:13** — Jesus answered and said unto her, Whosoever drinketh of this water shall thirst again:
+- **4:14** — But whosoever drinketh of the water that I shall give him shall never thirst; but the water that I shall give him shall be in him a well of water springing up into everlasting life.
+- **4:15** — The woman saith unto him, Sir, give me this water, that I thirst not, neither come hither to draw.
+- **4:16** — Jesus saith unto her, Go, call thy husband, and come hither.
+- **4:17** — The woman answered and said, I have no husband. Jesus said unto her, Thou hast well said, I have no husband:
+- **4:19** — The woman saith unto him, Sir, I perceive that thou art a prophet.
+- **4:21** — Jesus saith unto her, Woman, believe me, the hour cometh, when ye shall neither in this mountain, nor yet at Jerusalem, worship the Father.
+- **4:24** — God is a Spirit: and they that worship him must worship him in spirit and in truth.
+- **4:25** — The woman saith unto him, I know that Messias cometh, which is called Christ: when he is come, he will tell us all things.
+- **4:26** — Jesus saith unto her, I that speak unto thee am he.
+- **4:27** — And upon this came his disciples, and marvelled that he talked with the woman: yet no man said, What seekest thou? or, Why talkest thou with her?
+- **4:29** — Come, see a man, which told me all things that ever I did: is not this the Christ?
+- **4:30** — Then they went out of the city, and came unto him.
+- **4:31** — In the mean while his disciples prayed him, saying, Master, eat.
+- **4:32** — But he said unto them, I have meat to eat that ye know not of.
+- **4:33** — Therefore said the disciples one to another, Hath any man brought him ought to eat?
+- **4:34** — Jesus saith unto them, My meat is to do the will of him that sent me, and to finish his work.
+- **4:35** — Say not ye, There are yet four months, and then cometh harvest? behold, I say unto you, Lift up your eyes, and look on the fields; for they are white already to harvest.
+- **4:38** — I sent you to reap that whereon ye bestowed no labour: other men laboured, and ye are entered into their labours.
+- **4:39** — And many of the Samaritans of that city believed on him for the saying of the woman, which testified, He told me all that ever I did.
+- **4:40** — So when the Samaritans were come unto him, they besought him that he would tarry with them: and he abode there two days.
+- **4:41** — And many more believed because of his own word;
+- **4:42** — And said unto the woman, Now we believe, not because of thy saying: for we have heard him ourselves, and know that this is indeed the Christ, the Saviour of the world.
+- **4:43** — Now after two days he departed thence, and went into Galilee.
+- **4:44** — For Jesus himself testified, that a prophet hath no honour in his own country.
+- **4:45** — Then when he was come into Galilee, the Galilaeans received him, having seen all the things that he did at Jerusalem at the feast: for they also went unto the feast.
+- **4:46** — So Jesus came again into Cana of Galilee, where he made the water wine. And there was a certain nobleman, whose son was sick at Capernaum.
+- **4:47** — When he heard that Jesus was come out of Judaea into Galilee, he went unto him, and besought him that he would come down, and heal his son: for he was at the point of death.
+- **4:48** — Then said Jesus unto him, Except ye see signs and wonders, ye will not believe.
+- **4:50** — Jesus saith unto him, Go thy way; thy son liveth. And the man believed the word that Jesus had spoken unto him, and he went his way.
+- **4:53** — So the father knew that it was at the same hour, in the which Jesus said unto him, Thy son liveth: and himself believed, and his whole house.
+- **4:54** — This is again the second miracle that Jesus did, when he was come out of Judaea into Galilee.
+- **5:1** — After this there was a feast of the Jews; and Jesus went up to Jerusalem.
+- **5:6** — When Jesus saw him lie, and knew that he had been now a long time in that case, he saith unto him, Wilt thou be made whole?
+- **5:7** — The impotent man answered him, Sir, I have no man, when the water is troubled, to put me into the pool: but while I am coming, another steppeth down before me.
+- **5:8** — Jesus saith unto him, Rise, take up thy bed, and walk.
+- **5:12** — Then asked they him, What man is that which said unto thee, Take up thy bed, and walk?
+- **5:13** — And he that was healed wist not who it was: for Jesus had conveyed himself away, a multitude being in that place.
+- **5:14** — Afterward Jesus findeth him in the temple, and said unto him, Behold, thou art made whole: sin no more, lest a worse thing come unto thee.
+- **5:15** — The man departed, and told the Jews that it was Jesus, which had made him whole.
+- **5:16** — And therefore did the Jews persecute Jesus, and sought to slay him, because he had done these things on the sabbath day.
+- **5:17** — But Jesus answered them, My Father worketh hitherto, and I work.
+- **5:18** — Therefore the Jews sought the more to kill him, because he not only had broken the sabbath, but said also that God was his Father, making himself equal with God.
+- **5:19** — Then answered Jesus and said unto them, Verily, verily, I say unto you, The Son can do nothing of himself, but what he seeth the Father do: for what things soever he doeth, these also doeth the Son likewise.
+- **5:20** — For the Father loveth the Son, and sheweth him all things that himself doeth: and he will shew him greater works than these, that ye may marvel.
+- **5:21** — For as the Father raiseth up the dead, and quickeneth them; even so the Son quickeneth whom he will.
+- **5:22** — For the Father judgeth no man, but hath committed all judgment unto the Son:
+- **5:23** — That all men should honour the Son, even as they honour the Father. He that honoureth not the Son honoureth not the Father which hath sent him.
+- **5:24** — Verily, verily, I say unto you, He that heareth my word, and believeth on him that sent me, hath everlasting life, and shall not come into condemnation; but is passed from death unto life.
+- **5:25** — Verily, verily, I say unto you, The hour is coming, and now is, when the dead shall hear the voice of the Son of God: and they that hear shall live.
+- **5:26** — For as the Father hath life in himself; so hath he given to the Son to have life in himself;
+- **5:27** — And hath given him authority to execute judgment also, because he is the Son of man.
+- **5:28** — Marvel not at this: for the hour is coming, in the which all that are in the graves shall hear his voice,
+- **5:30** — I can of mine own self do nothing: as I hear, I judge: and my judgment is just; because I seek not mine own will, but the will of the Father which hath sent me.
+- **5:31** — If I bear witness of myself, my witness is not true.
+- **5:32** — There is another that beareth witness of me; and I know that the witness which he witnesseth of me is true.
+- **5:34** — But I receive not testimony from man: but these things I say, that ye might be saved.
+- **5:36** — But I have greater witness than that of John: for the works which the Father hath given me to finish, the same works that I do, bear witness of me, that the Father hath sent me.
+- **5:37** — And the Father himself, which hath sent me, hath borne witness of me. Ye have neither heard his voice at any time, nor seen his shape.
+- **5:38** — And ye have not his word abiding in you: for whom he hath sent, him ye believe not.
+- **5:39** — Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me.
+- **5:40** — And ye will not come to me, that ye might have life.
+- **5:41** — I receive not honour from men.
+- **5:42** — But I know you, that ye have not the love of God in you.
+- **5:43** — I am come in my Father's name, and ye receive me not: if another shall come in his own name, him ye will receive.
+- **5:45** — Do not think that I will accuse you to the Father: there is one that accuseth you, even Moses, in whom ye trust.
+- **5:46** — For had ye believed Moses, ye would have believed me: for he wrote of me.
+- **5:47** — But if ye believe not his writings, how shall ye believe my words?
+- **6:1** — After these things Jesus went over the sea of Galilee, which is the sea of Tiberias.
+- **6:2** — And a great multitude followed him, because they saw his miracles which he did on them that were diseased.
+- **6:3** — And Jesus went up into a mountain, and there he sat with his disciples.
+- **6:5** — When Jesus then lifted up his eyes, and saw a great company come unto him, he saith unto Philip, Whence shall we buy bread, that these may eat?
+- **6:6** — And this he said to prove him: for he himself knew what he would do.
+- **6:7** — Philip answered him, Two hundred pennyworth of bread is not sufficient for them, that every one of them may take a little.
+- **6:8** — One of his disciples, Andrew, Simon Peter's brother, saith unto him,
+- **6:10** — And Jesus said, Make the men sit down. Now there was much grass in the place. So the men sat down, in number about five thousand.
+- **6:11** — And Jesus took the loaves; and when he had given thanks, he distributed to the disciples, and the disciples to them that were set down; and likewise of the fishes as much as they would.
+- **6:12** — When they were filled, he said unto his disciples, Gather up the fragments that remain, that nothing be lost.
+- **6:14** — Then those men, when they had seen the miracle that Jesus did, said, This is of a truth that prophet that should come into the world.
+- **6:15** — When Jesus therefore perceived that they would come and take him by force, to make him a king, he departed again into a mountain himself alone.
+- **6:16** — And when even was now come, his disciples went down unto the sea,
+- **6:17** — And entered into a ship, and went over the sea toward Capernaum. And it was now dark, and Jesus was not come to them.
+- **6:19** — So when they had rowed about five and twenty or thirty furlongs, they see Jesus walking on the sea, and drawing nigh unto the ship: and they were afraid.
+- **6:20** — But he saith unto them, It is I; be not afraid.
+- **6:21** — Then they willingly received him into the ship: and immediately the ship was at the land whither they went.
+- **6:22** — The day following, when the people which stood on the other side of the sea saw that there was none other boat there, save that one whereinto his disciples were entered, and that Jesus went not with his disciples into the boat, but that his disciples were gone away alone;
+- **6:23** — Howbeit there came other boats from Tiberias nigh unto the place where they did eat bread, after that the Lord had given thanks:)
+- **6:24** — When the people therefore saw that Jesus was not there, neither his disciples, they also took shipping, and came to Capernaum, seeking for Jesus.
+- **6:25** — And when they had found him on the other side of the sea, they said unto him, Rabbi, when camest thou hither?
+- **6:26** — Jesus answered them and said, Verily, verily, I say unto you, Ye seek me, not because ye saw the miracles, but because ye did eat of the loaves, and were filled.
+- **6:27** — Labour not for the meat which perisheth, but for that meat which endureth unto everlasting life, which the Son of man shall give unto you: for him hath God the Father sealed.
+- **6:28** — Then said they unto him, What shall we do, that we might work the works of God?
+- **6:29** — Jesus answered and said unto them, This is the work of God, that ye believe on him whom he hath sent.
+- **6:30** — They said therefore unto him, What sign shewest thou then, that we may see, and believe thee? what dost thou work?
+- **6:32** — Then Jesus said unto them, Verily, verily, I say unto you, Moses gave you not that bread from heaven; but my Father giveth you the true bread from heaven.
+- **6:34** — Then said they unto him, Lord, evermore give us this bread.
+- **6:35** — And Jesus said unto them, I am the bread of life: he that cometh to me shall never hunger; and he that believeth on me shall never thirst.
+- **6:36** — But I said unto you, That ye also have seen me, and believe not.
+- **6:37** — All that the Father giveth me shall come to me; and him that cometh to me I will in no wise cast out.
+- **6:38** — For I came down from heaven, not to do mine own will, but the will of him that sent me.
+- **6:39** — And this is the Father's will which hath sent me, that of all which he hath given me I should lose nothing, but should raise it up again at the last day.
+- **6:40** — And this is the will of him that sent me, that every one which seeth the Son, and believeth on him, may have everlasting life: and I will raise him up at the last day.
+- **6:41** — The Jews then murmured at him, because he said, I am the bread which came down from heaven.
+- **6:42** — And they said, Is not this Jesus, the son of Joseph, whose father and mother we know? how is it then that he saith, I came down from heaven?
+- **6:43** — Jesus therefore answered and said unto them, Murmur not among yourselves.
+- **6:44** — No man can come to me, except the Father which hath sent me draw him: and I will raise him up at the last day.
+- **6:45** — It is written in the prophets, And they shall be all taught of God. Every man therefore that hath heard, and hath learned of the Father, cometh unto me.
+- **6:46** — Not that any man hath seen the Father, save he which is of God, he hath seen the Father.
+- **6:47** — Verily, verily, I say unto you, He that believeth on me hath everlasting life.
+- **6:48** — I am that bread of life.
+- **6:51** — I am the living bread which came down from heaven: if any man eat of this bread, he shall live for ever: and the bread that I will give is my flesh, which I will give for the life of the world.
+- **6:52** — The Jews therefore strove among themselves, saying, How can this man give us his flesh to eat?
+- **6:53** — Then Jesus said unto them, Verily, verily, I say unto you, Except ye eat the flesh of the Son of man, and drink his blood, ye have no life in you.
+- **6:54** — Whoso eateth my flesh, and drinketh my blood, hath eternal life; and I will raise him up at the last day.
+- **6:55** — For my flesh is meat indeed, and my blood is drink indeed.
+- **6:56** — He that eateth my flesh, and drinketh my blood, dwelleth in me, and I in him.
+- **6:57** — As the living Father hath sent me, and I live by the Father: so he that eateth me, even he shall live by me.
+- **6:59** — These things said he in the synagogue, as he taught in Capernaum.
+- **6:60** — Many therefore of his disciples, when they had heard this, said, This is an hard saying; who can hear it?
+- **6:61** — When Jesus knew in himself that his disciples murmured at it, he said unto them, Doth this offend you?
+- **6:62** — What and if ye shall see the Son of man ascend up where he was before?
+- **6:63** — It is the spirit that quickeneth; the flesh profiteth nothing: the words that I speak unto you, they are spirit, and they are life.
+- **6:64** — But there are some of you that believe not. For Jesus knew from the beginning who they were that believed not, and who should betray him.
+- **6:65** — And he said, Therefore said I unto you, that no man can come unto me, except it were given unto him of my Father.
+- **6:66** — From that time many of his disciples went back, and walked no more with him.
+- **6:67** — Then said Jesus unto the twelve, Will ye also go away?
+- **6:68** — Then Simon Peter answered him, Lord, to whom shall we go? thou hast the words of eternal life.
+- **6:69** — And we believe and are sure that thou art that Christ, the Son of the living God.
+- **6:70** — Jesus answered them, Have not I chosen you twelve, and one of you is a devil?
+- **6:71** — He spake of Judas Iscariot the son of Simon: for he it was that should betray him, being one of the twelve.
+- **7:1** — After these things Jesus walked in Galilee: for he would not walk in Jewry, because the Jews sought to kill him.
+- **7:3** — His brethren therefore said unto him, Depart hence, and go into Judaea, that thy disciples also may see the works that thou doest.
+- **7:4** — For there is no man that doeth any thing in secret, and he himself seeketh to be known openly. If thou do these things, shew thyself to the world.
+- **7:5** — For neither did his brethren believe in him.
+- **7:6** — Then Jesus said unto them, My time is not yet come: but your time is alway ready.
+- **7:7** — The world cannot hate you; but me it hateth, because I testify of it, that the works thereof are evil.
+- **7:8** — Go ye up unto this feast: I go not up yet unto this feast; for my time is not yet full come.
+- **7:9** — When he had said these words unto them, he abode still in Galilee.
+- **7:10** — But when his brethren were gone up, then went he also up unto the feast, not openly, but as it were in secret.
+- **7:11** — Then the Jews sought him at the feast, and said, Where is he?
+- **7:12** — And there was much murmuring among the people concerning him: for some said, He is a good man: others said, Nay; but he deceiveth the people.
+- **7:13** — Howbeit no man spake openly of him for fear of the Jews.
+- **7:14** — Now about the midst of the feast Jesus went up into the temple, and taught.
+- **7:15** — And the Jews marvelled, saying, How knoweth this man letters, having never learned?
+- **7:16** — Jesus answered them, and said, My doctrine is not mine, but his that sent me.
+- **7:17** — If any man will do his will, he shall know of the doctrine, whether it be of God, or whether I speak of myself.
+- **7:18** — He that speaketh of himself seeketh his own glory: but he that seeketh his glory that sent him, the same is true, and no unrighteousness is in him.
+- **7:19** — Did not Moses give you the law, and yet none of you keepeth the law? Why go ye about to kill me?
+- **7:20** — The people answered and said, Thou hast a devil: who goeth about to kill thee?
+- **7:21** — Jesus answered and said unto them, I have done one work, and ye all marvel.
+- **7:23** — If a man on the sabbath day receive circumcision, that the law of Moses should not be broken; are ye angry at me, because I have made a man every whit whole on the sabbath day?
+- **7:25** — Then said some of them of Jerusalem, Is not this he, whom they seek to kill?
+- **7:26** — But, lo, he speaketh boldly, and they say nothing unto him. Do the rulers know indeed that this is the very Christ?
+- **7:27** — Howbeit we know this man whence he is: but when Christ cometh, no man knoweth whence he is.
+- **7:28** — Then cried Jesus in the temple as he taught, saying, Ye both know me, and ye know whence I am: and I am not come of myself, but he that sent me is true, whom ye know not.
+- **7:29** — But I know him: for I am from him, and he hath sent me.
+- **7:30** — Then they sought to take him: but no man laid hands on him, because his hour was not yet come.
+- **7:31** — And many of the people believed on him, and said, When Christ cometh, will he do more miracles than these which this man hath done?
+- **7:32** — The Pharisees heard that the people murmured such things concerning him; and the Pharisees and the chief priests sent officers to take him.
+- **7:33** — Then said Jesus unto them, Yet a little while am I with you, and then I go unto him that sent me.
+- **7:34** — Ye shall seek me, and shall not find me: and where I am, thither ye cannot come.
+- **7:35** — Then said the Jews among themselves, Whither will he go, that we shall not find him? will he go unto the dispersed among the Gentiles, and teach the Gentiles?
+- **7:36** — What manner of saying is this that he said, Ye shall seek me, and shall not find me: and where I am, thither ye cannot come?
+- **7:37** — In the last day, that great day of the feast, Jesus stood and cried, saying, If any man thirst, let him come unto me, and drink.
+- **7:38** — He that believeth on me, as the scripture hath said, out of his belly shall flow rivers of living water.
+- **7:39** — But this spake he of the Spirit, which they that believe on him should receive: for the Holy Ghost was not yet given; because that Jesus was not yet glorified.)
+- **7:41** — Others said, This is the Christ. But some said, Shall Christ come out of Galilee?
+- **7:42** — Hath not the scripture said, That Christ cometh of the seed of David, and out of the town of Bethlehem, where David was?
+- **7:43** — So there was a division among the people because of him.
+- **7:44** — And some of them would have taken him; but no man laid hands on him.
+- **7:45** — Then came the officers to the chief priests and Pharisees; and they said unto them, Why have ye not brought him?
+- **7:46** — The officers answered, Never man spake like this man.
+- **7:48** — Have any of the rulers or of the Pharisees believed on him?
+- **7:50** — Nicodemus saith unto them, (he that came to Jesus by night, being one of them,)
+- **8:1** — Jesus went unto the mount of Olives.
+- **8:2** — And early in the morning he came again into the temple, and all the people came unto him; and he sat down, and taught them.
+- **8:3** — And the scribes and Pharisees brought unto him a woman taken in adultery; and when they had set her in the midst,
+- **8:4** — They say unto him, Master, this woman was taken in adultery, in the very act.
+- **8:5** — Now Moses in the law commanded us, that such should be stoned: but what sayest thou?
+- **8:6** — This they said, tempting him, that they might have to accuse him. But Jesus stooped down, and with his finger wrote on the ground, as though he heard them not.
+- **8:7** — So when they continued asking him, he lifted up himself, and said unto them, He that is without sin among you, let him first cast a stone at her.
+- **8:8** — And again he stooped down, and wrote on the ground.
+- **8:9** — And they which heard it, being convicted by their own conscience, went out one by one, beginning at the eldest, even unto the last: and Jesus was left alone, and the woman standing in the midst.
+- **8:10** — When Jesus had lifted up himself, and saw none but the woman, he said unto her, Woman, where are those thine accusers? hath no man condemned thee?
+- **8:11** — She said, No man, Lord. And Jesus said unto her, Neither do I condemn thee: go, and sin no more.
+- **8:12** — Then spake Jesus again unto them, saying, I am the light of the world: he that followeth me shall not walk in darkness, but shall have the light of life.
+- **8:13** — The Pharisees therefore said unto him, Thou bearest record of thyself; thy record is not true.
+- **8:14** — Jesus answered and said unto them, Though I bear record of myself, yet my record is true: for I know whence I came, and whither I go; but ye cannot tell whence I come, and whither I go.
+- **8:15** — Ye judge after the flesh; I judge no man.
+- **8:16** — And yet if I judge, my judgment is true: for I am not alone, but I and the Father that sent me.
+- **8:18** — I am one that bear witness of myself, and the Father that sent me beareth witness of me.
+- **8:19** — Then said they unto him, Where is thy Father? Jesus answered, Ye neither know me, nor my Father: if ye had known me, ye should have known my Father also.
+- **8:20** — These words spake Jesus in the treasury, as he taught in the temple: and no man laid hands on him; for his hour was not yet come.
+- **8:21** — Then said Jesus again unto them, I go my way, and ye shall seek me, and shall die in your sins: whither I go, ye cannot come.
+- **8:22** — Then said the Jews, Will he kill himself? because he saith, Whither I go, ye cannot come.
+- **8:23** — And he said unto them, Ye are from beneath; I am from above: ye are of this world; I am not of this world.
+- **8:24** — I said therefore unto you, that ye shall die in your sins: for if ye believe not that I am he, ye shall die in your sins.
+- **8:25** — Then said they unto him, Who art thou? And Jesus saith unto them, Even the same that I said unto you from the beginning.
+- **8:26** — I have many things to say and to judge of you: but he that sent me is true; and I speak to the world those things which I have heard of him.
+- **8:27** — They understood not that he spake to them of the Father.
+- **8:28** — Then said Jesus unto them, When ye have lifted up the Son of man, then shall ye know that I am he, and that I do nothing of myself; but as my Father hath taught me, I speak these things.
+- **8:29** — And he that sent me is with me: the Father hath not left me alone; for I do always those things that please him.
+- **8:30** — As he spake these words, many believed on him.
+- **8:31** — Then said Jesus to those Jews which believed on him, If ye continue in my word, then are ye my disciples indeed;
+- **8:33** — They answered him, We be Abraham's seed, and were never in bondage to any man: how sayest thou, Ye shall be made free?
+- **8:34** — Jesus answered them, Verily, verily, I say unto you, Whosoever committeth sin is the servant of sin.
+- **8:35** — And the servant abideth not in the house for ever: but the Son abideth ever.
+- **8:36** — If the Son therefore shall make you free, ye shall be free indeed.
+- **8:37** — I know that ye are Abraham's seed; but ye seek to kill me, because my word hath no place in you.
+- **8:38** — I speak that which I have seen with my Father: and ye do that which ye have seen with your father.
+- **8:39** — They answered and said unto him, Abraham is our father. Jesus saith unto them, If ye were Abraham's children, ye would do the works of Abraham.
+- **8:40** — But now ye seek to kill me, a man that hath told you the truth, which I have heard of God: this did not Abraham.
+- **8:41** — Ye do the deeds of your father. Then said they to him, We be not born of fornication; we have one Father, even God.
+- **8:42** — Jesus said unto them, If God were your Father, ye would love me: for I proceeded forth and came from God; neither came I of myself, but he sent me.
+- **8:43** — Why do ye not understand my speech? even because ye cannot hear my word.
+- **8:45** — And because I tell you the truth, ye believe me not.
+- **8:46** — Which of you convinceth me of sin? And if I say the truth, why do ye not believe me?
+- **8:48** — Then answered the Jews, and said unto him, Say we not well that thou art a Samaritan, and hast a devil?
+- **8:49** — Jesus answered, I have not a devil; but I honour my Father, and ye do dishonour me.
+- **8:50** — And I seek not mine own glory: there is one that seeketh and judgeth.
+- **8:51** — Verily, verily, I say unto you, If a man keep my saying, he shall never see death.
+- **8:52** — Then said the Jews unto him, Now we know that thou hast a devil. Abraham is dead, and the prophets; and thou sayest, If a man keep my saying, he shall never taste of death.
+- **8:53** — Art thou greater than our father Abraham, which is dead? and the prophets are dead: whom makest thou thyself?
+- **8:54** — Jesus answered, If I honour myself, my honour is nothing: it is my Father that honoureth me; of whom ye say, that he is your God:
+- **8:55** — Yet ye have not known him; but I know him: and if I should say, I know him not, I shall be a liar like unto you: but I know him, and keep his saying.
+- **8:56** — Your father Abraham rejoiced to see my day: and he saw it, and was glad.
+- **8:57** — Then said the Jews unto him, Thou art not yet fifty years old, and hast thou seen Abraham?
+- **8:58** — Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am.
+- **8:59** — Then took they up stones to cast at him: but Jesus hid himself, and went out of the temple, going through the midst of them, and so passed by.
+- **9:1** — And as Jesus passed by, he saw a man which was blind from his birth.
+- **9:2** — And his disciples asked him, saying, Master, who did sin, this man, or his parents, that he was born blind?
+- **9:3** — Jesus answered, Neither hath this man sinned, nor his parents: but that the works of God should be made manifest in him.
+- **9:4** — I must work the works of him that sent me, while it is day: the night cometh, when no man can work.
+- **9:5** — As long as I am in the world, I am the light of the world.
+- **9:6** — When he had thus spoken, he spat on the ground, and made clay of the spittle, and he anointed the eyes of the blind man with the clay,
+- **9:7** — And said unto him, Go, wash in the pool of Siloam, (which is by interpretation, Sent.) He went his way therefore, and washed, and came seeing.
+- **9:9** — Some said, This is he: others said, He is like him: but he said, I am he.
+- **9:11** — He answered and said, A man that is called Jesus made clay, and anointed mine eyes, and said unto me, Go to the pool of Siloam, and wash: and I went and washed, and I received sight.
+- **9:12** — Then said they unto him, Where is he? He said, I know not.
+- **9:14** — And it was the sabbath day when Jesus made the clay, and opened his eyes.
+- **9:16** — Therefore said some of the Pharisees, This man is not of God, because he keepeth not the sabbath day. Others said, How can a man that is a sinner do such miracles? And there was a division among them.
+- **9:17** — They say unto the blind man again, What sayest thou of him, that he hath opened thine eyes? He said, He is a prophet.
+- **9:22** — These words spake his parents, because they feared the Jews: for the Jews had agreed already, that if any man did confess that he was Christ, he should be put out of the synagogue.
+- **9:24** — Then again called they the man that was blind, and said unto him, Give God the praise: we know that this man is a sinner.
+- **9:25** — He answered and said, Whether he be a sinner or no, I know not: one thing I know, that, whereas I was blind, now I see.
+- **9:26** — Then said they to him again, What did he to thee? how opened he thine eyes?
+- **9:27** — He answered them, I have told you already, and ye did not hear: wherefore would ye hear it again? will ye also be his disciples?
+- **9:28** — Then they reviled him, and said, Thou art his disciple; but we are Moses' disciples.
+- **9:29** — We know that God spake unto Moses: as for this fellow, we know not from whence he is.
+- **9:30** — The man answered and said unto them, Why herein is a marvellous thing, that ye know not from whence he is, and yet he hath opened mine eyes.
+- **9:33** — If this man were not of God, he could do nothing.
+- **9:35** — Jesus heard that they had cast him out; and when he had found him, he said unto him, Dost thou believe on the Son of God?
+- **9:36** — He answered and said, Who is he, Lord, that I might believe on him?
+- **9:37** — And Jesus said unto him, Thou hast both seen him, and it is he that talketh with thee.
+- **9:38** — And he said, Lord, I believe. And he worshipped him.
+- **9:39** — And Jesus said, For judgment I am come into this world, that they which see not might see; and that they which see might be made blind.
+- **9:40** — And some of the Pharisees which were with him heard these words, and said unto him, Are we blind also?
+- **9:41** — Jesus said unto them, If ye were blind, ye should have no sin: but now ye say, We see; therefore your sin remaineth.
+- **10:1** — Verily, verily, I say unto you, He that entereth not by the door into the sheepfold, but climbeth up some other way, the same is a thief and a robber.
+- **10:6** — This parable spake Jesus unto them: but they understood not what things they were which he spake unto them.
+- **10:7** — Then said Jesus unto them again, Verily, verily, I say unto you, I am the door of the sheep.
+- **10:8** — All that ever came before me are thieves and robbers: but the sheep did not hear them.
+- **10:9** — I am the door: by me if any man enter in, he shall be saved, and shall go in and out, and find pasture.
+- **10:10** — The thief cometh not, but for to steal, and to kill, and to destroy: I am come that they might have life, and that they might have it more abundantly.
+- **10:11** — I am the good shepherd: the good shepherd giveth his life for the sheep.
+- **10:14** — I am the good shepherd, and know my sheep, and am known of mine.
+- **10:15** — As the Father knoweth me, even so know I the Father: and I lay down my life for the sheep.
+- **10:16** — And other sheep I have, which are not of this fold: them also I must bring, and they shall hear my voice; and there shall be one fold, and one shepherd.
+- **10:17** — Therefore doth my Father love me, because I lay down my life, that I might take it again.
+- **10:18** — No man taketh it from me, but I lay it down of myself. I have power to lay it down, and I have power to take it again. This commandment have I received of my Father.
+- **10:20** — And many of them said, He hath a devil, and is mad; why hear ye him?
+- **10:23** — And Jesus walked in the temple in Solomon's porch.
+- **10:24** — Then came the Jews round about him, and said unto him, How long dost thou make us to doubt? If thou be the Christ, tell us plainly.
+- **10:25** — Jesus answered them, I told you, and ye believed not: the works that I do in my Father's name, they bear witness of me.
+- **10:26** — But ye believe not, because ye are not of my sheep, as I said unto you.
+- **10:27** — My sheep hear my voice, and I know them, and they follow me:
+- **10:28** — And I give unto them eternal life; and they shall never perish, neither shall any man pluck them out of my hand.
+- **10:29** — My Father, which gave them me, is greater than all; and no man is able to pluck them out of my Father's hand.
+- **10:30** — I and my Father are one.
+- **10:31** — Then the Jews took up stones again to stone him.
+- **10:32** — Jesus answered them, Many good works have I shewed you from my Father; for which of those works do ye stone me?
+- **10:33** — The Jews answered him, saying, For a good work we stone thee not; but for blasphemy; and because that thou, being a man, makest thyself God.
+- **10:34** — Jesus answered them, Is it not written in your law, I said, Ye are gods?
+- **10:35** — If he called them gods, unto whom the word of God came, and the scripture cannot be broken;
+- **10:36** — Say ye of him, whom the Father hath sanctified, and sent into the world, Thou blasphemest; because I said, I am the Son of God?
+- **10:37** — If I do not the works of my Father, believe me not.
+- **10:38** — But if I do, though ye believe not me, believe the works: that ye may know, and believe, that the Father is in me, and I in him.
+- **10:39** — Therefore they sought again to take him: but he escaped out of their hand,
+- **10:40** — And went away again beyond Jordan into the place where John at first baptized; and there he abode.
+- **10:41** — And many resorted unto him, and said, John did no miracle: but all things that John spake of this man were true.
+- **10:42** — And many believed on him there.
+- **11:2** — It was that Mary which anointed the Lord with ointment, and wiped his feet with her hair, whose brother Lazarus was sick.)
+- **11:3** — Therefore his sisters sent unto him, saying, Lord, behold, he whom thou lovest is sick.
+- **11:4** — When Jesus heard that, he said, This sickness is not unto death, but for the glory of God, that the Son of God might be glorified thereby.
+- **11:5** — Now Jesus loved Martha, and her sister, and Lazarus.
+- **11:6** — When he had heard therefore that he was sick, he abode two days still in the same place where he was.
+- **11:7** — Then after that saith he to his disciples, Let us go into Judaea again.
+- **11:8** — His disciples say unto him, Master, the Jews of late sought to stone thee; and goest thou thither again?
+- **11:9** — Jesus answered, Are there not twelve hours in the day? If any man walk in the day, he stumbleth not, because he seeth the light of this world.
+- **11:11** — These things said he: and after that he saith unto them, Our friend Lazarus sleepeth; but I go, that I may awake him out of sleep.
+- **11:12** — Then said his disciples, Lord, if he sleep, he shall do well.
+- **11:13** — Howbeit Jesus spake of his death: but they thought that he had spoken of taking of rest in sleep.
+- **11:14** — Then said Jesus unto them plainly, Lazarus is dead.
+- **11:15** — And I am glad for your sakes that I was not there, to the intent ye may believe; nevertheless let us go unto him.
+- **11:16** — Then said Thomas, which is called Didymus, unto his fellowdisciples, Let us also go, that we may die with him.
+- **11:17** — Then when Jesus came, he found that he had lain in the grave four days already.
+- **11:20** — Then Martha, as soon as she heard that Jesus was coming, went and met him: but Mary sat still in the house.
+- **11:21** — Then said Martha unto Jesus, Lord, if thou hadst been here, my brother had not died.
+- **11:22** — But I know, that even now, whatsoever thou wilt ask of God, God will give it thee.
+- **11:23** — Jesus saith unto her, Thy brother shall rise again.
+- **11:24** — Martha saith unto him, I know that he shall rise again in the resurrection at the last day.
+- **11:25** — Jesus said unto her, I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live:
+- **11:26** — And whosoever liveth and believeth in me shall never die. Believest thou this?
+- **11:27** — She saith unto him, Yea, Lord: I believe that thou art the Christ, the Son of God, which should come into the world.
+- **11:29** — As soon as she heard that, she arose quickly, and came unto him.
+- **11:30** — Now Jesus was not yet come into the town, but was in that place where Martha met him.
+- **11:32** — Then when Mary was come where Jesus was, and saw him, she fell down at his feet, saying unto him, Lord, if thou hadst been here, my brother had not died.
+- **11:33** — When Jesus therefore saw her weeping, and the Jews also weeping which came with her, he groaned in the spirit, and was troubled,
+- **11:34** — And said, Where have ye laid him? They said unto him, Lord, come and see.
+- **11:35** — Jesus wept.
+- **11:36** — Then said the Jews, Behold how he loved him!
+- **11:37** — And some of them said, Could not this man, which opened the eyes of the blind, have caused that even this man should not have died?
+- **11:38** — Jesus therefore again groaning in himself cometh to the grave. It was a cave, and a stone lay upon it.
+- **11:39** — Jesus said, Take ye away the stone. Martha, the sister of him that was dead, saith unto him, Lord, by this time he stinketh: for he hath been dead four days.
+- **11:40** — Jesus saith unto her, Said I not unto thee, that, if thou wouldest believe, thou shouldest see the glory of God?
+- **11:41** — Then they took away the stone from the place where the dead was laid. And Jesus lifted up his eyes, and said, Father, I thank thee that thou hast heard me.
+- **11:42** — And I knew that thou hearest me always: but because of the people which stand by I said it, that they may believe that thou hast sent me.
+- **11:43** — And when he thus had spoken, he cried with a loud voice, Lazarus, come forth.
+- **11:44** — And he that was dead came forth, bound hand and foot with graveclothes: and his face was bound about with a napkin. Jesus saith unto them, Loose him, and let him go.
+- **11:45** — Then many of the Jews which came to Mary, and had seen the things which Jesus did, believed on him.
+- **11:46** — But some of them went their ways to the Pharisees, and told them what things Jesus had done.
+- **11:47** — Then gathered the chief priests and the Pharisees a council, and said, What do we? for this man doeth many miracles.
+- **11:48** — If we let him thus alone, all men will believe on him: and the Romans shall come and take away both our place and nation.
+- **11:51** — And this spake he not of himself: but being high priest that year, he prophesied that Jesus should die for that nation;
+- **11:52** — And not for that nation only, but that also he should gather together in one the children of God that were scattered abroad.
+- **11:53** — Then from that day forth they took counsel together for to put him to death.
+- **11:54** — Jesus therefore walked no more openly among the Jews; but went thence unto a country near to the wilderness, into a city called Ephraim, and there continued with his disciples.
+- **11:56** — Then sought they for Jesus, and spake among themselves, as they stood in the temple, What think ye, that he will not come to the feast?
+- **11:57** — Now both the chief priests and the Pharisees had given a commandment, that, if any man knew where he were, he should shew it, that they might take him.
+- **12:1** — Then Jesus six days before the passover came to Bethany, where Lazarus was which had been dead, whom he raised from the dead.
+- **12:2** — There they made him a supper; and Martha served: but Lazarus was one of them that sat at the table with him.
+- **12:3** — Then took Mary a pound of ointment of spikenard, very costly, and anointed the feet of Jesus, and wiped his feet with her hair: and the house was filled with the odour of the ointment.
+- **12:4** — Then saith one of his disciples, Judas Iscariot, Simon's son, which should betray him,
+- **12:7** — Then said Jesus, Let her alone: against the day of my burying hath she kept this.
+- **12:8** — For the poor always ye have with you; but me ye have not always.
+- **12:9** — Much people of the Jews therefore knew that he was there: and they came not for Jesus' sake only, but that they might see Lazarus also, whom he had raised from the dead.
+- **12:11** — Because that by reason of him many of the Jews went away, and believed on Jesus.
+- **12:12** — On the next day much people that were come to the feast, when they heard that Jesus was coming to Jerusalem,
+- **12:13** — Took branches of palm trees, and went forth to meet him, and cried, Hosanna: Blessed is the King of Israel that cometh in the name of the Lord.
+- **12:14** — And Jesus, when he had found a young ass, sat thereon; as it is written,
+- **12:15** — Fear not, daughter of Sion: behold, thy King cometh, sitting on an ass's colt.
+- **12:16** — These things understood not his disciples at the first: but when Jesus was glorified, then remembered they that these things were written of him, and that they had done these things unto him.
+- **12:17** — The people therefore that was with him when he called Lazarus out of his grave, and raised him from the dead, bare record.
+- **12:18** — For this cause the people also met him, for that they heard that he had done this miracle.
+- **12:19** — The Pharisees therefore said among themselves, Perceive ye how ye prevail nothing? behold, the world is gone after him.
+- **12:21** — The same came therefore to Philip, which was of Bethsaida of Galilee, and desired him, saying, Sir, we would see Jesus.
+- **12:22** — Philip cometh and telleth Andrew: and again Andrew and Philip tell Jesus.
+- **12:23** — And Jesus answered them, saying, The hour is come, that the Son of man should be glorified.
+- **12:24** — Verily, verily, I say unto you, Except a corn of wheat fall into the ground and die, it abideth alone: but if it die, it bringeth forth much fruit.
+- **12:26** — If any man serve me, let him follow me; and where I am, there shall also my servant be: if any man serve me, him will my Father honour.
+- **12:27** — Now is my soul troubled; and what shall I say? Father, save me from this hour: but for this cause came I unto this hour.
+- **12:28** — Father, glorify thy name. Then came there a voice from heaven, saying, I have both glorified it, and will glorify it again.
+- **12:29** — The people therefore, that stood by, and heard it, said that it thundered: others said, An angel spake to him.
+- **12:30** — Jesus answered and said, This voice came not because of me, but for your sakes.
+- **12:32** — And I, if I be lifted up from the earth, will draw all men unto me.
+- **12:33** — This he said, signifying what death he should die.
+- **12:34** — The people answered him, We have heard out of the law that Christ abideth for ever: and how sayest thou, The Son of man must be lifted up? who is this Son of man?
+- **12:35** — Then Jesus said unto them, Yet a little while is the light with you. Walk while ye have the light, lest darkness come upon you: for he that walketh in darkness knoweth not whither he goeth.
+- **12:36** — While ye have light, believe in the light, that ye may be the children of light. These things spake Jesus, and departed, and did hide himself from them.
+- **12:37** — But though he had done so many miracles before them, yet they believed not on him:
+- **12:38** — That the saying of Esaias the prophet might be fulfilled, which he spake, Lord, who hath believed our report? and to whom hath the arm of the Lord been revealed?
+- **12:40** — He hath blinded their eyes, and hardened their heart; that they should not see with their eyes, nor understand with their heart, and be converted, and I should heal them.
+- **12:41** — These things said Esaias, when he saw his glory, and spake of him.
+- **12:42** — Nevertheless among the chief rulers also many believed on him; but because of the Pharisees they did not confess him, lest they should be put out of the synagogue:
+- **12:44** — Jesus cried and said, He that believeth on me, believeth not on me, but on him that sent me.
+- **12:45** — And he that seeth me seeth him that sent me.
+- **12:46** — I am come a light into the world, that whosoever believeth on me should not abide in darkness.
+- **12:47** — And if any man hear my words, and believe not, I judge him not: for I came not to judge the world, but to save the world.
+- **12:48** — He that rejecteth me, and receiveth not my words, hath one that judgeth him: the word that I have spoken, the same shall judge him in the last day.
+- **12:49** — For I have not spoken of myself; but the Father which sent me, he gave me a commandment, what I should say, and what I should speak.
+- **12:50** — And I know that his commandment is life everlasting: whatsoever I speak therefore, even as the Father said unto me, so I speak.
+- **13:1** — Now before the feast of the passover, when Jesus knew that his hour was come that he should depart out of this world unto the Father, having loved his own which were in the world, he loved them unto the end.
+- **13:2** — And supper being ended, the devil having now put into the heart of Judas Iscariot, Simon's son, to betray him;
+- **13:3** — Jesus knowing that the Father had given all things into his hands, and that he was come from God, and went to God;
+- **13:4** — He riseth from supper, and laid aside his garments; and took a towel, and girded himself.
+- **13:5** — After that he poureth water into a bason, and began to wash the disciples' feet, and to wipe them with the towel wherewith he was girded.
+- **13:6** — Then cometh he to Simon Peter: and Peter saith unto him, Lord, dost thou wash my feet?
+- **13:7** — Jesus answered and said unto him, What I do thou knowest not now; but thou shalt know hereafter.
+- **13:8** — Peter saith unto him, Thou shalt never wash my feet. Jesus answered him, If I wash thee not, thou hast no part with me.
+- **13:9** — Simon Peter saith unto him, Lord, not my feet only, but also my hands and my head.
+- **13:10** — Jesus saith to him, He that is washed needeth not save to wash his feet, but is clean every whit: and ye are clean, but not all.
+- **13:11** — For he knew who should betray him; therefore said he, Ye are not all clean.
+- **13:12** — So after he had washed their feet, and had taken his garments, and was set down again, he said unto them, Know ye what I have done to you?
+- **13:13** — Ye call me Master and Lord: and ye say well; for so I am.
+- **13:14** — If I then, your Lord and Master, have washed your feet; ye also ought to wash one another's feet.
+- **13:15** — For I have given you an example, that ye should do as I have done to you.
+- **13:16** — Verily, verily, I say unto you, The servant is not greater than his lord; neither he that is sent greater than he that sent him.
+- **13:18** — I speak not of you all: I know whom I have chosen: but that the scripture may be fulfilled, He that eateth bread with me hath lifted up his heel against me.
+- **13:19** — Now I tell you before it come, that, when it is come to pass, ye may believe that I am he.
+- **13:20** — Verily, verily, I say unto you, He that receiveth whomsoever I send receiveth me; and he that receiveth me receiveth him that sent me.
+- **13:21** — When Jesus had thus said, he was troubled in spirit, and testified, and said, Verily, verily, I say unto you, that one of you shall betray me.
+- **13:22** — Then the disciples looked one on another, doubting of whom he spake.
+- **13:23** — Now there was leaning on Jesus' bosom one of his disciples, whom Jesus loved.
+- **13:24** — Simon Peter therefore beckoned to him, that he should ask who it should be of whom he spake.
+- **13:25** — He then lying on Jesus' breast saith unto him, Lord, who is it?
+- **13:26** — Jesus answered, He it is, to whom I shall give a sop, when I have dipped it. And when he had dipped the sop, he gave it to Judas Iscariot, the son of Simon.
+- **13:27** — And after the sop Satan entered into him. Then said Jesus unto him, That thou doest, do quickly.
+- **13:28** — Now no man at the table knew for what intent he spake this unto him.
+- **13:29** — For some of them thought, because Judas had the bag, that Jesus had said unto him, Buy those things that we have need of against the feast; or, that he should give something to the poor.
+- **13:31** — Therefore, when he was gone out, Jesus said, Now is the Son of man glorified, and God is glorified in him.
+- **13:32** — If God be glorified in him, God shall also glorify him in himself, and shall straightway glorify him.
+- **13:33** — Little children, yet a little while I am with you. Ye shall seek me: and as I said unto the Jews, Whither I go, ye cannot come; so now I say to you.
+- **13:34** — A new commandment I give unto you, That ye love one another; as I have loved you, that ye also love one another.
+- **13:35** — By this shall all men know that ye are my disciples, if ye have love one to another.
+- **13:36** — Simon Peter said unto him, Lord, whither goest thou? Jesus answered him, Whither I go, thou canst not follow me now; but thou shalt follow me afterwards.
+- **13:37** — Peter said unto him, Lord, why cannot I follow thee now? I will lay down my life for thy sake.
+- **13:38** — Jesus answered him, Wilt thou lay down thy life for my sake? Verily, verily, I say unto thee, The cock shall not crow, till thou hast denied me thrice.
+- **14:1** — Let not your heart be troubled: ye believe in God, believe also in me.
+- **14:2** — In my Father's house are many mansions: if it were not so, I would have told you. I go to prepare a place for you.
+- **14:3** — And if I go and prepare a place for you, I will come again, and receive you unto myself; that where I am, there ye may be also.
+- **14:4** — And whither I go ye know, and the way ye know.
+- **14:5** — Thomas saith unto him, Lord, we know not whither thou goest; and how can we know the way?
+- **14:6** — Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me.
+- **14:7** — If ye had known me, ye should have known my Father also: and from henceforth ye know him, and have seen him.
+- **14:8** — Philip saith unto him, Lord, shew us the Father, and it sufficeth us.
+- **14:9** — Jesus saith unto him, Have I been so long time with you, and yet hast thou not known me, Philip? he that hath seen me hath seen the Father; and how sayest thou then, Shew us the Father?
+- **14:10** — Believest thou not that I am in the Father, and the Father in me? the words that I speak unto you I speak not of myself: but the Father that dwelleth in me, he doeth the works.
+- **14:11** — Believe me that I am in the Father, and the Father in me: or else believe me for the very works' sake.
+- **14:12** — Verily, verily, I say unto you, He that believeth on me, the works that I do shall he do also; and greater works than these shall he do; because I go unto my Father.
+- **14:13** — And whatsoever ye shall ask in my name, that will I do, that the Father may be glorified in the Son.
+- **14:14** — If ye shall ask any thing in my name, I will do it.
+- **14:15** — If ye love me, keep my commandments.
+- **14:16** — And I will pray the Father, and he shall give you another Comforter, that he may abide with you for ever;
+- **14:17** — Even the Spirit of truth; whom the world cannot receive, because it seeth him not, neither knoweth him: but ye know him; for he dwelleth with you, and shall be in you.
+- **14:18** — I will not leave you comfortless: I will come to you.
+- **14:19** — Yet a little while, and the world seeth me no more; but ye see me: because I live, ye shall live also.
+- **14:20** — At that day ye shall know that I am in my Father, and ye in me, and I in you.
+- **14:21** — He that hath my commandments, and keepeth them, he it is that loveth me: and he that loveth me shall be loved of my Father, and I will love him, and will manifest myself to him.
+- **14:22** — Judas saith unto him, not Iscariot, Lord, how is it that thou wilt manifest thyself unto us, and not unto the world?
+- **14:23** — Jesus answered and said unto him, If a man love me, he will keep my words: and my Father will love him, and we will come unto him, and make our abode with him.
+- **14:24** — He that loveth me not keepeth not my sayings: and the word which ye hear is not mine, but the Father's which sent me.
+- **14:25** — These things have I spoken unto you, being yet present with you.
+- **14:26** — But the Comforter, which is the Holy Ghost, whom the Father will send in my name, he shall teach you all things, and bring all things to your remembrance, whatsoever I have said unto you.
+- **14:27** — Peace I leave with you, my peace I give unto you: not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be afraid.
+- **14:28** — Ye have heard how I said unto you, I go away, and come again unto you. If ye loved me, ye would rejoice, because I said, I go unto the Father: for my Father is greater than I.
+- **14:29** — And now I have told you before it come to pass, that, when it is come to pass, ye might believe.
+- **14:30** — Hereafter I will not talk much with you: for the prince of this world cometh, and hath nothing in me.
+- **14:31** — But that the world may know that I love the Father; and as the Father gave me commandment, even so I do. Arise, let us go hence.
+- **15:1** — I am the true vine, and my Father is the husbandman.
+- **15:2** — Every branch in me that beareth not fruit he taketh away: and every branch that beareth fruit, he purgeth it, that it may bring forth more fruit.
+- **15:3** — Now ye are clean through the word which I have spoken unto you.
+- **15:4** — Abide in me, and I in you. As the branch cannot bear fruit of itself, except it abide in the vine; no more can ye, except ye abide in me.
+- **15:5** — I am the vine, ye are the branches: He that abideth in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing.
+- **15:6** — If a man abide not in me, he is cast forth as a branch, and is withered; and men gather them, and cast them into the fire, and they are burned.
+- **15:7** — If ye abide in me, and my words abide in you, ye shall ask what ye will, and it shall be done unto you.
+- **15:8** — Herein is my Father glorified, that ye bear much fruit; so shall ye be my disciples.
+- **15:9** — As the Father hath loved me, so have I loved you: continue ye in my love.
+- **15:10** — If ye keep my commandments, ye shall abide in my love; even as I have kept my Father's commandments, and abide in his love.
+- **15:11** — These things have I spoken unto you, that my joy might remain in you, and that your joy might be full.
+- **15:12** — This is my commandment, That ye love one another, as I have loved you.
+- **15:14** — Ye are my friends, if ye do whatsoever I command you.
+- **15:15** — Henceforth I call you not servants; for the servant knoweth not what his lord doeth: but I have called you friends; for all things that I have heard of my Father I have made known unto you.
+- **15:16** — Ye have not chosen me, but I have chosen you, and ordained you, that ye should go and bring forth fruit, and that your fruit should remain: that whatsoever ye shall ask of the Father in my name, he may give it you.
+- **15:17** — These things I command you, that ye love one another.
+- **15:18** — If the world hate you, ye know that it hated me before it hated you.
+- **15:19** — If ye were of the world, the world would love his own: but because ye are not of the world, but I have chosen you out of the world, therefore the world hateth you.
+- **15:20** — Remember the word that I said unto you, The servant is not greater than his lord. If they have persecuted me, they will also persecute you; if they have kept my saying, they will keep yours also.
+- **15:21** — But all these things will they do unto you for my name's sake, because they know not him that sent me.
+- **15:22** — If I had not come and spoken unto them, they had not had sin: but now they have no cloke for their sin.
+- **15:23** — He that hateth me hateth my Father also.
+- **15:24** — If I had not done among them the works which none other man did, they had not had sin: but now have they both seen and hated both me and my Father.
+- **15:25** — But this cometh to pass, that the word might be fulfilled that is written in their law, They hated me without a cause.
+- **15:26** — But when the Comforter is come, whom I will send unto you from the Father, even the Spirit of truth, which proceedeth from the Father, he shall testify of me:
+- **15:27** — And ye also shall bear witness, because ye have been with me from the beginning.
+- **16:1** — These things have I spoken unto you, that ye should not be offended.
+- **16:3** — And these things will they do unto you, because they have not known the Father, nor me.
+- **16:4** — But these things have I told you, that when the time shall come, ye may remember that I told you of them. And these things I said not unto you at the beginning, because I was with you.
+- **16:5** — But now I go my way to him that sent me; and none of you asketh me, Whither goest thou?
+- **16:6** — But because I have said these things unto you, sorrow hath filled your heart.
+- **16:7** — Nevertheless I tell you the truth; It is expedient for you that I go away: for if I go not away, the Comforter will not come unto you; but if I depart, I will send him unto you.
+- **16:8** — And when he is come, he will reprove the world of sin, and of righteousness, and of judgment:
+- **16:9** — Of sin, because they believe not on me;
+- **16:10** — Of righteousness, because I go to my Father, and ye see me no more;
+- **16:12** — I have yet many things to say unto you, but ye cannot bear them now.
+- **16:13** — Howbeit when he, the Spirit of truth, is come, he will guide you into all truth: for he shall not speak of himself; but whatsoever he shall hear, that shall he speak: and he will shew you things to come.
+- **16:14** — He shall glorify me: for he shall receive of mine, and shall shew it unto you.
+- **16:15** — All things that the Father hath are mine: therefore said I, that he shall take of mine, and shall shew it unto you.
+- **16:16** — A little while, and ye shall not see me: and again, a little while, and ye shall see me, because I go to the Father.
+- **16:17** — Then said some of his disciples among themselves, What is this that he saith unto us, A little while, and ye shall not see me: and again, a little while, and ye shall see me: and, Because I go to the Father?
+- **16:18** — They said therefore, What is this that he saith, A little while? we cannot tell what he saith.
+- **16:19** — Now Jesus knew that they were desirous to ask him, and said unto them, Do ye enquire among yourselves of that I said, A little while, and ye shall not see me: and again, a little while, and ye shall see me?
+- **16:20** — Verily, verily, I say unto you, That ye shall weep and lament, but the world shall rejoice: and ye shall be sorrowful, but your sorrow shall be turned into joy.
+- **16:22** — And ye now therefore have sorrow: but I will see you again, and your heart shall rejoice, and your joy no man taketh from you.
+- **16:23** — And in that day ye shall ask me nothing. Verily, verily, I say unto you, Whatsoever ye shall ask the Father in my name, he will give it you.
+- **16:24** — Hitherto have ye asked nothing in my name: ask, and ye shall receive, that your joy may be full.
+- **16:25** — These things have I spoken unto you in proverbs: but the time cometh, when I shall no more speak unto you in proverbs, but I shall shew you plainly of the Father.
+- **16:26** — At that day ye shall ask in my name: and I say not unto you, that I will pray the Father for you:
+- **16:27** — For the Father himself loveth you, because ye have loved me, and have believed that I came out from God.
+- **16:28** — I came forth from the Father, and am come into the world: again, I leave the world, and go to the Father.
+- **16:29** — His disciples said unto him, Lo, now speakest thou plainly, and speakest no proverb.
+- **16:30** — Now are we sure that thou knowest all things, and needest not that any man should ask thee: by this we believe that thou camest forth from God.
+- **16:31** — Jesus answered them, Do ye now believe?
+- **16:32** — Behold, the hour cometh, yea, is now come, that ye shall be scattered, every man to his own, and shall leave me alone: and yet I am not alone, because the Father is with me.
+- **16:33** — These things I have spoken unto you, that in me ye might have peace. In the world ye shall have tribulation: but be of good cheer; I have overcome the world.
+- **17:1** — These words spake Jesus, and lifted up his eyes to heaven, and said, Father, the hour is come; glorify thy Son, that thy Son also may glorify thee:
+- **17:2** — As thou hast given him power over all flesh, that he should give eternal life to as many as thou hast given him.
+- **17:3** — And this is life eternal, that they might know thee the only true God, and Jesus Christ, whom thou hast sent.
+- **17:4** — I have glorified thee on the earth: I have finished the work which thou gavest me to do.
+- **17:5** — And now, O Father, glorify thou me with thine own self with the glory which I had with thee before the world was.
+- **17:6** — I have manifested thy name unto the men which thou gavest me out of the world: thine they were, and thou gavest them me; and they have kept thy word.
+- **17:7** — Now they have known that all things whatsoever thou hast given me are of thee.
+- **17:8** — For I have given unto them the words which thou gavest me; and they have received them, and have known surely that I came out from thee, and they have believed that thou didst send me.
+- **17:9** — I pray for them: I pray not for the world, but for them which thou hast given me; for they are thine.
+- **17:10** — And all mine are thine, and thine are mine; and I am glorified in them.
+- **17:11** — And now I am no more in the world, but these are in the world, and I come to thee. Holy Father, keep through thine own name those whom thou hast given me, that they may be one, as we are.
+- **17:12** — While I was with them in the world, I kept them in thy name: those that thou gavest me I have kept, and none of them is lost, but the son of perdition; that the scripture might be fulfilled.
+- **17:13** — And now come I to thee; and these things I speak in the world, that they might have my joy fulfilled in themselves.
+- **17:14** — I have given them thy word; and the world hath hated them, because they are not of the world, even as I am not of the world.
+- **17:15** — I pray not that thou shouldest take them out of the world, but that thou shouldest keep them from the evil.
+- **17:16** — They are not of the world, even as I am not of the world.
+- **17:18** — As thou hast sent me into the world, even so have I also sent them into the world.
+- **17:19** — And for their sakes I sanctify myself, that they also might be sanctified through the truth.
+- **17:20** — Neither pray I for these alone, but for them also which shall believe on me through their word;
+- **17:21** — That they all may be one; as thou, Father, art in me, and I in thee, that they also may be one in us: that the world may believe that thou hast sent me.
+- **17:22** — And the glory which thou gavest me I have given them; that they may be one, even as we are one:
+- **17:23** — I in them, and thou in me, that they may be made perfect in one; and that the world may know that thou hast sent me, and hast loved them, as thou hast loved me.
+- **17:24** — Father, I will that they also, whom thou hast given me, be with me where I am; that they may behold my glory, which thou hast given me: for thou lovedst me before the foundation of the world.
+- **17:25** — O righteous Father, the world hath not known thee: but I have known thee, and these have known that thou hast sent me.
+- **17:26** — And I have declared unto them thy name, and will declare it: that the love wherewith thou hast loved me may be in them, and I in them.
+- **18:1** — When Jesus had spoken these words, he went forth with his disciples over the brook Cedron, where was a garden, into the which he entered, and his disciples.
+- **18:2** — And Judas also, which betrayed him, knew the place: for Jesus ofttimes resorted thither with his disciples.
+- **18:4** — Jesus therefore, knowing all things that should come upon him, went forth, and said unto them, Whom seek ye?
+- **18:5** — They answered him, Jesus of Nazareth. Jesus saith unto them, I am he. And Judas also, which betrayed him, stood with them.
+- **18:6** — As soon then as he had said unto them, I am he, they went backward, and fell to the ground.
+- **18:7** — Then asked he them again, Whom seek ye? And they said, Jesus of Nazareth.
+- **18:8** — Jesus answered, I have told you that I am he: if therefore ye seek me, let these go their way:
+- **18:9** — That the saying might be fulfilled, which he spake, Of them which thou gavest me have I lost none.
+- **18:11** — Then said Jesus unto Peter, Put up thy sword into the sheath: the cup which my Father hath given me, shall I not drink it?
+- **18:12** — Then the band and the captain and officers of the Jews took Jesus, and bound him,
+- **18:13** — And led him away to Annas first; for he was father in law to Caiaphas, which was the high priest that same year.
+- **18:15** — And Simon Peter followed Jesus, and so did another disciple: that disciple was known unto the high priest, and went in with Jesus into the palace of the high priest.
+- **18:17** — Then saith the damsel that kept the door unto Peter, Art not thou also one of this man's disciples? He saith, I am not.
+- **18:19** — The high priest then asked Jesus of his disciples, and of his doctrine.
+- **18:20** — Jesus answered him, I spake openly to the world; I ever taught in the synagogue, and in the temple, whither the Jews always resort; and in secret have I said nothing.
+- **18:21** — Why askest thou me? ask them which heard me, what I have said unto them: behold, they know what I said.
+- **18:22** — And when he had thus spoken, one of the officers which stood by struck Jesus with the palm of his hand, saying, Answerest thou the high priest so?
+- **18:23** — Jesus answered him, If I have spoken evil, bear witness of the evil: but if well, why smitest thou me?
+- **18:24** — Now Annas had sent him bound unto Caiaphas the high priest.
+- **18:25** — And Simon Peter stood and warmed himself. They said therefore unto him, Art not thou also one of his disciples? He denied it, and said, I am not.
+- **18:26** — One of the servants of the high priest, being his kinsman whose ear Peter cut off, saith, Did not I see thee in the garden with him?
+- **18:28** — Then led they Jesus from Caiaphas unto the hall of judgment: and it was early; and they themselves went not into the judgment hall, lest they should be defiled; but that they might eat the passover.
+- **18:29** — Pilate then went out unto them, and said, What accusation bring ye against this man?
+- **18:30** — They answered and said unto him, If he were not a malefactor, we would not have delivered him up unto thee.
+- **18:31** — Then said Pilate unto them, Take ye him, and judge him according to your law. The Jews therefore said unto him, It is not lawful for us to put any man to death:
+- **18:32** — That the saying of Jesus might be fulfilled, which he spake, signifying what death he should die.
+- **18:33** — Then Pilate entered into the judgment hall again, and called Jesus, and said unto him, Art thou the King of the Jews?
+- **18:34** — Jesus answered him, Sayest thou this thing of thyself, or did others tell it thee of me?
+- **18:35** — Pilate answered, Am I a Jew? Thine own nation and the chief priests have delivered thee unto me: what hast thou done?
+- **18:36** — Jesus answered, My kingdom is not of this world: if my kingdom were of this world, then would my servants fight, that I should not be delivered to the Jews: but now is my kingdom not from hence.
+- **18:37** — Pilate therefore said unto him, Art thou a king then? Jesus answered, Thou sayest that I am a king. To this end was I born, and for this cause came I into the world, that I should bear witness unto the truth. Every one that is of the truth heareth my voice.
+- **18:38** — Pilate saith unto him, What is truth? And when he had said this, he went out again unto the Jews, and saith unto them, I find in him no fault at all.
+- **18:40** — Then cried they all again, saying, Not this man, but Barabbas. Now Barabbas was a robber.
+- **19:1** — Then Pilate therefore took Jesus, and scourged him.
+- **19:2** — And the soldiers platted a crown of thorns, and put it on his head, and they put on him a purple robe,
+- **19:3** — And said, Hail, King of the Jews! and they smote him with their hands.
+- **19:4** — Pilate therefore went forth again, and saith unto them, Behold, I bring him forth to you, that ye may know that I find no fault in him.
+- **19:5** — Then came Jesus forth, wearing the crown of thorns, and the purple robe. And Pilate saith unto them, Behold the man!
+- **19:6** — When the chief priests therefore and officers saw him, they cried out, saying, Crucify him, crucify him. Pilate saith unto them, Take ye him, and crucify him: for I find no fault in him.
+- **19:7** — The Jews answered him, We have a law, and by our law he ought to die, because he made himself the Son of God.
+- **19:9** — And went again into the judgment hall, and saith unto Jesus, Whence art thou? But Jesus gave him no answer.
+- **19:10** — Then saith Pilate unto him, Speakest thou not unto me? knowest thou not that I have power to crucify thee, and have power to release thee?
+- **19:11** — Jesus answered, Thou couldest have no power at all against me, except it were given thee from above: therefore he that delivered me unto thee hath the greater sin.
+- **19:12** — And from thenceforth Pilate sought to release him: but the Jews cried out, saying, If thou let this man go, thou art not Caesar's friend: whosoever maketh himself a king speaketh against Caesar.
+- **19:13** — When Pilate therefore heard that saying, he brought Jesus forth, and sat down in the judgment seat in a place that is called the Pavement, but in the Hebrew, Gabbatha.
+- **19:15** — But they cried out, Away with him, away with him, crucify him. Pilate saith unto them, Shall I crucify your King? The chief priests answered, We have no king but Caesar.
+- **19:16** — Then delivered he him therefore unto them to be crucified. And they took Jesus, and led him away.
+- **19:17** — And he bearing his cross went forth into a place called the place of a skull, which is called in the Hebrew Golgotha:
+- **19:18** — Where they crucified him, and two other with him, on either side one, and Jesus in the midst.
+- **19:19** — And Pilate wrote a title, and put it on the cross. And the writing was, JESUS OF NAZARETH THE KING OF THE JEWS.
+- **19:20** — This title then read many of the Jews: for the place where Jesus was crucified was nigh to the city: and it was written in Hebrew, and Greek, and Latin.
+- **19:21** — Then said the chief priests of the Jews to Pilate, Write not, The King of the Jews; but that he said, I am King of the Jews.
+- **19:23** — Then the soldiers, when they had crucified Jesus, took his garments, and made four parts, to every soldier a part; and also his coat: now the coat was without seam, woven from the top throughout.
+- **19:24** — They said therefore among themselves, Let us not rend it, but cast lots for it, whose it shall be: that the scripture might be fulfilled, which saith, They parted my raiment among them, and for my vesture they did cast lots. These things therefore the soldiers did.
+- **19:25** — Now there stood by the cross of Jesus his mother, and his mother's sister, Mary the wife of Cleophas, and Mary Magdalene.
+- **19:26** — When Jesus therefore saw his mother, and the disciple standing by, whom he loved, he saith unto his mother, Woman, behold thy son!
+- **19:27** — Then saith he to the disciple, Behold thy mother! And from that hour that disciple took her unto his own home.
+- **19:28** — After this, Jesus knowing that all things were now accomplished, that the scripture might be fulfilled, saith, I thirst.
+- **19:29** — Now there was set a vessel full of vinegar: and they filled a spunge with vinegar, and put it upon hyssop, and put it to his mouth.
+- **19:30** — When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost.
+- **19:32** — Then came the soldiers, and brake the legs of the first, and of the other which was crucified with him.
+- **19:33** — But when they came to Jesus, and saw that he was dead already, they brake not his legs:
+- **19:34** — But one of the soldiers with a spear pierced his side, and forthwith came there out blood and water.
+- **19:36** — For these things were done, that the scripture should be fulfilled, A bone of him shall not be broken.
+- **19:37** — And again another scripture saith, They shall look on him whom they pierced.
+- **19:38** — And after this Joseph of Arimathaea, being a disciple of Jesus, but secretly for fear of the Jews, besought Pilate that he might take away the body of Jesus: and Pilate gave him leave. He came therefore, and took the body of Jesus.
+- **19:39** — And there came also Nicodemus, which at the first came to Jesus by night, and brought a mixture of myrrh and aloes, about an hundred pound weight.
+- **19:40** — Then took they the body of Jesus, and wound it in linen clothes with the spices, as the manner of the Jews is to bury.
+- **19:41** — Now in the place where he was crucified there was a garden; and in the garden a new sepulchre, wherein was never man yet laid.
+- **19:42** — There laid they Jesus therefore because of the Jews' preparation day; for the sepulchre was nigh at hand.
+- **20:2** — Then she runneth, and cometh to Simon Peter, and to the other disciple, whom Jesus loved, and saith unto them, They have taken away the Lord out of the sepulchre, and we know not where they have laid him.
+- **20:7** — And the napkin, that was about his head, not lying with the linen clothes, but wrapped together in a place by itself.
+- **20:9** — For as yet they knew not the scripture, that he must rise again from the dead.
+- **20:12** — And seeth two angels in white sitting, the one at the head, and the other at the feet, where the body of Jesus had lain.
+- **20:13** — And they say unto her, Woman, why weepest thou? She saith unto them, Because they have taken away my Lord, and I know not where they have laid him.
+- **20:14** — And when she had thus said, she turned herself back, and saw Jesus standing, and knew not that it was Jesus.
+- **20:15** — Jesus saith unto her, Woman, why weepest thou? whom seekest thou? She, supposing him to be the gardener, saith unto him, Sir, if thou have borne him hence, tell me where thou hast laid him, and I will take him away.
+- **20:16** — Jesus saith unto her, Mary. She turned herself, and saith unto him, Rabboni; which is to say, Master.
+- **20:17** — Jesus saith unto her, Touch me not; for I am not yet ascended to my Father: but go to my brethren, and say unto them, I ascend unto my Father, and your Father; and to my God, and your God.
+- **20:18** — Mary Magdalene came and told the disciples that she had seen the Lord, and that he had spoken these things unto her.
+- **20:19** — Then the same day at evening, being the first day of the week, when the doors were shut where the disciples were assembled for fear of the Jews, came Jesus and stood in the midst, and saith unto them, Peace be unto you.
+- **20:20** — And when he had so said, he shewed unto them his hands and his side. Then were the disciples glad, when they saw the Lord.
+- **20:21** — Then said Jesus to them again, Peace be unto you: as my Father hath sent me, even so send I you.
+- **20:22** — And when he had said this, he breathed on them, and saith unto them, Receive ye the Holy Ghost:
+- **20:24** — But Thomas, one of the twelve, called Didymus, was not with them when Jesus came.
+- **20:25** — The other disciples therefore said unto him, We have seen the Lord. But he said unto them, Except I shall see in his hands the print of the nails, and put my finger into the print of the nails, and thrust my hand into his side, I will not believe.
+- **20:26** — And after eight days again his disciples were within, and Thomas with them: then came Jesus, the doors being shut, and stood in the midst, and said, Peace be unto you.
+- **20:27** — Then saith he to Thomas, Reach hither thy finger, and behold my hands; and reach hither thy hand, and thrust it into my side: and be not faithless, but believing.
+- **20:28** — And Thomas answered and said unto him, My Lord and my God.
+- **20:29** — Jesus saith unto him, Thomas, because thou hast seen me, thou hast believed: blessed are they that have not seen, and yet have believed.
+- **20:30** — And many other signs truly did Jesus in the presence of his disciples, which are not written in this book:
+- **20:31** — But these are written, that ye might believe that Jesus is the Christ, the Son of God; and that believing ye might have life through his name.
+- **21:1** — After these things Jesus shewed himself again to the disciples at the sea of Tiberias; and on this wise shewed he himself.
+- **21:2** — There were together Simon Peter, and Thomas called Didymus, and Nathanael of Cana in Galilee, and the sons of Zebedee, and two other of his disciples.
+- **21:4** — But when the morning was now come, Jesus stood on the shore: but the disciples knew not that it was Jesus.
+- **21:5** — Then Jesus saith unto them, Children, have ye any meat? They answered him, No.
+- **21:6** — And he said unto them, Cast the net on the right side of the ship, and ye shall find. They cast therefore, and now they were not able to draw it for the multitude of fishes.
+- **21:7** — Therefore that disciple whom Jesus loved saith unto Peter, It is the Lord. Now when Simon Peter heard that it was the Lord, he girt his fisher's coat unto him, (for he was naked,) and did cast himself into the sea.
+- **21:10** — Jesus saith unto them, Bring of the fish which ye have now caught.
+- **21:12** — Jesus saith unto them, Come and dine. And none of the disciples durst ask him, Who art thou? knowing that it was the Lord.
+- **21:13** — Jesus then cometh, and taketh bread, and giveth them, and fish likewise.
+- **21:14** — This is now the third time that Jesus shewed himself to his disciples, after that he was risen from the dead.
+- **21:15** — So when they had dined, Jesus saith to Simon Peter, Simon, son of Jonas, lovest thou me more than these? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my lambs.
+- **21:16** — He saith to him again the second time, Simon, son of Jonas, lovest thou me? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my sheep.
+- **21:17** — He saith unto him the third time, Simon, son of Jonas, lovest thou me? Peter was grieved because he said unto him the third time, Lovest thou me? And he said unto him, Lord, thou knowest all things; thou knowest that I love thee. Jesus saith unto him, Feed my sheep.
+- **21:18** — Verily, verily, I say unto thee, When thou wast young, thou girdedst thyself, and walkedst whither thou wouldest: but when thou shalt be old, thou shalt stretch forth thy hands, and another shall gird thee, and carry thee whither thou wouldest not.
+- **21:19** — This spake he, signifying by what death he should glorify God. And when he had spoken this, he saith unto him, Follow me.
+- **21:20** — Then Peter, turning about, seeth the disciple whom Jesus loved following; which also leaned on his breast at supper, and said, Lord, which is he that betrayeth thee?
+- **21:21** — Peter seeing him saith to Jesus, Lord, and what shall this man do?
+- **21:22** — Jesus saith unto him, If I will that he tarry till I come, what is that to thee? follow thou me.
+- **21:23** — Then went this saying abroad among the brethren, that that disciple should not die: yet Jesus said not unto him, He shall not die; but, If I will that he tarry till I come, what is that to thee?
+- **21:25** — And there are also many other things which Jesus did, the which, if they should be written every one, I suppose that even the world itself could not contain the books that should be written. Amen.
+
+### [[Acts]]
+- **1:1** — The former treatise have I made, O Theophilus, of all that Jesus began both to do and teach,
+- **1:2** — Until the day in which he was taken up, after that he through the Holy Ghost had given commandments unto the apostles whom he had chosen:
+- **1:3** — To whom also he shewed himself alive after his passion by many infallible proofs, being seen of them forty days, and speaking of the things pertaining to the kingdom of God:
+- **1:4** — And, being assembled together with them, commanded them that they should not depart from Jerusalem, but wait for the promise of the Father, which, saith he, ye have heard of me.
+- **1:6** — When they therefore were come together, they asked of him, saying, Lord, wilt thou at this time restore again the kingdom to Israel?
+- **1:7** — And he said unto them, It is not for you to know the times or the seasons, which the Father hath put in his own power.
+- **1:8** — But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judaea, and in Samaria, and unto the uttermost part of the earth.
+- **1:9** — And when he had spoken these things, while they beheld, he was taken up; and a cloud received him out of their sight.
+- **1:10** — And while they looked stedfastly toward heaven as he went up, behold, two men stood by them in white apparel;
+- **1:11** — Which also said, Ye men of Galilee, why stand ye gazing up into heaven? this same Jesus, which is taken up from you into heaven, shall so come in like manner as ye have seen him go into heaven.
+- **1:14** — These all continued with one accord in prayer and supplication, with the women, and Mary the mother of Jesus, and with his brethren.
+- **1:16** — Men and brethren, this scripture must needs have been fulfilled, which the Holy Ghost by the mouth of David spake before concerning Judas, which was guide to them that took Jesus.
+- **1:21** — Wherefore of these men which have companied with us all the time that the Lord Jesus went in and out among us,
+- **1:22** — Beginning from the baptism of John, unto that same day that he was taken up from us, must one be ordained to be a witness with us of his resurrection.
+- **1:24** — And they prayed, and said, Thou, Lord, which knowest the hearts of all men, shew whether of these two thou hast chosen,
+- **2:17** — And it shall come to pass in the last days, saith God, I will pour out of my Spirit upon all flesh: and your sons and your daughters shall prophesy, and your young men shall see visions, and your old men shall dream dreams:
+- **2:18** — And on my servants and on my handmaidens I will pour out in those days of my Spirit; and they shall prophesy:
+- **2:20** — The sun shall be turned into darkness, and the moon into blood, before that great and notable day of the Lord come:
+- **2:21** — And it shall come to pass, that whosoever shall call on the name of the Lord shall be saved.
+- **2:22** — Ye men of Israel, hear these words; Jesus of Nazareth, a man approved of God among you by miracles and wonders and signs, which God did by him in the midst of you, as ye yourselves also know:
+- **2:24** — Whom God hath raised up, having loosed the pains of death: because it was not possible that he should be holden of it.
+- **2:25** — For David speaketh concerning him, I foresaw the Lord always before my face, for he is on my right hand, that I should not be moved:
+- **2:27** — Because thou wilt not leave my soul in hell, neither wilt thou suffer thine Holy One to see corruption.
+- **2:30** — Therefore being a prophet, and knowing that God had sworn with an oath to him, that of the fruit of his loins, according to the flesh, he would raise up Christ to sit on his throne;
+- **2:31** — He seeing this before spake of the resurrection of Christ, that his soul was not left in hell, neither his flesh did see corruption.
+- **2:32** — This Jesus hath God raised up, whereof we all are witnesses.
+- **2:33** — Therefore being by the right hand of God exalted, and having received of the Father the promise of the Holy Ghost, he hath shed forth this, which ye now see and hear.
+- **2:34** — For David is not ascended into the heavens: but he saith himself, The LORD said unto my Lord, Sit thou on my right hand,
+- **2:35** — Until I make thy foes thy footstool.
+- **2:36** — Therefore let all the house of Israel know assuredly, that God hath made that same Jesus, whom ye have crucified, both Lord and Christ.
+- **2:38** — Then Peter said unto them, Repent, and be baptized every one of you in the name of Jesus Christ for the remission of sins, and ye shall receive the gift of the Holy Ghost.
+- **2:39** — For the promise is unto you, and to your children, and to all that are afar off, even as many as the Lord our God shall call.
+- **2:47** — Praising God, and having favour with all the people. And the Lord added to the church daily such as should be saved.
+- **3:6** — Then Peter said, Silver and gold have I none; but such as I have give I thee: In the name of Jesus Christ of Nazareth rise up and walk.
+- **3:13** — The God of Abraham, and of Isaac, and of Jacob, the God of our fathers, hath glorified his Son Jesus; whom ye delivered up, and denied him in the presence of Pilate, when he was determined to let him go.
+- **3:14** — But ye denied the Holy One and the Just, and desired a murderer to be granted unto you;
+- **3:16** — And his name through faith in his name hath made this man strong, whom ye see and know: yea, the faith which is by him hath given him this perfect soundness in the presence of you all.
+- **3:18** — But those things, which God before had shewed by the mouth of all his prophets, that Christ should suffer, he hath so fulfilled.
+- **3:19** — Repent ye therefore, and be converted, that your sins may be blotted out, when the times of refreshing shall come from the presence of the Lord;
+- **3:20** — And he shall send Jesus Christ, which before was preached unto you:
+- **3:22** — For Moses truly said unto the fathers, A prophet shall the Lord your God raise up unto you of your brethren, like unto me; him shall ye hear in all things whatsoever he shall say unto you.
+- **3:23** — And it shall come to pass, that every soul, which will not hear that prophet, shall be destroyed from among the people.
+- **3:26** — Unto you first God, having raised up his Son Jesus, sent him to bless you, in turning away every one of you from his iniquities.
+- **4:2** — Being grieved that they taught the people, and preached through Jesus the resurrection from the dead.
+- **4:10** — Be it known unto you all, and to all the people of Israel, that by the name of Jesus Christ of Nazareth, whom ye crucified, whom God raised from the dead, even by him doth this man stand here before you whole.
+- **4:13** — Now when they saw the boldness of Peter and John, and perceived that they were unlearned and ignorant men, they marvelled; and they took knowledge of them, that they had been with Jesus.
+- **4:18** — And they called them, and commanded them not to speak at all nor teach in the name of Jesus.
+- **4:24** — And when they heard that, they lifted up their voice to God with one accord, and said, Lord, thou art God, which hast made heaven, and earth, and the sea, and all that in them is:
+- **4:25** — Who by the mouth of thy servant David hast said, Why did the heathen rage, and the people imagine vain things?
+- **4:26** — The kings of the earth stood up, and the rulers were gathered together against the Lord, and against his Christ.
+- **4:27** — For of a truth against thy holy child Jesus, whom thou hast anointed, both Herod, and Pontius Pilate, with the Gentiles, and the people of Israel, were gathered together,
+- **4:28** — For to do whatsoever thy hand and thy counsel determined before to be done.
+- **4:29** — And now, Lord, behold their threatenings: and grant unto thy servants, that with all boldness they may speak thy word,
+- **4:30** — By stretching forth thine hand to heal; and that signs and wonders may be done by the name of thy holy child Jesus.
+- **4:33** — And with great power gave the apostles witness of the resurrection of the Lord Jesus: and great grace was upon them all.
+- **5:9** — Then Peter said unto her, How is it that ye have agreed together to tempt the Spirit of the Lord? behold, the feet of them which have buried thy husband are at the door, and shall carry thee out.
+- **5:14** — And believers were the more added to the Lord, multitudes both of men and women.)
+- **5:19** — But the angel of the Lord by night opened the prison doors, and brought them forth, and said,
+- **5:28** — Saying, Did not we straitly command you that ye should not teach in this name? and, behold, ye have filled Jerusalem with your doctrine, and intend to bring this man's blood upon us.
+- **5:30** — The God of our fathers raised up Jesus, whom ye slew and hanged on a tree.
+- **5:31** — Him hath God exalted with his right hand to be a Prince and a Saviour, for to give repentance to Israel, and forgiveness of sins.
+- **5:32** — And we are his witnesses of these things; and so is also the Holy Ghost, whom God hath given to them that obey him.
+- **5:40** — And to him they agreed: and when they had called the apostles, and beaten them, they commanded that they should not speak in the name of Jesus, and let them go.
+- **5:41** — And they departed from the presence of the council, rejoicing that they were counted worthy to suffer shame for his name.
+- **5:42** — And daily in the temple, and in every house, they ceased not to teach and preach Jesus Christ.
+- **6:14** — For we have heard him say, that this Jesus of Nazareth shall destroy this place, and shall change the customs which Moses delivered us.
+- **7:5** — And he gave him none inheritance in it, no, not so much as to set his foot on: yet he promised that he would give it to him for a possession, and to his seed after him, when as yet he had no child.
+- **7:7** — And the nation to whom they shall be in bondage will I judge, said God: and after that shall they come forth, and serve me in this place.
+- **7:8** — And he gave him the covenant of circumcision: and so Abraham begat Isaac, and circumcised him the eighth day; and Isaac begat Jacob; and Jacob begat the twelve patriarchs.
+- **7:30** — And when forty years were expired, there appeared to him in the wilderness of mount Sina an angel of the Lord in a flame of fire in a bush.
+- **7:31** — When Moses saw it, he wondered at the sight: and as he drew near to behold it, the voice of the Lord came unto him,
+- **7:33** — Then said the Lord to him, Put off thy shoes from thy feet: for the place where thou standest is holy ground.
+- **7:35** — This Moses whom they refused, saying, Who made thee a ruler and a judge? the same did God send to be a ruler and a deliverer by the hand of the angel which appeared to him in the bush.
+- **7:37** — This is that Moses, which said unto the children of Israel, A prophet shall the Lord your God raise up unto you of your brethren, like unto me; him shall ye hear.
+- **7:38** — This is he, that was in the church in the wilderness with the angel which spake to him in the mount Sina, and with our fathers: who received the lively oracles to give unto us:
+- **7:42** — Then God turned, and gave them up to worship the host of heaven; as it is written in the book of the prophets, O ye house of Israel, have ye offered to me slain beasts and sacrifices by the space of forty years in the wilderness?
+- **7:44** — Our fathers had the tabernacle of witness in the wilderness, as he had appointed, speaking unto Moses, that he should make it according to the fashion that he had seen.
+- **7:47** — But Solomon built him an house.
+- **7:48** — Howbeit the most High dwelleth not in temples made with hands; as saith the prophet,
+- **7:49** — Heaven is my throne, and earth is my footstool: what house will ye build me? saith the Lord: or what is the place of my rest?
+- **7:50** — Hath not my hand made all these things?
+- **7:55** — But he, being full of the Holy Ghost, looked up stedfastly into heaven, and saw the glory of God, and Jesus standing on the right hand of God,
+- **7:56** — And said, Behold, I see the heavens opened, and the Son of man standing on the right hand of God.
+- **7:59** — And they stoned Stephen, calling upon God, and saying, Lord Jesus, receive my spirit.
+- **7:60** — And he kneeled down, and cried with a loud voice, Lord, lay not this sin to their charge. And when he had said this, he fell asleep.
+- **8:5** — Then Philip went down to the city of Samaria, and preached Christ unto them.
+- **8:12** — But when they believed Philip preaching the things concerning the kingdom of God, and the name of Jesus Christ, they were baptized, both men and women.
+- **8:16** — For as yet he was fallen upon none of them: only they were baptized in the name of the Lord Jesus.)
+- **8:24** — Then answered Simon, and said, Pray ye to the Lord for me, that none of these things which ye have spoken come upon me.
+- **8:25** — And they, when they had testified and preached the word of the Lord, returned to Jerusalem, and preached the gospel in many villages of the Samaritans.
+- **8:26** — And the angel of the Lord spake unto Philip, saying, Arise, and go toward the south unto the way that goeth down from Jerusalem unto Gaza, which is desert.
+- **8:32** — The place of the scripture which he read was this, He was led as a sheep to the slaughter; and like a lamb dumb before his shearer, so opened he not his mouth:
+- **8:33** — In his humiliation his judgment was taken away: and who shall declare his generation? for his life is taken from the earth.
+- **8:35** — Then Philip opened his mouth, and began at the same scripture, and preached unto him Jesus.
+- **8:37** — And Philip said, If thou believest with all thine heart, thou mayest. And he answered and said, I believe that Jesus Christ is the Son of God.
+- **8:39** — And when they were come up out of the water, the Spirit of the Lord caught away Philip, that the eunuch saw him no more: and he went on his way rejoicing.
+- **9:1** — And Saul, yet breathing out threatenings and slaughter against the disciples of the Lord, went unto the high priest,
+- **9:4** — And he fell to the earth, and heard a voice saying unto him, Saul, Saul, why persecutest thou me?
+- **9:5** — And he said, Who art thou, Lord? And the Lord said, I am Jesus whom thou persecutest: it is hard for thee to kick against the pricks.
+- **9:6** — And he trembling and astonished said, Lord, what wilt thou have me to do? And the Lord said unto him, Arise, and go into the city, and it shall be told thee what thou must do.
+- **9:10** — And there was a certain disciple at Damascus, named Ananias; and to him said the Lord in a vision, Ananias. And he said, Behold, I am here, Lord.
+- **9:11** — And the Lord said unto him, Arise, and go into the street which is called Straight, and enquire in the house of Judas for one called Saul, of Tarsus: for, behold, he prayeth,
+- **9:13** — Then Ananias answered, Lord, I have heard by many of this man, how much evil he hath done to thy saints at Jerusalem:
+- **9:14** — And here he hath authority from the chief priests to bind all that call on thy name.
+- **9:15** — But the Lord said unto him, Go thy way: for he is a chosen vessel unto me, to bear my name before the Gentiles, and kings, and the children of Israel:
+- **9:16** — For I will shew him how great things he must suffer for my name's sake.
+- **9:17** — And Ananias went his way, and entered into the house; and putting his hands on him said, Brother Saul, the Lord, even Jesus, that appeared unto thee in the way as thou camest, hath sent me, that thou mightest receive thy sight, and be filled with the Holy Ghost.
+- **9:20** — And straightway he preached Christ in the synagogues, that he is the Son of God.
+- **9:22** — But Saul increased the more in strength, and confounded the Jews which dwelt at Damascus, proving that this is very Christ.
+- **9:27** — But Barnabas took him, and brought him to the apostles, and declared unto them how he had seen the Lord in the way, and that he had spoken to him, and how he had preached boldly at Damascus in the name of Jesus.
+- **9:29** — And he spake boldly in the name of the Lord Jesus, and disputed against the Grecians: but they went about to slay him.
+- **9:31** — Then had the churches rest throughout all Judaea and Galilee and Samaria, and were edified; and walking in the fear of the Lord, and in the comfort of the Holy Ghost, were multiplied.
+- **9:34** — And Peter said unto him, Aeneas, Jesus Christ maketh thee whole: arise, and make thy bed. And he arose immediately.
+- **9:35** — And all that dwelt at Lydda and Saron saw him, and turned to the Lord.
+- **9:42** — And it was known throughout all Joppa; and many believed in the Lord.
+- **10:4** — And when he looked on him, he was afraid, and said, What is it, Lord? And he said unto him, Thy prayers and thine alms are come up for a memorial before God.
+- **10:14** — But Peter said, Not so, Lord; for I have never eaten any thing that is common or unclean.
+- **10:35** — But in every nation he that feareth him, and worketh righteousness, is accepted with him.
+- **10:36** — The word which God sent unto the children of Israel, preaching peace by Jesus Christ: (he is Lord of all:)
+- **10:38** — How God anointed Jesus of Nazareth with the Holy Ghost and with power: who went about doing good, and healing all that were oppressed of the devil; for God was with him.
+- **10:39** — And we are witnesses of all things which he did both in the land of the Jews, and in Jerusalem; whom they slew and hanged on a tree:
+- **10:40** — Him God raised up the third day, and shewed him openly;
+- **10:41** — Not to all the people, but unto witnesses chosen before of God, even to us, who did eat and drink with him after he rose from the dead.
+- **10:42** — And he commanded us to preach unto the people, and to testify that it is he which was ordained of God to be the Judge of quick and dead.
+- **10:43** — To him give all the prophets witness, that through his name whosoever believeth in him shall receive remission of sins.
+- **10:48** — And he commanded them to be baptized in the name of the Lord. Then prayed they him to tarry certain days.
+- **11:8** — But I said, Not so, Lord: for nothing common or unclean hath at any time entered into my mouth.
+- **11:16** — Then remembered I the word of the Lord, how that he said, John indeed baptized with water; but ye shall be baptized with the Holy Ghost.
+- **11:17** — Forasmuch then as God gave them the like gift as he did unto us, who believed on the Lord Jesus Christ; what was I, that I could withstand God?
+- **11:20** — And some of them were men of Cyprus and Cyrene, which, when they were come to Antioch, spake unto the Grecians, preaching the Lord Jesus.
+- **11:21** — And the hand of the Lord was with them: and a great number believed, and turned unto the Lord.
+- **11:23** — Who, when he came, and had seen the grace of God, was glad, and exhorted them all, that with purpose of heart they would cleave unto the Lord.
+- **11:24** — For he was a good man, and full of the Holy Ghost and of faith: and much people was added unto the Lord.
+- **12:7** — And, behold, the angel of the Lord came upon him, and a light shined in the prison: and he smote Peter on the side, and raised him up, saying, Arise up quickly. And his chains fell off from his hands.
+- **12:11** — And when Peter was come to himself, he said, Now I know of a surety, that the Lord hath sent his angel, and hath delivered me out of the hand of Herod, and from all the expectation of the people of the Jews.
+- **12:17** — But he, beckoning unto them with the hand to hold their peace, declared unto them how the Lord had brought him out of the prison. And he said, Go shew these things unto James, and to the brethren. And he departed, and went into another place.
+- **12:23** — And immediately the angel of the Lord smote him, because he gave not God the glory: and he was eaten of worms, and gave up the ghost.
+- **13:2** — As they ministered to the Lord, and fasted, the Holy Ghost said, Separate me Barnabas and Saul for the work whereunto I have called them.
+- **13:10** — And said, O full of all subtilty and all mischief, thou child of the devil, thou enemy of all righteousness, wilt thou not cease to pervert the right ways of the Lord?
+- **13:11** — And now, behold, the hand of the Lord is upon thee, and thou shalt be blind, not seeing the sun for a season. And immediately there fell on him a mist and a darkness; and he went about seeking some to lead him by the hand.
+- **13:12** — Then the deputy, when he saw what was done, believed, being astonished at the doctrine of the Lord.
+- **13:18** — And about the time of forty years suffered he their manners in the wilderness.
+- **13:19** — And when he had destroyed seven nations in the land of Chanaan, he divided their land to them by lot.
+- **13:20** — And after that he gave unto them judges about the space of four hundred and fifty years, until Samuel the prophet.
+- **13:22** — And when he had removed him, he raised up unto them David to be their king; to whom also he gave testimony, and said, I have found David the son of Jesse, a man after mine own heart, which shall fulfil all my will.
+- **13:23** — Of this man's seed hath God according to his promise raised unto Israel a Saviour, Jesus:
+- **13:24** — When John had first preached before his coming the baptism of repentance to all the people of Israel.
+- **13:25** — And as John fulfilled his course, he said, Whom think ye that I am? I am not he. But, behold, there cometh one after me, whose shoes of his feet I am not worthy to loose.
+- **13:27** — For they that dwell at Jerusalem, and their rulers, because they knew him not, nor yet the voices of the prophets which are read every sabbath day, they have fulfilled them in condemning him.
+- **13:28** — And though they found no cause of death in him, yet desired they Pilate that he should be slain.
+- **13:29** — And when they had fulfilled all that was written of him, they took him down from the tree, and laid him in a sepulchre.
+- **13:30** — But God raised him from the dead:
+- **13:31** — And he was seen many days of them which came up with him from Galilee to Jerusalem, who are his witnesses unto the people.
+- **13:33** — God hath fulfilled the same unto us their children, in that he hath raised up Jesus again; as it is also written in the second psalm, Thou art my Son, this day have I begotten thee.
+- **13:34** — And as concerning that he raised him up from the dead, now no more to return to corruption, he said on this wise, I will give you the sure mercies of David.
+- **13:35** — Wherefore he saith also in another psalm, Thou shalt not suffer thine Holy One to see corruption.
+- **13:37** — But he, whom God raised again, saw no corruption.
+- **13:38** — Be it known unto you therefore, men and brethren, that through this man is preached unto you the forgiveness of sins:
+- **13:39** — And by him all that believe are justified from all things, from which ye could not be justified by the law of Moses.
+- **13:47** — For so hath the Lord commanded us, saying, I have set thee to be a light of the Gentiles, that thou shouldest be for salvation unto the ends of the earth.
+- **13:48** — And when the Gentiles heard this, they were glad, and glorified the word of the Lord: and as many as were ordained to eternal life believed.
+- **13:49** — And the word of the Lord was published throughout all the region.
+- **14:3** — Long time therefore abode they speaking boldly in the Lord, which gave testimony unto the word of his grace, and granted signs and wonders to be done by their hands.
+- **14:17** — Nevertheless he left not himself without witness, in that he did good, and gave us rain from heaven, and fruitful seasons, filling our hearts with food and gladness.
+- **14:23** — And when they had ordained them elders in every church, and had prayed with fasting, they commended them to the Lord, on whom they believed.
+- **15:11** — But we believe that through the grace of the Lord Jesus Christ we shall be saved, even as they.
+- **15:26** — Men that have hazarded their lives for the name of our Lord Jesus Christ.
+- **15:35** — Paul also and Barnabas continued in Antioch, teaching and preaching the word of the Lord, with many others also.
+- **15:36** — And some days after Paul said unto Barnabas, Let us go again and visit our brethren in every city where we have preached the word of the Lord, and see how they do.
+- **16:10** — And after he had seen the vision, immediately we endeavoured to go into Macedonia, assuredly gathering that the Lord had called us for to preach the gospel unto them.
+- **16:14** — And a certain woman named Lydia, a seller of purple, of the city of Thyatira, which worshipped God, heard us: whose heart the Lord opened, that she attended unto the things which were spoken of Paul.
+- **16:15** — And when she was baptized, and her household, she besought us, saying, If ye have judged me to be faithful to the Lord, come into my house, and abide there. And she constrained us.
+- **16:18** — And this did she many days. But Paul, being grieved, turned and said to the spirit, I command thee in the name of Jesus Christ to come out of her. And he came out the same hour.
+- **16:31** — And they said, Believe on the Lord Jesus Christ, and thou shalt be saved, and thy house.
+- **16:32** — And they spake unto him the word of the Lord, and to all that were in his house.
+- **17:3** — Opening and alleging, that Christ must needs have suffered, and risen again from the dead; and that this Jesus, whom I preach unto you, is Christ.
+- **17:7** — Whom Jason hath received: and these all do contrary to the decrees of Caesar, saying that there is another king, one Jesus.
+- **17:18** — Then certain philosophers of the Epicureans, and of the Stoicks, encountered him. And some said, What will this babbler say? other some, He seemeth to be a setter forth of strange gods: because he preached unto them Jesus, and the resurrection.
+- **17:24** — God that made the world and all things therein, seeing that he is Lord of heaven and earth, dwelleth not in temples made with hands;
+- **17:25** — Neither is worshipped with men's hands, as though he needed any thing, seeing he giveth to all life, and breath, and all things;
+- **17:27** — That they should seek the Lord, if haply they might feel after him, and find him, though he be not far from every one of us:
+- **17:28** — For in him we live, and move, and have our being; as certain also of your own poets have said, For we are also his offspring.
+- **17:31** — Because he hath appointed a day, in the which he will judge the world in righteousness by that man whom he hath ordained; whereof he hath given assurance unto all men, in that he hath raised him from the dead.
+- **18:5** — And when Silas and Timotheus were come from Macedonia, Paul was pressed in the spirit, and testified to the Jews that Jesus was Christ.
+- **18:8** — And Crispus, the chief ruler of the synagogue, believed on the Lord with all his house; and many of the Corinthians hearing believed, and were baptized.
+- **18:9** — Then spake the Lord to Paul in the night by a vision, Be not afraid, but speak, and hold not thy peace:
+- **18:25** — This man was instructed in the way of the Lord; and being fervent in the spirit, he spake and taught diligently the things of the Lord, knowing only the baptism of John.
+- **18:28** — For he mightily convinced the Jews, and that publickly, shewing by the scriptures that Jesus was Christ.
+- **19:4** — Then said Paul, John verily baptized with the baptism of repentance, saying unto the people, that they should believe on him which should come after him, that is, on Christ Jesus.
+- **19:5** — When they heard this, they were baptized in the name of the Lord Jesus.
+- **19:10** — And this continued by the space of two years; so that all they which dwelt in Asia heard the word of the Lord Jesus, both Jews and Greeks.
+- **19:13** — Then certain of the vagabond Jews, exorcists, took upon them to call over them which had evil spirits the name of the Lord Jesus, saying, We adjure you by Jesus whom Paul preacheth.
+- **19:15** — And the evil spirit answered and said, Jesus I know, and Paul I know; but who are ye?
+- **19:17** — And this was known to all the Jews and Greeks also dwelling at Ephesus; and fear fell on them all, and the name of the Lord Jesus was magnified.
+- **20:19** — Serving the Lord with all humility of mind, and with many tears, and temptations, which befell me by the lying in wait of the Jews:
+- **20:21** — Testifying both to the Jews, and also to the Greeks, repentance toward God, and faith toward our Lord Jesus Christ.
+- **20:24** — But none of these things move me, neither count I my life dear unto myself, so that I might finish my course with joy, and the ministry, which I have received of the Lord Jesus, to testify the gospel of the grace of God.
+- **20:35** — I have shewed you all things, how that so labouring ye ought to support the weak, and to remember the words of the Lord Jesus, how he said, It is more blessed to give than to receive.
+- **21:13** — Then Paul answered, What mean ye to weep and to break mine heart? for I am ready not to be bound only, but also to die at Jerusalem for the name of the Lord Jesus.
+- **21:14** — And when he would not be persuaded, we ceased, saying, The will of the Lord be done.
+- **21:20** — And when they heard it, they glorified the Lord, and said unto him, Thou seest, brother, how many thousands of Jews there are which believe; and they are all zealous of the law:
+- **22:7** — And I fell unto the ground, and heard a voice saying unto me, Saul, Saul, why persecutest thou me?
+- **22:8** — And I answered, Who art thou, Lord? And he said unto me, I am Jesus of Nazareth, whom thou persecutest.
+- **22:9** — And they that were with me saw indeed the light, and were afraid; but they heard not the voice of him that spake to me.
+- **22:10** — And I said, What shall I do, Lord? And the Lord said unto me, Arise, and go into Damascus; and there it shall be told thee of all things which are appointed for thee to do.
+- **22:14** — And he said, The God of our fathers hath chosen thee, that thou shouldest know his will, and see that Just One, and shouldest hear the voice of his mouth.
+- **22:15** — For thou shalt be his witness unto all men of what thou hast seen and heard.
+- **22:16** — And now why tarriest thou? arise, and be baptized, and wash away thy sins, calling on the name of the Lord.
+- **22:18** — And saw him saying unto me, Make haste, and get thee quickly out of Jerusalem: for they will not receive thy testimony concerning me.
+- **22:19** — And I said, Lord, they know that I imprisoned and beat in every synagogue them that believed on thee:
+- **22:20** — And when the blood of thy martyr Stephen was shed, I also was standing by, and consenting unto his death, and kept the raiment of them that slew him.
+- **22:21** — And he said unto me, Depart: for I will send thee far hence unto the Gentiles.
+- **23:11** — And the night following the Lord stood by him, and said, Be of good cheer, Paul: for as thou hast testified of me in Jerusalem, so must thou bear witness also at Rome.
+- **24:24** — And after certain days, when Felix came with his wife Drusilla, which was a Jewess, he sent for Paul, and heard him concerning the faith in Christ.
+- **25:19** — But had certain questions against him of their own superstition, and of one Jesus, which was dead, whom Paul affirmed to be alive.
+- **26:9** — I verily thought with myself, that I ought to do many things contrary to the name of Jesus of Nazareth.
+- **26:14** — And when we were all fallen to the earth, I heard a voice speaking unto me, and saying in the Hebrew tongue, Saul, Saul, why persecutest thou me? it is hard for thee to kick against the pricks.
+- **26:15** — And I said, Who art thou, Lord? And he said, I am Jesus whom thou persecutest.
+- **26:16** — But rise, and stand upon thy feet: for I have appeared unto thee for this purpose, to make thee a minister and a witness both of these things which thou hast seen, and of those things in the which I will appear unto thee;
+- **26:17** — Delivering thee from the people, and from the Gentiles, unto whom now I send thee,
+- **26:18** — To open their eyes, and to turn them from darkness to light, and from the power of Satan unto God, that they may receive forgiveness of sins, and inheritance among them which are sanctified by faith that is in me.
+- **26:23** — That Christ should suffer, and that he should be the first that should rise from the dead, and should shew light unto the people, and to the Gentiles.
+- **28:23** — And when they had appointed him a day, there came many to him into his lodging; to whom he expounded and testified the kingdom of God, persuading them concerning Jesus, both out of the law of Moses, and out of the prophets, from morning till evening.
+- **28:31** — Preaching the kingdom of God, and teaching those things which concern the Lord Jesus Christ, with all confidence, no man forbidding him.
+
+### [[Romans]]
+- **1:1** — Paul, a servant of Jesus Christ, called to be an apostle, separated unto the gospel of God,
+- **1:3** — Concerning his Son Jesus Christ our Lord, which was made of the seed of David according to the flesh;
+- **1:4** — And declared to be the Son of God with power, according to the spirit of holiness, by the resurrection from the dead:
+- **1:5** — By whom we have received grace and apostleship, for obedience to the faith among all nations, for his name:
+- **1:6** — Among whom are ye also the called of Jesus Christ:
+- **1:7** — To all that be in Rome, beloved of God, called to be saints: Grace to you and peace from God our Father, and the Lord Jesus Christ.
+- **1:8** — First, I thank my God through Jesus Christ for you all, that your faith is spoken of throughout the whole world.
+- **1:9** — For God is my witness, whom I serve with my spirit in the gospel of his Son, that without ceasing I make mention of you always in my prayers;
+- **1:16** — For I am not ashamed of the gospel of Christ: for it is the power of God unto salvation to every one that believeth; to the Jew first, and also to the Greek.
+- **1:20** — For the invisible things of him from the creation of the world are clearly seen, being understood by the things that are made, even his eternal power and Godhead; so that they are without excuse:
+- **2:16** — In the day when God shall judge the secrets of men by Jesus Christ according to my gospel.
+- **2:18** — And knowest his will, and approvest the things that are more excellent, being instructed out of the law;
+- **3:20** — Therefore by the deeds of the law there shall no flesh be justified in his sight: for by the law is the knowledge of sin.
+- **3:22** — Even the righteousness of God which is by faith of Jesus Christ unto all and upon all them that believe: for there is no difference:
+- **3:24** — Being justified freely by his grace through the redemption that is in Christ Jesus:
+- **3:25** — Whom God hath set forth to be a propitiation through faith in his blood, to declare his righteousness for the remission of sins that are past, through the forbearance of God;
+- **3:26** — To declare, I say, at this time his righteousness: that he might be just, and the justifier of him which believeth in Jesus.
+- **3:29** — Is he the God of the Jews only? is he not also of the Gentiles? Yes, of the Gentiles also:
+- **4:5** — But to him that worketh not, but believeth on him that justifieth the ungodly, his faith is counted for righteousness.
+- **4:8** — Blessed is the man to whom the Lord will not impute sin.
+- **4:17** — As it is written, I have made thee a father of many nations,) before him whom he believed, even God, who quickeneth the dead, and calleth those things which be not as though they were.
+- **4:21** — And being fully persuaded that, what he had promised, he was able also to perform.
+- **4:24** — But for us also, to whom it shall be imputed, if we believe on him that raised up Jesus our Lord from the dead;
+- **5:1** — Therefore being justified by faith, we have peace with God through our Lord Jesus Christ:
+- **5:6** — For when we were yet without strength, in due time Christ died for the ungodly.
+- **5:8** — But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us.
+- **5:9** — Much more then, being now justified by his blood, we shall be saved from wrath through him.
+- **5:10** — For if, when we were enemies, we were reconciled to God by the death of his Son, much more, being reconciled, we shall be saved by his life.
+- **5:11** — And not only so, but we also joy in God through our Lord Jesus Christ, by whom we have now received the atonement.
+- **5:14** — Nevertheless death reigned from Adam to Moses, even over them that had not sinned after the similitude of Adam's transgression, who is the figure of him that was to come.
+- **5:15** — But not as the offence, so also is the free gift. For if through the offence of one many be dead, much more the grace of God, and the gift by grace, which is by one man, Jesus Christ, hath abounded unto many.
+- **5:17** — For if by one man's offence death reigned by one; much more they which receive abundance of grace and of the gift of righteousness shall reign in life by one, Jesus Christ.)
+- **5:18** — Therefore as by the offence of one judgment came upon all men to condemnation; even so by the righteousness of one the free gift came upon all men unto justification of life.
+- **5:19** — For as by one man's disobedience many were made sinners, so by the obedience of one shall many be made righteous.
+- **5:21** — That as sin hath reigned unto death, even so might grace reign through righteousness unto eternal life by Jesus Christ our Lord.
+- **6:3** — Know ye not, that so many of us as were baptized into Jesus Christ were baptized into his death?
+- **6:4** — Therefore we are buried with him by baptism into death: that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life.
+- **6:5** — For if we have been planted together in the likeness of his death, we shall be also in the likeness of his resurrection:
+- **6:6** — Knowing this, that our old man is crucified with him, that the body of sin might be destroyed, that henceforth we should not serve sin.
+- **6:8** — Now if we be dead with Christ, we believe that we shall also live with him:
+- **6:9** — Knowing that Christ being raised from the dead dieth no more; death hath no more dominion over him.
+- **6:10** — For in that he died, he died unto sin once: but in that he liveth, he liveth unto God.
+- **6:11** — Likewise reckon ye also yourselves to be dead indeed unto sin, but alive unto God through Jesus Christ our Lord.
+- **6:23** — For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord.
+- **7:4** — Wherefore, my brethren, ye also are become dead to the law by the body of Christ; that ye should be married to another, even to him who is raised from the dead, that we should bring forth fruit unto God.
+- **7:25** — I thank God through Jesus Christ our Lord. So then with the mind I myself serve the law of God; but with the flesh the law of sin.
+- **8:1** — There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.
+- **8:2** — For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death.
+- **8:3** — For what the law could not do, in that it was weak through the flesh, God sending his own Son in the likeness of sinful flesh, and for sin, condemned sin in the flesh:
+- **8:9** — But ye are not in the flesh, but in the Spirit, if so be that the Spirit of God dwell in you. Now if any man have not the Spirit of Christ, he is none of his.
+- **8:10** — And if Christ be in you, the body is dead because of sin; but the Spirit is life because of righteousness.
+- **8:11** — But if the Spirit of him that raised up Jesus from the dead dwell in you, he that raised up Christ from the dead shall also quicken your mortal bodies by his Spirit that dwelleth in you.
+- **8:17** — And if children, then heirs; heirs of God, and joint-heirs with Christ; if so be that we suffer with him, that we may be also glorified together.
+- **8:20** — For the creature was made subject to vanity, not willingly, but by reason of him who hath subjected the same in hope,
+- **8:27** — And he that searcheth the hearts knoweth what is the mind of the Spirit, because he maketh intercession for the saints according to the will of God.
+- **8:28** — And we know that all things work together for good to them that love God, to them who are the called according to his purpose.
+- **8:29** — For whom he did foreknow, he also did predestinate to be conformed to the image of his Son, that he might be the firstborn among many brethren.
+- **8:30** — Moreover whom he did predestinate, them he also called: and whom he called, them he also justified: and whom he justified, them he also glorified.
+- **8:32** — He that spared not his own Son, but delivered him up for us all, how shall he not with him also freely give us all things?
+- **8:34** — Who is he that condemneth? It is Christ that died, yea rather, that is risen again, who is even at the right hand of God, who also maketh intercession for us.
+- **8:35** — Who shall separate us from the love of Christ? shall tribulation, or distress, or persecution, or famine, or nakedness, or peril, or sword?
+- **8:37** — Nay, in all these things we are more than conquerors through him that loved us.
+- **8:39** — Nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord.
+- **9:1** — I say the truth in Christ, I lie not, my conscience also bearing me witness in the Holy Ghost,
+- **9:3** — For I could wish that myself were accursed from Christ for my brethren, my kinsmen according to the flesh:
+- **9:5** — Whose are the fathers, and of whom as concerning the flesh Christ came, who is over all, God blessed for ever. Amen.
+- **9:15** — For he saith to Moses, I will have mercy on whom I will have mercy, and I will have compassion on whom I will have compassion.
+- **9:17** — For the scripture saith unto Pharaoh, Even for this same purpose have I raised thee up, that I might shew my power in thee, and that my name might be declared throughout all the earth.
+- **9:18** — Therefore hath he mercy on whom he will have mercy, and whom he will he hardeneth.
+- **9:19** — Thou wilt say then unto me, Why doth he yet find fault? For who hath resisted his will?
+- **9:23** — And that he might make known the riches of his glory on the vessels of mercy, which he had afore prepared unto glory,
+- **9:25** — As he saith also in Osee, I will call them my people, which were not my people; and her beloved, which was not beloved.
+- **9:26** — And it shall come to pass, that in the place where it was said unto them, Ye are not my people; there shall they be called the children of the living God.
+- **9:29** — And as Esaias said before, Except the Lord of Sabaoth had left us a seed, we had been as Sodoma, and been made like unto Gomorrha.
+- **9:33** — As it is written, Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believeth on him shall not be ashamed.
+- **10:4** — For Christ is the end of the law for righteousness to every one that believeth.
+- **10:6** — But the righteousness which is of faith speaketh on this wise, Say not in thine heart, Who shall ascend into heaven? (that is, to bring Christ down from above:)
+- **10:7** — Or, Who shall descend into the deep? (that is, to bring up Christ again from the dead.)
+- **10:9** — That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved.
+- **10:11** — For the scripture saith, Whosoever believeth on him shall not be ashamed.
+- **10:12** — For there is no difference between the Jew and the Greek: for the same Lord over all is rich unto all that call upon him.
+- **10:13** — For whosoever shall call upon the name of the Lord shall be saved.
+- **10:14** — How then shall they call on him in whom they have not believed? and how shall they believe in him of whom they have not heard? and how shall they hear without a preacher?
+- **10:16** — But they have not all obeyed the gospel. For Esaias saith, Lord, who hath believed our report?
+- **10:20** — But Esaias is very bold, and saith, I was found of them that sought me not; I was made manifest unto them that asked not after me.
+- **10:21** — But to Israel he saith, All day long I have stretched forth my hands unto a disobedient and gainsaying people.
+- **11:3** — Lord, they have killed thy prophets, and digged down thine altars; and I am left alone, and they seek my life.
+- **11:4** — But what saith the answer of God unto him? I have reserved to myself seven thousand men, who have not bowed the knee to the image of Baal.
+- **11:22** — Behold therefore the goodness and severity of God: on them which fell, severity; but toward thee, goodness, if thou continue in his goodness: otherwise thou also shalt be cut off.
+- **11:27** — For this is my covenant unto them, when I shall take away their sins.
+- **11:34** — For who hath known the mind of the Lord? or who hath been his counsellor?
+- **11:35** — Or who hath first given to him, and it shall be recompensed unto him again?
+- **11:36** — For of him, and through him, and to him, are all things: to whom be glory for ever. Amen.
+- **12:5** — So we, being many, are one body in Christ, and every one members one of another.
+- **12:11** — Not slothful in business; fervent in spirit; serving the Lord;
+- **12:19** — Dearly beloved, avenge not yourselves, but rather give place unto wrath: for it is written, Vengeance is mine; I will repay, saith the Lord.
+- **13:14** — But put ye on the Lord Jesus Christ, and make not provision for the flesh, to fulfil the lusts thereof.
+- **14:6** — He that regardeth the day, regardeth it unto the Lord; and he that regardeth not the day, to the Lord he doth not regard it. He that eateth, eateth to the Lord, for he giveth God thanks; and he that eateth not, to the Lord he eateth not, and giveth God thanks.
+- **14:8** — For whether we live, we live unto the Lord; and whether we die, we die unto the Lord: whether we live therefore, or die, we are the Lord's.
+- **14:9** — For to this end Christ both died, and rose, and revived, that he might be Lord both of the dead and living.
+- **14:10** — But why dost thou judge thy brother? or why dost thou set at nought thy brother? for we shall all stand before the judgment seat of Christ.
+- **14:11** — For it is written, As I live, saith the Lord, every knee shall bow to me, and every tongue shall confess to God.
+- **14:14** — I know, and am persuaded by the Lord Jesus, that there is nothing unclean of itself: but to him that esteemeth any thing to be unclean, to him it is unclean.
+- **14:15** — But if thy brother be grieved with thy meat, now walkest thou not charitably. Destroy not him with thy meat, for whom Christ died.
+- **14:18** — For he that in these things serveth Christ is acceptable to God, and approved of men.
+- **15:3** — For even Christ pleased not himself; but, as it is written, The reproaches of them that reproached thee fell on me.
+- **15:5** — Now the God of patience and consolation grant you to be likeminded one toward another according to Christ Jesus:
+- **15:6** — That ye may with one mind and one mouth glorify God, even the Father of our Lord Jesus Christ.
+- **15:7** — Wherefore receive ye one another, as Christ also received us to the glory of God.
+- **15:8** — Now I say that Jesus Christ was a minister of the circumcision for the truth of God, to confirm the promises made unto the fathers:
+- **15:9** — And that the Gentiles might glorify God for his mercy; as it is written, For this cause I will confess to thee among the Gentiles, and sing unto thy name.
+- **15:10** — And again he saith, Rejoice, ye Gentiles, with his people.
+- **15:11** — And again, Praise the Lord, all ye Gentiles; and laud him, all ye people.
+- **15:12** — And again, Esaias saith, There shall be a root of Jesse, and he that shall rise to reign over the Gentiles; in him shall the Gentiles trust.
+- **15:16** — That I should be the minister of Jesus Christ to the Gentiles, ministering the gospel of God, that the offering up of the Gentiles might be acceptable, being sanctified by the Holy Ghost.
+- **15:17** — I have therefore whereof I may glory through Jesus Christ in those things which pertain to God.
+- **15:18** — For I will not dare to speak of any of those things which Christ hath not wrought by me, to make the Gentiles obedient, by word and deed,
+- **15:19** — Through mighty signs and wonders, by the power of the Spirit of God; so that from Jerusalem, and round about unto Illyricum, I have fully preached the gospel of Christ.
+- **15:20** — Yea, so have I strived to preach the gospel, not where Christ was named, lest I should build upon another man's foundation:
+- **15:21** — But as it is written, To whom he was not spoken of, they shall see: and they that have not heard shall understand.
+- **15:29** — And I am sure that, when I come unto you, I shall come in the fulness of the blessing of the gospel of Christ.
+- **15:30** — Now I beseech you, brethren, for the Lord Jesus Christ's sake, and for the love of the Spirit, that ye strive together with me in your prayers to God for me;
+- **16:2** — That ye receive her in the Lord, as becometh saints, and that ye assist her in whatsoever business she hath need of you: for she hath been a succourer of many, and of myself also.
+- **16:3** — Greet Priscilla and Aquila my helpers in Christ Jesus:
+- **16:5** — Likewise greet the church that is in their house. Salute my wellbeloved Epaenetus, who is the firstfruits of Achaia unto Christ.
+- **16:7** — Salute Andronicus and Junia, my kinsmen, and my fellowprisoners, who are of note among the apostles, who also were in Christ before me.
+- **16:8** — Greet Amplias my beloved in the Lord.
+- **16:9** — Salute Urbane, our helper in Christ, and Stachys my beloved.
+- **16:10** — Salute Apelles approved in Christ. Salute them which are of Aristobulus' household.
+- **16:11** — Salute Herodion my kinsman. Greet them that be of the household of Narcissus, which are in the Lord.
+- **16:12** — Salute Tryphena and Tryphosa, who labour in the Lord. Salute the beloved Persis, which laboured much in the Lord.
+- **16:13** — Salute Rufus chosen in the Lord, and his mother and mine.
+- **16:16** — Salute one another with an holy kiss. The churches of Christ salute you.
+- **16:18** — For they that are such serve not our Lord Jesus Christ, but their own belly; and by good words and fair speeches deceive the hearts of the simple.
+- **16:20** — And the God of peace shall bruise Satan under your feet shortly. The grace of our Lord Jesus Christ be with you. Amen.
+- **16:22** — I Tertius, who wrote this epistle, salute you in the Lord.
+- **16:24** — The grace of our Lord Jesus Christ be with you all. Amen.
+- **16:25** — Now to him that is of power to stablish you according to my gospel, and the preaching of Jesus Christ, according to the revelation of the mystery, which was kept secret since the world began,
+- **16:27** — To God only wise, be glory through Jesus Christ for ever. Amen.
+
+### [[1 Corinthians]]
+- **1:1** — Paul, called to be an apostle of Jesus Christ through the will of God, and Sosthenes our brother,
+- **1:2** — Unto the church of God which is at Corinth, to them that are sanctified in Christ Jesus, called to be saints, with all that in every place call upon the name of Jesus Christ our Lord, both theirs and ours:
+- **1:3** — Grace be unto you, and peace, from God our Father, and from the Lord Jesus Christ.
+- **1:4** — I thank my God always on your behalf, for the grace of God which is given you by Jesus Christ;
+- **1:5** — That in every thing ye are enriched by him, in all utterance, and in all knowledge;
+- **1:6** — Even as the testimony of Christ was confirmed in you:
+- **1:7** — So that ye come behind in no gift; waiting for the coming of our Lord Jesus Christ:
+- **1:8** — Who shall also confirm you unto the end, that ye may be blameless in the day of our Lord Jesus Christ.
+- **1:9** — God is faithful, by whom ye were called unto the fellowship of his Son Jesus Christ our Lord.
+- **1:10** — Now I beseech you, brethren, by the name of our Lord Jesus Christ, that ye all speak the same thing, and that there be no divisions among you; but that ye be perfectly joined together in the same mind and in the same judgment.
+- **1:12** — Now this I say, that every one of you saith, I am of Paul; and I of Apollos; and I of Cephas; and I of Christ.
+- **1:13** — Is Christ divided? was Paul crucified for you? or were ye baptized in the name of Paul?
+- **1:17** — For Christ sent me not to baptize, but to preach the gospel: not with wisdom of words, lest the cross of Christ should be made of none effect.
+- **1:23** — But we preach Christ crucified, unto the Jews a stumblingblock, and unto the Greeks foolishness;
+- **1:24** — But unto them which are called, both Jews and Greeks, Christ the power of God, and the wisdom of God.
+- **1:29** — That no flesh should glory in his presence.
+- **1:30** — But of him are ye in Christ Jesus, who of God is made unto us wisdom, and righteousness, and sanctification, and redemption:
+- **1:31** — That, according as it is written, He that glorieth, let him glory in the Lord.
+- **2:2** — For I determined not to know any thing among you, save Jesus Christ, and him crucified.
+- **2:8** — Which none of the princes of this world knew: for had they known it, they would not have crucified the Lord of glory.
+- **2:16** — For who hath known the mind of the Lord, that he may instruct him? But we have the mind of Christ.
+- **3:1** — And I, brethren, could not speak unto you as unto spiritual, but as unto carnal, even as unto babes in Christ.
+- **3:5** — Who then is Paul, and who is Apollos, but ministers by whom ye believed, even as the Lord gave to every man?
+- **3:11** — For other foundation can no man lay than that is laid, which is Jesus Christ.
+- **3:20** — And again, The Lord knoweth the thoughts of the wise, that they are vain.
+- **3:23** — And ye are Christ's; and Christ is God's.
+- **4:1** — Let a man so account of us, as of the ministers of Christ, and stewards of the mysteries of God.
+- **4:4** — For I know nothing by myself; yet am I not hereby justified: but he that judgeth me is the Lord.
+- **4:5** — Therefore judge nothing before the time, until the Lord come, who both will bring to light the hidden things of darkness, and will make manifest the counsels of the hearts: and then shall every man have praise of God.
+- **4:10** — We are fools for Christ's sake, but ye are wise in Christ; we are weak, but ye are strong; ye are honourable, but we are despised.
+- **4:15** — For though ye have ten thousand instructors in Christ, yet have ye not many fathers: for in Christ Jesus I have begotten you through the gospel.
+- **4:17** — For this cause have I sent unto you Timotheus, who is my beloved son, and faithful in the Lord, who shall bring you into remembrance of my ways which be in Christ, as I teach every where in every church.
+- **4:19** — But I will come to you shortly, if the Lord will, and will know, not the speech of them which are puffed up, but the power.
+- **5:4** — In the name of our Lord Jesus Christ, when ye are gathered together, and my spirit, with the power of our Lord Jesus Christ,
+- **5:5** — To deliver such an one unto Satan for the destruction of the flesh, that the spirit may be saved in the day of the Lord Jesus.
+- **5:7** — Purge out therefore the old leaven, that ye may be a new lump, as ye are unleavened. For even Christ our passover is sacrificed for us:
+- **6:11** — And such were some of you: but ye are washed, but ye are sanctified, but ye are justified in the name of the Lord Jesus, and by the Spirit of our God.
+- **6:13** — Meats for the belly, and the belly for meats: but God shall destroy both it and them. Now the body is not for fornication, but for the Lord; and the Lord for the body.
+- **6:14** — And God hath both raised up the Lord, and will also raise up us by his own power.
+- **6:15** — Know ye not that your bodies are the members of Christ? shall I then take the members of Christ, and make them the members of an harlot? God forbid.
+- **6:16** — What? know ye not that he which is joined to an harlot is one body? for two, saith he, shall be one flesh.
+- **6:17** — But he that is joined unto the Lord is one spirit.
+- **7:10** — And unto the married I command, yet not I, but the Lord, Let not the wife depart from her husband:
+- **7:12** — But to the rest speak I, not the Lord: If any brother hath a wife that believeth not, and she be pleased to dwell with him, let him not put her away.
+- **7:17** — But as God hath distributed to every man, as the Lord hath called every one, so let him walk. And so ordain I in all churches.
+- **7:22** — For he that is called in the Lord, being a servant, is the Lord's freeman: likewise also he that is called, being free, is Christ's servant.
+- **7:25** — Now concerning virgins I have no commandment of the Lord: yet I give my judgment, as one that hath obtained mercy of the Lord to be faithful.
+- **7:32** — But I would have you without carefulness. He that is unmarried careth for the things that belong to the Lord, how he may please the Lord:
+- **7:34** — There is difference also between a wife and a virgin. The unmarried woman careth for the things of the Lord, that she may be holy both in body and in spirit: but she that is married careth for the things of the world, how she may please her husband.
+- **7:35** — And this I speak for your own profit; not that I may cast a snare upon you, but for that which is comely, and that ye may attend upon the Lord without distraction.
+- **7:39** — The wife is bound by the law as long as her husband liveth; but if her husband be dead, she is at liberty to be married to whom she will; only in the Lord.
+- **8:6** — But to us there is but one God, the Father, of whom are all things, and we in him; and one Lord Jesus Christ, by whom are all things, and we by him.
+- **8:11** — And through thy knowledge shall the weak brother perish, for whom Christ died?
+- **8:12** — But when ye sin so against the brethren, and wound their weak conscience, ye sin against Christ.
+- **9:1** — Am I not an apostle? am I not free? have I not seen Jesus Christ our Lord? are not ye my work in the Lord?
+- **9:2** — If I be not an apostle unto others, yet doubtless I am to you: for the seal of mine apostleship are ye in the Lord.
+- **9:5** — Have we not power to lead about a sister, a wife, as well as other apostles, and as the brethren of the Lord, and Cephas?
+- **9:10** — Or saith he it altogether for our sakes? For our sakes, no doubt, this is written: that he that ploweth should plow in hope; and that he that thresheth in hope should be partaker of his hope.
+- **9:12** — If others be partakers of this power over you, are not we rather? Nevertheless we have not used this power; but suffer all things, lest we should hinder the gospel of Christ.
+- **9:14** — Even so hath the Lord ordained that they which preach the gospel should live of the gospel.
+- **9:18** — What is my reward then? Verily that, when I preach the gospel, I may make the gospel of Christ without charge, that I abuse not my power in the gospel.
+- **9:21** — To them that are without law, as without law, (being not without law to God, but under the law to Christ,) that I might gain them that are without law.
+- **10:4** — And did all drink the same spiritual drink: for they drank of that spiritual Rock that followed them: and that Rock was Christ.
+- **10:9** — Neither let us tempt Christ, as some of them also tempted, and were destroyed of serpents.
+- **10:16** — The cup of blessing which we bless, is it not the communion of the blood of Christ? The bread which we break, is it not the communion of the body of Christ?
+- **10:21** — Ye cannot drink the cup of the Lord, and the cup of devils: ye cannot be partakers of the Lord's table, and of the table of devils.
+- **10:22** — Do we provoke the Lord to jealousy? are we stronger than he?
+- **11:1** — Be ye followers of me, even as I also am of Christ.
+- **11:3** — But I would have you know, that the head of every man is Christ; and the head of the woman is the man; and the head of Christ is God.
+- **11:11** — Nevertheless neither is the man without the woman, neither the woman without the man, in the Lord.
+- **11:23** — For I have received of the Lord that which also I delivered unto you, That the Lord Jesus the same night in which he was betrayed took bread:
+- **11:24** — And when he had given thanks, he brake it, and said, Take, eat: this is my body, which is broken for you: this do in remembrance of me.
+- **11:25** — After the same manner also he took the cup, when he had supped, saying, This cup is the new testament in my blood: this do ye, as oft as ye drink it, in remembrance of me.
+- **11:26** — For as often as ye eat this bread, and drink this cup, ye do shew the Lord's death till he come.
+- **11:27** — Wherefore whosoever shall eat this bread, and drink this cup of the Lord, unworthily, shall be guilty of the body and blood of the Lord.
+- **11:32** — But when we are judged, we are chastened of the Lord, that we should not be condemned with the world.
+- **12:3** — Wherefore I give you to understand, that no man speaking by the Spirit of God calleth Jesus accursed: and that no man can say that Jesus is the Lord, but by the Holy Ghost.
+- **12:5** — And there are differences of administrations, but the same Lord.
+- **12:11** — But all these worketh that one and the selfsame Spirit, dividing to every man severally as he will.
+- **12:12** — For as the body is one, and hath many members, and all the members of that one body, being many, are one body: so also is Christ.
+- **12:27** — Now ye are the body of Christ, and members in particular.
+- **14:21** — In the law it is written, With men of other tongues and other lips will I speak unto this people; and yet for all that will they not hear me, saith the Lord.
+- **14:37** — If any man think himself to be a prophet, or spiritual, let him acknowledge that the things that I write unto you are the commandments of the Lord.
+- **15:3** — For I delivered unto you first of all that which I also received, how that Christ died for our sins according to the scriptures;
+- **15:4** — And that he was buried, and that he rose again the third day according to the scriptures:
+- **15:5** — And that he was seen of Cephas, then of the twelve:
+- **15:6** — After that, he was seen of above five hundred brethren at once; of whom the greater part remain unto this present, but some are fallen asleep.
+- **15:7** — After that, he was seen of James; then of all the apostles.
+- **15:8** — And last of all he was seen of me also, as of one born out of due time.
+- **15:12** — Now if Christ be preached that he rose from the dead, how say some among you that there is no resurrection of the dead?
+- **15:13** — But if there be no resurrection of the dead, then is Christ not risen:
+- **15:14** — And if Christ be not risen, then is our preaching vain, and your faith is also vain.
+- **15:15** — Yea, and we are found false witnesses of God; because we have testified of God that he raised up Christ: whom he raised not up, if so be that the dead rise not.
+- **15:16** — For if the dead rise not, then is not Christ raised:
+- **15:17** — And if Christ be not raised, your faith is vain; ye are yet in your sins.
+- **15:18** — Then they also which are fallen asleep in Christ are perished.
+- **15:19** — If in this life only we have hope in Christ, we are of all men most miserable.
+- **15:20** — But now is Christ risen from the dead, and become the firstfruits of them that slept.
+- **15:22** — For as in Adam all die, even so in Christ shall all be made alive.
+- **15:23** — But every man in his own order: Christ the firstfruits; afterward they that are Christ's at his coming.
+- **15:24** — Then cometh the end, when he shall have delivered up the kingdom to God, even the Father; when he shall have put down all rule and all authority and power.
+- **15:25** — For he must reign, till he hath put all enemies under his feet.
+- **15:27** — For he hath put all things under his feet. But when he saith all things are put under him, it is manifest that he is excepted, which did put all things under him.
+- **15:28** — And when all things shall be subdued unto him, then shall the Son also himself be subject unto him that put all things under him, that God may be all in all.
+- **15:31** — I protest by your rejoicing which I have in Christ Jesus our Lord, I die daily.
+- **15:47** — The first man is of the earth, earthy: the second man is the Lord from heaven.
+- **15:57** — But thanks be to God, which giveth us the victory through our Lord Jesus Christ.
+- **15:58** — Therefore, my beloved brethren, be ye stedfast, unmoveable, always abounding in the work of the Lord, forasmuch as ye know that your labour is not in vain in the Lord.
+- **16:2** — Upon the first day of the week let every one of you lay by him in store, as God hath prospered him, that there be no gatherings when I come.
+- **16:7** — For I will not see you now by the way; but I trust to tarry a while with you, if the Lord permit.
+- **16:10** — Now if Timotheus come, see that he may be with you without fear: for he worketh the work of the Lord, as I also do.
+- **16:19** — The churches of Asia salute you. Aquila and Priscilla salute you much in the Lord, with the church that is in their house.
+- **16:22** — If any man love not the Lord Jesus Christ, let him be Anathema Maranatha.
+- **16:23** — The grace of our Lord Jesus Christ be with you.
+- **16:24** — My love be with you all in Christ Jesus. Amen.
+
+### [[2 Corinthians]]
+- **1:1** — Paul, an apostle of Jesus Christ by the will of God, and Timothy our brother, unto the church of God which is at Corinth, with all the saints which are in all Achaia:
+- **1:2** — Grace be to you and peace from God our Father, and from the Lord Jesus Christ.
+- **1:3** — Blessed be God, even the Father of our Lord Jesus Christ, the Father of mercies, and the God of all comfort;
+- **1:5** — For as the sufferings of Christ abound in us, so our consolation also aboundeth by Christ.
+- **1:10** — Who delivered us from so great a death, and doth deliver: in whom we trust that he will yet deliver us;
+- **1:14** — As also ye have acknowledged us in part, that we are your rejoicing, even as ye also are ours in the day of the Lord Jesus.
+- **1:19** — For the Son of God, Jesus Christ, who was preached among you by us, even by me and Silvanus and Timotheus, was not yea and nay, but in him was yea.
+- **1:20** — For all the promises of God in him are yea, and in him Amen, unto the glory of God by us.
+- **1:21** — Now he which stablisheth us with you in Christ, and hath anointed us, is God;
+- **2:10** — To whom ye forgive any thing, I forgive also: for if I forgave any thing, to whom I forgave it, for your sakes forgave I it in the person of Christ;
+- **2:12** — Furthermore, when I came to Troas to preach Christ's gospel, and a door was opened unto me of the Lord,
+- **2:14** — Now thanks be unto God, which always causeth us to triumph in Christ, and maketh manifest the savour of his knowledge by us in every place.
+- **2:15** — For we are unto God a sweet savour of Christ, in them that are saved, and in them that perish:
+- **2:17** — For we are not as many, which corrupt the word of God: but as of sincerity, but as of God, in the sight of God speak we in Christ.
+- **3:3** — Forasmuch as ye are manifestly declared to be the epistle of Christ ministered by us, written not with ink, but with the Spirit of the living God; not in tables of stone, but in fleshy tables of the heart.
+- **3:4** — And such trust have we through Christ to God-ward:
+- **3:14** — But their minds were blinded: for until this day remaineth the same vail untaken away in the reading of the old testament; which vail is done away in Christ.
+- **3:16** — Nevertheless when it shall turn to the Lord, the vail shall be taken away.
+- **3:17** — Now the Lord is that Spirit: and where the Spirit of the Lord is, there is liberty.
+- **3:18** — But we all, with open face beholding as in a glass the glory of the Lord, are changed into the same image from glory to glory, even as by the Spirit of the Lord.
+- **4:4** — In whom the god of this world hath blinded the minds of them which believe not, lest the light of the glorious gospel of Christ, who is the image of God, should shine unto them.
+- **4:5** — For we preach not ourselves, but Christ Jesus the Lord; and ourselves your servants for Jesus' sake.
+- **4:6** — For God, who commanded the light to shine out of darkness, hath shined in our hearts, to give the light of the knowledge of the glory of God in the face of Jesus Christ.
+- **4:10** — Always bearing about in the body the dying of the Lord Jesus, that the life also of Jesus might be made manifest in our body.
+- **4:11** — For we which live are alway delivered unto death for Jesus' sake, that the life also of Jesus might be made manifest in our mortal flesh.
+- **4:14** — Knowing that he which raised up the Lord Jesus shall raise up us also by Jesus, and shall present us with you.
+- **5:5** — Now he that hath wrought us for the selfsame thing is God, who also hath given unto us the earnest of the Spirit.
+- **5:6** — Therefore we are always confident, knowing that, whilst we are at home in the body, we are absent from the Lord:
+- **5:8** — We are confident, I say, and willing rather to be absent from the body, and to be present with the Lord.
+- **5:9** — Wherefore we labour, that, whether present or absent, we may be accepted of him.
+- **5:10** — For we must all appear before the judgment seat of Christ; that every one may receive the things done in his body, according to that he hath done, whether it be good or bad.
+- **5:11** — Knowing therefore the terror of the Lord, we persuade men; but we are made manifest unto God; and I trust also are made manifest in your consciences.
+- **5:14** — For the love of Christ constraineth us; because we thus judge, that if one died for all, then were all dead:
+- **5:15** — And that he died for all, that they which live should not henceforth live unto themselves, but unto him which died for them, and rose again.
+- **5:16** — Wherefore henceforth know we no man after the flesh: yea, though we have known Christ after the flesh, yet now henceforth know we him no more.
+- **5:17** — Therefore if any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new.
+- **5:18** — And all things are of God, who hath reconciled us to himself by Jesus Christ, and hath given to us the ministry of reconciliation;
+- **5:19** — To wit, that God was in Christ, reconciling the world unto himself, not imputing their trespasses unto them; and hath committed unto us the word of reconciliation.
+- **5:20** — Now then we are ambassadors for Christ, as though God did beseech you by us: we pray you in Christ's stead, be ye reconciled to God.
+- **5:21** — For he hath made him to be sin for us, who knew no sin; that we might be made the righteousness of God in him.
+- **6:1** — We then, as workers together with him, beseech you also that ye receive not the grace of God in vain.
+- **6:2** — For he saith, I have heard thee in a time accepted, and in the day of salvation have I succoured thee: behold, now is the accepted time; behold, now is the day of salvation.)
+- **6:15** — And what concord hath Christ with Belial? or what part hath he that believeth with an infidel?
+- **6:16** — And what agreement hath the temple of God with idols? for ye are the temple of the living God; as God hath said, I will dwell in them, and walk in them; and I will be their God, and they shall be my people.
+- **6:17** — Wherefore come out from among them, and be ye separate, saith the Lord, and touch not the unclean thing; and I will receive you,
+- **6:18** — And will be a Father unto you, and ye shall be my sons and daughters, saith the Lord Almighty.
+- **8:5** — And this they did, not as we hoped, but first gave their own selves to the Lord, and unto us by the will of God.
+- **8:9** — For ye know the grace of our Lord Jesus Christ, that, though he was rich, yet for your sakes he became poor, that ye through his poverty might be rich.
+- **8:19** — And not that only, but who was also chosen of the churches to travel with us with this grace, which is administered by us to the glory of the same Lord, and declaration of your ready mind:
+- **8:21** — Providing for honest things, not only in the sight of the Lord, but also in the sight of men.
+- **8:23** — Whether any do enquire of Titus, he is my partner and fellowhelper concerning you: or our brethren be enquired of, they are the messengers of the churches, and the glory of Christ.
+- **9:9** — As it is written, He hath dispersed abroad; he hath given to the poor: his righteousness remaineth for ever.
+- **9:10** — Now he that ministereth seed to the sower both minister bread for your food, and multiply your seed sown, and increase the fruits of your righteousness;)
+- **9:13** — Whiles by the experiment of this ministration they glorify God for your professed subjection unto the gospel of Christ, and for your liberal distribution unto them, and unto all men;
+- **10:1** — Now I Paul myself beseech you by the meekness and gentleness of Christ, who in presence am base among you, but being absent am bold toward you:
+- **10:5** — Casting down imaginations, and every high thing that exalteth itself against the knowledge of God, and bringing into captivity every thought to the obedience of Christ;
+- **10:8** — For though I should boast somewhat more of our authority, which the Lord hath given us for edification, and not for your destruction, I should not be ashamed:
+- **10:14** — For we stretch not ourselves beyond our measure, as though we reached not unto you: for we are come as far as to you also in preaching the gospel of Christ:
+- **10:17** — But he that glorieth, let him glory in the Lord.
+- **10:18** — For not he that commendeth himself is approved, but whom the Lord commendeth.
+- **11:2** — For I am jealous over you with godly jealousy: for I have espoused you to one husband, that I may present you as a chaste virgin to Christ.
+- **11:3** — But I fear, lest by any means, as the serpent beguiled Eve through his subtilty, so your minds should be corrupted from the simplicity that is in Christ.
+- **11:4** — For if he that cometh preacheth another Jesus, whom we have not preached, or if ye receive another spirit, which ye have not received, or another gospel, which ye have not accepted, ye might well bear with him.
+- **11:10** — As the truth of Christ is in me, no man shall stop me of this boasting in the regions of Achaia.
+- **11:13** — For such are false apostles, deceitful workers, transforming themselves into the apostles of Christ.
+- **11:17** — That which I speak, I speak it not after the Lord, but as it were foolishly, in this confidence of boasting.
+- **11:23** — Are they ministers of Christ? (I speak as a fool) I am more; in labours more abundant, in stripes above measure, in prisons more frequent, in deaths oft.
+- **11:31** — The God and Father of our Lord Jesus Christ, which is blessed for evermore, knoweth that I lie not.
+- **12:1** — It is not expedient for me doubtless to glory. I will come to visions and revelations of the Lord.
+- **12:2** — I knew a man in Christ above fourteen years ago, (whether in the body, I cannot tell; or whether out of the body, I cannot tell: God knoweth;) such an one caught up to the third heaven.
+- **12:8** — For this thing I besought the Lord thrice, that it might depart from me.
+- **12:9** — And he said unto me, My grace is sufficient for thee: for my strength is made perfect in weakness. Most gladly therefore will I rather glory in my infirmities, that the power of Christ may rest upon me.
+- **12:19** — Again, think ye that we excuse ourselves unto you? we speak before God in Christ: but we do all things, dearly beloved, for your edifying.
+- **13:3** — Since ye seek a proof of Christ speaking in me, which to you-ward is not weak, but is mighty in you.
+- **13:4** — For though he was crucified through weakness, yet he liveth by the power of God. For we also are weak in him, but we shall live with him by the power of God toward you.
+- **13:5** — Examine yourselves, whether ye be in the faith; prove your own selves. Know ye not your own selves, how that Jesus Christ is in you, except ye be reprobates?
+- **13:10** — Therefore I write these things being absent, lest being present I should use sharpness, according to the power which the Lord hath given me to edification, and not to destruction.
+- **13:14** — The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Ghost, be with you all. Amen.
+
+### [[Galatians]]
+- **1:1** — Paul, an apostle, (not of men, neither by man, but by Jesus Christ, and God the Father, who raised him from the dead;)
+- **1:3** — Grace be to you and peace from God the Father, and from our Lord Jesus Christ,
+- **1:4** — Who gave himself for our sins, that he might deliver us from this present evil world, according to the will of God and our Father:
+- **1:6** — I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel:
+- **1:7** — Which is not another; but there be some that trouble you, and would pervert the gospel of Christ.
+- **1:10** — For do I now persuade men, or God? or do I seek to please men? for if I yet pleased men, I should not be the servant of Christ.
+- **1:12** — For I neither received it of man, neither was I taught it, but by the revelation of Jesus Christ.
+- **1:16** — To reveal his Son in me, that I might preach him among the heathen; immediately I conferred not with flesh and blood:
+- **1:22** — And was unknown by face unto the churches of Judaea which were in Christ:
+- **2:4** — And that because of false brethren unawares brought in, who came in privily to spy out our liberty which we have in Christ Jesus, that they might bring us into bondage:
+- **2:16** — Knowing that a man is not justified by the works of the law, but by the faith of Jesus Christ, even we have believed in Jesus Christ, that we might be justified by the faith of Christ, and not by the works of the law: for by the works of the law shall no flesh be justified.
+- **2:17** — But if, while we seek to be justified by Christ, we ourselves also are found sinners, is therefore Christ the minister of sin? God forbid.
+- **2:20** — I am crucified with Christ: nevertheless I live; yet not I, but Christ liveth in me: and the life which I now live in the flesh I live by the faith of the Son of God, who loved me, and gave himself for me.
+- **2:21** — I do not frustrate the grace of God: for if righteousness come by the law, then Christ is dead in vain.
+- **3:1** — O foolish Galatians, who hath bewitched you, that ye should not obey the truth, before whose eyes Jesus Christ hath been evidently set forth, crucified among you?
+- **3:5** — He therefore that ministereth to you the Spirit, and worketh miracles among you, doeth he it by the works of the law, or by the hearing of faith?
+- **3:13** — Christ hath redeemed us from the curse of the law, being made a curse for us: for it is written, Cursed is every one that hangeth on a tree:
+- **3:14** — That the blessing of Abraham might come on the Gentiles through Jesus Christ; that we might receive the promise of the Spirit through faith.
+- **3:16** — Now to Abraham and his seed were the promises made. He saith not, And to seeds, as of many; but as of one, And to thy seed, which is Christ.
+- **3:17** — And this I say, that the covenant, that was confirmed before of God in Christ, the law, which was four hundred and thirty years after, cannot disannul, that it should make the promise of none effect.
+- **3:22** — But the scripture hath concluded all under sin, that the promise by faith of Jesus Christ might be given to them that believe.
+- **3:24** — Wherefore the law was our schoolmaster to bring us unto Christ, that we might be justified by faith.
+- **3:26** — For ye are all the children of God by faith in Christ Jesus.
+- **3:27** — For as many of you as have been baptized into Christ have put on Christ.
+- **3:28** — There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for ye are all one in Christ Jesus.
+- **4:4** — But when the fulness of the time was come, God sent forth his Son, made of a woman, made under the law,
+- **4:6** — And because ye are sons, God hath sent forth the Spirit of his Son into your hearts, crying, Abba, Father.
+- **4:7** — Wherefore thou art no more a servant, but a son; and if a son, then an heir of God through Christ.
+- **4:14** — And my temptation which was in my flesh ye despised not, nor rejected; but received me as an angel of God, even as Christ Jesus.
+- **4:19** — My little children, of whom I travail in birth again until Christ be formed in you,
+- **5:1** — Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage.
+- **5:2** — Behold, I Paul say unto you, that if ye be circumcised, Christ shall profit you nothing.
+- **5:4** — Christ is become of no effect unto you, whosoever of you are justified by the law; ye are fallen from grace.
+- **5:6** — For in Jesus Christ neither circumcision availeth any thing, nor uncircumcision; but faith which worketh by love.
+- **5:8** — This persuasion cometh not of him that calleth you.
+- **5:10** — I have confidence in you through the Lord, that ye will be none otherwise minded: but he that troubleth you shall bear his judgment, whosoever he be.
+- **6:2** — Bear ye one another's burdens, and so fulfil the law of Christ.
+- **6:12** — As many as desire to make a fair shew in the flesh, they constrain you to be circumcised; only lest they should suffer persecution for the cross of Christ.
+- **6:14** — But God forbid that I should glory, save in the cross of our Lord Jesus Christ, by whom the world is crucified unto me, and I unto the world.
+- **6:15** — For in Christ Jesus neither circumcision availeth any thing, nor uncircumcision, but a new creature.
+- **6:17** — From henceforth let no man trouble me: for I bear in my body the marks of the Lord Jesus.
+- **6:18** — Brethren, the grace of our Lord Jesus Christ be with your spirit. Amen.
+
+### [[Ephesians]]
+- **1:1** — Paul, an apostle of Jesus Christ by the will of God, to the saints which are at Ephesus, and to the faithful in Christ Jesus:
+- **1:2** — Grace be to you, and peace, from God our Father, and from the Lord Jesus Christ.
+- **1:3** — Blessed be the God and Father of our Lord Jesus Christ, who hath blessed us with all spiritual blessings in heavenly places in Christ:
+- **1:4** — According as he hath chosen us in him before the foundation of the world, that we should be holy and without blame before him in love:
+- **1:5** — Having predestinated us unto the adoption of children by Jesus Christ to himself, according to the good pleasure of his will,
+- **1:6** — To the praise of the glory of his grace, wherein he hath made us accepted in the beloved.
+- **1:7** — In whom we have redemption through his blood, the forgiveness of sins, according to the riches of his grace;
+- **1:8** — Wherein he hath abounded toward us in all wisdom and prudence;
+- **1:9** — Having made known unto us the mystery of his will, according to his good pleasure which he hath purposed in himself:
+- **1:10** — That in the dispensation of the fulness of times he might gather together in one all things in Christ, both which are in heaven, and which are on earth; even in him:
+- **1:11** — In whom also we have obtained an inheritance, being predestinated according to the purpose of him who worketh all things after the counsel of his own will:
+- **1:12** — That we should be to the praise of his glory, who first trusted in Christ.
+- **1:13** — In whom ye also trusted, after that ye heard the word of truth, the gospel of your salvation: in whom also after that ye believed, ye were sealed with that holy Spirit of promise,
+- **1:14** — Which is the earnest of our inheritance until the redemption of the purchased possession, unto the praise of his glory.
+- **1:15** — Wherefore I also, after I heard of your faith in the Lord Jesus, and love unto all the saints,
+- **1:17** — That the God of our Lord Jesus Christ, the Father of glory, may give unto you the spirit of wisdom and revelation in the knowledge of him:
+- **1:18** — The eyes of your understanding being enlightened; that ye may know what is the hope of his calling, and what the riches of the glory of his inheritance in the saints,
+- **1:19** — And what is the exceeding greatness of his power to us-ward who believe, according to the working of his mighty power,
+- **1:20** — Which he wrought in Christ, when he raised him from the dead, and set him at his own right hand in the heavenly places,
+- **1:22** — And hath put all things under his feet, and gave him to be the head over all things to the church,
+- **1:23** — Which is his body, the fulness of him that filleth all in all.
+- **2:1** — And you hath he quickened, who were dead in trespasses and sins;
+- **2:5** — Even when we were dead in sins, hath quickened us together with Christ, (by grace ye are saved;)
+- **2:6** — And hath raised us up together, and made us sit together in heavenly places in Christ Jesus:
+- **2:7** — That in the ages to come he might shew the exceeding riches of his grace in his kindness toward us through Christ Jesus.
+- **2:10** — For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them.
+- **2:12** — That at that time ye were without Christ, being aliens from the commonwealth of Israel, and strangers from the covenants of promise, having no hope, and without God in the world:
+- **2:13** — But now in Christ Jesus ye who sometimes were far off are made nigh by the blood of Christ.
+- **2:14** — For he is our peace, who hath made both one, and hath broken down the middle wall of partition between us;
+- **2:15** — Having abolished in his flesh the enmity, even the law of commandments contained in ordinances; for to make in himself of twain one new man, so making peace;
+- **2:16** — And that he might reconcile both unto God in one body by the cross, having slain the enmity thereby:
+- **2:18** — For through him we both have access by one Spirit unto the Father.
+- **2:20** — And are built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner stone;
+- **2:21** — In whom all the building fitly framed together groweth unto an holy temple in the Lord:
+- **3:1** — For this cause I Paul, the prisoner of Jesus Christ for you Gentiles,
+- **3:3** — How that by revelation he made known unto me the mystery; (as I wrote afore in few words,
+- **3:4** — Whereby, when ye read, ye may understand my knowledge in the mystery of Christ)
+- **3:5** — Which in other ages was not made known unto the sons of men, as it is now revealed unto his holy apostles and prophets by the Spirit;
+- **3:6** — That the Gentiles should be fellowheirs, and of the same body, and partakers of his promise in Christ by the gospel:
+- **3:8** — Unto me, who am less than the least of all saints, is this grace given, that I should preach among the Gentiles the unsearchable riches of Christ;
+- **3:9** — And to make all men see what is the fellowship of the mystery, which from the beginning of the world hath been hid in God, who created all things by Jesus Christ:
+- **3:11** — According to the eternal purpose which he purposed in Christ Jesus our Lord:
+- **3:12** — In whom we have boldness and access with confidence by the faith of him.
+- **3:14** — For this cause I bow my knees unto the Father of our Lord Jesus Christ,
+- **3:16** — That he would grant you, according to the riches of his glory, to be strengthened with might by his Spirit in the inner man;
+- **3:17** — That Christ may dwell in your hearts by faith; that ye, being rooted and grounded in love,
+- **3:19** — And to know the love of Christ, which passeth knowledge, that ye might be filled with all the fulness of God.
+- **3:20** — Now unto him that is able to do exceeding abundantly above all that we ask or think, according to the power that worketh in us,
+- **3:21** — Unto him be glory in the church by Christ Jesus throughout all ages, world without end. Amen.
+- **4:1** — I therefore, the prisoner of the Lord, beseech you that ye walk worthy of the vocation wherewith ye are called,
+- **4:5** — One Lord, one faith, one baptism,
+- **4:7** — But unto every one of us is given grace according to the measure of the gift of Christ.
+- **4:8** — Wherefore he saith, When he ascended up on high, he led captivity captive, and gave gifts unto men.
+- **4:9** — Now that he ascended, what is it but that he also descended first into the lower parts of the earth?
+- **4:10** — He that descended is the same also that ascended up far above all heavens, that he might fill all things.)
+- **4:11** — And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers;
+- **4:12** — For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ:
+- **4:13** — Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ:
+- **4:15** — But speaking the truth in love, may grow up into him in all things, which is the head, even Christ:
+- **4:17** — This I say therefore, and testify in the Lord, that ye henceforth walk not as other Gentiles walk, in the vanity of their mind,
+- **4:20** — But ye have not so learned Christ;
+- **4:21** — If so be that ye have heard him, and have been taught by him, as the truth is in Jesus:
+- **4:30** — And grieve not the holy Spirit of God, whereby ye are sealed unto the day of redemption.
+- **5:2** — And walk in love, as Christ also hath loved us, and hath given himself for us an offering and a sacrifice to God for a sweetsmelling savour.
+- **5:5** — For this ye know, that no whoremonger, nor unclean person, nor covetous man, who is an idolater, hath any inheritance in the kingdom of Christ and of God.
+- **5:8** — For ye were sometimes darkness, but now are ye light in the Lord: walk as children of light:
+- **5:10** — Proving what is acceptable unto the Lord.
+- **5:14** — Wherefore he saith, Awake thou that sleepest, and arise from the dead, and Christ shall give thee light.
+- **5:17** — Wherefore be ye not unwise, but understanding what the will of the Lord is.
+- **5:19** — Speaking to yourselves in psalms and hymns and spiritual songs, singing and making melody in your heart to the Lord;
+- **5:20** — Giving thanks always for all things unto God and the Father in the name of our Lord Jesus Christ;
+- **5:22** — Wives, submit yourselves unto your own husbands, as unto the Lord.
+- **5:23** — For the husband is the head of the wife, even as Christ is the head of the church: and he is the saviour of the body.
+- **5:24** — Therefore as the church is subject unto Christ, so let the wives be to their own husbands in every thing.
+- **5:25** — Husbands, love your wives, even as Christ also loved the church, and gave himself for it;
+- **5:26** — That he might sanctify and cleanse it with the washing of water by the word,
+- **5:27** — That he might present it to himself a glorious church, not having spot, or wrinkle, or any such thing; but that it should be holy and without blemish.
+- **5:29** — For no man ever yet hated his own flesh; but nourisheth and cherisheth it, even as the Lord the church:
+- **5:30** — For we are members of his body, of his flesh, and of his bones.
+- **5:32** — This is a great mystery: but I speak concerning Christ and the church.
+- **6:1** — Children, obey your parents in the Lord: for this is right.
+- **6:4** — And, ye fathers, provoke not your children to wrath: but bring them up in the nurture and admonition of the Lord.
+- **6:5** — Servants, be obedient to them that are your masters according to the flesh, with fear and trembling, in singleness of your heart, as unto Christ;
+- **6:6** — Not with eyeservice, as menpleasers; but as the servants of Christ, doing the will of God from the heart;
+- **6:7** — With good will doing service, as to the Lord, and not to men:
+- **6:8** — Knowing that whatsoever good thing any man doeth, the same shall he receive of the Lord, whether he be bond or free.
+- **6:9** — And, ye masters, do the same things unto them, forbearing threatening: knowing that your Master also is in heaven; neither is there respect of persons with him.
+- **6:10** — Finally, my brethren, be strong in the Lord, and in the power of his might.
+- **6:21** — But that ye also may know my affairs, and how I do, Tychicus, a beloved brother and faithful minister in the Lord, shall make known to you all things:
+- **6:23** — Peace be to the brethren, and love with faith, from God the Father and the Lord Jesus Christ.
+- **6:24** — Grace be with all them that love our Lord Jesus Christ in sincerity. Amen.
+
+### [[Philippians]]
+- **1:1** — Paul and Timotheus, the servants of Jesus Christ, to all the saints in Christ Jesus which are at Philippi, with the bishops and deacons:
+- **1:2** — Grace be unto you, and peace, from God our Father, and from the Lord Jesus Christ.
+- **1:6** — Being confident of this very thing, that he which hath begun a good work in you will perform it until the day of Jesus Christ:
+- **1:8** — For God is my record, how greatly I long after you all in the bowels of Jesus Christ.
+- **1:10** — That ye may approve things that are excellent; that ye may be sincere and without offence till the day of Christ;
+- **1:11** — Being filled with the fruits of righteousness, which are by Jesus Christ, unto the glory and praise of God.
+- **1:13** — So that my bonds in Christ are manifest in all the palace, and in all other places;
+- **1:14** — And many of the brethren in the Lord, waxing confident by my bonds, are much more bold to speak the word without fear.
+- **1:15** — Some indeed preach Christ even of envy and strife; and some also of good will:
+- **1:16** — The one preach Christ of contention, not sincerely, supposing to add affliction to my bonds:
+- **1:18** — What then? notwithstanding, every way, whether in pretence, or in truth, Christ is preached; and I therein do rejoice, yea, and will rejoice.
+- **1:19** — For I know that this shall turn to my salvation through your prayer, and the supply of the Spirit of Jesus Christ,
+- **1:20** — According to my earnest expectation and my hope, that in nothing I shall be ashamed, but that with all boldness, as always, so now also Christ shall be magnified in my body, whether it be by life, or by death.
+- **1:21** — For to me to live is Christ, and to die is gain.
+- **1:23** — For I am in a strait betwixt two, having a desire to depart, and to be with Christ; which is far better:
+- **1:26** — That your rejoicing may be more abundant in Jesus Christ for me by my coming to you again.
+- **1:27** — Only let your conversation be as it becometh the gospel of Christ: that whether I come and see you, or else be absent, I may hear of your affairs, that ye stand fast in one spirit, with one mind striving together for the faith of the gospel;
+- **1:29** — For unto you it is given in the behalf of Christ, not only to believe on him, but also to suffer for his sake;
+- **2:1** — If there be therefore any consolation in Christ, if any comfort of love, if any fellowship of the Spirit, if any bowels and mercies,
+- **2:5** — Let this mind be in you, which was also in Christ Jesus:
+- **2:7** — But made himself of no reputation, and took upon him the form of a servant, and was made in the likeness of men:
+- **2:8** — And being found in fashion as a man, he humbled himself, and became obedient unto death, even the death of the cross.
+- **2:9** — Wherefore God also hath highly exalted him, and given him a name which is above every name:
+- **2:10** — That at the name of Jesus every knee should bow, of things in heaven, and things in earth, and things under the earth;
+- **2:11** — And that every tongue should confess that Jesus Christ is Lord, to the glory of God the Father.
+- **2:13** — For it is God which worketh in you both to will and to do of his good pleasure.
+- **2:16** — Holding forth the word of life; that I may rejoice in the day of Christ, that I have not run in vain, neither laboured in vain.
+- **2:19** — But I trust in the Lord Jesus to send Timotheus shortly unto you, that I also may be of good comfort, when I know your state.
+- **2:21** — For all seek their own, not the things which are Jesus Christ's.
+- **2:24** — But I trust in the Lord that I also myself shall come shortly.
+- **2:29** — Receive him therefore in the Lord with all gladness; and hold such in reputation:
+- **2:30** — Because for the work of Christ he was nigh unto death, not regarding his life, to supply your lack of service toward me.
+- **3:1** — Finally, my brethren, rejoice in the Lord. To write the same things to you, to me indeed is not grievous, but for you it is safe.
+- **3:3** — For we are the circumcision, which worship God in the spirit, and rejoice in Christ Jesus, and have no confidence in the flesh.
+- **3:7** — But what things were gain to me, those I counted loss for Christ.
+- **3:8** — Yea doubtless, and I count all things but loss for the excellency of the knowledge of Christ Jesus my Lord: for whom I have suffered the loss of all things, and do count them but dung, that I may win Christ,
+- **3:9** — And be found in him, not having mine own righteousness, which is of the law, but that which is through the faith of Christ, the righteousness which is of God by faith:
+- **3:10** — That I may know him, and the power of his resurrection, and the fellowship of his sufferings, being made conformable unto his death;
+- **3:12** — Not as though I had already attained, either were already perfect: but I follow after, if that I may apprehend that for which also I am apprehended of Christ Jesus.
+- **3:14** — I press toward the mark for the prize of the high calling of God in Christ Jesus.
+- **3:18** — For many walk, of whom I have told you often, and now tell you even weeping, that they are the enemies of the cross of Christ:
+- **3:20** — For our conversation is in heaven; from whence also we look for the Saviour, the Lord Jesus Christ:
+- **3:21** — Who shall change our vile body, that it may be fashioned like unto his glorious body, according to the working whereby he is able even to subdue all things unto himself.
+- **4:1** — Therefore, my brethren dearly beloved and longed for, my joy and crown, so stand fast in the Lord, my dearly beloved.
+- **4:2** — I beseech Euodias, and beseech Syntyche, that they be of the same mind in the Lord.
+- **4:4** — Rejoice in the Lord alway: and again I say, Rejoice.
+- **4:5** — Let your moderation be known unto all men. The Lord is at hand.
+- **4:7** — And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus.
+- **4:10** — But I rejoiced in the Lord greatly, that now at the last your care of me hath flourished again; wherein ye were also careful, but ye lacked opportunity.
+- **4:13** — I can do all things through Christ which strengtheneth me.
+- **4:19** — But my God shall supply all your need according to his riches in glory by Christ Jesus.
+- **4:21** — Salute every saint in Christ Jesus. The brethren which are with me greet you.
+- **4:23** — The grace of our Lord Jesus Christ be with you all. Amen.
+
+### [[Colossians]]
+- **1:1** — Paul, an apostle of Jesus Christ by the will of God, and Timotheus our brother,
+- **1:2** — To the saints and faithful brethren in Christ which are at Colosse: Grace be unto you, and peace, from God our Father and the Lord Jesus Christ.
+- **1:3** — We give thanks to God and the Father of our Lord Jesus Christ, praying always for you,
+- **1:4** — Since we heard of your faith in Christ Jesus, and of the love which ye have to all the saints,
+- **1:7** — As ye also learned of Epaphras our dear fellowservant, who is for you a faithful minister of Christ;
+- **1:9** — For this cause we also, since the day we heard it, do not cease to pray for you, and to desire that ye might be filled with the knowledge of his will in all wisdom and spiritual understanding;
+- **1:10** — That ye might walk worthy of the Lord unto all pleasing, being fruitful in every good work, and increasing in the knowledge of God;
+- **1:11** — Strengthened with all might, according to his glorious power, unto all patience and longsuffering with joyfulness;
+- **1:13** — Who hath delivered us from the power of darkness, and hath translated us into the kingdom of his dear Son:
+- **1:14** — In whom we have redemption through his blood, even the forgiveness of sins:
+- **1:16** — For by him were all things created, that are in heaven, and that are in earth, visible and invisible, whether they be thrones, or dominions, or principalities, or powers: all things were created by him, and for him:
+- **1:17** — And he is before all things, and by him all things consist.
+- **1:18** — And he is the head of the body, the church: who is the beginning, the firstborn from the dead; that in all things he might have the preeminence.
+- **1:19** — For it pleased the Father that in him should all fulness dwell;
+- **1:20** — And, having made peace through the blood of his cross, by him to reconcile all things unto himself; by him, I say, whether they be things in earth, or things in heaven.
+- **1:21** — And you, that were sometime alienated and enemies in your mind by wicked works, yet now hath he reconciled
+- **1:22** — In the body of his flesh through death, to present you holy and unblameable and unreproveable in his sight:
+- **1:24** — Who now rejoice in my sufferings for you, and fill up that which is behind of the afflictions of Christ in my flesh for his body's sake, which is the church:
+- **1:26** — Even the mystery which hath been hid from ages and from generations, but now is made manifest to his saints:
+- **1:27** — To whom God would make known what is the riches of the glory of this mystery among the Gentiles; which is Christ in you, the hope of glory:
+- **1:28** — Whom we preach, warning every man, and teaching every man in all wisdom; that we may present every man perfect in Christ Jesus:
+- **1:29** — Whereunto I also labour, striving according to his working, which worketh in me mightily.
+- **2:2** — That their hearts might be comforted, being knit together in love, and unto all riches of the full assurance of understanding, to the acknowledgement of the mystery of God, and of the Father, and of Christ;
+- **2:5** — For though I be absent in the flesh, yet am I with you in the spirit, joying and beholding your order, and the stedfastness of your faith in Christ.
+- **2:6** — As ye have therefore received Christ Jesus the Lord, so walk ye in him:
+- **2:7** — Rooted and built up in him, and stablished in the faith, as ye have been taught, abounding therein with thanksgiving.
+- **2:8** — Beware lest any man spoil you through philosophy and vain deceit, after the tradition of men, after the rudiments of the world, and not after Christ.
+- **2:9** — For in him dwelleth all the fulness of the Godhead bodily.
+- **2:10** — And ye are complete in him, which is the head of all principality and power:
+- **2:11** — In whom also ye are circumcised with the circumcision made without hands, in putting off the body of the sins of the flesh by the circumcision of Christ:
+- **2:12** — Buried with him in baptism, wherein also ye are risen with him through the faith of the operation of God, who hath raised him from the dead.
+- **2:13** — And you, being dead in your sins and the uncircumcision of your flesh, hath he quickened together with him, having forgiven you all trespasses;
+- **2:14** — Blotting out the handwriting of ordinances that was against us, which was contrary to us, and took it out of the way, nailing it to his cross;
+- **2:15** — And having spoiled principalities and powers, he made a shew of them openly, triumphing over them in it.
+- **2:17** — Which are a shadow of things to come; but the body is of Christ.
+- **2:20** — Wherefore if ye be dead with Christ from the rudiments of the world, why, as though living in the world, are ye subject to ordinances,
+- **3:1** — If ye then be risen with Christ, seek those things which are above, where Christ sitteth on the right hand of God.
+- **3:3** — For ye are dead, and your life is hid with Christ in God.
+- **3:4** — When Christ, who is our life, shall appear, then shall ye also appear with him in glory.
+- **3:10** — And have put on the new man, which is renewed in knowledge after the image of him that created him:
+- **3:11** — Where there is neither Greek nor Jew, circumcision nor uncircumcision, Barbarian, Scythian, bond nor free: but Christ is all, and in all.
+- **3:13** — Forbearing one another, and forgiving one another, if any man have a quarrel against any: even as Christ forgave you, so also do ye.
+- **3:16** — Let the word of Christ dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord.
+- **3:17** — And whatsoever ye do in word or deed, do all in the name of the Lord Jesus, giving thanks to God and the Father by him.
+- **3:18** — Wives, submit yourselves unto your own husbands, as it is fit in the Lord.
+- **3:20** — Children, obey your parents in all things: for this is well pleasing unto the Lord.
+- **3:23** — And whatsoever ye do, do it heartily, as to the Lord, and not unto men;
+- **3:24** — Knowing that of the Lord ye shall receive the reward of the inheritance: for ye serve the Lord Christ.
+- **4:3** — Withal praying also for us, that God would open unto us a door of utterance, to speak the mystery of Christ, for which I am also in bonds:
+- **4:7** — All my state shall Tychicus declare unto you, who is a beloved brother, and a faithful minister and fellowservant in the Lord:
+- **4:12** — Epaphras, who is one of you, a servant of Christ, saluteth you, always labouring fervently for you in prayers, that ye may stand perfect and complete in all the will of God.
+- **4:17** — And say to Archippus, Take heed to the ministry which thou hast received in the Lord, that thou fulfil it.
+
+### [[1 Thessalonians]]
+- **1:1** — Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians which is in God the Father and in the Lord Jesus Christ: Grace be unto you, and peace, from God our Father, and the Lord Jesus Christ.
+- **1:3** — Remembering without ceasing your work of faith, and labour of love, and patience of hope in our Lord Jesus Christ, in the sight of God and our Father;
+- **1:6** — And ye became followers of us, and of the Lord, having received the word in much affliction, with joy of the Holy Ghost:
+- **1:8** — For from you sounded out the word of the Lord not only in Macedonia and Achaia, but also in every place your faith to God-ward is spread abroad; so that we need not to speak any thing.
+- **1:10** — And to wait for his Son from heaven, whom he raised from the dead, even Jesus, which delivered us from the wrath to come.
+- **2:6** — Nor of men sought we glory, neither of you, nor yet of others, when we might have been burdensome, as the apostles of Christ.
+- **2:14** — For ye, brethren, became followers of the churches of God which in Judaea are in Christ Jesus: for ye also have suffered like things of your own countrymen, even as they have of the Jews:
+- **2:15** — Who both killed the Lord Jesus, and their own prophets, and have persecuted us; and they please not God, and are contrary to all men:
+- **2:19** — For what is our hope, or joy, or crown of rejoicing? Are not even ye in the presence of our Lord Jesus Christ at his coming?
+- **3:2** — And sent Timotheus, our brother, and minister of God, and our fellowlabourer in the gospel of Christ, to establish you, and to comfort you concerning your faith:
+- **3:8** — For now we live, if ye stand fast in the Lord.
+- **3:11** — Now God himself and our Father, and our Lord Jesus Christ, direct our way unto you.
+- **3:12** — And the Lord make you to increase and abound in love one toward another, and toward all men, even as we do toward you:
+- **3:13** — To the end he may stablish your hearts unblameable in holiness before God, even our Father, at the coming of our Lord Jesus Christ with all his saints.
+- **4:1** — Furthermore then we beseech you, brethren, and exhort you by the Lord Jesus, that as ye have received of us how ye ought to walk and to please God, so ye would abound more and more.
+- **4:2** — For ye know what commandments we gave you by the Lord Jesus.
+- **4:6** — That no man go beyond and defraud his brother in any matter: because that the Lord is the avenger of all such, as we also have forewarned you and testified.
+- **4:14** — For if we believe that Jesus died and rose again, even so them also which sleep in Jesus will God bring with him.
+- **4:15** — For this we say unto you by the word of the Lord, that we which are alive and remain unto the coming of the Lord shall not prevent them which are asleep.
+- **4:16** — For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first:
+- **4:17** — Then we which are alive and remain shall be caught up together with them in the clouds, to meet the Lord in the air: and so shall we ever be with the Lord.
+- **5:2** — For yourselves know perfectly that the day of the Lord so cometh as a thief in the night.
+- **5:9** — For God hath not appointed us to wrath, but to obtain salvation by our Lord Jesus Christ,
+- **5:10** — Who died for us, that, whether we wake or sleep, we should live together with him.
+- **5:12** — And we beseech you, brethren, to know them which labour among you, and are over you in the Lord, and admonish you;
+- **5:18** — In every thing give thanks: for this is the will of God in Christ Jesus concerning you.
+- **5:23** — And the very God of peace sanctify you wholly; and I pray God your whole spirit and soul and body be preserved blameless unto the coming of our Lord Jesus Christ.
+- **5:24** — Faithful is he that calleth you, who also will do it.
+- **5:27** — I charge you by the Lord that this epistle be read unto all the holy brethren.
+- **5:28** — The grace of our Lord Jesus Christ be with you. Amen.
+
+### [[2 Thessalonians]]
+- **1:1** — Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians in God our Father and the Lord Jesus Christ:
+- **1:2** — Grace unto you, and peace, from God our Father and the Lord Jesus Christ.
+- **1:7** — And to you who are troubled rest with us, when the Lord Jesus shall be revealed from heaven with his mighty angels,
+- **1:8** — In flaming fire taking vengeance on them that know not God, and that obey not the gospel of our Lord Jesus Christ:
+- **1:9** — Who shall be punished with everlasting destruction from the presence of the Lord, and from the glory of his power;
+- **1:10** — When he shall come to be glorified in his saints, and to be admired in all them that believe (because our testimony among you was believed) in that day.
+- **1:11** — Wherefore also we pray always for you, that our God would count you worthy of this calling, and fulfil all the good pleasure of his goodness, and the work of faith with power:
+- **1:12** — That the name of our Lord Jesus Christ may be glorified in you, and ye in him, according to the grace of our God and the Lord Jesus Christ.
+- **2:1** — Now we beseech you, brethren, by the coming of our Lord Jesus Christ, and by our gathering together unto him,
+- **2:2** — That ye be not soon shaken in mind, or be troubled, neither by spirit, nor by word, nor by letter as from us, as that the day of Christ is at hand.
+- **2:8** — And then shall that Wicked be revealed, whom the Lord shall consume with the spirit of his mouth, and shall destroy with the brightness of his coming:
+- **2:13** — But we are bound to give thanks alway to God for you, brethren beloved of the Lord, because God hath from the beginning chosen you to salvation through sanctification of the Spirit and belief of the truth:
+- **2:14** — Whereunto he called you by our gospel, to the obtaining of the glory of our Lord Jesus Christ.
+- **2:16** — Now our Lord Jesus Christ himself, and God, even our Father, which hath loved us, and hath given us everlasting consolation and good hope through grace,
+- **3:1** — Finally, brethren, pray for us, that the word of the Lord may have free course, and be glorified, even as it is with you:
+- **3:3** — But the Lord is faithful, who shall stablish you, and keep you from evil.
+- **3:4** — And we have confidence in the Lord touching you, that ye both do and will do the things which we command you.
+- **3:5** — And the Lord direct your hearts into the love of God, and into the patient waiting for Christ.
+- **3:6** — Now we command you, brethren, in the name of our Lord Jesus Christ, that ye withdraw yourselves from every brother that walketh disorderly, and not after the tradition which he received of us.
+- **3:12** — Now them that are such we command and exhort by our Lord Jesus Christ, that with quietness they work, and eat their own bread.
+- **3:16** — Now the Lord of peace himself give you peace always by all means. The Lord be with you all.
+- **3:18** — The grace of our Lord Jesus Christ be with you all. Amen.
+
+### [[1 Timothy]]
+- **1:1** — Paul, an apostle of Jesus Christ by the commandment of God our Saviour, and Lord Jesus Christ, which is our hope;
+- **1:2** — Unto Timothy, my own son in the faith: Grace, mercy, and peace, from God our Father and Jesus Christ our Lord.
+- **1:12** — And I thank Christ Jesus our Lord, who hath enabled me, for that he counted me faithful, putting me into the ministry;
+- **1:14** — And the grace of our Lord was exceeding abundant with faith and love which is in Christ Jesus.
+- **1:15** — This is a faithful saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners; of whom I am chief.
+- **1:16** — Howbeit for this cause I obtained mercy, that in me first Jesus Christ might shew forth all longsuffering, for a pattern to them which should hereafter believe on him to life everlasting.
+- **2:3** — For this is good and acceptable in the sight of God our Saviour;
+- **2:5** — For there is one God, and one mediator between God and men, the man Christ Jesus;
+- **2:6** — Who gave himself a ransom for all, to be testified in due time.
+- **2:7** — Whereunto I am ordained a preacher, and an apostle, (I speak the truth in Christ, and lie not;) a teacher of the Gentiles in faith and verity.
+- **3:13** — For they that have used the office of a deacon well purchase to themselves a good degree, and great boldness in the faith which is in Christ Jesus.
+- **4:6** — If thou put the brethren in remembrance of these things, thou shalt be a good minister of Jesus Christ, nourished up in the words of faith and of good doctrine, whereunto thou hast attained.
+- **4:10** — For therefore we both labour and suffer reproach, because we trust in the living God, who is the Saviour of all men, specially of those that believe.
+- **5:11** — But the younger widows refuse: for when they have begun to wax wanton against Christ, they will marry;
+- **5:21** — I charge thee before God, and the Lord Jesus Christ, and the elect angels, that thou observe these things without preferring one before another, doing nothing by partiality.
+- **6:1** — Let as many servants as are under the yoke count their own masters worthy of all honour, that the name of God and his doctrine be not blasphemed.
+- **6:3** — If any man teach otherwise, and consent not to wholesome words, even the words of our Lord Jesus Christ, and to the doctrine which is according to godliness;
+- **6:13** — I give thee charge in the sight of God, who quickeneth all things, and before Christ Jesus, who before Pontius Pilate witnessed a good confession;
+- **6:14** — That thou keep this commandment without spot, unrebukeable, until the appearing of our Lord Jesus Christ:
+- **6:15** — Which in his times he shall shew, who is the blessed and only Potentate, the King of kings, and Lord of lords;
+
+### [[2 Timothy]]
+- **1:1** — Paul, an apostle of Jesus Christ by the will of God, according to the promise of life which is in Christ Jesus,
+- **1:2** — To Timothy, my dearly beloved son: Grace, mercy, and peace, from God the Father and Christ Jesus our Lord.
+- **1:8** — Be not thou therefore ashamed of the testimony of our Lord, nor of me his prisoner: but be thou partaker of the afflictions of the gospel according to the power of God;
+- **1:9** — Who hath saved us, and called us with an holy calling, not according to our works, but according to his own purpose and grace, which was given us in Christ Jesus before the world began,
+- **1:10** — But is now made manifest by the appearing of our Saviour Jesus Christ, who hath abolished death, and hath brought life and immortality to light through the gospel:
+- **1:12** — For the which cause I also suffer these things: nevertheless I am not ashamed: for I know whom I have believed, and am persuaded that he is able to keep that which I have committed unto him against that day.
+- **1:13** — Hold fast the form of sound words, which thou hast heard of me, in faith and love which is in Christ Jesus.
+- **1:16** — The Lord give mercy unto the house of Onesiphorus; for he oft refreshed me, and was not ashamed of my chain:
+- **1:18** — The Lord grant unto him that he may find mercy of the Lord in that day: and in how many things he ministered unto me at Ephesus, thou knowest very well.
+- **2:1** — Thou therefore, my son, be strong in the grace that is in Christ Jesus.
+- **2:3** — Thou therefore endure hardness, as a good soldier of Jesus Christ.
+- **2:7** — Consider what I say; and the Lord give thee understanding in all things.
+- **2:8** — Remember that Jesus Christ of the seed of David was raised from the dead according to my gospel:
+- **2:10** — Therefore I endure all things for the elect's sakes, that they may also obtain the salvation which is in Christ Jesus with eternal glory.
+- **2:11** — It is a faithful saying: For if we be dead with him, we shall also live with him:
+- **2:12** — If we suffer, we shall also reign with him: if we deny him, he also will deny us:
+- **2:13** — If we believe not, yet he abideth faithful: he cannot deny himself.
+- **2:14** — Of these things put them in remembrance, charging them before the Lord that they strive not about words to no profit, but to the subverting of the hearers.
+- **2:19** — Nevertheless the foundation of God standeth sure, having this seal, The Lord knoweth them that are his. And, Let every one that nameth the name of Christ depart from iniquity.
+- **2:22** — Flee also youthful lusts: but follow righteousness, faith, charity, peace, with them that call on the Lord out of a pure heart.
+- **2:24** — And the servant of the Lord must not strive; but be gentle unto all men, apt to teach, patient,
+- **3:11** — Persecutions, afflictions, which came unto me at Antioch, at Iconium, at Lystra; what persecutions I endured: but out of them all the Lord delivered me.
+- **3:12** — Yea, and all that will live godly in Christ Jesus shall suffer persecution.
+- **3:15** — And that from a child thou hast known the holy scriptures, which are able to make thee wise unto salvation through faith which is in Christ Jesus.
+- **4:1** — I charge thee therefore before God, and the Lord Jesus Christ, who shall judge the quick and the dead at his appearing and his kingdom;
+- **4:8** — Henceforth there is laid up for me a crown of righteousness, which the Lord, the righteous judge, shall give me at that day: and not to me only, but unto all them also that love his appearing.
+- **4:14** — Alexander the coppersmith did me much evil: the Lord reward him according to his works:
+- **4:17** — Notwithstanding the Lord stood with me, and strengthened me; that by me the preaching might be fully known, and that all the Gentiles might hear: and I was delivered out of the mouth of the lion.
+- **4:18** — And the Lord shall deliver me from every evil work, and will preserve me unto his heavenly kingdom: to whom be glory for ever and ever. Amen.
+- **4:22** — The Lord Jesus Christ be with thy spirit. Grace be with you. Amen.
+
+### [[Titus]]
+- **1:1** — Paul, a servant of God, and an apostle of Jesus Christ, according to the faith of God's elect, and the acknowledging of the truth which is after godliness;
+- **1:3** — But hath in due times manifested his word through preaching, which is committed unto me according to the commandment of God our Saviour;
+- **1:4** — To Titus, mine own son after the common faith: Grace, mercy, and peace, from God the Father and the Lord Jesus Christ our Saviour.
+- **1:16** — They profess that they know God; but in works they deny him, being abominable, and disobedient, and unto every good work reprobate.
+- **2:10** — Not purloining, but shewing all good fidelity; that they may adorn the doctrine of God our Saviour in all things.
+- **2:13** — Looking for that blessed hope, and the glorious appearing of the great God and our Saviour Jesus Christ;
+- **2:14** — Who gave himself for us, that he might redeem us from all iniquity, and purify unto himself a peculiar people, zealous of good works.
+- **3:4** — But after that the kindness and love of God our Saviour toward man appeared,
+- **3:5** — Not by works of righteousness which we have done, but according to his mercy he saved us, by the washing of regeneration, and renewing of the Holy Ghost;
+- **3:6** — Which he shed on us abundantly through Jesus Christ our Saviour;
+- **3:7** — That being justified by his grace, we should be made heirs according to the hope of eternal life.
+
+### [[Philemon]]
+- **1:1** — Paul, a prisoner of Jesus Christ, and Timothy our brother, unto Philemon our dearly beloved, and fellowlabourer,
+- **1:3** — Grace to you, and peace, from God our Father and the Lord Jesus Christ.
+- **1:5** — Hearing of thy love and faith, which thou hast toward the Lord Jesus, and toward all saints;
+- **1:6** — That the communication of thy faith may become effectual by the acknowledging of every good thing which is in you in Christ Jesus.
+- **1:8** — Wherefore, though I might be much bold in Christ to enjoin thee that which is convenient,
+- **1:9** — Yet for love's sake I rather beseech thee, being such an one as Paul the aged, and now also a prisoner of Jesus Christ.
+- **1:16** — Not now as a servant, but above a servant, a brother beloved, specially to me, but how much more unto thee, both in the flesh, and in the Lord?
+- **1:20** — Yea, brother, let me have joy of thee in the Lord: refresh my bowels in the Lord.
+- **1:23** — There salute thee Epaphras, my fellowprisoner in Christ Jesus;
+- **1:25** — The grace of our Lord Jesus Christ be with your spirit. Amen.
+
+### [[Hebrews]]
+- **1:2** — Hath in these last days spoken unto us by his Son, whom he hath appointed heir of all things, by whom also he made the worlds;
+- **1:3** — Who being the brightness of his glory, and the express image of his person, and upholding all things by the word of his power, when he had by himself purged our sins, sat down on the right hand of the Majesty on high;
+- **1:4** — Being made so much better than the angels, as he hath by inheritance obtained a more excellent name than they.
+- **1:5** — For unto which of the angels said he at any time, Thou art my Son, this day have I begotten thee? And again, I will be to him a Father, and he shall be to me a Son?
+- **1:6** — And again, when he bringeth in the firstbegotten into the world, he saith, And let all the angels of God worship him.
+- **1:7** — And of the angels he saith, Who maketh his angels spirits, and his ministers a flame of fire.
+- **1:8** — But unto the Son he saith, Thy throne, O God, is for ever and ever: a sceptre of righteousness is the sceptre of thy kingdom.
+- **1:9** — Thou hast loved righteousness, and hated iniquity; therefore God, even thy God, hath anointed thee with the oil of gladness above thy fellows.
+- **1:10** — And, Thou, Lord, in the beginning hast laid the foundation of the earth; and the heavens are the works of thine hands:
+- **1:11** — They shall perish; but thou remainest; and they all shall wax old as doth a garment;
+- **1:12** — And as a vesture shalt thou fold them up, and they shall be changed: but thou art the same, and thy years shall not fail.
+- **1:13** — But to which of the angels said he at any time, Sit on my right hand, until I make thine enemies thy footstool?
+- **2:3** — How shall we escape, if we neglect so great salvation; which at the first began to be spoken by the Lord, and was confirmed unto us by them that heard him;
+- **2:5** — For unto the angels hath he not put in subjection the world to come, whereof we speak.
+- **2:6** — But one in a certain place testified, saying, What is man, that thou art mindful of him? or the son of man, that thou visitest him?
+- **2:7** — Thou madest him a little lower than the angels; thou crownedst him with glory and honour, and didst set him over the works of thy hands:
+- **2:8** — Thou hast put all things in subjection under his feet. For in that he put all in subjection under him, he left nothing that is not put under him. But now we see not yet all things put under him.
+- **2:9** — But we see Jesus, who was made a little lower than the angels for the suffering of death, crowned with glory and honour; that he by the grace of God should taste death for every man.
+- **2:10** — For it became him, for whom are all things, and by whom are all things, in bringing many sons unto glory, to make the captain of their salvation perfect through sufferings.
+- **2:11** — For both he that sanctifieth and they who are sanctified are all of one: for which cause he is not ashamed to call them brethren,
+- **2:12** — Saying, I will declare thy name unto my brethren, in the midst of the church will I sing praise unto thee.
+- **2:13** — And again, I will put my trust in him. And again, Behold I and the children which God hath given me.
+- **2:14** — Forasmuch then as the children are partakers of flesh and blood, he also himself likewise took part of the same; that through death he might destroy him that had the power of death, that is, the devil;
+- **2:16** — For verily he took not on him the nature of angels; but he took on him the seed of Abraham.
+- **2:17** — Wherefore in all things it behoved him to be made like unto his brethren, that he might be a merciful and faithful high priest in things pertaining to God, to make reconciliation for the sins of the people.
+- **2:18** — For in that he himself hath suffered being tempted, he is able to succour them that are tempted.
+- **3:1** — Wherefore, holy brethren, partakers of the heavenly calling, consider the Apostle and High Priest of our profession, Christ Jesus;
+- **3:2** — Who was faithful to him that appointed him, as also Moses was faithful in all his house.
+- **3:3** — For this man was counted worthy of more glory than Moses, inasmuch as he who hath builded the house hath more honour than the house.
+- **3:4** — For every house is builded by some man; but he that built all things is God.
+- **3:5** — And Moses verily was faithful in all his house, as a servant, for a testimony of those things which were to be spoken after;
+- **3:6** — But Christ as a son over his own house; whose house are we, if we hold fast the confidence and the rejoicing of the hope firm unto the end.
+- **3:7** — Wherefore (as the Holy Ghost saith, To day if ye will hear his voice,
+- **3:9** — When your fathers tempted me, proved me, and saw my works forty years.
+- **3:10** — Wherefore I was grieved with that generation, and said, They do alway err in their heart; and they have not known my ways.
+- **3:11** — So I sware in my wrath, They shall not enter into my rest.)
+- **3:14** — For we are made partakers of Christ, if we hold the beginning of our confidence stedfast unto the end;
+- **3:15** — While it is said, To day if ye will hear his voice, harden not your hearts, as in the provocation.
+- **3:17** — But with whom was he grieved forty years? was it not with them that had sinned, whose carcases fell in the wilderness?
+- **3:18** — And to whom sware he that they should not enter into his rest, but to them that believed not?
+- **4:1** — Let us therefore fear, lest, a promise being left us of entering into his rest, any of you should seem to come short of it.
+- **4:3** — For we which have believed do enter into rest, as he said, As I have sworn in my wrath, if they shall enter into my rest: although the works were finished from the foundation of the world.
+- **4:4** — For he spake in a certain place of the seventh day on this wise, And God did rest the seventh day from all his works.
+- **4:5** — And in this place again, If they shall enter into my rest.
+- **4:7** — Again, he limiteth a certain day, saying in David, To day, after so long a time; as it is said, To day if ye will hear his voice, harden not your hearts.
+- **4:8** — For if Jesus had given them rest, then would he not afterward have spoken of another day.
+- **4:10** — For he that is entered into his rest, he also hath ceased from his own works, as God did from his.
+- **4:13** — Neither is there any creature that is not manifest in his sight: but all things are naked and opened unto the eyes of him with whom we have to do.
+- **4:14** — Seeing then that we have a great high priest, that is passed into the heavens, Jesus the Son of God, let us hold fast our profession.
+- **4:15** — For we have not an high priest which cannot be touched with the feeling of our infirmities; but was in all points tempted like as we are, yet without sin.
+- **5:5** — So also Christ glorified not himself to be made an high priest; but he that said unto him, Thou art my Son, to day have I begotten thee.
+- **5:6** — As he saith also in another place, Thou art a priest for ever after the order of Melchisedec.
+- **5:7** — Who in the days of his flesh, when he had offered up prayers and supplications with strong crying and tears unto him that was able to save him from death, and was heard in that he feared;
+- **5:8** — Though he were a Son, yet learned he obedience by the things which he suffered;
+- **5:9** — And being made perfect, he became the author of eternal salvation unto all them that obey him;
+- **5:10** — Called of God an high priest after the order of Melchisedec.
+- **6:1** — Therefore leaving the principles of the doctrine of Christ, let us go on unto perfection; not laying again the foundation of repentance from dead works, and of faith toward God,
+- **6:6** — If they shall fall away, to renew them again unto repentance; seeing they crucify to themselves the Son of God afresh, and put him to an open shame.
+- **6:20** — Whither the forerunner is for us entered, even Jesus, made an high priest for ever after the order of Melchisedec.
+- **7:3** — Without father, without mother, without descent, having neither beginning of days, nor end of life; but made like unto the Son of God; abideth a priest continually.
+- **7:13** — For he of whom these things are spoken pertaineth to another tribe, of which no man gave attendance at the altar.
+- **7:14** — For it is evident that our Lord sprang out of Juda; of which tribe Moses spake nothing concerning priesthood.
+- **7:17** — For he testifieth, Thou art a priest for ever after the order of Melchisedec.
+- **7:20** — And inasmuch as not without an oath he was made priest:
+- **7:21** — For those priests were made without an oath; but this with an oath by him that said unto him, The Lord sware and will not repent, Thou art a priest for ever after the order of Melchisedec:)
+- **7:22** — By so much was Jesus made a surety of a better testament.
+- **7:24** — But this man, because he continueth ever, hath an unchangeable priesthood.
+- **7:25** — Wherefore he is able also to save them to the uttermost that come unto God by him, seeing he ever liveth to make intercession for them.
+- **7:26** — For such an high priest became us, who is holy, harmless, undefiled, separate from sinners, and made higher than the heavens;
+- **7:27** — Who needeth not daily, as those high priests, to offer up sacrifice, first for his own sins, and then for the people's: for this he did once, when he offered up himself.
+- **7:28** — For the law maketh men high priests which have infirmity; but the word of the oath, which was since the law, maketh the Son, who is consecrated for evermore.
+- **8:1** — Now of the things which we have spoken this is the sum: We have such an high priest, who is set on the right hand of the throne of the Majesty in the heavens;
+- **8:2** — A minister of the sanctuary, and of the true tabernacle, which the Lord pitched, and not man.
+- **8:3** — For every high priest is ordained to offer gifts and sacrifices: wherefore it is of necessity that this man have somewhat also to offer.
+- **8:4** — For if he were on earth, he should not be a priest, seeing that there are priests that offer gifts according to the law:
+- **8:6** — But now hath he obtained a more excellent ministry, by how much also he is the mediator of a better covenant, which was established upon better promises.
+- **8:8** — For finding fault with them, he saith, Behold, the days come, saith the Lord, when I will make a new covenant with the house of Israel and with the house of Judah:
+- **8:9** — Not according to the covenant that I made with their fathers in the day when I took them by the hand to lead them out of the land of Egypt; because they continued not in my covenant, and I regarded them not, saith the Lord.
+- **8:10** — For this is the covenant that I will make with the house of Israel after those days, saith the Lord; I will put my laws into their mind, and write them in their hearts: and I will be to them a God, and they shall be to me a people:
+- **8:11** — And they shall not teach every man his neighbour, and every man his brother, saying, Know the Lord: for all shall know me, from the least to the greatest.
+- **8:13** — In that he saith, A new covenant, he hath made the first old. Now that which decayeth and waxeth old is ready to vanish away.
+- **9:11** — But Christ being come an high priest of good things to come, by a greater and more perfect tabernacle, not made with hands, that is to say, not of this building;
+- **9:12** — Neither by the blood of goats and calves, but by his own blood he entered in once into the holy place, having obtained eternal redemption for us.
+- **9:14** — How much more shall the blood of Christ, who through the eternal Spirit offered himself without spot to God, purge your conscience from dead works to serve the living God?
+- **9:15** — And for this cause he is the mediator of the new testament, that by means of death, for the redemption of the transgressions that were under the first testament, they which are called might receive the promise of eternal inheritance.
+- **9:24** — For Christ is not entered into the holy places made with hands, which are the figures of the true; but into heaven itself, now to appear in the presence of God for us:
+- **9:25** — Nor yet that he should offer himself often, as the high priest entereth into the holy place every year with blood of others;
+- **9:26** — For then must he often have suffered since the foundation of the world: but now once in the end of the world hath he appeared to put away sin by the sacrifice of himself.
+- **9:28** — So Christ was once offered to bear the sins of many; and unto them that look for him shall he appear the second time without sin unto salvation.
+- **10:5** — Wherefore when he cometh into the world, he saith, Sacrifice and offering thou wouldest not, but a body hast thou prepared me:
+- **10:6** — In burnt offerings and sacrifices for sin thou hast had no pleasure.
+- **10:7** — Then said I, Lo, I come (in the volume of the book it is written of me,) to do thy will, O God.
+- **10:8** — Above when he said, Sacrifice and offering and burnt offerings and offering for sin thou wouldest not, neither hadst pleasure therein; which are offered by the law;
+- **10:9** — Then said he, Lo, I come to do thy will, O God. He taketh away the first, that he may establish the second.
+- **10:10** — By the which will we are sanctified through the offering of the body of Jesus Christ once for all.
+- **10:12** — But this man, after he had offered one sacrifice for sins for ever, sat down on the right hand of God;
+- **10:13** — From henceforth expecting till his enemies be made his footstool.
+- **10:14** — For by one offering he hath perfected for ever them that are sanctified.
+- **10:15** — Whereof the Holy Ghost also is a witness to us: for after that he had said before,
+- **10:16** — This is the covenant that I will make with them after those days, saith the Lord, I will put my laws into their hearts, and in their minds will I write them;
+- **10:19** — Having therefore, brethren, boldness to enter into the holiest by the blood of Jesus,
+- **10:20** — By a new and living way, which he hath consecrated for us, through the veil, that is to say, his flesh;
+- **10:21** — And having an high priest over the house of God;
+- **10:23** — Let us hold fast the profession of our faith without wavering; (for he is faithful that promised;)
+- **10:29** — Of how much sorer punishment, suppose ye, shall he be thought worthy, who hath trodden under foot the Son of God, and hath counted the blood of the covenant, wherewith he was sanctified, an unholy thing, and hath done despite unto the Spirit of grace?
+- **10:30** — For we know him that hath said, Vengeance belongeth unto me, I will recompense, saith the Lord. And again, The Lord shall judge his people.
+- **10:37** — For yet a little while, and he that shall come will come, and will not tarry.
+- **10:38** — Now the just shall live by faith: but if any man draw back, my soul shall have no pleasure in him.
+- **11:6** — But without faith it is impossible to please him: for he that cometh to God must believe that he is, and that he is a rewarder of them that diligently seek him.
+- **11:11** — Through faith also Sara herself received strength to conceive seed, and was delivered of a child when she was past age, because she judged him faithful who had promised.
+- **11:26** — Esteeming the reproach of Christ greater riches than the treasures in Egypt: for he had respect unto the recompence of the reward.
+- **11:27** — By faith he forsook Egypt, not fearing the wrath of the king: for he endured, as seeing him who is invisible.
+- **12:2** — Looking unto Jesus the author and finisher of our faith; who for the joy that was set before him endured the cross, despising the shame, and is set down at the right hand of the throne of God.
+- **12:3** — For consider him that endured such contradiction of sinners against himself, lest ye be wearied and faint in your minds.
+- **12:5** — And ye have forgotten the exhortation which speaketh unto you as unto children, My son, despise not thou the chastening of the Lord, nor faint when thou art rebuked of him:
+- **12:6** — For whom the Lord loveth he chasteneth, and scourgeth every son whom he receiveth.
+- **12:10** — For they verily for a few days chastened us after their own pleasure; but he for our profit, that we might be partakers of his holiness.
+- **12:14** — Follow peace with all men, and holiness, without which no man shall see the Lord:
+- **12:24** — And to Jesus the mediator of the new covenant, and to the blood of sprinkling, that speaketh better things than that of Abel.
+- **12:25** — See that ye refuse not him that speaketh. For if they escaped not who refused him that spake on earth, much more shall not we escape, if we turn away from him that speaketh from heaven:
+- **12:26** — Whose voice then shook the earth: but now he hath promised, saying, Yet once more I shake not the earth only, but also heaven.
+- **13:6** — So that we may boldly say, The Lord is my helper, and I will not fear what man shall do unto me.
+- **13:8** — Jesus Christ the same yesterday, and to day, and for ever.
+- **13:12** — Wherefore Jesus also, that he might sanctify the people with his own blood, suffered without the gate.
+- **13:13** — Let us go forth therefore unto him without the camp, bearing his reproach.
+- **13:15** — By him therefore let us offer the sacrifice of praise to God continually, that is, the fruit of our lips giving thanks to his name.
+- **13:20** — Now the God of peace, that brought again from the dead our Lord Jesus, that great shepherd of the sheep, through the blood of the everlasting covenant,
+- **13:21** — Make you perfect in every good work to do his will, working in you that which is wellpleasing in his sight, through Jesus Christ; to whom be glory for ever and ever. Amen.
+
+### [[James]]
+- **1:1** — James, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are scattered abroad, greeting.
+- **1:7** — For let not that man think that he shall receive any thing of the Lord.
+- **1:12** — Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life, which the Lord hath promised to them that love him.
+- **1:18** — Of his own will begat he us with the word of truth, that we should be a kind of firstfruits of his creatures.
+- **2:1** — My brethren, have not the faith of our Lord Jesus Christ, the Lord of glory, with respect of persons.
+- **2:11** — For he that said, Do not commit adultery, said also, Do not kill. Now if thou commit no adultery, yet if thou kill, thou art become a transgressor of the law.
+- **4:6** — But he giveth more grace. Wherefore he saith, God resisteth the proud, but giveth grace unto the humble.
+- **4:10** — Humble yourselves in the sight of the Lord, and he shall lift you up.
+- **4:15** — For that ye ought to say, If the Lord will, we shall live, and do this, or that.
+- **5:4** — Behold, the hire of the labourers who have reaped down your fields, which is of you kept back by fraud, crieth: and the cries of them which have reaped are entered into the ears of the Lord of sabaoth.
+- **5:7** — Be patient therefore, brethren, unto the coming of the Lord. Behold, the husbandman waiteth for the precious fruit of the earth, and hath long patience for it, until he receive the early and latter rain.
+- **5:8** — Be ye also patient; stablish your hearts: for the coming of the Lord draweth nigh.
+- **5:9** — Grudge not one against another, brethren, lest ye be condemned: behold, the judge standeth before the door.
+- **5:10** — Take, my brethren, the prophets, who have spoken in the name of the Lord, for an example of suffering affliction, and of patience.
+- **5:11** — Behold, we count them happy which endure. Ye have heard of the patience of Job, and have seen the end of the Lord; that the Lord is very pitiful, and of tender mercy.
+- **5:14** — Is any sick among you? let him call for the elders of the church; and let them pray over him, anointing him with oil in the name of the Lord:
+- **5:15** — And the prayer of faith shall save the sick, and the Lord shall raise him up; and if he have committed sins, they shall be forgiven him.
+
+### [[1 Peter]]
+- **1:1** — Peter, an apostle of Jesus Christ, to the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia,
+- **1:2** — Elect according to the foreknowledge of God the Father, through sanctification of the Spirit, unto obedience and sprinkling of the blood of Jesus Christ: Grace unto you, and peace, be multiplied.
+- **1:3** — Blessed be the God and Father of our Lord Jesus Christ, which according to his abundant mercy hath begotten us again unto a lively hope by the resurrection of Jesus Christ from the dead,
+- **1:7** — That the trial of your faith, being much more precious than of gold that perisheth, though it be tried with fire, might be found unto praise and honour and glory at the appearing of Jesus Christ:
+- **1:8** — Whom having not seen, ye love; in whom, though now ye see him not, yet believing, ye rejoice with joy unspeakable and full of glory:
+- **1:11** — Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow.
+- **1:13** — Wherefore gird up the loins of your mind, be sober, and hope to the end for the grace that is to be brought unto you at the revelation of Jesus Christ;
+- **1:15** — But as he which hath called you is holy, so be ye holy in all manner of conversation;
+- **1:19** — But with the precious blood of Christ, as of a lamb without blemish and without spot:
+- **1:21** — Who by him do believe in God, that raised him up from the dead, and gave him glory; that your faith and hope might be in God.
+- **1:25** — But the word of the Lord endureth for ever. And this is the word which by the gospel is preached unto you.
+- **2:3** — If so be ye have tasted that the Lord is gracious.
+- **2:5** — Ye also, as lively stones, are built up a spiritual house, an holy priesthood, to offer up spiritual sacrifices, acceptable to God by Jesus Christ.
+- **2:6** — Wherefore also it is contained in the scripture, Behold, I lay in Sion a chief corner stone, elect, precious: and he that believeth on him shall not be confounded.
+- **2:7** — Unto you therefore which believe he is precious: but unto them which be disobedient, the stone which the builders disallowed, the same is made the head of the corner,
+- **2:9** — But ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of him who hath called you out of darkness into his marvellous light:
+- **2:21** — For even hereunto were ye called: because Christ also suffered for us, leaving us an example, that ye should follow his steps:
+- **2:22** — Who did no sin, neither was guile found in his mouth:
+- **2:23** — Who, when he was reviled, reviled not again; when he suffered, he threatened not; but committed himself to him that judgeth righteously:
+- **2:24** — Who his own self bare our sins in his own body on the tree, that we, being dead to sins, should live unto righteousness: by whose stripes ye were healed.
+- **3:12** — For the eyes of the Lord are over the righteous, and his ears are open unto their prayers: but the face of the Lord is against them that do evil.
+- **3:16** — Having a good conscience; that, whereas they speak evil of you, as of evildoers, they may be ashamed that falsely accuse your good conversation in Christ.
+- **3:18** — For Christ also hath once suffered for sins, the just for the unjust, that he might bring us to God, being put to death in the flesh, but quickened by the Spirit:
+- **3:19** — By which also he went and preached unto the spirits in prison;
+- **3:21** — The like figure whereunto even baptism doth also now save us (not the putting away of the filth of the flesh, but the answer of a good conscience toward God,) by the resurrection of Jesus Christ:
+- **3:22** — Who is gone into heaven, and is on the right hand of God; angels and authorities and powers being made subject unto him.
+- **4:1** — Forasmuch then as Christ hath suffered for us in the flesh, arm yourselves likewise with the same mind: for he that hath suffered in the flesh hath ceased from sin;
+- **4:5** — Who shall give account to him that is ready to judge the quick and the dead.
+- **4:11** — If any man speak, let him speak as the oracles of God; if any man minister, let him do it as of the ability which God giveth: that God in all things may be glorified through Jesus Christ, to whom be praise and dominion for ever and ever. Amen.
+- **4:13** — But rejoice, inasmuch as ye are partakers of Christ's sufferings; that, when his glory shall be revealed, ye may be glad also with exceeding joy.
+- **4:14** — If ye be reproached for the name of Christ, happy are ye; for the spirit of glory and of God resteth upon you: on their part he is evil spoken of, but on your part he is glorified.
+- **4:19** — Wherefore let them that suffer according to the will of God commit the keeping of their souls to him in well doing, as unto a faithful Creator.
+- **5:1** — The elders which are among you I exhort, who am also an elder, and a witness of the sufferings of Christ, and also a partaker of the glory that shall be revealed:
+- **5:3** — Neither as being lords over God's heritage, but being ensamples to the flock.
+- **5:7** — Casting all your care upon him; for he careth for you.
+- **5:10** — But the God of all grace, who hath called us unto his eternal glory by Christ Jesus, after that ye have suffered a while, make you perfect, stablish, strengthen, settle you.
+- **5:11** — To him be glory and dominion for ever and ever. Amen.
+- **5:14** — Greet ye one another with a kiss of charity. Peace be with you all that are in Christ Jesus. Amen.
+
+### [[2 Peter]]
+- **1:1** — Simon Peter, a servant and an apostle of Jesus Christ, to them that have obtained like precious faith with us through the righteousness of God and our Saviour Jesus Christ:
+- **1:2** — Grace and peace be multiplied unto you through the knowledge of God, and of Jesus our Lord,
+- **1:3** — According as his divine power hath given unto us all things that pertain unto life and godliness, through the knowledge of him that hath called us to glory and virtue:
+- **1:8** — For if these things be in you, and abound, they make you that ye shall neither be barren nor unfruitful in the knowledge of our Lord Jesus Christ.
+- **1:11** — For so an entrance shall be ministered unto you abundantly into the everlasting kingdom of our Lord and Saviour Jesus Christ.
+- **1:14** — Knowing that shortly I must put off this my tabernacle, even as our Lord Jesus Christ hath shewed me.
+- **1:16** — For we have not followed cunningly devised fables, when we made known unto you the power and coming of our Lord Jesus Christ, but were eyewitnesses of his majesty.
+- **1:17** — For he received from God the Father honour and glory, when there came such a voice to him from the excellent glory, This is my beloved Son, in whom I am well pleased.
+- **2:1** — But there were false prophets also among the people, even as there shall be false teachers among you, who privily shall bring in damnable heresies, even denying the Lord that bought them, and bring upon themselves swift destruction.
+- **2:9** — The Lord knoweth how to deliver the godly out of temptations, and to reserve the unjust unto the day of judgment to be punished:
+- **2:11** — Whereas angels, which are greater in power and might, bring not railing accusation against them before the Lord.
+- **2:20** — For if after they have escaped the pollutions of the world through the knowledge of the Lord and Saviour Jesus Christ, they are again entangled therein, and overcome, the latter end is worse with them than the beginning.
+- **3:2** — That ye may be mindful of the words which were spoken before by the holy prophets, and of the commandment of us the apostles of the Lord and Saviour:
+- **3:4** — And saying, Where is the promise of his coming? for since the fathers fell asleep, all things continue as they were from the beginning of the creation.
+- **3:8** — But, beloved, be not ignorant of this one thing, that one day is with the Lord as a thousand years, and a thousand years as one day.
+- **3:9** — The Lord is not slack concerning his promise, as some men count slackness; but is longsuffering to us-ward, not willing that any should perish, but that all should come to repentance.
+- **3:10** — But the day of the Lord will come as a thief in the night; in the which the heavens shall pass away with a great noise, and the elements shall melt with fervent heat, the earth also and the works that are therein shall be burned up.
+- **3:13** — Nevertheless we, according to his promise, look for new heavens and a new earth, wherein dwelleth righteousness.
+- **3:14** — Wherefore, beloved, seeing that ye look for such things, be diligent that ye may be found of him in peace, without spot, and blameless.
+- **3:15** — And account that the longsuffering of our Lord is salvation; even as our beloved brother Paul also according to the wisdom given unto him hath written unto you;
+- **3:18** — But grow in grace, and in the knowledge of our Lord and Saviour Jesus Christ. To him be glory both now and for ever. Amen.
+
+### [[1 John]]
+- **1:1** — That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked upon, and our hands have handled, of the Word of life;
+- **1:3** — That which we have seen and heard declare we unto you, that ye also may have fellowship with us: and truly our fellowship is with the Father, and with his Son Jesus Christ.
+- **1:5** — This then is the message which we have heard of him, and declare unto you, that God is light, and in him is no darkness at all.
+- **1:6** — If we say that we have fellowship with him, and walk in darkness, we lie, and do not the truth:
+- **1:7** — But if we walk in the light, as he is in the light, we have fellowship one with another, and the blood of Jesus Christ his Son cleanseth us from all sin.
+- **1:10** — If we say that we have not sinned, we make him a liar, and his word is not in us.
+- **2:1** — My little children, these things write I unto you, that ye sin not. And if any man sin, we have an advocate with the Father, Jesus Christ the righteous:
+- **2:2** — And he is the propitiation for our sins: and not for ours only, but also for the sins of the whole world.
+- **2:3** — And hereby we do know that we know him, if we keep his commandments.
+- **2:4** — He that saith, I know him, and keepeth not his commandments, is a liar, and the truth is not in him.
+- **2:5** — But whoso keepeth his word, in him verily is the love of God perfected: hereby know we that we are in him.
+- **2:6** — He that saith he abideth in him ought himself also so to walk, even as he walked.
+- **2:8** — Again, a new commandment I write unto you, which thing is true in him and in you: because the darkness is past, and the true light now shineth.
+- **2:12** — I write unto you, little children, because your sins are forgiven you for his name's sake.
+- **2:13** — I write unto you, fathers, because ye have known him that is from the beginning. I write unto you, young men, because ye have overcome the wicked one. I write unto you, little children, because ye have known the Father.
+- **2:14** — I have written unto you, fathers, because ye have known him that is from the beginning. I have written unto you, young men, because ye are strong, and the word of God abideth in you, and ye have overcome the wicked one.
+- **2:20** — But ye have an unction from the Holy One, and ye know all things.
+- **2:22** — Who is a liar but he that denieth that Jesus is the Christ? He is antichrist, that denieth the Father and the Son.
+- **2:23** — Whosoever denieth the Son, the same hath not the Father: (but) he that acknowledgeth the Son hath the Father also.
+- **2:24** — Let that therefore abide in you, which ye have heard from the beginning. If that which ye have heard from the beginning shall remain in you, ye also shall continue in the Son, and in the Father.
+- **2:25** — And this is the promise that he hath promised us, even eternal life.
+- **2:27** — But the anointing which ye have received of him abideth in you, and ye need not that any man teach you: but as the same anointing teacheth you of all things, and is truth, and is no lie, and even as it hath taught you, ye shall abide in him.
+- **2:28** — And now, little children, abide in him; that, when he shall appear, we may have confidence, and not be ashamed before him at his coming.
+- **2:29** — If ye know that he is righteous, ye know that every one that doeth righteousness is born of him.
+- **3:1** — Behold, what manner of love the Father hath bestowed upon us, that we should be called the sons of God: therefore the world knoweth us not, because it knew him not.
+- **3:2** — Beloved, now are we the sons of God, and it doth not yet appear what we shall be: but we know that, when he shall appear, we shall be like him; for we shall see him as he is.
+- **3:3** — And every man that hath this hope in him purifieth himself, even as he is pure.
+- **3:5** — And ye know that he was manifested to take away our sins; and in him is no sin.
+- **3:6** — Whosoever abideth in him sinneth not: whosoever sinneth hath not seen him, neither known him.
+- **3:7** — Little children, let no man deceive you: he that doeth righteousness is righteous, even as he is righteous.
+- **3:8** — He that committeth sin is of the devil; for the devil sinneth from the beginning. For this purpose the Son of God was manifested, that he might destroy the works of the devil.
+- **3:16** — Hereby perceive we the love of God, because he laid down his life for us: and we ought to lay down our lives for the brethren.
+- **3:19** — And hereby we know that we are of the truth, and shall assure our hearts before him.
+- **3:22** — And whatsoever we ask, we receive of him, because we keep his commandments, and do those things that are pleasing in his sight.
+- **3:23** — And this is his commandment, That we should believe on the name of his Son Jesus Christ, and love one another, as he gave us commandment.
+- **3:24** — And he that keepeth his commandments dwelleth in him, and he in him. And hereby we know that he abideth in us, by the Spirit which he hath given us.
+- **4:2** — Hereby know ye the Spirit of God: Every spirit that confesseth that Jesus Christ is come in the flesh is of God:
+- **4:3** — And every spirit that confesseth not that Jesus Christ is come in the flesh is not of God: and this is that spirit of antichrist, whereof ye have heard that it should come; and even now already is it in the world.
+- **4:4** — Ye are of God, little children, and have overcome them: because greater is he that is in you, than he that is in the world.
+- **4:9** — In this was manifested the love of God toward us, because that God sent his only begotten Son into the world, that we might live through him.
+- **4:10** — Herein is love, not that we loved God, but that he loved us, and sent his Son to be the propitiation for our sins.
+- **4:13** — Hereby know we that we dwell in him, and he in us, because he hath given us of his Spirit.
+- **4:14** — And we have seen and do testify that the Father sent the Son to be the Saviour of the world.
+- **4:15** — Whosoever shall confess that Jesus is the Son of God, God dwelleth in him, and he in God.
+- **4:17** — Herein is our love made perfect, that we may have boldness in the day of judgment: because as he is, so are we in this world.
+- **4:19** — We love him, because he first loved us.
+- **4:21** — And this commandment have we from him, That he who loveth God love his brother also.
+- **5:1** — Whosoever believeth that Jesus is the Christ is born of God: and every one that loveth him that begat loveth him also that is begotten of him.
+- **5:3** — For this is the love of God, that we keep his commandments: and his commandments are not grievous.
+- **5:5** — Who is he that overcometh the world, but he that believeth that Jesus is the Son of God?
+- **5:6** — This is he that came by water and blood, even Jesus Christ; not by water only, but by water and blood. And it is the Spirit that beareth witness, because the Spirit is truth.
+- **5:7** — For there are three that bear record in heaven, the Father, the Word, and the Holy Ghost: and these three are one.
+- **5:9** — If we receive the witness of men, the witness of God is greater: for this is the witness of God which he hath testified of his Son.
+- **5:10** — He that believeth on the Son of God hath the witness in himself: he that believeth not God hath made him a liar; because he believeth not the record that God gave of his Son.
+- **5:11** — And this is the record, that God hath given to us eternal life, and this life is in his Son.
+- **5:12** — He that hath the Son hath life; and he that hath not the Son of God hath not life.
+- **5:13** — These things have I written unto you that believe on the name of the Son of God; that ye may know that ye have eternal life, and that ye may believe on the name of the Son of God.
+- **5:14** — And this is the confidence that we have in him, that, if we ask any thing according to his will, he heareth us:
+- **5:15** — And if we know that he hear us, whatsoever we ask, we know that we have the petitions that we desired of him.
+- **5:16** — If any man see his brother sin a sin which is not unto death, he shall ask, and he shall give him life for them that sin not unto death. There is a sin unto death: I do not say that he shall pray for it.
+- **5:20** — And we know that the Son of God is come, and hath given us an understanding, that we may know him that is true, and we are in him that is true, even in his Son Jesus Christ. This is the true God, and eternal life.
+
+### [[2 John]]
+- **1:3** — Grace be with you, mercy, and peace, from God the Father, and from the Lord Jesus Christ, the Son of the Father, in truth and love.
+- **1:6** — And this is love, that we walk after his commandments. This is the commandment, That, as ye have heard from the beginning, ye should walk in it.
+- **1:7** — For many deceivers are entered into the world, who confess not that Jesus Christ is come in the flesh. This is a deceiver and an antichrist.
+- **1:9** — Whosoever transgresseth, and abideth not in the doctrine of Christ, hath not God. He that abideth in the doctrine of Christ, he hath both the Father and the Son.
+
+### [[3 John]]
+- **1:7** — Because that for his name's sake they went forth, taking nothing of the Gentiles.
+
+### [[Jude]]
+- **1:1** — Jude, the servant of Jesus Christ, and brother of James, to them that are sanctified by God the Father, and preserved in Jesus Christ, and called:
+- **1:4** — For there are certain men crept in unawares, who were before of old ordained to this condemnation, ungodly men, turning the grace of our God into lasciviousness, and denying the only Lord God, and our Lord Jesus Christ.
+- **1:5** — I will therefore put you in remembrance, though ye once knew this, how that the Lord, having saved the people out of the land of Egypt, afterward destroyed them that believed not.
+- **1:6** — And the angels which kept not their first estate, but left their own habitation, he hath reserved in everlasting chains under darkness unto the judgment of the great day.
+- **1:9** — Yet Michael the archangel, when contending with the devil he disputed about the body of Moses, durst not bring against him a railing accusation, but said, The Lord rebuke thee.
+- **1:14** — And Enoch also, the seventh from Adam, prophesied of these, saying, Behold, the Lord cometh with ten thousands of his saints,
+- **1:15** — To execute judgment upon all, and to convince all that are ungodly among them of all their ungodly deeds which they have ungodly committed, and of all their hard speeches which ungodly sinners have spoken against him.
+- **1:17** — But, beloved, remember ye the words which were spoken before of the apostles of our Lord Jesus Christ;
+- **1:21** — Keep yourselves in the love of God, looking for the mercy of our Lord Jesus Christ unto eternal life.
+- **1:24** — Now unto him that is able to keep you from falling, and to present you faultless before the presence of his glory with exceeding joy,
+- **1:25** — To the only wise God our Saviour, be glory and majesty, dominion and power, both now and ever. Amen.
+
+### [[Revelation]]
+- **1:1** — The Revelation of Jesus Christ, which God gave unto him, to shew unto his servants things which must shortly come to pass; and he sent and signified it by his angel unto his servant John:
+- **1:2** — Who bare record of the word of God, and of the testimony of Jesus Christ, and of all things that he saw.
+- **1:4** — John to the seven churches which are in Asia: Grace be unto you, and peace, from him which is, and which was, and which is to come; and from the seven Spirits which are before his throne;
+- **1:5** — And from Jesus Christ, who is the faithful witness, and the first begotten of the dead, and the prince of the kings of the earth. Unto him that loved us, and washed us from our sins in his own blood,
+- **1:6** — And hath made us kings and priests unto God and his Father; to him be glory and dominion for ever and ever. Amen.
+- **1:7** — Behold, he cometh with clouds; and every eye shall see him, and they also which pierced him: and all kindreds of the earth shall wail because of him. Even so, Amen.
+- **1:8** — I am Alpha and Omega, the beginning and the ending, saith the Lord, which is, and which was, and which is to come, the Almighty.
+- **1:9** — I John, who also am your brother, and companion in tribulation, and in the kingdom and patience of Jesus Christ, was in the isle that is called Patmos, for the word of God, and for the testimony of Jesus Christ.
+- **1:11** — Saying, I am Alpha and Omega, the first and the last: and, What thou seest, write in a book, and send it unto the seven churches which are in Asia; unto Ephesus, and unto Smyrna, and unto Pergamos, and unto Thyatira, and unto Sardis, and unto Philadelphia, and unto Laodicea.
+- **1:13** — And in the midst of the seven candlesticks one like unto the Son of man, clothed with a garment down to the foot, and girt about the paps with a golden girdle.
+- **1:14** — His head and his hairs were white like wool, as white as snow; and his eyes were as a flame of fire;
+- **1:15** — And his feet like unto fine brass, as if they burned in a furnace; and his voice as the sound of many waters.
+- **1:16** — And he had in his right hand seven stars: and out of his mouth went a sharp twoedged sword: and his countenance was as the sun shineth in his strength.
+- **1:17** — And when I saw him, I fell at his feet as dead. And he laid his right hand upon me, saying unto me, Fear not; I am the first and the last:
+- **1:18** — I am he that liveth, and was dead; and, behold, I am alive for evermore, Amen; and have the keys of hell and of death.
+- **1:20** — The mystery of the seven stars which thou sawest in my right hand, and the seven golden candlesticks. The seven stars are the angels of the seven churches: and the seven candlesticks which thou sawest are the seven churches.
+- **2:1** — Unto the angel of the church of Ephesus write; These things saith he that holdeth the seven stars in his right hand, who walketh in the midst of the seven golden candlesticks;
+- **2:2** — I know thy works, and thy labour, and thy patience, and how thou canst not bear them which are evil: and thou hast tried them which say they are apostles, and are not, and hast found them liars:
+- **2:3** — And hast borne, and hast patience, and for my name's sake hast laboured, and hast not fainted.
+- **2:4** — Nevertheless I have somewhat against thee, because thou hast left thy first love.
+- **2:5** — Remember therefore from whence thou art fallen, and repent, and do the first works; or else I will come unto thee quickly, and will remove thy candlestick out of his place, except thou repent.
+- **2:6** — But this thou hast, that thou hatest the deeds of the Nicolaitans, which I also hate.
+- **2:7** — He that hath an ear, let him hear what the Spirit saith unto the churches; To him that overcometh will I give to eat of the tree of life, which is in the midst of the paradise of God.
+- **2:8** — And unto the angel of the church in Smyrna write; These things saith the first and the last, which was dead, and is alive;
+- **2:9** — I know thy works, and tribulation, and poverty, (but thou art rich) and I know the blasphemy of them which say they are Jews, and are not, but are the synagogue of Satan.
+- **2:10** — Fear none of those things which thou shalt suffer: behold, the devil shall cast some of you into prison, that ye may be tried; and ye shall have tribulation ten days: be thou faithful unto death, and I will give thee a crown of life.
+- **2:12** — And to the angel of the church in Pergamos write; These things saith he which hath the sharp sword with two edges;
+- **2:13** — I know thy works, and where thou dwellest, even where Satan's seat is: and thou holdest fast my name, and hast not denied my faith, even in those days wherein Antipas was my faithful martyr, who was slain among you, where Satan dwelleth.
+- **2:14** — But I have a few things against thee, because thou hast there them that hold the doctrine of Balaam, who taught Balac to cast a stumblingblock before the children of Israel, to eat things sacrificed unto idols, and to commit fornication.
+- **2:15** — So hast thou also them that hold the doctrine of the Nicolaitans, which thing I hate.
+- **2:16** — Repent; or else I will come unto thee quickly, and will fight against them with the sword of my mouth.
+- **2:17** — He that hath an ear, let him hear what the Spirit saith unto the churches; To him that overcometh will I give to eat of the hidden manna, and will give him a white stone, and in the stone a new name written, which no man knoweth saving he that receiveth it.
+- **2:18** — And unto the angel of the church in Thyatira write; These things saith the Son of God, who hath his eyes like unto a flame of fire, and his feet are like fine brass;
+- **2:19** — I know thy works, and charity, and service, and faith, and thy patience, and thy works; and the last to be more than the first.
+- **2:20** — Notwithstanding I have a few things against thee, because thou sufferest that woman Jezebel, which calleth herself a prophetess, to teach and to seduce my servants to commit fornication, and to eat things sacrificed unto idols.
+- **2:21** — And I gave her space to repent of her fornication; and she repented not.
+- **2:22** — Behold, I will cast her into a bed, and them that commit adultery with her into great tribulation, except they repent of their deeds.
+- **2:23** — And I will kill her children with death; and all the churches shall know that I am he which searcheth the reins and hearts: and I will give unto every one of you according to your works.
+- **2:24** — But unto you I say, and unto the rest in Thyatira, as many as have not this doctrine, and which have not known the depths of Satan, as they speak; I will put upon you none other burden.
+- **2:25** — But that which ye have already hold fast till I come.
+- **2:26** — And he that overcometh, and keepeth my works unto the end, to him will I give power over the nations:
+- **2:27** — And he shall rule them with a rod of iron; as the vessels of a potter shall they be broken to shivers: even as I received of my Father.
+- **2:28** — And I will give him the morning star.
+- **3:1** — And unto the angel of the church in Sardis write; These things saith he that hath the seven Spirits of God, and the seven stars; I know thy works, that thou hast a name that thou livest, and art dead.
+- **3:2** — Be watchful, and strengthen the things which remain, that are ready to die: for I have not found thy works perfect before God.
+- **3:3** — Remember therefore how thou hast received and heard, and hold fast, and repent. If therefore thou shalt not watch, I will come on thee as a thief, and thou shalt not know what hour I will come upon thee.
+- **3:4** — Thou hast a few names even in Sardis which have not defiled their garments; and they shall walk with me in white: for they are worthy.
+- **3:5** — He that overcometh, the same shall be clothed in white raiment; and I will not blot out his name out of the book of life, but I will confess his name before my Father, and before his angels.
+- **3:7** — And to the angel of the church in Philadelphia write; These things saith he that is holy, he that is true, he that hath the key of David, he that openeth, and no man shutteth; and shutteth, and no man openeth;
+- **3:8** — I know thy works: behold, I have set before thee an open door, and no man can shut it: for thou hast a little strength, and hast kept my word, and hast not denied my name.
+- **3:9** — Behold, I will make them of the synagogue of Satan, which say they are Jews, and are not, but do lie; behold, I will make them to come and worship before thy feet, and to know that I have loved thee.
+- **3:10** — Because thou hast kept the word of my patience, I also will keep thee from the hour of temptation, which shall come upon all the world, to try them that dwell upon the earth.
+- **3:11** — Behold, I come quickly: hold that fast which thou hast, that no man take thy crown.
+- **3:12** — Him that overcometh will I make a pillar in the temple of my God, and he shall go no more out: and I will write upon him the name of my God, and the name of the city of my God, which is new Jerusalem, which cometh down out of heaven from my God: and I will write upon him my new name.
+- **3:15** — I know thy works, that thou art neither cold nor hot: I would thou wert cold or hot.
+- **3:16** — So then because thou art lukewarm, and neither cold nor hot, I will spue thee out of my mouth.
+- **3:17** — Because thou sayest, I am rich, and increased with goods, and have need of nothing; and knowest not that thou art wretched, and miserable, and poor, and blind, and naked:
+- **3:18** — I counsel thee to buy of me gold tried in the fire, that thou mayest be rich; and white raiment, that thou mayest be clothed, and that the shame of thy nakedness do not appear; and anoint thine eyes with eyesalve, that thou mayest see.
+- **3:19** — As many as I love, I rebuke and chasten: be zealous therefore, and repent.
+- **3:20** — Behold, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me.
+- **3:21** — To him that overcometh will I grant to sit with me in my throne, even as I also overcame, and am set down with my Father in his throne.
+- **4:2** — And immediately I was in the spirit: and, behold, a throne was set in heaven, and one sat on the throne.
+- **4:3** — And he that sat was to look upon like a jasper and a sardine stone: and there was a rainbow round about the throne, in sight like unto an emerald.
+- **4:9** — And when those beasts give glory and honour and thanks to him that sat on the throne, who liveth for ever and ever,
+- **4:10** — The four and twenty elders fall down before him that sat on the throne, and worship him that liveth for ever and ever, and cast their crowns before the throne, saying,
+- **4:11** — Thou art worthy, O Lord, to receive glory and honour and power: for thou hast created all things, and for thy pleasure they are and were created.
+- **5:1** — And I saw in the right hand of him that sat on the throne a book written within and on the backside, sealed with seven seals.
+- **5:6** — And I beheld, and, lo, in the midst of the throne and of the four beasts, and in the midst of the elders, stood a Lamb as it had been slain, having seven horns and seven eyes, which are the seven Spirits of God sent forth into all the earth.
+- **5:7** — And he came and took the book out of the right hand of him that sat upon the throne.
+- **5:8** — And when he had taken the book, the four beasts and four and twenty elders fell down before the Lamb, having every one of them harps, and golden vials full of odours, which are the prayers of saints.
+- **5:9** — And they sung a new song, saying, Thou art worthy to take the book, and to open the seals thereof: for thou wast slain, and hast redeemed us to God by thy blood out of every kindred, and tongue, and people, and nation;
+- **5:12** — Saying with a loud voice, Worthy is the Lamb that was slain to receive power, and riches, and wisdom, and strength, and honour, and glory, and blessing.
+- **5:13** — And every creature which is in heaven, and on the earth, and under the earth, and such as are in the sea, and all that are in them, heard I saying, Blessing, and honour, and glory, and power, be unto him that sitteth upon the throne, and unto the Lamb for ever and ever.
+- **5:14** — And the four beasts said, Amen. And the four and twenty elders fell down and worshipped him that liveth for ever and ever.
+- **6:1** — And I saw when the Lamb opened one of the seals, and I heard, as it were the noise of thunder, one of the four beasts saying, Come and see.
+- **6:3** — And when he had opened the second seal, I heard the second beast say, Come and see.
+- **6:5** — And when he had opened the third seal, I heard the third beast say, Come and see. And I beheld, and lo a black horse; and he that sat on him had a pair of balances in his hand.
+- **6:7** — And when he had opened the fourth seal, I heard the voice of the fourth beast say, Come and see.
+- **6:9** — And when he had opened the fifth seal, I saw under the altar the souls of them that were slain for the word of God, and for the testimony which they held:
+- **6:10** — And they cried with a loud voice, saying, How long, O Lord, holy and true, dost thou not judge and avenge our blood on them that dwell on the earth?
+- **6:12** — And I beheld when he had opened the sixth seal, and, lo, there was a great earthquake; and the sun became black as sackcloth of hair, and the moon became as blood;
+- **6:16** — And said to the mountains and rocks, Fall on us, and hide us from the face of him that sitteth on the throne, and from the wrath of the Lamb:
+- **6:17** — For the great day of his wrath is come; and who shall be able to stand?
+- **7:9** — After this I beheld, and, lo, a great multitude, which no man could number, of all nations, and kindreds, and people, and tongues, stood before the throne, and before the Lamb, clothed with white robes, and palms in their hands;
+- **7:10** — And cried with a loud voice, saying, Salvation to our God which sitteth upon the throne, and unto the Lamb.
+- **7:14** — And I said unto him, Sir, thou knowest. And he said to me, These are they which came out of great tribulation, and have washed their robes, and made them white in the blood of the Lamb.
+- **7:15** — Therefore are they before the throne of God, and serve him day and night in his temple: and he that sitteth on the throne shall dwell among them.
+- **7:17** — For the Lamb which is in the midst of the throne shall feed them, and shall lead them unto living fountains of waters: and God shall wipe away all tears from their eyes.
+- **8:1** — And when he had opened the seventh seal, there was silence in heaven about the space of half an hour.
+- **10:6** — And sware by him that liveth for ever and ever, who created heaven, and the things that therein are, and the earth, and the things that therein are, and the sea, and the things which are therein, that there should be time no longer:
+- **10:8** — And the voice which I heard from heaven spake unto me again, and said, Go and take the little book which is open in the hand of the angel which standeth upon the sea and upon the earth.
+- **11:3** — And I will give power unto my two witnesses, and they shall prophesy a thousand two hundred and threescore days, clothed in sackcloth.
+- **11:8** — And their dead bodies shall lie in the street of the great city, which spiritually is called Sodom and Egypt, where also our Lord was crucified.
+- **11:15** — And the seventh angel sounded; and there were great voices in heaven, saying, The kingdoms of this world are become the kingdoms of our Lord, and of his Christ; and he shall reign for ever and ever.
+- **11:17** — Saying, We give thee thanks, O Lord God Almighty, which art, and wast, and art to come; because thou hast taken to thee thy great power, and hast reigned.
+- **11:18** — And the nations were angry, and thy wrath is come, and the time of the dead, that they should be judged, and that thou shouldest give reward unto thy servants the prophets, and to the saints, and them that fear thy name, small and great; and shouldest destroy them which destroy the earth.
+- **12:2** — And she being with child cried, travailing in birth, and pained to be delivered.
+- **12:4** — And his tail drew the third part of the stars of heaven, and did cast them to the earth: and the dragon stood before the woman which was ready to be delivered, for to devour her child as soon as it was born.
+- **12:5** — And she brought forth a man child, who was to rule all nations with a rod of iron: and her child was caught up unto God, and to his throne.
+- **12:10** — And I heard a loud voice saying in heaven, Now is come salvation, and strength, and the kingdom of our God, and the power of his Christ: for the accuser of our brethren is cast down, which accused them before our God day and night.
+- **12:11** — And they overcame him by the blood of the Lamb, and by the word of their testimony; and they loved not their lives unto the death.
+- **12:13** — And when the dragon saw that he was cast unto the earth, he persecuted the woman which brought forth the man child.
+- **12:17** — And the dragon was wroth with the woman, and went to make war with the remnant of her seed, which keep the commandments of God, and have the testimony of Jesus Christ.
+- **13:6** — And he opened his mouth in blasphemy against God, to blaspheme his name, and his tabernacle, and them that dwell in heaven.
+- **13:8** — And all that dwell upon the earth shall worship him, whose names are not written in the book of life of the Lamb slain from the foundation of the world.
+- **14:1** — And I looked, and, lo, a Lamb stood on the mount Sion, and with him an hundred forty and four thousand, having his Father's name written in their foreheads.
+- **14:4** — These are they which were not defiled with women; for they are virgins. These are they which follow the Lamb whithersoever he goeth. These were redeemed from among men, being the firstfruits unto God and to the Lamb.
+- **14:10** — The same shall drink of the wine of the wrath of God, which is poured out without mixture into the cup of his indignation; and he shall be tormented with fire and brimstone in the presence of the holy angels, and in the presence of the Lamb:
+- **14:12** — Here is the patience of the saints: here are they that keep the commandments of God, and the faith of Jesus.
+- **14:13** — And I heard a voice from heaven saying unto me, Write, Blessed are the dead which die in the Lord from henceforth: Yea, saith the Spirit, that they may rest from their labours; and their works do follow them.
+- **14:14** — And I looked, and behold a white cloud, and upon the cloud one sat like unto the Son of man, having on his head a golden crown, and in his hand a sharp sickle.
+- **14:15** — And another angel came out of the temple, crying with a loud voice to him that sat on the cloud, Thrust in thy sickle, and reap: for the time is come for thee to reap; for the harvest of the earth is ripe.
+- **14:16** — And he that sat on the cloud thrust in his sickle on the earth; and the earth was reaped.
+- **15:3** — And they sing the song of Moses the servant of God, and the song of the Lamb, saying, Great and marvellous are thy works, Lord God Almighty; just and true are thy ways, thou King of saints.
+- **15:4** — Who shall not fear thee, O Lord, and glorify thy name? for thou only art holy: for all nations shall come and worship before thee; for thy judgments are made manifest.
+- **16:5** — And I heard the angel of the waters say, Thou art righteous, O Lord, which art, and wast, and shalt be, because thou hast judged thus.
+- **16:6** — For they have shed the blood of saints and prophets, and thou hast given them blood to drink; for they are worthy.
+- **16:7** — And I heard another out of the altar say, Even so, Lord God Almighty, true and righteous are thy judgments.
+- **17:3** — So he carried me away in the spirit into the wilderness: and I saw a woman sit upon a scarlet coloured beast, full of names of blasphemy, having seven heads and ten horns.
+- **17:6** — And I saw the woman drunken with the blood of the saints, and with the blood of the martyrs of Jesus: and when I saw her, I wondered with great admiration.
+- **17:14** — These shall make war with the Lamb, and the Lamb shall overcome them: for he is Lord of lords, and King of kings: and they that are with him are called, and chosen, and faithful.
+- **18:4** — And I heard another voice from heaven, saying, Come out of her, my people, that ye be not partakers of her sins, and that ye receive not of her plagues.
+- **18:5** — For her sins have reached unto heaven, and God hath remembered her iniquities.
+- **19:1** — And after these things I heard a great voice of much people in heaven, saying, Alleluia; Salvation, and glory, and honour, and power, unto the Lord our God:
+- **19:2** — For true and righteous are his judgments: for he hath judged the great whore, which did corrupt the earth with her fornication, and hath avenged the blood of his servants at her hand.
+- **19:7** — Let us be glad and rejoice, and give honour to him: for the marriage of the Lamb is come, and his wife hath made herself ready.
+- **19:9** — And he saith unto me, Write, Blessed are they which are called unto the marriage supper of the Lamb. And he saith unto me, These are the true sayings of God.
+- **19:10** — And I fell at his feet to worship him. And he said unto me, See thou do it not: I am thy fellowservant, and of thy brethren that have the testimony of Jesus: worship God: for the testimony of Jesus is the spirit of prophecy.
+- **19:11** — And I saw heaven opened, and behold a white horse; and he that sat upon him was called Faithful and True, and in righteousness he doth judge and make war.
+- **19:12** — His eyes were as a flame of fire, and on his head were many crowns; and he had a name written, that no man knew, but he himself.
+- **19:13** — And he was clothed with a vesture dipped in blood: and his name is called The Word of God.
+- **19:14** — And the armies which were in heaven followed him upon white horses, clothed in fine linen, white and clean.
+- **19:15** — And out of his mouth goeth a sharp sword, that with it he should smite the nations: and he shall rule them with a rod of iron: and he treadeth the winepress of the fierceness and wrath of Almighty God.
+- **19:16** — And he hath on his vesture and on his thigh a name written, KING OF KINGS, AND LORD OF LORDS.
+- **19:19** — And I saw the beast, and the kings of the earth, and their armies, gathered together to make war against him that sat on the horse, and against his army.
+- **19:21** — And the remnant were slain with the sword of him that sat upon the horse, which sword proceeded out of his mouth: and all the fowls were filled with their flesh.
+- **20:4** — And I saw thrones, and they sat upon them, and judgment was given unto them: and I saw the souls of them that were beheaded for the witness of Jesus, and for the word of God, and which had not worshipped the beast, neither his image, neither had received his mark upon their foreheads, or in their hands; and they lived and reigned with Christ a thousand years.
+- **20:6** — Blessed and holy is he that hath part in the first resurrection: on such the second death hath no power, but they shall be priests of God and of Christ, and shall reign with him a thousand years.
+- **20:11** — And I saw a great white throne, and him that sat on it, from whose face the earth and the heaven fled away; and there was found no place for them.
+- **21:5** — And he that sat upon the throne said, Behold, I make all things new. And he said unto me, Write: for these words are true and faithful.
+- **21:6** — And he said unto me, It is done. I am Alpha and Omega, the beginning and the end. I will give unto him that is athirst of the fountain of the water of life freely.
+- **21:7** — He that overcometh shall inherit all things; and I will be his God, and he shall be my son.
+- **21:9** — And there came unto me one of the seven angels which had the seven vials full of the seven last plagues, and talked with me, saying, Come hither, I will shew thee the bride, the Lamb's wife.
+- **21:10** — And he carried me away in the spirit to a great and high mountain, and shewed me that great city, the holy Jerusalem, descending out of heaven from God,
+- **21:14** — And the wall of the city had twelve foundations, and in them the names of the twelve apostles of the Lamb.
+- **21:22** — And I saw no temple therein: for the Lord God Almighty and the Lamb are the temple of it.
+- **21:23** — And the city had no need of the sun, neither of the moon, to shine in it: for the glory of God did lighten it, and the Lamb is the light thereof.
+- **21:27** — And there shall in no wise enter into it any thing that defileth, neither whatsoever worketh abomination, or maketh a lie: but they which are written in the Lamb's book of life.
+- **22:1** — And he shewed me a pure river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb.
+- **22:3** — And there shall be no more curse: but the throne of God and of the Lamb shall be in it; and his servants shall serve him:
+- **22:4** — And they shall see his face; and his name shall be in their foreheads.
+- **22:6** — And he said unto me, These sayings are faithful and true: and the Lord God of the holy prophets sent his angel to shew unto his servants the things which must shortly be done.
+- **22:7** — Behold, I come quickly: blessed is he that keepeth the sayings of the prophecy of this book.
+- **22:12** — And, behold, I come quickly; and my reward is with me, to give every man according as his work shall be.
+- **22:13** — I am Alpha and Omega, the beginning and the end, the first and the last.
+- **22:14** — Blessed are they that do his commandments, that they may have right to the tree of life, and may enter in through the gates into the city.
+- **22:16** — I Jesus have sent mine angel to testify unto you these things in the churches. I am the root and the offspring of David, and the bright and morning star.
+- **22:20** — He which testifieth these things saith, Surely I come quickly. Amen. Even so, come, Lord Jesus.
+- **22:21** — The grace of our Lord Jesus Christ be with you all. Amen.
+

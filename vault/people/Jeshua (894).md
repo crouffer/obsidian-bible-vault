@@ -1,0 +1,53 @@
+---
+type: person
+name: Jeshua (894)
+also_known_as: []
+
+name_hebrew: ""
+name_greek_lxx: ""
+name_latin: ""
+name_meaning: ""
+translation_variants:
+  kjv: Jeshua
+  esv: ""
+  niv: ""
+  nkjv: ""
+
+strongs:
+  hebrew: ""
+  greek: ""
+
+father: "[[Pahath-moab (2265)]]"
+mother: null
+spouse: []
+children: []
+siblings: 
+  - "[[Joab (1619)]]"
+
+gender: male
+role: []
+testament: OT
+era: unknown
+
+birth_year: null
+death_year: null
+birth_place: null
+death_place: null
+
+first_appearance: "Ezra 2:6"
+places_associated: []
+groups_associated: []
+
+confidence: medium
+disambiguation_note: ""
+metav_id: 894
+---
+
+## Verse References
+
+### [[Ezra]]
+- **2:6** — The children of Pahathmoab, of the children of Jeshua and Joab, two thousand eight hundred and twelve.
+
+### [[Nehemiah]]
+- **7:11** — The children of Pahathmoab, of the children of Jeshua and Joab, two thousand and eight hundred and eighteen.
+

@@ -1,0 +1,48 @@
+---
+type: person
+name: Wife of Caiaphas
+also_known_as: ["wife"]
+
+name_hebrew: ""
+name_greek_lxx: ""
+name_latin: ""
+name_meaning: ""
+translation_variants:
+  kjv: Wife of Caiaphas
+  esv: ""
+  niv: ""
+  nkjv: ""
+
+strongs:
+  hebrew: ""
+  greek: ""
+
+father: "[[Annas]]"
+mother: null
+spouse: 
+  - "[[Caiaphas]]"
+children: []
+siblings: []
+
+gender: female
+role: []
+testament: unknown
+era: unknown
+
+birth_year: null
+death_year: null
+birth_place: null
+death_place: null
+
+first_appearance: null
+places_associated: []
+groups_associated: []
+
+confidence: medium
+disambiguation_note: ""
+metav_id: 2939
+---
+
+## Verse References
+
+_No verse references found in MainIndex._
