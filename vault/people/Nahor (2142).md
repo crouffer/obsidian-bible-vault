@@ -14,7 +14,7 @@ translation_variants:
   nkjv: ""
 
 strongs:
-  hebrew: ""
+  hebrew: "H5152"
   greek: ""
 
 father: "[[Serug]]"

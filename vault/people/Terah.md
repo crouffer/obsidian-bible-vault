@@ -14,7 +14,7 @@ translation_variants:
   nkjv: ""
 
 strongs:
-  hebrew: ""
+  hebrew: "H8646"
   greek: ""
 
 father: "[[Nahor (2142)]]"

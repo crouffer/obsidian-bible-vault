@@ -14,7 +14,7 @@ translation_variants:
   nkjv: ""
 
 strongs:
-  hebrew: ""
+  hebrew: "H775"
   greek: ""
 
 father: "[[Shem]]"

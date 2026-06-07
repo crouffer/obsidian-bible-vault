@@ -14,7 +14,7 @@ translation_variants:
   nkjv: ""
 
 strongs:
-  hebrew: ""
+  hebrew: "H7974"
   greek: ""
 
 father: "[[Cainan (535)]]"

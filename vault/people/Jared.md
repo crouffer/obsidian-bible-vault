@@ -14,7 +14,7 @@ translation_variants:
   nkjv: ""
 
 strongs:
-  hebrew: ""
+  hebrew: "H3382"
   greek: ""
 
 father: "[[Mahalaleel (1885)]]"

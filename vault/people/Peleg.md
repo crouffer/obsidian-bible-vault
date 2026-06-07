@@ -14,7 +14,7 @@ translation_variants:
   nkjv: ""
 
 strongs:
-  hebrew: ""
+  hebrew: "H6389"
   greek: ""
 
 father: "[[Eber (1030)]]"
