@@ -23,7 +23,7 @@ spouse: []
 children: 
   - "[[Igal (1599)]]"
 siblings: 
-  - "[[Joel (1653)]]"
+  - "[[Joel (brother of Nathan)]]"
 
 gender: male
 role: []

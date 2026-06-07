@@ -22,7 +22,7 @@ mother: null
 spouse: []
 children: 
   - "[[Ishiah]]"
-  - "[[Joel (1652)]]"
+  - "[[Joel (son of Izrahiah)]]"
   - "[[Michael (2062)]]"
   - "[[Obadiah (2217)]]"
 siblings: []

@@ -17,7 +17,7 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Joel (1650)]]"
+father: "[[Joel (father of Shema)]]"
 mother: null
 spouse: []
 children: 

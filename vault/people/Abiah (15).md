@@ -22,7 +22,7 @@ mother: null
 spouse: []
 children: []
 siblings: 
-  - "[[Joel (1647)]]"
+  - "[[Joel (son of Samuel)]]"
 
 gender: male
 role: []

@@ -22,7 +22,7 @@ mother: "[[Elkanah (1168)]]"
 spouse: []
 children: 
   - "[[Abiah (15)]]"
-  - "[[Joel (1647)]]"
+  - "[[Joel (son of Samuel)]]"
 siblings: []
 
 gender: male

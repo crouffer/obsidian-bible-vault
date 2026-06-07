@@ -21,7 +21,7 @@ father: null
 mother: null
 spouse: []
 children: 
-  - "[[Joel (1653)]]"
+  - "[[Joel (brother of Nathan)]]"
   - "[[Nathan (2154)]]"
 siblings: []
 

@@ -17,7 +17,7 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Joel (1649)]]"
+father: "[[Joel (Reubenite)]]"
 mother: null
 spouse: []
 children: 

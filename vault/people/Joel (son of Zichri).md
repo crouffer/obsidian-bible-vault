@@ -1,6 +1,6 @@
 ---
 type: person
-name: Joel (1652)
+name: Joel (son of Zichri)
 also_known_as: []
 
 name_hebrew: ""
@@ -17,14 +17,11 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Izrahiah]]"
+father: "[[Zichri (3075)]]"
 mother: null
 spouse: []
 children: []
-siblings: 
-  - "[[Ishiah]]"
-  - "[[Michael (2062)]]"
-  - "[[Obadiah (2217)]]"
+siblings: []
 
 gender: male
 role: []
@@ -36,17 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "1 Chronicles 7:3"
+first_appearance: "Nehemiah 11:9"
 places_associated: []
-groups_associated: ["Tribe of Issachar"]
+groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 1652
+metav_id: 1659
 ---
 
 ## Verse References
 
-### [[books/1 Chronicles|1 Chronicles]]
-- **7:3** — And the sons of Uzzi; Izrahiah: and the sons of Izrahiah; Michael, and Obadiah, and Joel, Ishiah, five: all of them chief men.
+### [[books/Nehemiah|Nehemiah]]
+- **11:9** — And Joel the son of Zichri was their overseer: and Judah the son of Senuah was second over the city.
 

@@ -1,6 +1,6 @@
 ---
 type: person
-name: Joel (1659)
+name: Joel (father of Shema)
 also_known_as: []
 
 name_hebrew: ""
@@ -17,10 +17,11 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Zichri (3075)]]"
+father: null
 mother: null
 spouse: []
-children: []
+children: 
+  - "[[Shema (2615)]]"
 siblings: []
 
 gender: male
@@ -33,17 +34,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "Nehemiah 11:9"
+first_appearance: "1 Chronicles 5:8"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 1659
+metav_id: 1650
 ---
 
 ## Verse References
 
-### [[books/Nehemiah|Nehemiah]]
-- **11:9** — And Joel the son of Zichri was their overseer: and Judah the son of Senuah was second over the city.
+### [[books/1 Chronicles|1 Chronicles]]
+- **5:8** — And Bela the son of Azaz, the son of Shema, the son of Joel, who dwelt in Aroer, even unto Nebo and Baalmeon:
 

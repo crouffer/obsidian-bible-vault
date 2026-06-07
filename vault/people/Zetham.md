@@ -22,7 +22,7 @@ mother: null
 spouse: []
 children: []
 siblings: 
-  - "[[Joel (1655)]]"
+  - "[[Joel (Levite treasurer)]]"
 
 gender: male
 role: []

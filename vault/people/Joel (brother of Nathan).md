@@ -1,6 +1,6 @@
 ---
 type: person
-name: Joel (1651)
+name: Joel (brother of Nathan)
 also_known_as: []
 
 name_hebrew: ""
@@ -17,11 +17,12 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: null
+father: "[[Father of Nathan and Joel]]"
 mother: null
 spouse: []
 children: []
-siblings: []
+siblings: 
+  - "[[Nathan (2154)]]"
 
 gender: male
 role: []
@@ -33,17 +34,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "1 Chronicles 5:12"
+first_appearance: "1 Chronicles 11:38"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 1651
+metav_id: 1653
 ---
 
 ## Verse References
 
 ### [[books/1 Chronicles|1 Chronicles]]
-- **5:12** — Joel the chief, and Shapham the next, and Jaanai, and Shaphat in Bashan.
+- **11:38** — Joel the brother of Nathan, Mibhar the son of Haggeri,
 

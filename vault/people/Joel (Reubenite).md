@@ -1,6 +1,6 @@
 ---
 type: person
-name: Joel (1658)
+name: Joel (Reubenite)
 also_known_as: []
 
 name_hebrew: ""
@@ -20,7 +20,8 @@ strongs:
 father: null
 mother: null
 spouse: []
-children: []
+children: 
+  - "[[Shemaiah (son of Joel the Reubenite)]]"
 siblings: []
 
 gender: male
@@ -33,17 +34,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "Ezra 10:43"
+first_appearance: "1 Chronicles 5:4"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 1658
+metav_id: 1649
 ---
 
 ## Verse References
 
-### [[books/Ezra|Ezra]]
-- **10:43** — Of the sons of Nebo; Jeiel, Mattithiah, Zabad, Zebina, Jadau, and Joel, Benaiah.
+### [[books/1 Chronicles|1 Chronicles]]
+- **5:4** — The sons of Joel; Shemaiah his son, Gog his son, Shimei his son,
 

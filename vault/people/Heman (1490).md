@@ -17,7 +17,7 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Joel (1647)]]"
+father: "[[Joel (son of Samuel)]]"
 mother: null
 spouse: []
 children: 

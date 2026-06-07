@@ -1,6 +1,6 @@
 ---
 type: person
-name: Joel (1654)
+name: Joel (Gershonite chief)
 also_known_as: []
 
 name_hebrew: ""

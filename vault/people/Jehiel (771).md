@@ -21,7 +21,7 @@ father: null
 mother: null
 spouse: []
 children: 
-  - "[[Joel (1655)]]"
+  - "[[Joel (Levite treasurer)]]"
   - "[[Zetham]]"
 siblings: []
 

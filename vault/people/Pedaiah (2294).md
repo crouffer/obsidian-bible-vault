@@ -21,7 +21,7 @@ father: null
 mother: null
 spouse: []
 children: 
-  - "[[Joel (1656)]]"
+  - "[[Joel (son of Pedaiah)]]"
 siblings: []
 
 gender: male

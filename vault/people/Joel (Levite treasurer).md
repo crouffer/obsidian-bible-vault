@@ -1,6 +1,6 @@
 ---
 type: person
-name: Joel (1656)
+name: Joel (Levite treasurer)
 also_known_as: []
 
 name_hebrew: ""
@@ -17,11 +17,12 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Pedaiah (2294)]]"
+father: "[[Jehiel (771)]]"
 mother: null
 spouse: []
 children: []
-siblings: []
+siblings: 
+  - "[[Zetham]]"
 
 gender: male
 role: []
@@ -33,17 +34,18 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "1 Chronicles 27:20"
+first_appearance: "1 Chronicles 23:8"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 1656
+metav_id: 1655
 ---
 
 ## Verse References
 
 ### [[books/1 Chronicles|1 Chronicles]]
-- **27:20** — Of the children of Ephraim, Hoshea the son of Azaziah: of the half tribe of Manasseh, Joel the son of Pedaiah:
+- **23:8** — The sons of Laadan; the chief was Jehiel, and Zetham, and Joel, three.
+- **26:22** — The sons of Jehieli; Zetham, and Joel his brother, which were over the treasures of the house of the LORD.
 

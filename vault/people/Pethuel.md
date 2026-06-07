@@ -21,7 +21,7 @@ father: null
 mother: null
 spouse: []
 children: 
-  - "[[Joel (1660)]]"
+  - "[[Joel (prophet)]]"
 siblings: []
 
 gender: male
