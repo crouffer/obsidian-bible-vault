@@ -1,6 +1,6 @@
 ---
 type: person
-name: Shemaiah (2630)
+name: Shemaiah (the Levite scribe)
 also_known_as: []
 
 name_hebrew: ""
@@ -17,7 +17,7 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: null
+father: "[[Nethaneel (2191)]]"
 mother: null
 spouse: []
 children: []
@@ -33,17 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "2 Chronicles 31:15"
+first_appearance: "1 Chronicles 24:6"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 2630
+metav_id: 2626
 ---
 
 ## Verse References
 
-### [[books/2 Chronicles|2 Chronicles]]
-- **31:15** — And next him were Eden, and Miniamin, and Jeshua, and Shemaiah, Amariah, and Shecaniah, in the cities of the priests, in their set office, to give to their brethren by courses, as well to the great as to the small:
+### [[books/1 Chronicles|1 Chronicles]]
+- **24:6** — And Shemaiah the son of Nethaneel the scribe, one of the Levites, wrote them before the king, and the princes, and Zadok the priest, and Ahimelech the son of Abiathar, and before the chief of the fathers of the priests and Levites: one principal household being taken for Eleazar, and one taken for Ithamar.
 

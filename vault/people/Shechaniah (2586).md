@@ -21,7 +21,7 @@ father: "[[Jehiel (778)]]"
 mother: null
 spouse: []
 children: 
-  - "[[Shemaiah (2636)]]"
+  - "[[Shemaiah (keeper of the east gate)]]"
 siblings: []
 
 gender: male

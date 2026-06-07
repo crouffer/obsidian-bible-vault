@@ -28,7 +28,7 @@ siblings:
   - "[[Judah (1755)]]"
   - "[[Maai]]"
   - "[[Nethaneel (2197)]]"
-  - "[[Shemaiah (2640)]]"
+  - "[[Shemaiah (son of Jonathan)]]"
   - "[[Zechariah (son of Jonathan)]]"
 
 gender: male

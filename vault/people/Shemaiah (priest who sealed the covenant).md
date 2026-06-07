@@ -1,6 +1,6 @@
 ---
 type: person
-name: Shemaiah (2642)
+name: Shemaiah (priest who sealed the covenant)
 also_known_as: []
 
 name_hebrew: ""
@@ -20,8 +20,7 @@ strongs:
 father: null
 mother: null
 spouse: []
-children: 
-  - "[[Urijah (2905)]]"
+children: []
 siblings: []
 
 gender: male
@@ -34,17 +33,20 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "Jeremiah 26:20"
+first_appearance: "Nehemiah 10:8"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 2642
+metav_id: 2638
 ---
 
 ## Verse References
 
-### [[books/Jeremiah|Jeremiah]]
-- **26:20** — And there was also a man that prophesied in the name of the LORD, Urijah the son of Shemaiah of Kirjathjearim, who prophesied against this city and against this land according to all the words of Jeremiah:
+### [[books/Nehemiah|Nehemiah]]
+- **10:8** — Maaziah, Bilgai, Shemaiah: these were the priests.
+- **12:6** — Shemaiah, and Joiarib, Jedaiah,
+- **12:18** — Of Bilgah, Shammua; of Shemaiah, Jehonathan;
+- **12:34** — Judah, and Benjamin, and Shemaiah, and Jeremiah,
 

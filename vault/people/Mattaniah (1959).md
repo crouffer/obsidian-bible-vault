@@ -22,7 +22,7 @@ mother: null
 spouse: []
 children: 
   - "[[Hashabiah (1436)]]"
-  - "[[Shemaiah (2639)]]"
+  - "[[Shemaiah (son of Mattaniah)]]"
 siblings: []
 
 gender: male

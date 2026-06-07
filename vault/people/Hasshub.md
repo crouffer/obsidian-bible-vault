@@ -21,7 +21,7 @@ father: "[[Azrikam (565)]]"
 mother: null
 spouse: []
 children: 
-  - "[[Shemaiah (2623)]]"
+  - "[[Shemaiah (son of Hasshub the Merarite)]]"
 siblings: []
 
 gender: male

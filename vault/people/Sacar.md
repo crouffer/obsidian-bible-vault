@@ -28,7 +28,7 @@ siblings:
   - "[[Joah (1623)]]"
   - "[[Nethaneel (2192)]]"
   - "[[Peulthai]]"
-  - "[[Shemaiah (2627)]]"
+  - "[[Shemaiah (firstborn of Obed-edom)]]"
 
 gender: male
 role: []

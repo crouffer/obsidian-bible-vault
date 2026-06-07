@@ -1,6 +1,6 @@
 ---
 type: person
-name: Shemaiah (2636)
+name: Shemaiah (father of Urijah)
 also_known_as: []
 
 name_hebrew: ""
@@ -17,10 +17,11 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Shechaniah (2586)]]"
+father: null
 mother: null
 spouse: []
-children: []
+children: 
+  - "[[Urijah (2905)]]"
 siblings: []
 
 gender: male
@@ -33,17 +34,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "Nehemiah 3:29"
+first_appearance: "Jeremiah 26:20"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 2636
+metav_id: 2642
 ---
 
 ## Verse References
 
-### [[books/Nehemiah|Nehemiah]]
-- **3:29** — After them repaired Zadok the son of Immer over against his house. After him repaired also Shemaiah the son of Shechaniah, the keeper of the east gate.
+### [[books/Jeremiah|Jeremiah]]
+- **26:20** — And there was also a man that prophesied in the name of the LORD, Urijah the son of Shemaiah of Kirjathjearim, who prophesied against this city and against this land according to all the words of Jeremiah:
 

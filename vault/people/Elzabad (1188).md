@@ -17,7 +17,7 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Shemaiah (2627)]]"
+father: "[[Shemaiah (firstborn of Obed-edom)]]"
 mother: null
 spouse: []
 children: []

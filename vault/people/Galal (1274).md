@@ -21,7 +21,7 @@ father: "[[Jeduthun (762)]]"
 mother: null
 spouse: []
 children: 
-  - "[[Shemaiah (2624)]]"
+  - "[[Shemaiah (son of Galal)]]"
 siblings: []
 
 gender: male

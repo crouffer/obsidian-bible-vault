@@ -21,7 +21,7 @@ father: "[[Hananiah (1384)]]"
 mother: null
 spouse: []
 children: 
-  - "[[Shemaiah (2620)]]"
+  - "[[Shemaiah (son of Shechaniah)]]"
 siblings: 
   - "[[Arnan]]"
   - "[[Jesaiah (883)]]"

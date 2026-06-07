@@ -28,7 +28,7 @@ children:
   - "[[Nethaneel (2192)]]"
   - "[[Peulthai]]"
   - "[[Sacar]]"
-  - "[[Shemaiah (2627)]]"
+  - "[[Shemaiah (firstborn of Obed-edom)]]"
 siblings: 
   - "[[Gedaliah (1288)]]"
   - "[[Hashabiah (1430)]]"

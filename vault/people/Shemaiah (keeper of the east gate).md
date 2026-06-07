@@ -1,6 +1,6 @@
 ---
 type: person
-name: Shemaiah (2640)
+name: Shemaiah (keeper of the east gate)
 also_known_as: []
 
 name_hebrew: ""
@@ -17,19 +17,11 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Jonathan (1700)]]"
+father: "[[Shechaniah (2586)]]"
 mother: null
 spouse: []
 children: []
-siblings: 
-  - "[[Azarael]]"
-  - "[[Gilalai]]"
-  - "[[Hanani (1383)]]"
-  - "[[Judah (1755)]]"
-  - "[[Maai]]"
-  - "[[Milalai]]"
-  - "[[Nethaneel (2197)]]"
-  - "[[Zechariah (son of Jonathan)]]"
+siblings: []
 
 gender: male
 role: []
@@ -41,17 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "Nehemiah 12:36"
+first_appearance: "Nehemiah 3:29"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 2640
+metav_id: 2636
 ---
 
 ## Verse References
 
 ### [[books/Nehemiah|Nehemiah]]
-- **12:36** — And his brethren, Shemaiah, and Azarael, Milalai, Gilalai, Maai, Nethaneel, and Judah, Hanani, with the musical instruments of David the man of God, and Ezra the scribe before them.
+- **3:29** — After them repaired Zadok the son of Immer over against his house. After him repaired also Shemaiah the son of Shechaniah, the keeper of the east gate.
 

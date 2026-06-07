@@ -23,7 +23,7 @@ spouse: []
 children: 
   - "[[Bani (398)]]"
 siblings: 
-  - "[[Shemaiah (2639)]]"
+  - "[[Shemaiah (son of Mattaniah)]]"
 
 gender: male
 role: []

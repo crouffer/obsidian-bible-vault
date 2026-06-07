@@ -17,7 +17,7 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Shemaiah (2620)]]"
+father: "[[Shemaiah (son of Shechaniah)]]"
 mother: null
 spouse: []
 children: []

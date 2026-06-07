@@ -1,6 +1,6 @@
 ---
 type: person
-name: Shemaiah (2643)
+name: Shemaiah (the Nehelamite)
 also_known_as: []
 
 name_hebrew: ""

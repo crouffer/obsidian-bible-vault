@@ -1,6 +1,6 @@
 ---
 type: person
-name: Shemaiah (2639)
+name: Shemaiah (son of Jonathan)
 also_known_as: []
 
 name_hebrew: ""
@@ -17,13 +17,19 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Mattaniah (1959)]]"
+father: "[[Jonathan (1700)]]"
 mother: null
 spouse: []
-children: 
-  - "[[Jonathan (1700)]]"
+children: []
 siblings: 
-  - "[[Hashabiah (1436)]]"
+  - "[[Azarael]]"
+  - "[[Gilalai]]"
+  - "[[Hanani (1383)]]"
+  - "[[Judah (1755)]]"
+  - "[[Maai]]"
+  - "[[Milalai]]"
+  - "[[Nethaneel (2197)]]"
+  - "[[Zechariah (son of Jonathan)]]"
 
 gender: male
 role: []
@@ -35,17 +41,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "Nehemiah 12:35"
+first_appearance: "Nehemiah 12:36"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 2639
+metav_id: 2640
 ---
 
 ## Verse References
 
 ### [[books/Nehemiah|Nehemiah]]
-- **12:35** — And certain of the priests' sons with trumpets; namely, Zechariah the son of Jonathan, the son of Shemaiah, the son of Mattaniah, the son of Michaiah, the son of Zaccur, the son of Asaph:
+- **12:36** — And his brethren, Shemaiah, and Azarael, Milalai, Gilalai, Maai, Nethaneel, and Judah, Hanani, with the musical instruments of David the man of God, and Ezra the scribe before them.
 

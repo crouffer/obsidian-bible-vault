@@ -28,7 +28,7 @@ siblings:
   - "[[Maai]]"
   - "[[Milalai]]"
   - "[[Nethaneel (2197)]]"
-  - "[[Shemaiah (2640)]]"
+  - "[[Shemaiah (son of Jonathan)]]"
   - "[[Zechariah (son of Jonathan)]]"
 
 gender: male

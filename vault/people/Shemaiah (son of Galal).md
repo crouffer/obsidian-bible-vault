@@ -1,6 +1,6 @@
 ---
 type: person
-name: Shemaiah (2624)
+name: Shemaiah (son of Galal)
 also_known_as: ["Shammua"]
 
 name_hebrew: ""

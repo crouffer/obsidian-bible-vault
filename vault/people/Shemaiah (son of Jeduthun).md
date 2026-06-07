@@ -1,6 +1,6 @@
 ---
 type: person
-name: Shemaiah (2644)
+name: Shemaiah (son of Jeduthun)
 also_known_as: []
 
 name_hebrew: ""
@@ -20,8 +20,7 @@ strongs:
 father: null
 mother: null
 spouse: []
-children: 
-  - "[[Delaiah (1004)]]"
+children: []
 siblings: []
 
 gender: male
@@ -34,17 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "Jeremiah 36:12"
+first_appearance: "2 Chronicles 29:14"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 2644
+metav_id: 2629
 ---
 
 ## Verse References
 
-### [[books/Jeremiah|Jeremiah]]
-- **36:12** — Then he went down into the king's house, into the scribe's chamber: and, lo, all the princes sat there, even Elishama the scribe, and Delaiah the son of Shemaiah, and Elnathan the son of Achbor, and Gemariah the son of Shaphan, and Zedekiah the son of Hananiah, and all the princes.
+### [[books/2 Chronicles|2 Chronicles]]
+- **29:14** — And of the sons of Heman; Jehiel, and Shimei: and of the sons of Jeduthun; Shemaiah, and Uzziel.
 
