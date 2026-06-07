@@ -17,7 +17,7 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Shallum (2521)]]"
+father: "[[Shallum (father of Jehizkiah)]]"
 mother: null
 spouse: []
 children: []

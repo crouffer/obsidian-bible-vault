@@ -17,7 +17,7 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Shallum (2520)]]"
+father: "[[Shallum (chief porter)]]"
 mother: null
 spouse: []
 children: []

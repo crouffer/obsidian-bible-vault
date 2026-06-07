@@ -17,7 +17,7 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Zichri (3071)]]"
+father: "[[Zichri (father of Eliezer)]]"
 mother: null
 spouse: []
 children: []

@@ -1,6 +1,6 @@
 ---
 type: person
-name: Shallum (2520)
+name: Shallum (chief porter)
 also_known_as: []
 
 name_hebrew: ""

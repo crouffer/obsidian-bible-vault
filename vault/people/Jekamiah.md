@@ -17,7 +17,7 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Shallum (2517)]]"
+father: "[[Shallum (son of Sisamai)]]"
 mother: null
 spouse: []
 children: 

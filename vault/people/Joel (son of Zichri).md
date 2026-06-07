@@ -17,7 +17,7 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Zichri (3075)]]"
+father: "[[Zichri (father of Joel)]]"
 mother: null
 spouse: []
 children: []

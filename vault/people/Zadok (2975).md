@@ -21,7 +21,7 @@ father: "[[Ahitub (165)]]"
 mother: null
 spouse: []
 children: 
-  - "[[Shallum (2519)]]"
+  - "[[Shallum (son of Zadok)]]"
 siblings: []
 
 gender: male

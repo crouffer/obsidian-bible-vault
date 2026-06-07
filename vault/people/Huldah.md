@@ -20,7 +20,7 @@ strongs:
 father: null
 mother: null
 spouse: 
-  - "[[Shallum (2515)]]"
+  - "[[Shallum (husband of Huldah)]]"
 children: []
 siblings: []
 

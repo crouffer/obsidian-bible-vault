@@ -1,6 +1,6 @@
 ---
 type: person
-name: Zichri (3071)
+name: Zichri (father of Eliezer)
 also_known_as: []
 
 name_hebrew: ""

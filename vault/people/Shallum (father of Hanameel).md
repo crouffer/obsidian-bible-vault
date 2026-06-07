@@ -1,6 +1,6 @@
 ---
 type: person
-name: Shallum (2521)
+name: Shallum (father of Hanameel)
 also_known_as: []
 
 name_hebrew: ""
@@ -17,12 +17,13 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: null
+father: "[[Father of Hilkiah and Shallum]]"
 mother: null
 spouse: []
 children: 
-  - "[[Jehizkiah]]"
-siblings: []
+  - "[[Hanameel]]"
+siblings: 
+  - "[[Hilkiah (1529)]]"
 
 gender: male
 role: []
@@ -34,17 +35,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "2 Chronicles 28:12"
+first_appearance: "Jeremiah 32:7"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 2521
+metav_id: 2525
 ---
 
 ## Verse References
 
-### [[books/2 Chronicles|2 Chronicles]]
-- **28:12** — Then certain of the heads of the children of Ephraim, Azariah the son of Johanan, Berechiah the son of Meshillemoth, and Jehizkiah the son of Shallum, and Amasa the son of Hadlai, stood up against them that came from the war,
+### [[books/Jeremiah|Jeremiah]]
+- **32:7** — Behold, Hanameel the son of Shallum thine uncle shall come unto thee, saying, Buy thee my field that is in Anathoth: for the right of redemption is thine to buy it.
 

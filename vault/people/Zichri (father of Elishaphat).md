@@ -1,6 +1,6 @@
 ---
 type: person
-name: Zichri (3076)
+name: Zichri (father of Elishaphat)
 also_known_as: []
 
 name_hebrew: ""
@@ -20,7 +20,8 @@ strongs:
 father: null
 mother: null
 spouse: []
-children: []
+children: 
+  - "[[Elishaphat]]"
 siblings: []
 
 gender: male
@@ -33,17 +34,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "Nehemiah 12:17"
+first_appearance: "2 Chronicles 23:1"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 3076
+metav_id: 3073
 ---
 
 ## Verse References
 
-### [[books/Nehemiah|Nehemiah]]
-- **12:17** — Of Abijah, Zichri; of Miniamin, of Moadiah, Piltai;
+### [[books/2 Chronicles|2 Chronicles]]
+- **23:1** — And in the seventh year Jehoiada strengthened himself, and took the captains of hundreds, Azariah the son of Jeroham, and Ishmael the son of Jehohanan, and Azariah the son of Obed, and Maaseiah the son of Adaiah, and Elishaphat the son of Zichri, into covenant with him.
 

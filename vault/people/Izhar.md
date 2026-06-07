@@ -24,7 +24,7 @@ children:
   - "[[Korah (1795)]]"
   - "[[Nepheg (2178)]]"
   - "[[Shelomoth]]"
-  - "[[Zichri (3065)]]"
+  - "[[Zichri (son of Izhar)]]"
 siblings: 
   - "[[Amram (242)]]"
   - "[[Hebron (1475)]]"

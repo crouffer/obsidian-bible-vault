@@ -26,7 +26,7 @@ children:
   - "[[Jaresiah]]"
   - "[[Shamsherai]]"
   - "[[Shehariah]]"
-  - "[[Zichri (3068)]]"
+  - "[[Zichri (son of Jeroham)]]"
 siblings: []
 
 gender: male

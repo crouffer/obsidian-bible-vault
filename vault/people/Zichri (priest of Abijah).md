@@ -1,6 +1,6 @@
 ---
 type: person
-name: Shallum (2526)
+name: Zichri (priest of Abijah)
 also_known_as: []
 
 name_hebrew: ""
@@ -8,7 +8,7 @@ name_greek_lxx: ""
 name_latin: ""
 name_meaning: ""
 translation_variants:
-  kjv: Shallum
+  kjv: Zichri
   esv: ""
   niv: ""
   nkjv: ""
@@ -20,8 +20,7 @@ strongs:
 father: null
 mother: null
 spouse: []
-children: 
-  - "[[Maaseiah (son of Shallum)]]"
+children: []
 siblings: []
 
 gender: male
@@ -34,17 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "Jeremiah 35:4"
+first_appearance: "Nehemiah 12:17"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 2526
+metav_id: 3076
 ---
 
 ## Verse References
 
-### [[books/Jeremiah|Jeremiah]]
-- **35:4** — And I brought them into the house of the LORD, into the chamber of the sons of Hanan, the son of Igdaliah, a man of God, which was by the chamber of the princes, which was above the chamber of Maaseiah the son of Shallum, the keeper of the door:
+### [[books/Nehemiah|Nehemiah]]
+- **12:17** — Of Abijah, Zichri; of Miniamin, of Moadiah, Piltai;
 

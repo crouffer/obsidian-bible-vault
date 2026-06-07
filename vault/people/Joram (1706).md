@@ -21,7 +21,7 @@ father: "[[Jeshaiah (647)]]"
 mother: null
 spouse: []
 children: 
-  - "[[Zichri (3070)]]"
+  - "[[Zichri (son of Joram)]]"
 siblings: []
 
 gender: male

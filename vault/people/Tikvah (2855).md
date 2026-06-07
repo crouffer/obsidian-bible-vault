@@ -21,7 +21,7 @@ father: "[[Hasrah]]"
 mother: null
 spouse: []
 children: 
-  - "[[Shallum (2515)]]"
+  - "[[Shallum (husband of Huldah)]]"
 siblings: []
 
 gender: male

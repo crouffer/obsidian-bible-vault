@@ -21,7 +21,7 @@ father: "[[Eleasah (1060)]]"
 mother: null
 spouse: []
 children: 
-  - "[[Shallum (2517)]]"
+  - "[[Shallum (son of Sisamai)]]"
 siblings: []
 
 gender: male

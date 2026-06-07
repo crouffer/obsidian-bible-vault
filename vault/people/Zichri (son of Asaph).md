@@ -1,6 +1,6 @@
 ---
 type: person
-name: Zichri (3069)
+name: Zichri (son of Asaph)
 also_known_as: ["Zabdi"]
 
 name_hebrew: ""

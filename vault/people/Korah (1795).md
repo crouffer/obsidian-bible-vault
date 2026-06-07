@@ -27,7 +27,7 @@ children:
 siblings: 
   - "[[Nepheg (2178)]]"
   - "[[Shelomoth]]"
-  - "[[Zichri (3065)]]"
+  - "[[Zichri (son of Izhar)]]"
 
 gender: male
 role: []

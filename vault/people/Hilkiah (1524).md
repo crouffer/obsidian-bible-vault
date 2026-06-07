@@ -17,7 +17,7 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Shallum (2519)]]"
+father: "[[Shallum (son of Zadok)]]"
 mother: null
 spouse: []
 children: 

@@ -31,7 +31,7 @@ siblings:
   - "[[Heber (1474)]]"
   - "[[Iphedeiah]]"
   - "[[Ishpan]]"
-  - "[[Zichri (3067)]]"
+  - "[[Zichri (son of Shashak)]]"
 
 gender: male
 role: []

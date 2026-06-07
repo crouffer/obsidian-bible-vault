@@ -1,6 +1,6 @@
 ---
 type: person
-name: Shallum (2517)
+name: Shallum (of the sons of Bani)
 also_known_as: []
 
 name_hebrew: ""
@@ -17,11 +17,10 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Sisamai]]"
+father: null
 mother: null
 spouse: []
-children: 
-  - "[[Jekamiah]]"
+children: []
 siblings: []
 
 gender: male
@@ -34,18 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "1 Chronicles 2:40"
+first_appearance: "Ezra 10:42"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 2517
+metav_id: 2523
 ---
 
 ## Verse References
 
-### [[books/1 Chronicles|1 Chronicles]]
-- **2:40** — And Eleasah begat Sisamai, and Sisamai begat Shallum,
-- **2:41** — And Shallum begat Jekamiah, and Jekamiah begat Elishama.
+### [[books/Ezra|Ezra]]
+- **10:42** — Shallum, Amariah, and Joseph.
 

@@ -21,7 +21,7 @@ father: null
 mother: null
 spouse: []
 children: 
-  - "[[Shallum (2514)]]"
+  - "[[Shallum (king of Israel)]]"
 siblings: []
 
 gender: male
