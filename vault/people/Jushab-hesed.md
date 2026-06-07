@@ -27,7 +27,7 @@ siblings:
   - "[[Hananiah (1384)]]"
   - "[[Hasadiah]]"
   - "[[Hashubah]]"
-  - "[[Meshullam (2021)]]"
+  - "[[Meshullam (son of Zerubbabel)]]"
   - "[[Ohel]]"
   - "[[Shelomith (2606)]]"
 

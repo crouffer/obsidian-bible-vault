@@ -1,6 +1,6 @@
 ---
 type: person
-name: Meshullam (2027)
+name: Meshullam (son of Abihail)
 also_known_as: []
 
 name_hebrew: ""
@@ -17,11 +17,17 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: null
+father: "[[Abihail (30)]]"
 mother: null
 spouse: []
 children: []
-siblings: []
+siblings: 
+  - "[[Heber (1472)]]"
+  - "[[Jachan]]"
+  - "[[Jorai]]"
+  - "[[Michael (2059)]]"
+  - "[[Sheba (2571)]]"
+  - "[[Zia]]"
 
 gender: male
 role: []
@@ -33,17 +39,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "2 Chronicles 34:12"
+first_appearance: "1 Chronicles 5:13"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 2027
+metav_id: 2022
 ---
 
 ## Verse References
 
-### [[books/2 Chronicles|2 Chronicles]]
-- **34:12** — And the men did the work faithfully: and the overseers of them were Jahath and Obadiah, the Levites, of the sons of Merari; and Zechariah and Meshullam, of the sons of the Kohathites, to set it forward; and other of the Levites, all that could skill of instruments of musick.
+### [[books/1 Chronicles|1 Chronicles]]
+- **5:13** — And their brethren of the house of their fathers were, Michael, and Meshullam, and Sheba, and Jorai, and Jachan, and Zia, and Heber, seven.
 

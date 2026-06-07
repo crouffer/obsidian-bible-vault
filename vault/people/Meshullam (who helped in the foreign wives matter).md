@@ -1,6 +1,6 @@
 ---
 type: person
-name: Meshullam (2023)
+name: Meshullam (who helped in the foreign wives matter)
 also_known_as: []
 
 name_hebrew: ""
@@ -17,22 +17,11 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Elpaal]]"
+father: null
 mother: null
 spouse: []
 children: []
-siblings: 
-  - "[[Beriah (480)]]"
-  - "[[Eber (1031)]]"
-  - "[[Heber (1473)]]"
-  - "[[Hezeki]]"
-  - "[[Ishmerai]]"
-  - "[[Jezliah]]"
-  - "[[Jobab (1644)]]"
-  - "[[Misham]]"
-  - "[[Shamed]]"
-  - "[[Shema (2616)]]"
-  - "[[Zebadiah (2989)]]"
+siblings: []
 
 gender: male
 role: []
@@ -44,17 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "1 Chronicles 8:17"
+first_appearance: "Ezra 10:15"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 2023
+metav_id: 2029
 ---
 
 ## Verse References
 
-### [[books/1 Chronicles|1 Chronicles]]
-- **8:17** — And Zebadiah, and Meshullam, and Hezeki, and Heber,
+### [[books/Ezra|Ezra]]
+- **10:15** — Only Jonathan the son of Asahel and Jahaziah the son of Tikvah were employed about this matter: and Meshullam and Shabbethai the Levite helped them.
 

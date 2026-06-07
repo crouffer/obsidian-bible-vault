@@ -1,6 +1,6 @@
 ---
 type: person
-name: Meshullam (2036)
+name: Meshullam (gatekeeper)
 also_known_as: []
 
 name_hebrew: ""
@@ -17,11 +17,10 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Joed]]"
+father: null
 mother: null
 spouse: []
-children: 
-  - "[[Sallu (2460)]]"
+children: []
 siblings: []
 
 gender: male
@@ -34,17 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "Nehemiah 11:7"
+first_appearance: "Nehemiah 12:25"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 2036
+metav_id: 2039
 ---
 
 ## Verse References
 
 ### [[books/Nehemiah|Nehemiah]]
-- **11:7** — And these are the sons of Benjamin; Sallu the son of Meshullam, the son of Joed, the son of Pedaiah, the son of Kolaiah, the son of Maaseiah, the son of Ithiel, the son of Jesaiah.
+- **12:25** — Mattaniah, and Bakbukiah, Obadiah, Meshullam, Talmon, Akkub, were porters keeping the ward at the thresholds of the gates.
 

@@ -17,7 +17,7 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Meshullam (2026)]]"
+father: "[[Meshullam (son of Meshillemith)]]"
 mother: null
 spouse: []
 children: 

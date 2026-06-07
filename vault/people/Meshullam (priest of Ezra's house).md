@@ -1,6 +1,6 @@
 ---
 type: person
-name: Meshullam (2025)
+name: Meshullam (priest of Ezra's house)
 also_known_as: []
 
 name_hebrew: ""
@@ -17,7 +17,7 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Shephathiah]]"
+father: null
 mother: null
 spouse: []
 children: []
@@ -33,17 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "1 Chronicles 9:8"
+first_appearance: "Nehemiah 12:13"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 2025
+metav_id: 2037
 ---
 
 ## Verse References
 
-### [[books/1 Chronicles|1 Chronicles]]
-- **9:8** — And Ibneiah the son of Jeroham, and Elah the son of Uzzi, the son of Michri, and Meshullam the son of Shephathiah, the son of Reuel, the son of Ibnijah;
+### [[books/Nehemiah|Nehemiah]]
+- **12:13** — Of Ezra, Meshullam; of Amariah, Jehohanan;
 

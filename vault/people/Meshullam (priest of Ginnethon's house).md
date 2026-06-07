@@ -1,6 +1,6 @@
 ---
 type: person
-name: Meshullam (2038)
+name: Meshullam (priest of Ginnethon's house)
 also_known_as: []
 
 name_hebrew: ""

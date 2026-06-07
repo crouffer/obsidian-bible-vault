@@ -1,6 +1,6 @@
 ---
 type: person
-name: Meshullam (2021)
+name: Meshullam (son of Zerubbabel)
 also_known_as: []
 
 name_hebrew: ""

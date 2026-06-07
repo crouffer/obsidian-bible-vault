@@ -1,6 +1,6 @@
 ---
 type: person
-name: Meshullam (2033)
+name: Meshullam (son of Hodaviah)
 also_known_as: []
 
 name_hebrew: ""
@@ -17,10 +17,11 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: null
+father: "[[Hodaviah (1541)]]"
 mother: null
 spouse: []
-children: []
+children: 
+  - "[[Sallu (2459)]]"
 siblings: []
 
 gender: male
@@ -33,17 +34,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "Nehemiah 8:4"
+first_appearance: "1 Chronicles 9:7"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 2033
+metav_id: 2024
 ---
 
 ## Verse References
 
-### [[books/Nehemiah|Nehemiah]]
-- **8:4** — And Ezra the scribe stood upon a pulpit of wood, which they had made for the purpose; and beside him stood Mattithiah, and Shema, and Anaiah, and Urijah, and Hilkiah, and Maaseiah, on his right hand; and on his left hand, Pedaiah, and Mishael, and Malchiah, and Hashum, and Hashbadana, Zechariah, and Meshullam.
+### [[books/1 Chronicles|1 Chronicles]]
+- **9:7** — And of the sons of Benjamin; Sallu the son of Meshullam, the son of Hodaviah, the son of Hasenuah,
 

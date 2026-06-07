@@ -21,7 +21,7 @@ father: "[[Reuel (2432)]]"
 mother: null
 spouse: []
 children: 
-  - "[[Meshullam (2025)]]"
+  - "[[Meshullam (son of Shephathiah)]]"
 siblings: []
 
 gender: male

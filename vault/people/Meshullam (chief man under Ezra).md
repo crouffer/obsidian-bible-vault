@@ -1,6 +1,6 @@
 ---
 type: person
-name: Meshullam (2037)
+name: Meshullam (chief man under Ezra)
 also_known_as: []
 
 name_hebrew: ""
@@ -33,17 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "Nehemiah 12:13"
+first_appearance: "Ezra 8:16"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 2037
+metav_id: 2028
 ---
 
 ## Verse References
 
-### [[books/Nehemiah|Nehemiah]]
-- **12:13** — Of Ezra, Meshullam; of Amariah, Jehohanan;
+### [[books/Ezra|Ezra]]
+- **8:16** — Then sent I for Eliezer, for Ariel, for Shemaiah, and for Elnathan, and for Jarib, and for Elnathan, and for Nathan, and for Zechariah, and for Meshullam, chief men; also for Joiarib, and for Elnathan, men of understanding.
 

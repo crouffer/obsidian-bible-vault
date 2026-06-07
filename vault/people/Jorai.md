@@ -24,7 +24,7 @@ children: []
 siblings: 
   - "[[Heber (1472)]]"
   - "[[Jachan]]"
-  - "[[Meshullam (2022)]]"
+  - "[[Meshullam (son of Abihail)]]"
   - "[[Michael (2059)]]"
   - "[[Sheba (2571)]]"
   - "[[Zia]]"

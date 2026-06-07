@@ -1,6 +1,6 @@
 ---
 type: person
-name: Meshullam (2029)
+name: Meshullam (who sealed the covenant)
 also_known_as: []
 
 name_hebrew: ""
@@ -33,17 +33,18 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "Ezra 10:15"
+first_appearance: "Nehemiah 10:7"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 2029
+metav_id: 2034
 ---
 
 ## Verse References
 
-### [[books/Ezra|Ezra]]
-- **10:15** — Only Jonathan the son of Asahel and Jahaziah the son of Tikvah were employed about this matter: and Meshullam and Shabbethai the Levite helped them.
+### [[books/Nehemiah|Nehemiah]]
+- **10:7** — Meshullam, Abijah, Mijamin,
+- **12:33** — And Azariah, Ezra, and Meshullam,
 

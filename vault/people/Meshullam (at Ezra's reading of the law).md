@@ -1,6 +1,6 @@
 ---
 type: person
-name: Meshullam (2039)
+name: Meshullam (at Ezra's reading of the law)
 also_known_as: []
 
 name_hebrew: ""
@@ -33,17 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "Nehemiah 12:25"
+first_appearance: "Nehemiah 8:4"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 2039
+metav_id: 2033
 ---
 
 ## Verse References
 
 ### [[books/Nehemiah|Nehemiah]]
-- **12:25** — Mattaniah, and Bakbukiah, Obadiah, Meshullam, Talmon, Akkub, were porters keeping the ward at the thresholds of the gates.
+- **8:4** — And Ezra the scribe stood upon a pulpit of wood, which they had made for the purpose; and beside him stood Mattithiah, and Shema, and Anaiah, and Urijah, and Hilkiah, and Maaseiah, on his right hand; and on his left hand, Pedaiah, and Mishael, and Malchiah, and Hashum, and Hashbadana, Zechariah, and Meshullam.
 
