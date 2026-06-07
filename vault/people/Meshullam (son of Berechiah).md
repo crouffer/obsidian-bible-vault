@@ -1,6 +1,6 @@
 ---
 type: person
-name: Meshullam (2031)
+name: Meshullam (son of Berechiah)
 also_known_as: []
 
 name_hebrew: ""

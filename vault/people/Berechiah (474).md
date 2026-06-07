@@ -21,7 +21,7 @@ father: "[[Meshezabeel (2014)]]"
 mother: null
 spouse: []
 children: 
-  - "[[Meshullam (2031)]]"
+  - "[[Meshullam (son of Berechiah)]]"
 siblings: []
 
 gender: male

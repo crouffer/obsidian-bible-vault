@@ -1,6 +1,6 @@
 ---
 type: person
-name: Meshullam (2032)
+name: Meshullam (son of Bani)
 also_known_as: []
 
 name_hebrew: ""
@@ -17,7 +17,7 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Besodeiah]]"
+father: null
 mother: null
 spouse: []
 children: []
@@ -33,17 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "Nehemiah 3:6"
+first_appearance: "Ezra 10:29"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 2032
+metav_id: 2030
 ---
 
 ## Verse References
 
-### [[books/Nehemiah|Nehemiah]]
-- **3:6** — Moreover the old gate repaired Jehoiada the son of Paseah, and Meshullam the son of Besodeiah; they laid the beams thereof, and set up the doors thereof, and the locks thereof, and the bars thereof.
+### [[books/Ezra|Ezra]]
+- **10:29** — And of the sons of Bani; Meshullam, Malluch, and Adaiah, Jashub, and Sheal, and Ramoth.
 

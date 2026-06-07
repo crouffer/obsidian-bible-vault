@@ -21,7 +21,7 @@ father: "[[Hasenuah]]"
 mother: null
 spouse: []
 children: 
-  - "[[Meshullam (2024)]]"
+  - "[[Meshullam (son of Hodaviah)]]"
 siblings: []
 
 gender: male

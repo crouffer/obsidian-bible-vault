@@ -29,7 +29,7 @@ siblings:
   - "[[Ishmerai]]"
   - "[[Jezliah]]"
   - "[[Jobab (1644)]]"
-  - "[[Meshullam (2023)]]"
+  - "[[Meshullam (son of Elpaal)]]"
   - "[[Misham]]"
   - "[[Shema (2616)]]"
   - "[[Zebadiah (2989)]]"

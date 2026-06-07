@@ -1,6 +1,6 @@
 ---
 type: person
-name: Meshullam (2026)
+name: Meshullam (son of Meshillemith)
 also_known_as: ["Ahasai"]
 
 name_hebrew: ""

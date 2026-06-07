@@ -21,7 +21,7 @@ father: null
 mother: null
 spouse: []
 children: 
-  - "[[Meshullam (2032)]]"
+  - "[[Meshullam (son of Besodeiah)]]"
 siblings: []
 
 gender: male

@@ -1,6 +1,6 @@
 ---
 type: person
-name: Meshullam (2028)
+name: Meshullam (son of Besodeiah)
 also_known_as: []
 
 name_hebrew: ""
@@ -17,7 +17,7 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: null
+father: "[[Besodeiah]]"
 mother: null
 spouse: []
 children: []
@@ -33,17 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "Ezra 8:16"
+first_appearance: "Nehemiah 3:6"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 2028
+metav_id: 2032
 ---
 
 ## Verse References
 
-### [[books/Ezra|Ezra]]
-- **8:16** — Then sent I for Eliezer, for Ariel, for Shemaiah, and for Elnathan, and for Jarib, and for Elnathan, and for Nathan, and for Zechariah, and for Meshullam, chief men; also for Joiarib, and for Elnathan, men of understanding.
+### [[books/Nehemiah|Nehemiah]]
+- **3:6** — Moreover the old gate repaired Jehoiada the son of Paseah, and Meshullam the son of Besodeiah; they laid the beams thereof, and set up the doors thereof, and the locks thereof, and the bars thereof.
 

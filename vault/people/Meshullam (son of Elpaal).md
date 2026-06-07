@@ -1,6 +1,6 @@
 ---
 type: person
-name: Meshullam (2020)
+name: Meshullam (son of Elpaal)
 also_known_as: []
 
 name_hebrew: ""
@@ -17,12 +17,22 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: null
+father: "[[Elpaal]]"
 mother: null
 spouse: []
-children: 
-  - "[[Azaliah]]"
-siblings: []
+children: []
+siblings: 
+  - "[[Beriah (480)]]"
+  - "[[Eber (1031)]]"
+  - "[[Heber (1473)]]"
+  - "[[Hezeki]]"
+  - "[[Ishmerai]]"
+  - "[[Jezliah]]"
+  - "[[Jobab (1644)]]"
+  - "[[Misham]]"
+  - "[[Shamed]]"
+  - "[[Shema (2616)]]"
+  - "[[Zebadiah (2989)]]"
 
 gender: male
 role: []
@@ -34,17 +44,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "2 Kings 22:3"
+first_appearance: "1 Chronicles 8:17"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 2020
+metav_id: 2023
 ---
 
 ## Verse References
 
-### [[books/2 Kings|2 Kings]]
-- **22:3** — And it came to pass in the eighteenth year of king Josiah, that the king sent Shaphan the son of Azaliah, the son of Meshullam, the scribe, to the house of the LORD, saying,
+### [[books/1 Chronicles|1 Chronicles]]
+- **8:17** — And Zebadiah, and Meshullam, and Hezeki, and Heber,
 

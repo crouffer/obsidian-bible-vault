@@ -1,6 +1,6 @@
 ---
 type: person
-name: Meshullam (2024)
+name: Meshullam (grandfather of Shaphan the scribe)
 also_known_as: []
 
 name_hebrew: ""
@@ -17,11 +17,11 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Hodaviah (1541)]]"
+father: null
 mother: null
 spouse: []
 children: 
-  - "[[Sallu (2459)]]"
+  - "[[Azaliah]]"
 siblings: []
 
 gender: male
@@ -34,17 +34,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "1 Chronicles 9:7"
+first_appearance: "2 Kings 22:3"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 2024
+metav_id: 2020
 ---
 
 ## Verse References
 
-### [[books/1 Chronicles|1 Chronicles]]
-- **9:7** — And of the sons of Benjamin; Sallu the son of Meshullam, the son of Hodaviah, the son of Hasenuah,
+### [[books/2 Kings|2 Kings]]
+- **22:3** — And it came to pass in the eighteenth year of king Josiah, that the king sent Shaphan the son of Azaliah, the son of Meshullam, the scribe, to the house of the LORD, saying,
 

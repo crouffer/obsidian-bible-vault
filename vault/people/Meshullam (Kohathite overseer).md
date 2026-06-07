@@ -1,6 +1,6 @@
 ---
 type: person
-name: Meshullam (2034)
+name: Meshullam (Kohathite overseer)
 also_known_as: []
 
 name_hebrew: ""
@@ -33,18 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "Nehemiah 10:7"
+first_appearance: "2 Chronicles 34:12"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 2034
+metav_id: 2027
 ---
 
 ## Verse References
 
-### [[books/Nehemiah|Nehemiah]]
-- **10:7** — Meshullam, Abijah, Mijamin,
-- **12:33** — And Azariah, Ezra, and Meshullam,
+### [[books/2 Chronicles|2 Chronicles]]
+- **34:12** — And the men did the work faithfully: and the overseers of them were Jahath and Obadiah, the Levites, of the sons of Merari; and Zechariah and Meshullam, of the sons of the Kohathites, to set it forward; and other of the Levites, all that could skill of instruments of musick.
 

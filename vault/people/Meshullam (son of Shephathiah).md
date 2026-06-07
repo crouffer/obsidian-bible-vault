@@ -1,6 +1,6 @@
 ---
 type: person
-name: Meshullam (2030)
+name: Meshullam (son of Shephathiah)
 also_known_as: []
 
 name_hebrew: ""
@@ -17,7 +17,7 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: null
+father: "[[Shephathiah]]"
 mother: null
 spouse: []
 children: []
@@ -33,17 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "Ezra 10:29"
+first_appearance: "1 Chronicles 9:8"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 2030
+metav_id: 2025
 ---
 
 ## Verse References
 
-### [[books/Ezra|Ezra]]
-- **10:29** — And of the sons of Bani; Meshullam, Malluch, and Adaiah, Jashub, and Sheal, and Ramoth.
+### [[books/1 Chronicles|1 Chronicles]]
+- **9:8** — And Ibneiah the son of Jeroham, and Elah the son of Uzzi, the son of Michri, and Meshullam the son of Shephathiah, the son of Reuel, the son of Ibnijah;
 

@@ -1,6 +1,6 @@
 ---
 type: person
-name: Meshullam (2035)
+name: Meshullam (chief who sealed the covenant)
 also_known_as: []
 
 name_hebrew: ""

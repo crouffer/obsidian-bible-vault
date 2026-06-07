@@ -21,7 +21,7 @@ father: "[[Pedaiah (2297)]]"
 mother: null
 spouse: []
 children: 
-  - "[[Meshullam (2036)]]"
+  - "[[Meshullam (son of Joed)]]"
 siblings: []
 
 gender: male

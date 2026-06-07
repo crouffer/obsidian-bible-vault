@@ -21,7 +21,7 @@ father: "[[Immer (598)]]"
 mother: null
 spouse: []
 children: 
-  - "[[Meshullam (2026)]]"
+  - "[[Meshullam (son of Meshillemith)]]"
 siblings: []
 
 gender: male

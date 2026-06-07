@@ -28,7 +28,7 @@ siblings:
   - "[[Hezeki]]"
   - "[[Ishmerai]]"
   - "[[Jezliah]]"
-  - "[[Meshullam (2023)]]"
+  - "[[Meshullam (son of Elpaal)]]"
   - "[[Misham]]"
   - "[[Shamed]]"
   - "[[Shema (2616)]]"

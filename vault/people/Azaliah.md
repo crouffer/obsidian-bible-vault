@@ -17,7 +17,7 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Meshullam (2020)]]"
+father: "[[Meshullam (grandfather of Shaphan the scribe)]]"
 mother: null
 spouse: []
 children: 
