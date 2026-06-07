@@ -14,7 +14,7 @@ translation_variants:
   nkjv: ""
 
 strongs:
-  hebrew: ""
+  hebrew: "H6667"
   greek: ""
 
 father: "[[Josiah (1730)]]"

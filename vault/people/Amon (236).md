@@ -14,7 +14,7 @@ translation_variants:
   nkjv: ""
 
 strongs:
-  hebrew: ""
+  hebrew: "H526"
   greek: ""
 
 father: "[[Manasseh (1930)]]"

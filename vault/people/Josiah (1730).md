@@ -14,7 +14,7 @@ translation_variants:
   nkjv: ""
 
 strongs:
-  hebrew: ""
+  hebrew: "H2977"
   greek: ""
 
 father: "[[Amon (236)]]"
