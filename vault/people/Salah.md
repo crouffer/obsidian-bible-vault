@@ -6,7 +6,7 @@ also_known_as: ["Sala", "Shelah"]
 name_hebrew: ""
 name_greek_lxx: ""
 name_latin: ""
-name_meaning: ""
+name_meaning: "Sprout, shoot"
 translation_variants:
   kjv: Salah
   esv: ""

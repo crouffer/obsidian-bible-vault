@@ -6,7 +6,7 @@ also_known_as: ["Sem"]
 name_hebrew: ""
 name_greek_lxx: ""
 name_latin: ""
-name_meaning: ""
+name_meaning: "Name, renown"
 translation_variants:
   kjv: Shem
   esv: ""
