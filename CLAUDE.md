@@ -2,33 +2,66 @@
 
 ## What this is
 
-A toolchain that transforms the MetaV biblical metadata database into an Obsidian vault of
-structured Markdown notes — one file per person, place, and book in the Bible. The vault is
-designed for personal Bible study, cross-reference research, and agent-assisted enrichment.
+**The product is the vault — a shareable Obsidian knowledge base, not a tool.** This repo
+publishes an Obsidian vault of structured Markdown notes (one file per person, place, and book
+in the Bible) for personal Bible study, cross-reference research, and agent-assisted enrichment.
+It is meant to be cloned and used by anyone, not just the author.
+
+A Python transformer (`scripts/metav_transformer.py`) generates that vault from the MetaV
+biblical metadata database. The script is the means; the data is the point. When making changes,
+optimize for the experience of someone who clones the repo and opens `vault/` in Obsidian —
+keep the published vault usable, honest about its data quality, and easy to contribute back to.
+
+## Current state
+
+- **Vault is generated and committed** under `vault/` — 4,427 notes (3,085 people, 1,276 places,
+  66 books) plus `_validation-report.md`. Cloning the repo is all anyone needs to use it.
+- **Dataview is bundled** in `vault/.obsidian/` and pre-configured, so queries work on first open.
+  `vault/.obsidian/workspace.json` (personal layout) is gitignored.
+- **Git initialized** (branch `master`); README rewritten to be vault-first.
+- **Not yet enriched** — the empty fields below (`name_hebrew`, `strongs`, translation variants,
+  `place_type`, etc.) are still placeholders. Disambiguated names still carry numeric suffixes.
+- **No remote yet** — not pushed to a public host.
 
 ## Quick start
+
+The vault is already built and committed, so end users just open `vault/` in Obsidian (Dataview
+is bundled). You only need the transformer to regenerate from source:
 
 ```bash
 python3 scripts/metav_transformer.py --download   # first run: downloads CSVs + generates vault
 python3 scripts/metav_transformer.py              # subsequent runs: regenerate from cached CSVs
 ```
 
-Then open the `vault/` directory in Obsidian. Install the **Dataview** plugin.
+> **macOS SSL caveat:** `--download` uses Python's `urllib`, which often fails with
+> `CERTIFICATE_VERIFY_FAILED` because it doesn't use the system cert store. Workaround — fetch
+> the CSVs with `curl` into `metav_csv/`, then run the script *without* `--download`:
+> ```bash
+> mkdir -p metav_csv && BASE="https://raw.githubusercontent.com/theonize/KJV-bible-database-with-metadata-MetaV-/master/CSV"
+> for f in Books BookAliases Writers People PeopleAliases PeopleRelationships PeopleGroups Places PlaceAliases Verses MainIndex; do curl -fsSL "$BASE/$f.csv" -o "metav_csv/$f.csv"; done
+> python3 scripts/metav_transformer.py
+> ```
+
+> **Regeneration overwrites `vault/`.** Hand enrichment done directly on the committed notes will
+> be lost on a rebuild. Prefer enriching via the transformer, or commit before regenerating.
 
 ## Project structure
 
 ```
-bible-vault-builder/
+obsidian-bible-vault/
   CLAUDE.md                   ← you are here
-  README.md
-  ATTRIBUTION.md
+  README.md                   ← vault-first; the public front door
+  ATTRIBUTION.md              ← required source credits (keep when redistributing)
+  LICENSE-content.md          ← CC BY-SA 3.0 (vault)
+  LICENSE-code.md             ← MIT (scripts)
   scripts/
     metav_transformer.py      ← main transformer
-  vault/                      ← generated output (gitignored until you decide to publish)
-    people/                   ← one .md per biblical person
-    places/                   ← one .md per biblical place
-    books/                    ← one .md per Bible book
-    _validation-report.md     ← review queue after each run
+  vault/                      ← THE PRODUCT — committed and published
+    .obsidian/                ← bundled config + Dataview plugin (workspace.json gitignored)
+    people/                   ← one .md per biblical person (3,085)
+    places/                   ← one .md per biblical place (1,276)
+    books/                    ← one .md per Bible book (66)
+    _validation-report.md     ← review queue regenerated each run
   metav_csv/                  ← cached source CSVs (gitignored)
   metav.db                    ← SQLite working database (gitignored)
 ```
