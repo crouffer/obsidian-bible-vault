@@ -1,6 +1,6 @@
 ---
 type: person
-name: Joel (1649)
+name: Joel (son of Azariah)
 also_known_as: []
 
 name_hebrew: ""
@@ -17,11 +17,10 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: null
+father: "[[Azariah (father of Joel)]]"
 mother: null
 spouse: []
-children: 
-  - "[[Shemaiah (son of Joel the Reubenite)]]"
+children: []
 siblings: []
 
 gender: male
@@ -34,17 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "1 Chronicles 5:4"
+first_appearance: "2 Chronicles 29:12"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 1649
+metav_id: 1657
 ---
 
 ## Verse References
 
-### [[books/1 Chronicles|1 Chronicles]]
-- **5:4** — The sons of Joel; Shemaiah his son, Gog his son, Shimei his son,
+### [[books/2 Chronicles|2 Chronicles]]
+- **29:12** — Then the Levites arose, Mahath the son of Amasai, and Joel the son of Azariah, of the sons of the Kohathites: and of the sons of Merari, Kish the son of Abdi, and Azariah the son of Jehalelel: and of the Gershonites; Joah the son of Zimmah, and Eden the son of Joah:
 

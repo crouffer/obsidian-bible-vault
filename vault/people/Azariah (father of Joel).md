@@ -21,7 +21,7 @@ father: null
 mother: null
 spouse: []
 children: 
-  - "[[Joel (1657)]]"
+  - "[[Joel (son of Azariah)]]"
 siblings: []
 
 gender: male

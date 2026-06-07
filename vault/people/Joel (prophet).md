@@ -1,6 +1,6 @@
 ---
 type: person
-name: Joel (1660)
+name: Joel (prophet)
 also_known_as: []
 
 name_hebrew: ""

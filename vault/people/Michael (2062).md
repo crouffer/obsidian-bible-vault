@@ -23,7 +23,7 @@ spouse: []
 children: []
 siblings: 
   - "[[Ishiah]]"
-  - "[[Joel (1652)]]"
+  - "[[Joel (son of Izrahiah)]]"
   - "[[Obadiah (2217)]]"
 
 gender: male

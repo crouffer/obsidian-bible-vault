@@ -1,6 +1,6 @@
 ---
 type: person
-name: Joel (1647)
+name: Joel (son of Samuel)
 also_known_as: ["Vashni"]
 
 name_hebrew: ""

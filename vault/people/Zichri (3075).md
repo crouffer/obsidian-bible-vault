@@ -21,7 +21,7 @@ father: null
 mother: null
 spouse: []
 children: 
-  - "[[Joel (1659)]]"
+  - "[[Joel (son of Zichri)]]"
 siblings: []
 
 gender: male
