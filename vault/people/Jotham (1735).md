@@ -14,7 +14,7 @@ translation_variants:
   nkjv: ""
 
 strongs:
-  hebrew: ""
+  hebrew: "H3147"
   greek: ""
 
 father: "[[Uzziah (375)]]"

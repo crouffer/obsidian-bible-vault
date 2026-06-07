@@ -14,7 +14,7 @@ translation_variants:
   nkjv: ""
 
 strongs:
-  hebrew: ""
+  hebrew: "H2396"
   greek: ""
 
 father: "[[Ahaz (118)]]"

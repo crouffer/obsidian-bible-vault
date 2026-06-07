@@ -14,7 +14,7 @@ translation_variants:
   nkjv: ""
 
 strongs:
-  hebrew: ""
+  hebrew: "H3092"
   greek: ""
 
 father: "[[Asa (318)]]"

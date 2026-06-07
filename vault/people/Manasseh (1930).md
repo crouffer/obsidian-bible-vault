@@ -14,7 +14,7 @@ translation_variants:
   nkjv: ""
 
 strongs:
-  hebrew: ""
+  hebrew: "H4519"
   greek: ""
 
 father: "[[Hephzi-bah]]"

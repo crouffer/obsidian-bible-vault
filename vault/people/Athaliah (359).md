@@ -14,7 +14,7 @@ translation_variants:
   nkjv: ""
 
 strongs:
-  hebrew: ""
+  hebrew: "H6271"
   greek: ""
 
 father: "[[Jezebel]]"

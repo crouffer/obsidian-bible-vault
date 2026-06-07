@@ -14,7 +14,7 @@ translation_variants:
   nkjv: ""
 
 strongs:
-  hebrew: ""
+  hebrew: "H271"
   greek: ""
 
 father: "[[Jotham (1735)]]"

@@ -14,7 +14,7 @@ translation_variants:
   nkjv: ""
 
 strongs:
-  hebrew: ""
+  hebrew: "H3078"
   greek: ""
 
 father: "[[Jehoiakim]]"
