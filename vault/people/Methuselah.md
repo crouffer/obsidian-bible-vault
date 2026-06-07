@@ -14,7 +14,7 @@ translation_variants:
   nkjv: ""
 
 strongs:
-  hebrew: ""
+  hebrew: "H4968"
   greek: ""
 
 father: "[[Enoch (1192)]]"

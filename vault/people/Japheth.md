@@ -14,7 +14,7 @@ translation_variants:
   nkjv: ""
 
 strongs:
-  hebrew: ""
+  hebrew: "H3315"
   greek: ""
 
 father: "[[Noah (2210)]]"

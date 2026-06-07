@@ -14,7 +14,7 @@ translation_variants:
   nkjv: ""
 
 strongs:
-  hebrew: ""
+  hebrew: "H7018"
   greek: ""
 
 father: "[[Enos]]"

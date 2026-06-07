@@ -14,7 +14,7 @@ translation_variants:
   nkjv: ""
 
 strongs:
-  hebrew: ""
+  hebrew: "H8352"
   greek: ""
 
 father: "[[Adam]]"

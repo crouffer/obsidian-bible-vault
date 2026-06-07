@@ -14,7 +14,7 @@ translation_variants:
   nkjv: ""
 
 strongs:
-  hebrew: ""
+  hebrew: "H8286"
   greek: ""
 
 father: "[[Reu]]"
