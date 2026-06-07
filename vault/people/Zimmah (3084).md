@@ -17,7 +17,7 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Shimei (691)]]"
+father: "[[Shimei (son of Laadan)]]"
 mother: null
 spouse: []
 children: 

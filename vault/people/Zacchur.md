@@ -21,7 +21,7 @@ father: "[[Hamuel]]"
 mother: null
 spouse: []
 children: 
-  - "[[Shimei (2687)]]"
+  - "[[Shimei (son of Zacchur)]]"
 siblings: []
 
 gender: male

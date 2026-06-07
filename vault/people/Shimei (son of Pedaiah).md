@@ -1,6 +1,6 @@
 ---
 type: person
-name: Shimei (2690)
+name: Shimei (son of Pedaiah)
 also_known_as: []
 
 name_hebrew: ""
@@ -17,11 +17,12 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: null
+father: "[[Pedaiah (2293)]]"
 mother: null
 spouse: []
 children: []
-siblings: []
+siblings: 
+  - "[[Zerubbabel]]"
 
 gender: male
 role: []
@@ -33,17 +34,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "1 Chronicles 27:27"
+first_appearance: "1 Chronicles 3:19"
 places_associated: []
-groups_associated: []
+groups_associated: ["Tribe of Judah"]
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 2690
+metav_id: 2686
 ---
 
 ## Verse References
 
 ### [[books/1 Chronicles|1 Chronicles]]
-- **27:27** — And over the vineyards was Shimei the Ramathite: over the increase of the vineyards for the wine cellars was Zabdi the Shiphmite:
+- **3:19** — And the sons of Pedaiah were, Zerubbabel, and Shimei: and the sons of Zerubbabel; Meshullam, and Hananiah, and Shelomith their sister:
 

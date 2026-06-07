@@ -1,6 +1,6 @@
 ---
 type: person
-name: Shimei (2699)
+name: Shimei (son of Gershon)
 also_known_as: ["Shimi"]
 
 name_hebrew: ""

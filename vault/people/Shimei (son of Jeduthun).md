@@ -1,6 +1,6 @@
 ---
 type: person
-name: Shimei (2233)
+name: Shimei (son of Jeduthun)
 also_known_as: []
 
 name_hebrew: ""

@@ -1,6 +1,6 @@
 ---
 type: person
-name: Shimei (2688)
+name: Shimei (descendant of Hashum)
 also_known_as: []
 
 name_hebrew: ""
@@ -17,11 +17,10 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Gog (1325)]]"
+father: null
 mother: null
 spouse: []
-children: 
-  - "[[Micah (2050)]]"
+children: []
 siblings: []
 
 gender: male
@@ -34,17 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "1 Chronicles 5:4"
+first_appearance: "Ezra 10:33"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 2688
+metav_id: 2694
 ---
 
 ## Verse References
 
-### [[books/1 Chronicles|1 Chronicles]]
-- **5:4** — The sons of Joel; Shemaiah his son, Gog his son, Shimei his son,
+### [[books/Ezra|Ezra]]
+- **10:33** — Of the sons of Hashum; Mattenai, Mattathah, Zabad, Eliphelet, Jeremai, Manasseh, and Shimei.
 

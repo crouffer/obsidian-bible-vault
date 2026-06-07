@@ -1,6 +1,6 @@
 ---
 type: person
-name: Shimei (2692)
+name: Shimei (brother of Cononiah)
 also_known_as: []
 
 name_hebrew: ""

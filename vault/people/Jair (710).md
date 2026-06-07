@@ -17,7 +17,7 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Shimei (2696)]]"
+father: "[[Shimei (son of Kish)]]"
 mother: null
 spouse: []
 children: 

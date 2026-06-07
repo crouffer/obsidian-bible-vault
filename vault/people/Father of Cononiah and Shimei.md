@@ -22,7 +22,7 @@ mother: null
 spouse: []
 children: 
   - "[[Cononiah]]"
-  - "[[Shimei (2692)]]"
+  - "[[Shimei (brother of Cononiah)]]"
 siblings: []
 
 gender: male

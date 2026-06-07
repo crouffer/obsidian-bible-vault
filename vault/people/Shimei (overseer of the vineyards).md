@@ -1,6 +1,6 @@
 ---
 type: person
-name: Shimei (2691)
+name: Shimei (overseer of the vineyards)
 also_known_as: []
 
 name_hebrew: ""
@@ -33,17 +33,17 @@ death_year: null
 birth_place: null
 death_place: null
 
-first_appearance: "2 Chronicles 29:14"
+first_appearance: "1 Chronicles 27:27"
 places_associated: []
 groups_associated: []
 
 confidence: medium
 disambiguation_note: ""
-metav_id: 2691
+metav_id: 2690
 ---
 
 ## Verse References
 
-### [[books/2 Chronicles|2 Chronicles]]
-- **29:14** — And of the sons of Heman; Jehiel, and Shimei: and of the sons of Jeduthun; Shemaiah, and Uzziel.
+### [[books/1 Chronicles|1 Chronicles]]
+- **27:27** — And over the vineyards was Shimei the Ramathite: over the increase of the vineyards for the wine cellars was Zabdi the Shiphmite:
 

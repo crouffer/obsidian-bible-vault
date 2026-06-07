@@ -31,7 +31,7 @@ children:
   - "[[Ohel]]"
   - "[[Shelomith (2606)]]"
 siblings: 
-  - "[[Shimei (2686)]]"
+  - "[[Shimei (son of Pedaiah)]]"
 
 gender: male
 role: []

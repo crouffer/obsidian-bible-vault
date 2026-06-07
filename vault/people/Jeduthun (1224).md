@@ -26,7 +26,7 @@ children:
   - "[[Izri]]"
   - "[[Jeshaiah (885)]]"
   - "[[Mattithiah (1974)]]"
-  - "[[Shimei (2233)]]"
+  - "[[Shimei (son of Jeduthun)]]"
 siblings: []
 
 gender: male

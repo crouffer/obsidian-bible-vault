@@ -22,7 +22,7 @@ mother: null
 spouse: 
   - "[[Wife of Salathiel and Pedaiah]]"
 children: 
-  - "[[Shimei (2686)]]"
+  - "[[Shimei (son of Pedaiah)]]"
   - "[[Zerubbabel]]"
 siblings: 
   - "[[Hoshama]]"

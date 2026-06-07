@@ -21,7 +21,7 @@ father: "[[Mahli (1889)]]"
 mother: null
 spouse: []
 children: 
-  - "[[Shimei (2689)]]"
+  - "[[Shimei (son of Libni)]]"
 siblings: 
   - "[[Eleazar (1065)]]"
   - "[[Kish (1785)]]"

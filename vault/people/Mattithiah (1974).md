@@ -26,7 +26,7 @@ siblings:
   - "[[Hashabiah (1430)]]"
   - "[[Izri]]"
   - "[[Jeshaiah (885)]]"
-  - "[[Shimei (2233)]]"
+  - "[[Shimei (son of Jeduthun)]]"
 
 gender: male
 role: []

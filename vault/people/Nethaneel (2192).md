@@ -17,7 +17,7 @@ strongs:
   hebrew: ""
   greek: ""
 
-father: "[[Shimei (2233)]]"
+father: "[[Shimei (son of Jeduthun)]]"
 mother: null
 spouse: []
 children: []
