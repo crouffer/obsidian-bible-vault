@@ -1,5 +1,7 @@
 # Bible Vault
 
+[![Validate vault](https://github.com/crouffer/obsidian-bible-vault/actions/workflows/validate.yml/badge.svg)](https://github.com/crouffer/obsidian-bible-vault/actions/workflows/validate.yml)
+
 An [Obsidian](https://obsidian.md) vault for Bible study — **4,427 interlinked notes**, one
 for every person, place, and book in the King James Bible. Genealogies, verse references,
 aliases, coordinates, and timelines, all as plain Markdown you can read, search, link, and

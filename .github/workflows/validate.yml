@@ -1,0 +1,33 @@
+name: Validate vault
+
+on:
+  pull_request:
+    paths:
+      - "vault/**"
+      - "scripts/**"
+      - ".github/workflows/validate.yml"
+  push:
+    branches: [master]
+    paths:
+      - "vault/**"
+      - "scripts/**"
+      - ".github/workflows/validate.yml"
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: pip install pyyaml
+
+      - name: Validate the vault
+        # Fails the run on any error (exit 1). Warnings — disambiguation
+        # placeholders and empty enrichment fields — are expected and don't fail.
+        run: python3 scripts/validate.py vault
